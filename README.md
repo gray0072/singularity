@@ -17,6 +17,8 @@ The author: [proza.ru/avtor/garya](https://proza.ru/avtor/garya) · [stihi.ru/av
 
 > Read the articles in order: every article builds on conclusions reached in the previous ones.
 
+**Table of contents by language:** [English](en/README.md) · [Русский](ru/README.md)
+
 ## Contents
 
 | # | Article | English | Русский (original) |
@@ -63,7 +65,7 @@ New articles written for this repository, continuing the series in the author's 
 | 29 | The Silence of the Universe *(continuation)* | [en](en/29-silence-of-the-universe.md) | [ru](ru/29-silence-of-the-universe.md) |
 | 30 | The Last Campfire *(continuation)* | [en](en/30-the-last-campfire.md) | [ru](ru/30-the-last-campfire.md) |
 
-**Status:** 01–15 — Russian originals, published with the author's permission; English translations are pending. 16–17 — continuation, written (English originals; the Russian translation of 16 is reviewed, of 17 translated). 18–30 — continuation, in progress.
+**Status:** 01–15 — Russian originals, published with the author's permission; English translations are pending. 16–18 — continuation, written (English originals; the Russian translation of 16 is reviewed, of 17–18 translated). 19–30 — continuation, in progress.
 
 ## Repository
 

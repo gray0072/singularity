@@ -55,6 +55,7 @@ ru/
   ...
 sources/
   README.md                what the source material is and how to use it
+  continuation-notes.md    record of the written continuation articles: conclusions, facts, images, deferrals
   garya/
     README.md              об авторе: ссылки, разрешение, состав материалов (ru)
     sqlru/                 source: the sql.ru blog — each post as published, article text + comments (ru)
@@ -205,6 +206,9 @@ Material for writing and translating, not published content of the series.
 - [`sources/garya/en/author-profile.md`](sources/garya/en/author-profile.md) is the synthesis: worldview, chain of
   conclusions, logic, voice, debating manner, life experience. [AGENTS.md](AGENTS.md) relies on it.
 - Notes are written in our own words with short quotes. Readers' comments are paraphrased, without names.
+- [`sources/continuation-notes.md`](sources/continuation-notes.md) records every written continuation article: what
+  it established, the facts and images it used, and the topics it deferred to later articles. It is updated in the
+  same commit as the article (see AGENTS.md §4).
 
 ## 7. Images
 
@@ -236,6 +240,8 @@ Material for writing and translating, not published content of the series.
 1. **New article.** Read [`sources/garya/en/author-profile.md`](sources/garya/en/author-profile.md) and the notes of
    the articles it builds on. Write the original (default `en/`), take the next number and a slug, follow the
    style in [AGENTS.md](AGENTS.md). Create `pending` stubs for the other languages. Update all tables of contents.
+   For a continuation article, follow the step-by-step list in AGENTS.md §4 and update
+   [`sources/continuation-notes.md`](sources/continuation-notes.md).
 2. **Translation.** Replace the stub with the translation, set `status: translated`, keep the slug, the
    structure, links and images. Use the glossary in [AGENTS.md](AGENTS.md).
 3. **Review.** A native speaker proofreads and sets `status: reviewed`.
@@ -247,5 +253,5 @@ Material for writing and translating, not published content of the series.
 3. Import the originals: `tools/import_sqlru.py --authorized` and `tools/import_proza.py --authorized` — **done**.
 4. Redraw the remaining charts (articles 05, 08, 10, 11) as SVG; replace the third-party picture of 09.
 5. Translate 01–15 into English (`en/`).
-6. Write the continuation 16–30 in four parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30). Stubs with abstracts are in place.
+6. Write the continuation 16–30 in four parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30). Stubs with abstracts are in place. Written: 16–18.
 7. Further languages.

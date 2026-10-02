@@ -57,6 +57,6 @@ New articles written for this repository, continuing the series in the author's 
 
 Author: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Published with the author's permission.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–17 — continuation of the series, written. 18–30 — continuation, in progress.
+Status: 01–15 — translations of the Russian originals, pending. 16–18 — continuation of the series, written. 19–30 — continuation, in progress.
 
 [Русский](../ru/README.md) · [Home](../README.md)

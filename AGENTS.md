@@ -118,6 +118,27 @@ articles as closely as possible. In practice:
 - New articles are not attributed to the original author: they continue his series and method; the byline,
   if any, is the repository's.
 
+### Writing a continuation evening, step by step
+
+1. **Read the record of what is already written.** [`sources/continuation-notes.md`](sources/continuation-notes.md)
+   lists, for every written continuation article, what it established, which facts and images it used and what it
+   left for later. Do not contradict it, do not reuse its examples as new, and keep the promises it records.
+2. **Read the stubs of the neighbouring articles**, not only your own. A topic that belongs to a later stub is
+   touched in a sentence and deferred to that evening (*«это отдельный вечер»*), never developed early.
+3. **Open with the previous evening's last doubt** or with what its teaser promised, and close with a teaser that
+   matches the next stub's abstract.
+4. **Carry the argument with the author's own images first.** Search his comments in `sources/garya/sqlru/` for the
+   topic (`grep` the Russian key words) and reuse his examples: they make the voice his.
+5. **Give Oleg the strongest current objection**, including the best science against the author (in 17, the Bell
+   experiments). Andrey answers it honestly and says plainly where proof ends and his axiom begins.
+6. **Check every fact before using it**, with a primary source where possible, and state figures with their year.
+   Verify the details of famous experiments too (who, when, what exactly was measured).
+7. **Write the English original, then the Russian translation**, and compare the number of dialogue lines.
+8. **In the same commit**, update the front matter (`status`, `published`, `tags`, `builds_on`), the status lines of
+   all three tables of contents, the glossary for new terms, and `sources/continuation-notes.md`.
+9. **The user is a native Russian speaker and proofreads the translations.** When the user says an
+   article has been proofread, set its Russian `status` to `reviewed`.
+
 ## 5. Working rules
 
 - Conventions for files, front matter, images and tables of contents: [SPEC.md](SPEC.md). Follow them exactly.
@@ -153,6 +174,8 @@ articles as closely as possible. In practice:
 | производительность труда | labour productivity | — |
 | передний край эволюции | leading edge of evolution | the place of the most complex, fastest-developing form of matter |
 | хотелки / нехотелки | wants / aversions | desires and emotions that steer reason; the author's colloquial term, kept as a term |
+| уставка | setpoint | a want seen as the value a control system keeps; set by nature, it rises once reached |
+| сторожевой таймер | watchdog | an emotion that forces a decision when wants balance, then defends it; conscience is a late watchdog |
 | избирательная недальновидность разума | selective short-sightedness of reason | reason going blind exactly where wants block it |
 | логика на два хода | logic only two moves deep | an obvious conclusion that reason still avoids |
 | мышление | thinking | sequential inner speech through the "point of attention" |
@@ -201,3 +224,8 @@ Mistakes made while writing earlier articles. Avoid them.
   instead of 62 trillion. When a later evening uses such a number, Andrey corrects it openly.
 - **Keep the two language versions parallel.** After translating, compare the number of dialogue lines
   (`grep -c "^— "`) in both files; it must match.
+- **Russian Wikipedia rate-limits link checks.** A fast loop of requests gets `429`. Check pages one by one with a
+  pause of a few seconds and a `User-Agent` header. Publishers (doi.org, Science, PNAS, CDC) often answer `403`
+  to scripts; that does not mean the link is broken.
+- **Python on Windows prints Cyrillic only with UTF-8 output.** Run it as `PYTHONIOENCODING=utf-8 python ...`,
+  or a script that prints Russian titles fails with `UnicodeEncodeError`.
