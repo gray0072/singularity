@@ -253,5 +253,5 @@ Material for writing and translating, not published content of the series.
 3. Import the originals: `tools/import_sqlru.py --authorized` and `tools/import_proza.py --authorized` — **done**.
 4. Redraw the remaining charts (articles 05, 08, 10, 11) as SVG; replace the third-party picture of 09.
 5. Translate 01–15 into English (`en/`).
-6. Write the continuation 16–30 in four parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30). Stubs with abstracts are in place. Written: 16–18.
+6. Write the continuation 16–30 in four parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30). Stubs with abstracts are in place. Written: 16–19.
 7. Further languages.

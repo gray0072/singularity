@@ -91,3 +91,32 @@ wallet (from 04); the "dirty-sock inhaler" (from 09).
 **Left for later**: machine "wants" (goal, reward) and whether a machine sets its own tasks → 22; rewriting
 people's wants → 23; post-scarcity wants and the freebie → 25; images competing for memory → 19 (promised in the
 teaser).
+
+## 19. The Struggle of Images for Existence
+
+**Established**
+- Images are a form of life: they exist (occupy memory), reproduce (pass from head to head, are copied) and evolve
+  (mutate, are selected). Memory is scarce, so they compete; a mind is their habitat, its wants are their selection.
+  "Alive or not" is badly posed (gene vs image). Symmetry: if you keep images, images keep you.
+- Forgetting is a function, not a defect (Ebbinghaus; synaptic pruning), the same rule as apoptosis.
+- An image survives by being useful to its carrier as wants judge it, not by being true; truth wins in the long run
+  only because it works in practice (caloric and Rumford). Superstitions live while wants shield them from checks.
+- Images have a life cycle (born in the correlator, spread, limit, ageing, death) and move to a new platform when the
+  old one hits its ceiling: speech → writing (Socrates in the Phaedrus) → print → internet → neural networks.
+- Human memory is becoming a secondary carrier: images leave heads as soon as another platform holds them (Google
+  effect, GPS). The new platform first feeds on human text (running out 2026–2032; Stack Overflow fell by a quarter),
+  degenerates on its own output (model collapse: rare images die first, like rare languages), then gives birth to its
+  own images (AlphaGo Zero), which flow back to people (Go players improved after 2016). "Human knowledge" is
+  knowledge that lived in humans for a while; only the keeper changes.
+
+**Images and devices used**: the advert tune (earworm) that opens and closes the evening; the childhood phone
+number vs the wife's mobile; Bartlett's "War of the Ghosts"; Homer and the singers; the gene that neither eats nor
+breathes; the law of gravity outliving its last schoolteacher.
+
+**Facts used**: Ebbinghaus 1885; Bartlett 1932; Dawkins 1976; Sparrow–Liu–Wegner 2011; Dahmani–Bohbot 2020;
+a 2024 open model with about 400 billion parameters vs 10^14–10^15 synapses; Epoch AI data stock (about 300 trillion
+tokens); Stack Overflow −25% (del Rio-Chanona et al. 2024); model collapse (Shumailov et al. 2024); Ethnologue
+7,159 languages, 3,193 endangered; AlphaGo Zero 100–0; Shin et al. 2023 (5.8 million moves).
+
+**Left for later**: does the machine hold an image of itself, is it conscious or imitating → 20 (promised in the
+teaser); measuring language models with domain and aggregate logicality → 21.

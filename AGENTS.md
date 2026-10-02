@@ -179,6 +179,8 @@ articles as closely as possible. In practice:
 | избирательная недальновидность разума | selective short-sightedness of reason | reason going blind exactly where wants block it |
 | логика на два хода | logic only two moves deep | an obvious conclusion that reason still avoids |
 | мышление | thinking | sequential inner speech through the "point of attention" |
+| образ | image | the unit of thought in memory; images compete for scarce memory, reproduce and evolve, a form of life with its own life cycle |
+| коэффициент значимости | significance coefficient | the weight of an image in memory; used images grow heavier, unused ones are erased |
 | платформа (разума) | platform (of mind) | the physical carrier that sets the ceiling of intelligence |
 | носитель / источник разума | carrier / source of mind | humans and machines are carriers; nature is the source |
 | динамическая система | dynamic system | any system; in the series, everything is one |
