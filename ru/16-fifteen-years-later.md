@@ -10,7 +10,7 @@ continuation: true
 part: I
 builds_on: [03, 05, 07, 11, 12, 13]
 tags: ["прогнозы", "искусственный интеллект", "демография", "техносфера"]
-status: translated
+status: reviewed
 ---
 
 # Пятнадцать лет спустя

@@ -169,6 +169,8 @@ articles as closely as possible. In practice:
 | апоптоз человечества | apoptosis of humanity | humanity's programmed exit, timed to the technosphere's autonomy |
 | сингулярность как процесс | singularity as a process | the crisis/maturity phase of a life cycle, stretched over decades |
 | глобальный детерминизм | global determinism | the author's stance: no free will, no true randomness |
+| случайность | randomness | lack of information in a local system; nature as a whole cannot lack information about itself |
+| фатализм | fatalism | the belief that the outcome is the same whatever one does; unlike determinism, where one's actions are among the causes of the outcome |
 | халява | freebie | what people get from the technosphere in exchange for developing it |
 | лопатоцентризм | shovel-centrism | the mirror image of anthropocentrism, used to expose it |
 | безлюдное производство | lights-out production | — |
