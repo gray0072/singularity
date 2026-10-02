@@ -120,3 +120,27 @@ tokens); Stack Overflow −25% (del Rio-Chanona et al. 2024); model collapse (Sh
 
 **Left for later**: does the machine hold an image of itself, is it conscious or imitating → 20 (promised in the
 teaser); measuring language models with domain and aggregate logicality → 21.
+
+## 20. What Consciousness Is
+
+**Established**
+- Consciousness is a system's model of itself inside its model of the world (the 2011 definition): one more image
+  among images, the heaviest. It comes in degrees: the number of levels and the accuracy of the self-model.
+- Ladder, not a switch: mirror test (Gallup 1970; children at 1.5–2 years; elephants, magpies; the cleaner wrasse
+  2019, disputed); the Cornell "starfish" robot (2006) rebuilding its body model; a 2024 model predicting itself
+  better than an outside model (simple tasks only). Butlin et al. 2023: no current AI is conscious, no obvious
+  technical barriers; Chalmers 2023: somewhat unlikely now, possible for successors within a decade.
+- Problem of other minds: we grant consciousness to others by behaviour and because they are "made like us";
+  "made like me" is not a scientific criterion. The human self-model also invents reasons (Gazzaniga's chicken and
+  shovel), so "real vs imitated" is badly posed; the line is drawn by anthropocentrism.
+- Hard problem taken seriously (Nagel, Chalmers). Andrey's axiom, marked as such: feeling is how the recognition of an
+  image looks from inside the recognising system; one thing seen from two sides. Orch-OR: he would be glad if true,
+  still doubts; even special physics would only be a question of platform.
+- Panpsychism answered with the author's KT315 line: what matters is the system's own level.
+
+**Images and devices used**: Oleg's phone and the chatbot denying consciousness vs LaMDA and Blake Lemoine; the
+mirror-test ladder; the starfish robot (from article 05); the vase (from 17).
+
+**Left for later**: whether we owe anything to a machine that may feel (moral status), touched and deferred
+("another evening"; no stub owns it yet, possible in 23 or 28); measuring talking machines with domain logicality,
+aggregate logicality and substitution → 21 (promised in the teaser).
