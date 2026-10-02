@@ -174,3 +174,28 @@ articles as closely as possible. In practice:
 | безлюдное производство | lights-out production | — |
 | разумная космическая пыль | intelligent cosmic dust | the author's image of post-singular technogenic life |
 | ПМСМ | IMHO | his habitual hedge; in English text, "I believe" |
+| большая языковая модель | large language model | a neural network trained on humanity's texts; in the series, a machine that gains mind from accumulated knowledge |
+| демографическая инерция | population momentum | population growth that continues for decades after fertility falls, because the generation having children is large |
+
+## 7. Tooling notes for agents
+
+Mistakes made while writing earlier articles. Avoid them.
+
+- **Write article files with the file-writing tool, not a Bash heredoc.** A long Markdown text with quotes,
+  apostrophes and parentheses broke a heredoc in Git Bash on Windows (`unexpected EOF while looking for
+  matching '`), and the file was not written. Bash is fine for short edits (`sed`) and checks.
+- **Read large files one at a time.** `cat` of several articles or notes at once overflows the tool output.
+  Read the file directly, or extract only the sections you need (*Key theses*, *The author in the comments*,
+  *Open threads*).
+- **Fetch the page with the data, not the landing page.** The landing pages of the UN World Population
+  Prospects and of IEA reports return no figures. Fetch the executive summary or the PDF of the report.
+- **Check every Russian Wikipedia link before using it.** Some articles exist only in English (for example
+  *AlexNet* and *Population momentum*). Check that each page returns 200 and fall back to the English page:
+  `curl -s -o /dev/null -w "%{http_code}" "https://ru.wikipedia.org/wiki/<title>"`.
+- **Sources update their figures.** A study's page can show a newer number than the one first reported
+  (Stanford's figure for young workers grew from 13% to 19%). Phrase such figures so they stay true
+  ("by more than a tenth, and the gap keeps growing"), or give the date of the figure.
+- **Check the originals' numbers before reusing them.** Article 07 gives world GDP as 62,000 trillion dollars
+  instead of 62 trillion. When a later evening uses such a number, Andrey corrects it openly.
+- **Keep the two language versions parallel.** After translating, compare the number of dialogue lines
+  (`grep -c "^— "`) in both files; it must match.
