@@ -146,3 +146,38 @@ mirror-test ladder; the starfish robot (from article 05); the vase (from 17).
 **Left for later**: whether we owe anything to a machine that may feel (moral status), touched and deferred
 ("another evening"; no stub owns it yet, possible in 23 or 28); measuring talking machines with domain logicality,
 aggregate logicality and substitution → 21 (promised in the teaser).
+
+## 21. Machines That Talk
+
+**Established**
+- The talking machine is not a sudden leap but accumulated small steps (T9, neural translation 2016, voice assistants,
+  ELIZA 1966) that add up to a new turn: the machine came into the domain of words, where humanity keeps its knowledge.
+  The "leap" was partly in the rulers (all-or-nothing scoring, Schaeffer–Miranda–Koyejo 2023 vs Wei et al. 2022) and
+  partly in us: the Turing test measures likeness to us (the flytrap, the dog and Deep Blue all score zero).
+- "Stochastic parrot" (Bender et al. 2021) answered: acting ahead of events is mind; predicting well forces a model of
+  the world (the detective's last page; Othello-GPT built a board nobody showed it). Human thinking is also sequential
+  inner speech (article 03).
+- Three rulers: domain logicality is a saw, not a line (ICPC 2025: 12 of 12; the letters in a word; the "jagged
+  frontier" of the 758 consultants); aggregate logicality outgrew human tests (MMLU 44% → 92%, 6.5% of its questions
+  wrong; machines increasingly judge machines, cf. the measuring-system rule of 03); substitution gives millions of
+  helpers (18 billion messages a week: 7.5–37 million full-time helpers at 1–5 minutes each).
+- Substitution replaces the beginner's functions first (support novices +34%, experts ~0; METR 2025: experienced
+  developers 19% slower while believing they were 20% faster). Regrouping of functions, as with CAD in 05; the
+  beginner who is not hired never becomes a master.
+
+**Images and devices used**: the father's folding carpenter's rule (opens and closes the evening); "meeting" → "meat";
+Weizenbaum's secretary; the five-digit sum marked two ways; the detective's last page; the saw vs the line; the
+kettle and the stove (a new turn of accumulated steps).
+
+**Facts used**: GNMT 2016 (−60% errors); ELIZA 1966; Wei et al. 2022; Schaeffer et al. 2023; Turing 1950; Bender et
+al. 2021; Li et al. Othello-GPT (2022/ICLR 2023); ICPC World Finals 2025 (139 teams); Dell'Acqua et al. 2023 (758
+consultants, +12.2% tasks, 25% faster, +40% quality, −19 points outside the frontier); MMLU (Hendrycks 2020; GPT-3
+43.9, Gopher 60, Chinchilla 67.6, GPT-4 86.4, Gemini Ultra 90.0, o1 92.3; experts ≈ 89.8); Gema et al. 2024 (6.49%
+errors, virology 57%); NBER w34255 (700 million weekly users, 18 billion messages, >70% non-work, July 2025); Noy &
+Zhang 2023 (−40% time, +18% quality); Peng et al. 2023 (55.8% faster); Brynjolfsson–Li–Raymond (5,179 agents, +14%,
+novices +34%); METR 2025 (16 developers, 246 tasks, +19% time).
+
+**Figures**: `two-rulers-one-skill`, `test-ruler-ran-out`, `machine-helper-time`.
+
+**Left for later**: who sets the machine's tasks, and ours (Penrose: the essence of mind is setting tasks) → 22,
+promised in the teaser; the young who are not hired and the bread arithmetic by profession → 24.

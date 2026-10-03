@@ -208,6 +208,7 @@ articles as closely as possible. In practice:
 | ПМСМ | IMHO | his habitual hedge; in English text, "I believe" |
 | большая языковая модель | large language model | a neural network trained on humanity's texts; in the series, a machine that gains mind from accumulated knowledge |
 | демографическая инерция | population momentum | population growth that continues for decades after fertility falls, because the generation having children is large |
+| зубчатая граница | jagged frontier | the uneven edge of a machine's domain logicalities: above humans in some domains, below a child in neighbouring ones |
 
 ## 7. Tooling notes for agents
 

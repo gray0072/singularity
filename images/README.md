@@ -20,6 +20,9 @@ Reference images from articles as `../images/<file>`.
 | `forgetting-curve.svg` (+ `.ru.svg`) | Ebbinghaus's forgetting curve, his 1885 data | 19 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `image-platforms.svg` (+ `.ru.svg`) | Images moving from heads to writing, print, the internet and neural networks | 19 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `self-model-ladder.svg` (+ `.ru.svg`) | Ladders of self-models: the mirror test and machines | 20 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `two-rulers-one-skill.svg` (+ `.ru.svg`) | One skill measured all-or-nothing and digit by digit (illustration after Schaeffer et al. 2023) | 21 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `test-ruler-ran-out.svg` (+ `.ru.svg`) | Best MMLU scores 2020–2024 against chance, the experts' level and the test's own errors | 21 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `machine-helper-time.svg` (+ `.ru.svg`) | Change in task time with an AI helper in four randomised experiments | 21 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

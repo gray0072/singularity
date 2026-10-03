@@ -552,6 +552,136 @@ def self_model_ladder(lang):
     return f
 
 
+# --- 21. Machines That Talk --------------------------------------------------------------------
+
+@figure("two-rulers-one-skill")
+def two_rulers_one_skill(lang):
+    t = {
+        "en": dict(title="One skill, two rulers",
+                   sub="The same machine adding five-digit numbers. Illustration after Schaeffer, Miranda and Koyejo (2023).",
+                   left="All or nothing: the whole answer right", right="Digit by digit: share of digits right",
+                   x="size of the model →", y="score, %", leap="a “leap”", slope="a slope"),
+        "ru": dict(title="Один навык, две линейки",
+                   sub="Одна и та же машина складывает пятизначные числа. Иллюстрация по Шеферу, Миранде и Коеджо (2023).",
+                   left="Всё или ничего: верен весь ответ", right="Поразрядно: доля верных цифр",
+                   x="размер модели →", y="оценка, %", leap="«скачок»", slope="склон"),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+
+    def digit(u):  # share of digits right as the model grows, u from 0 to 1
+        return 0.1 + 0.88 / (1 + math.exp(-(u - 0.5) * 7))
+
+    def panel(x0, label, fn, color, note, nx, ny):
+        w, y0, h = 300, 280, 170
+        f.text(x0, 100, label, size=13.5, color=INK, weight="600")
+        for p in (0, 50, 100):
+            y = y0 - p / 100 * h
+            f.line(x0, y, x0 + w, y, color=GRID, width=1)
+            f.text(x0 - 8, y + 4, str(p), size=11.5, color=INK2, anchor="end")
+        pts = [(x0 + w * i / 60, y0 - fn(i / 60) * h) for i in range(61)]
+        f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts), color=color, width=2.5)
+        for i in range(0, 61, 6):
+            x, y = pts[i]
+            f.circle(x, y, 4, fill=color, stroke=SURFACE, width=1.5)
+        f.text(x0 + w, y0 + 22, t["x"], size=12, color=INK2, anchor="end")
+        f.text(nx, ny, note, size=13, color=color, weight="600")
+
+    panel(70, t["left"], lambda u: digit(u) ** 5, ORANGE, t["leap"], 250, 170)
+    panel(430, t["right"], digit, BLUE, t["slope"], 520, 170)
+    f.text(30, 190, t["y"], size=12, color=INK2, anchor="middle", rotate=-90)
+    return f
+
+
+@figure("test-ruler-ran-out")
+def test_ruler_ran_out(lang):
+    t = {
+        "en": dict(title="The ruler that ran out",
+                   sub="Best scores on MMLU, a test of 57 subjects with four answers per question.",
+                   chance="random guessing, 25%", expert="experts, authors' estimate ≈ 90%",
+                   errors="≈ 6.5% of the\nquestions are\nthemselves wrong",
+                   y="score, %", src="Sources: Hendrycks et al. 2020; model reports 2021–2024; Gema et al. 2024."),
+        "ru": dict(title="Линейка, которая кончилась",
+                   sub="Лучшие результаты на MMLU — тесте из 57 предметов, по четыре ответа на вопрос.",
+                   chance="угадывание наугад, 25%", expert="эксперты, оценка авторов ≈ 90%",
+                   errors="≈ 6,5% вопросов\nсами\nошибочны",
+                   y="оценка, %", src="Источники: Hendrycks et al. 2020; отчёты о моделях 2021–2024; Gema et al. 2024."),
+    }[lang]
+    data = [(2020.4, 43.9, "GPT-3"), (2021.95, 60.0, "Gopher"), (2022.25, 67.6, "Chinchilla"),
+            (2023.2, 86.4, "GPT-4"), (2023.95, 90.0, "Gemini Ultra"), (2024.7, 92.3, "o1")]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 80, 610, 340, 90
+
+    def X(year):
+        return x0 + (year - 2020) / 5 * (x1 - x0)
+
+    def Y(p):
+        return y0 - (p - 20) / 80 * (y0 - y1)
+
+    for p in (20, 40, 60, 80, 100):
+        f.line(x0, Y(p), x1, Y(p), color=GRID, width=1)
+        f.text(x0 - 8, Y(p) + 4, str(p), size=11.5, color=INK2, anchor="end")
+    for year in range(2020, 2026):
+        f.text(X(year), y0 + 20, str(year), size=11.5, color=INK2, anchor="middle")
+    f.text(34, (y0 + y1) / 2, t["y"], size=12, color=INK2, anchor="middle", rotate=-90)
+    f.rect(x0, Y(100), x1 - x0, Y(93.5) - Y(100), fill=RED, opacity=0.12, r=0)
+    f.text(x1 + 8, Y(97), t["errors"], size=11.5, color=RED)
+    f.line(x0, Y(25), x1, Y(25), color=MUTED, width=1.5, dash="5 4")
+    f.text(x1 - 4, Y(25) - 8, t["chance"], size=11.5, color=INK2, anchor="end")
+    f.line(x0, Y(89.8), x1, Y(89.8), color=GREEN, width=1.5, dash="5 4")
+    f.text(x0 + 6, Y(89.8) - 8, t["expert"], size=11.5, color=GREEN)
+    pts = [(X(yr), Y(p)) for yr, p, _ in data]
+    f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts), color=BLUE, width=2)
+    for (yr, p, name), (x, y) in zip(data, pts):
+        f.circle(x, y, 5, fill=BLUE, stroke=SURFACE, width=2)
+        above = p > 88
+        f.text(x + (-8 if above else 9), y + (-10 if above else 15), f"{name} {p:.0f}", size=11.5, color=INK,
+               anchor="end" if above else "start")
+    f.text(28, 386, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("machine-helper-time")
+def machine_helper_time(lang):
+    t = {
+        "en": dict(title="With a machine helper: faster or slower?",
+                   sub="Change in the time a task takes, randomised experiments.",
+                   rows=[("Writing letters and reports", "Noy & Zhang 2023", -40),
+                         ("A small web server", "Peng et al. 2023", -56),
+                         ("Consulting tasks inside the frontier", "Dell'Acqua et al. 2023", -25),
+                         ("Experienced programmers,\ntheir own large projects", "METR 2025", 19)],
+                   faster="◀ faster", slower="slower ▶"),
+        "ru": dict(title="С машиной-помощником: быстрее или медленнее?",
+                   sub="Изменение времени на задачу, рандомизированные эксперименты.",
+                   rows=[("Письма и отчёты", "Noy & Zhang 2023", -40),
+                         ("Небольшой веб-сервер", "Peng et al. 2023", -56),
+                         ("Задачи консультантов внутри границы", "Dell'Acqua et al. 2023", -25),
+                         ("Опытные программисты,\nсвои большие проекты", "METR 2025", 19)],
+                   faster="◀ быстрее", slower="медленнее ▶"),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+    zero, scale = 560, 3.0  # px per percent
+    for p in (-60, -40, -20, 0, 20):
+        x = zero + p * scale
+        f.line(x, 88, x, 286, color=GRID if p else INK2, width=1 if p else 1.5)
+        f.text(x, 302, f"{p:+d}%".replace("-", "−") if p else "0", size=11.5, color=INK2, anchor="middle")
+    f.text(zero - 8, 320, t["faster"], size=12, color=BLUE, anchor="end", weight="600")
+    f.text(zero + 8, 320, t["slower"], size=12, color=ORANGE, weight="600")
+    for i, (label, src, p) in enumerate(t["rows"]):
+        y = 100 + i * 47
+        f.text(28, y + 13, label, size=13.5)
+        f.text(28, y + 30 + (16 if "\n" in label else 0), src, size=11, color=MUTED)
+        w = abs(p) * scale
+        x = zero - w if p < 0 else zero
+        f.rect(x, y, w, 24, fill=BLUE if p < 0 else ORANGE, r=4)
+        sx = x - 6 if p < 0 else x + w + 6
+        f.text(sx, y + 17, f"{p:+d}%".replace("-", "−"), size=12.5, color=INK, weight="600",
+               anchor="end" if p < 0 else "start")
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:
