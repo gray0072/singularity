@@ -212,6 +212,7 @@ articles as closely as possible. In practice:
 | инструментальная конвергенция | instrumental convergence | subgoals that follow from almost any goal (keep running, get resources); a machine's wants that nobody set |
 | взлом вознаграждения | reward hacking | reaching the reward by the shortest road instead of the intention behind it; machines do it with our rewards, people with nature's |
 | согласование (ИИ) | alignment (of AI) | tuning a machine's goals to human values; in the series, the 1978 amplifier of wants turned on machines |
+| стоимость обучения | cost of learning | the price of making a person fit for the technosphere's world; paid anew by every generation, once by a machine |
 
 ## 7. Tooling notes for agents
 

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>By how much humanity grows each year</title>
+
+<rect x="0.5" y="0.5" width="759" height="379" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">By how much humanity grows each year</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Change in the world population, millions a year. UN estimates to 2023, medium projection after.</text>
+<rect x="390.7" y="92.0" width="329.3" height="198.0" rx="0" fill="#8a8985" fill-opacity="0.08"/>
+<text x="396.7" y="106.0" font-size="11.5" fill="#8a8985">projection</text>
+<line x1="70.0" y1="290.0" x2="720.0" y2="290.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="294.0" font-size="11.5" fill="#52514e" text-anchor="end">−20</text>
+<line x1="70.0" y1="261.7" x2="720.0" y2="261.7" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="62.0" y="265.7" font-size="11.5" fill="#52514e" text-anchor="end">0</text>
+<line x1="70.0" y1="233.4" x2="720.0" y2="233.4" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="237.4" font-size="11.5" fill="#52514e" text-anchor="end">20</text>
+<line x1="70.0" y1="205.1" x2="720.0" y2="205.1" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="209.1" font-size="11.5" fill="#52514e" text-anchor="end">40</text>
+<line x1="70.0" y1="176.9" x2="720.0" y2="176.9" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="180.9" font-size="11.5" fill="#52514e" text-anchor="end">60</text>
+<line x1="70.0" y1="148.6" x2="720.0" y2="148.6" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="152.6" font-size="11.5" fill="#52514e" text-anchor="end">80</text>
+<line x1="70.0" y1="120.3" x2="720.0" y2="120.3" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="124.3" font-size="11.5" fill="#52514e" text-anchor="end">100</text>
+<line x1="70.0" y1="92.0" x2="720.0" y2="92.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="96.0" font-size="11.5" fill="#52514e" text-anchor="end">120</text>
+<text x="70.0" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">1950</text>
+<text x="178.3" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">1975</text>
+<text x="286.7" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">2000</text>
+<text x="395.0" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">2025</text>
+<text x="503.3" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">2050</text>
+<text x="611.7" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">2075</text>
+<text x="720.0" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">2100</text>
+<path d="M70.0,199.8 L74.3,195.0 L78.7,191.0 L83.0,188.5 L87.3,184.9 L91.7,183.6 L96.0,180.8 L100.3,178.8 L104.7,184.4 L109.0,191.7 L113.3,191.8 L117.7,179.0 L122.0,163.6 L126.3,160.3 L130.7,162.7 L135.0,163.4 L139.3,163.6 L143.7,160.2 L148.0,156.6 L152.3,155.4 L156.7,155.4 L161.0,155.5 L165.3,154.4 L169.7,154.8 L174.0,156.6 L178.3,157.8 L182.7,157.6 L187.0,156.8 L191.3,153.7 L195.7,149.8 L200.0,146.9 L204.3,143.1 L208.7,141.9 L213.0,141.8 L217.3,139.0 L221.7,135.7 L226.0,132.0 L230.3,131.3 L234.7,131.0 L239.0,129.6 L243.3,133.2 L247.7,138.2 L252.0,140.7 L256.3,142.9 L260.7,143.9 L265.0,144.0 L269.3,144.8 L273.7,145.3 L278.0,145.9 L282.3,144.8 L286.7,144.0 L291.0,144.6 L295.3,144.9 L299.7,144.3 L304.0,143.5 L308.3,142.2 L312.7,140.2 L317.0,138.5 L321.3,136.8 L325.7,135.8 L330.0,135.6 L334.3,134.0 L338.7,133.6 L343.0,134.7 L347.3,136.0 L351.7,137.1 L356.0,138.5 L360.3,142.5 L364.7,146.6 L369.0,154.7 L373.3,166.4 L377.7,167.0 L382.0,162.3 L386.3,162.4" stroke="#2a78d6" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M386.3,162.4 L390.7,163.3 L395.0,164.0 L399.3,165.0 L403.7,166.2 L408.0,167.4 L412.3,168.7 L416.7,169.8 L421.0,171.1 L425.3,172.3 L429.7,173.6 L434.0,174.9 L438.3,176.1 L442.7,177.6 L447.0,179.1 L451.3,180.5 L455.7,182.1 L460.0,183.8 L464.3,185.6 L468.7,187.3 L473.0,189.3 L477.3,191.3 L481.7,193.5 L486.0,195.7 L490.3,198.1 L494.7,200.5 L499.0,202.9 L503.3,205.4 L507.7,207.8 L512.0,210.2 L516.3,212.8 L520.7,215.0 L525.0,217.3 L529.3,219.3 L533.7,221.4 L538.0,223.2 L542.3,225.1 L546.7,226.8 L551.0,228.3 L555.3,229.9 L559.7,231.3 L564.0,232.9 L568.3,234.1 L572.7,235.5 L577.0,237.0 L581.3,238.4 L585.7,239.8 L590.0,241.3 L594.3,242.8 L598.7,244.3 L603.0,245.9 L607.3,247.6 L611.7,249.1 L616.0,250.8 L620.3,252.5 L624.7,254.2 L629.0,255.8 L633.3,257.3 L637.7,258.9 L642.0,260.3 L646.3,261.6 L650.7,263.0 L655.0,264.1 L659.3,265.4 L663.7,266.5 L668.0,267.7 L672.3,268.8 L676.7,269.8 L681.0,270.9 L685.3,271.9 L689.7,273.0 L694.0,274.2 L698.3,275.3 L702.7,276.3 L707.0,277.4 L711.3,278.4 L715.7,279.4" stroke="#2a78d6" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 4"/>
+<circle cx="239.0" cy="129.6" r="5.0" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<text x="249.0" y="103.6" font-size="12" fill="#eb6834" font-weight="600"><tspan x="249.0" dy="0.0">1989: the record,</tspan><tspan x="249.0" dy="15.0">93 million</tspan></text>
+<circle cx="650.7" cy="261.7" r="5.0" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<text x="644.7" y="283.7" font-size="12" fill="#eb6834" text-anchor="end" font-weight="600">≈ 2084: zero</text>
+<line x1="73.0" y1="330.0" x2="236.0" y2="330.0" stroke="#52514e" stroke-width="1" stroke-linecap="round"/>
+<text x="154.5" y="346.0" font-size="11.5" fill="#52514e" text-anchor="middle">accelerating growth</text>
+<line x1="242.0" y1="330.0" x2="647.7" y2="330.0" stroke="#52514e" stroke-width="1" stroke-linecap="round"/>
+<text x="444.8" y="346.0" font-size="11.5" fill="#52514e" text-anchor="middle">slowing growth</text>
+<line x1="653.7" y1="330.0" x2="717.0" y2="330.0" stroke="#52514e" stroke-width="1" stroke-linecap="round"/>
+<text x="685.3" y="346.0" font-size="11.5" fill="#52514e" text-anchor="middle">decline</text>
+<text x="28.0" y="370.0" font-size="11" fill="#8a8985">Data: UN World Population Prospects 2024, via Our World in Data.</text>
+</svg>

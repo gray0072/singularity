@@ -32,6 +32,8 @@ Reference images from articles as `../images/<file>`.
 | `profession-shields.svg` (+ `.ru.svg`) | What shields a profession: words, hands, the signature, “made by a human”, and the customer under them | 24 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `basic-income-arithmetic.svg` (+ `.ru.svg`) | A basic income for US adults against GDP and federal spending, 2025 | 25 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `freebie-circle.svg` (+ `.ru.svg`) | The circle of the freebie: taxes, basic income, purchases, and machines buying from machines | 25 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `fertility-and-money.svg` (+ `.ru.svg`) | Children per woman 2000–2024 in South Korea, Finland, Hungary and the world, with pro-natal spending | 26 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `humanity-yearly-growth.svg` (+ `.ru.svg`) | Yearly change of the world population 1950–2100 (UN WPP 2024): peak in 1989, zero around 2084 | 26 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

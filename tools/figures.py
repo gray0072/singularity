@@ -1046,6 +1046,130 @@ def freebie_circle(lang):
     return f
 
 
+# --- 26. Why People Stopped Having Children -----------------------------------------------------
+
+# Children per woman, 2000–2024 (World Bank, SP.DYN.TFRT.IN).
+TFR = {
+    "KOR": [1.48, 1.309, 1.178, 1.191, 1.164, 1.085, 1.132, 1.259, 1.192, 1.149, 1.226, 1.244, 1.297, 1.187, 1.205,
+            1.239, 1.172, 1.052, 0.977, 0.918, 0.837, 0.808, 0.778, 0.721, 0.748],
+    "FIN": [1.73, 1.73, 1.72, 1.76, 1.8, 1.8, 1.84, 1.83, 1.85, 1.86, 1.87, 1.83, 1.8, 1.75, 1.71, 1.65, 1.57, 1.49,
+            1.41, 1.35, 1.37, 1.46, 1.32, 1.26, 1.25],
+    "HUN": [1.32, 1.31, 1.3, 1.27, 1.28, 1.31, 1.34, 1.32, 1.35, 1.32, 1.25, 1.23, 1.34, 1.36, 1.45, 1.46, 1.55, 1.56,
+            1.57, 1.58, 1.61, 1.63, 1.57, 1.55, 1.41],
+    "WLD": [2.73, 2.69, 2.66, 2.64, 2.63, 2.61, 2.61, 2.60, 2.60, 2.59, 2.57, 2.55, 2.56, 2.52, 2.52, 2.49, 2.49, 2.46,
+            2.39, 2.35, 2.28, 2.25, 2.22, 2.20, 2.19],
+}
+
+# Yearly change of the world population, millions: population on 1 July of the next year minus this year,
+# 1950–2099 (UN World Population Prospects 2024, estimates to 2023 and the medium variant after; via Our World in Data).
+WORLD_ADDITIONS = [
+    43.8, 47.2, 50.0, 51.8, 54.3, 55.2, 57.2, 58.6, 54.7, 49.5, 49.4, 58.5, 69.4, 71.7, 70.0, 69.5, 69.4, 71.8, 74.3,
+    75.2, 75.2, 75.1, 75.9, 75.6, 74.3, 73.5, 73.6, 74.2, 76.4, 79.1, 81.2, 83.9, 84.7, 84.8, 86.8, 89.1, 91.7, 92.2,
+    92.4, 93.4, 90.9, 87.3, 85.6, 84.0, 83.3, 83.2, 82.7, 82.3, 81.9, 82.7, 83.2, 82.8, 82.6, 83.0, 83.6, 84.5, 85.9,
+    87.1, 88.3, 89.0, 89.2, 90.3, 90.6, 89.8, 88.9, 88.1, 87.1, 84.3, 81.4, 75.7, 67.4, 67.0, 70.3, 70.2, 69.6, 69.1,
+    68.4, 67.5, 66.7, 65.8, 65.0, 64.1, 63.2, 62.3, 61.4, 60.5, 59.5, 58.4, 57.4, 56.3, 55.1, 53.8, 52.6, 51.2, 49.8,
+    48.2, 46.7, 45.0, 43.3, 41.6, 39.8, 38.1, 36.4, 34.6, 33.0, 31.4, 30.0, 28.5, 27.2, 25.9, 24.7, 23.6, 22.5, 21.5,
+    20.4, 19.5, 18.5, 17.5, 16.5, 15.5, 14.4, 13.4, 12.3, 11.2, 10.0, 8.9, 7.7, 6.5, 5.3, 4.2, 3.1, 2.0, 1.0, 0.1,
+    -0.9, -1.7, -2.6, -3.4, -4.2, -5.0, -5.7, -6.5, -7.2, -8.0, -8.8, -9.6, -10.3, -11.1, -11.8, -12.5]
+
+
+@figure("fertility-and-money")
+def fertility_and_money(lang):
+    t = {
+        "en": dict(title="Children per woman, and the money spent to raise the number",
+                   sub="Total fertility rate, 2000–2024. Below 2.1 each generation is smaller than its parents'.",
+                   names={"KOR": "South Korea", "FIN": "Finland", "HUN": "Hungary", "WLD": "World"},
+                   repl="replacement level 2.1",
+                   kor="380 trillion won\nsince 2006", hun="≈ 5% of GDP\non families", fin="a model welfare state",
+                   src="Data: World Bank (SP.DYN.TFRT.IN); spending as reported by the governments."),
+        "ru": dict(title="Детей на женщину — и деньги, потраченные, чтобы их стало больше",
+                   sub="Суммарный коэффициент рождаемости, 2000–2024. Ниже 2,1 каждое поколение меньше родительского.",
+                   names={"KOR": "Южная Корея", "FIN": "Финляндия", "HUN": "Венгрия", "WLD": "Мир"},
+                   repl="уровень замещения 2,1",
+                   kor="380 трлн вон\nс 2006 года", hun="≈ 5% ВВП\nна семьи", fin="образцовое государство благосостояния",
+                   src="Данные: Всемирный банк (SP.DYN.TFRT.IN); расходы — по данным правительств."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 70, 600, 340, 92
+    lo, hi = 0.5, 3.0
+
+    def X(year):
+        return x0 + (year - 2000) / 24 * (x1 - x0)
+
+    def Y(v):
+        return y0 - (v - lo) / (hi - lo) * (y0 - y1)
+
+    for v in (0.5, 1.0, 1.5, 2.0, 2.5, 3.0):
+        f.line(x0, Y(v), x1, Y(v), color=GRID, width=1)
+        f.text(x0 - 8, Y(v) + 4, f"{v:.1f}".replace(".", "," if lang == "ru" else "."), size=11.5, color=INK2,
+               anchor="end")
+    for year in range(2000, 2025, 4):
+        f.text(X(year), y0 + 20, str(year), size=11.5, color=INK2, anchor="middle")
+    f.line(x0, Y(2.1), x1, Y(2.1), color=MUTED, width=1.5, dash="5 4")
+    f.text(x0 + 6, Y(2.1) - 6, t["repl"], size=11.5, color=INK2)
+    colors = {"WLD": INK2, "FIN": BLUE, "HUN": GREEN, "KOR": ORANGE}
+    for key in ("WLD", "FIN", "HUN", "KOR"):
+        pts = [(X(2000 + i), Y(v)) for i, v in enumerate(TFR[key])]
+        f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts), color=colors[key], width=2.5)
+        last = TFR[key][-1]
+        val = f"{last:.2f}".replace(".", "," if lang == "ru" else ".")
+        f.text(x1 + 8, Y(last) + 4, f"{t['names'][key]} {val}", size=12, color=INK, weight="600")
+    f.text(X(2006), Y(0.72), t["kor"], size=11.5, color=ORANGE)
+    f.text(X(2016.3), Y(1.95), t["hun"], size=11.5, color=GREEN)
+    f.text(X(2000.6), Y(1.93), t["fin"], size=11.5, color=BLUE)
+    f.text(28, 388, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("humanity-yearly-growth")
+def humanity_yearly_growth(lang):
+    t = {
+        "en": dict(title="By how much humanity grows each year",
+                   sub="Change in the world population, millions a year. UN estimates to 2023, medium projection after.",
+                   peak="1989: the record,\n93 million", zero="≈ 2084: zero",
+                   ph=["accelerating growth", "slowing growth", "decline"], proj="projection",
+                   src="Data: UN World Population Prospects 2024, via Our World in Data."),
+        "ru": dict(title="На сколько человечество вырастает за год",
+                   sub="Изменение численности населения мира, млн в год. Оценки ООН до 2023 года, дальше средний прогноз.",
+                   peak="1989: рекорд,\n93 миллиона", zero="≈ 2084: ноль",
+                   ph=["ускоряющийся рост", "замедляющийся рост", "убыль"], proj="прогноз",
+                   src="Данные: ООН, World Population Prospects 2024, через Our World in Data."),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 70, 720, 290, 92
+    lo, hi = -20, 120
+
+    def X(year):
+        return x0 + (year - 1950) / 150 * (x1 - x0)
+
+    def Y(v):
+        return y1 + (hi - v) / (hi - lo) * (y0 - y1)
+
+    f.rect(X(2024), y1, X(2100) - X(2024), y0 - y1, fill=MUTED, opacity=0.08, r=0)
+    f.text(X(2024) + 6, y1 + 14, t["proj"], size=11.5, color=MUTED)
+    for v in (-20, 0, 20, 40, 60, 80, 100, 120):
+        f.line(x0, Y(v), x1, Y(v), color=INK2 if v == 0 else GRID, width=1.2 if v == 0 else 1)
+        f.text(x0 - 8, Y(v) + 4, str(v).replace("-", "−"), size=11.5, color=INK2, anchor="end")
+    for year in range(1950, 2101, 25):
+        f.text(X(year), y0 + 20, str(year), size=11.5, color=INK2, anchor="middle")
+    est = [(X(1950 + i), Y(v)) for i, v in enumerate(WORLD_ADDITIONS) if 1950 + i <= 2023]
+    proj = [(X(1950 + i), Y(v)) for i, v in enumerate(WORLD_ADDITIONS) if 1950 + i >= 2023]
+    f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in est), color=BLUE, width=2.5)
+    f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in proj), color=BLUE, width=2.5, dash="6 4")
+    f.circle(X(1989), Y(93.4), 5, fill=ORANGE, stroke=SURFACE, width=2)
+    f.text(X(1989) + 10, Y(93.4) - 26, t["peak"], size=12, color=ORANGE, weight="600")
+    f.circle(X(2084), Y(0), 5, fill=ORANGE, stroke=SURFACE, width=2)
+    f.text(X(2084) - 6, Y(0) + 22, t["zero"], size=12, color=ORANGE, weight="600", anchor="end")
+    for (a, b), label in zip([(1950, 1989), (1989, 2084), (2084, 2100)], t["ph"]):
+        xm = (X(a) + X(b)) / 2
+        f.line(X(a) + 3, 330, X(b) - 3, 330, color=INK2, width=1)
+        f.text(xm, 346, label, size=11.5, color=INK2, anchor="middle")
+    f.text(28, 370, t["src"], size=11, color=MUTED)
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

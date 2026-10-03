@@ -314,3 +314,30 @@ Furman (September 2025).
 
 **Left for later**: why people stopped having children, and why the most generous child benefits do not help → 26
 (promised).
+
+## 26. Why People Stopped Having Children
+
+**Established**
+- Money does not reverse the fall: South Korea (≈ 380 trillion won since 2006; 0.72 in 2023, 0.75 in 2024), Finland
+  (1.87 in 2010 → 1.25 in 2024), Hungary (≈ 5% of GDP; 1.23 → 1.63 in 2011–2021 → 1.41 in 2024).
+- A child changed from investment (hands at seven, support in old age) to expense; both returns passed to the
+  technosphere (machines; pensions paid from its output, the "freebie" of 25). Love of children is a want among
+  wants; the technosphere serves all the competing wants better each year; contraception is reward hacking (22).
+- Economists' reasons (opportunity cost, education, housing) are accepted as the mechanism; "of what system?": all are
+  the cost of learning, the price of making a person fit for the technosphere's world, paid anew each generation
+  (schooling 3.0 years in 1950 → 8.8 in 2020; EU first birth at 29.8). Bangladesh (4.5 → 2.1) answered: the switch
+  happens where the technosphere arrives (garment factory, school, phone); Sub-Saharan Africa 6.3 → 4.3.
+- Lancet 2024: below replacement in 155 of 204 countries by 2050, 198 by 2100.
+- UN WPP 2024 data, counted year by year: the largest yearly addition was 93.4 million in 1989 (the author's 1989 in
+  article 13 confirmed), zero around 2084, decline after. Humanity is on the slowing branch of its life cycle.
+- Honest limits: the new figures fit the "limit of reasonableness" explanation of article 11 but do not prove it; proof
+  ends, conviction begins. Apoptosis goes softly: nobody dies, people are simply not born; no villains, no plan.
+
+**Images and devices used**: Oleg's niece, 35, "later"; the boy herding geese at seven; the boat in the bay (from 22).
+
+**Facts used**: World Bank TFR series (KOR, FIN, HUN, World, BGD, SSF); Korea 380 trillion won; Hungary ≈ 5% of GDP;
+OWID mean years of schooling; Eurostat 2023 (29.8); Lancet GBD 2024 fertility; UN WPP 2024 via OWID (yearly additions).
+
+**Figures**: `fertility-and-money`, `humanity-yearly-growth`.
+
+**Left for later**: the scenario of events step by step (promised in article 14, never written) → 27 (promised).
