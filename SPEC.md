@@ -78,6 +78,7 @@ images/                    shared, language-neutral images used by any language 
 tools/
   import_sqlru.py          blog importer: articles → ru/, posts with comments → sources/garya/sqlru/, charts → images/
   import_proza.py          prose importer: proza.ru → sources/garya/proza/
+  figures.py               draws the continuation's diagrams and charts → images/<name>.svg and <name>.ru.svg
 ```
 
 ## 4. Articles
@@ -220,6 +221,9 @@ Material for writing and translating, not published content of the series.
 - Images without text are language-neutral. If an image contains text, keep the source neutral where possible
   (SVG with text layers) and add localized variants with a language suffix: `world-population-growth.png` (en),
   `world-population-growth.ru.png`. An article uses the variant for its language, falling back to the neutral one.
+- Our own diagrams and charts are drawn by [`tools/figures.py`](tools/figures.py) (standard library only):
+  one function per figure, labels for every language in one place, `python tools/figures.py [NAME ...]`
+  rewrites the SVG files. Edit the script, not the SVG.
 - Formats: SVG for charts and diagrams, PNG for illustrations, JPEG for photos, GIF only for animations.
   Keep files under ~500 KB.
 - Only images we may redistribute: our own work, public domain, or free licenses (CC BY / CC BY-SA, …).

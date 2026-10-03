@@ -39,6 +39,8 @@ Oleg opened his mouth and closed it again.
 
 — Then let's take it in order. The picture of the world in your head is made of images: a sweet, a tune, a phone number, the law of gravity, your wife's face. In our evening about [mind and intelligence](03-mind-and-intelligence.md) I said that memory is catastrophically scarce, and that every image in it carries something like a significance coefficient. An image that keeps being recognised and used gets heavier and moves into long-term memory. An image that isn't used gets erased to make room. In 1885 Hermann Ebbinghaus learned lists of meaningless syllables and checked himself at intervals: within a day he had lost most of them. That's the [forgetting curve](https://en.wikipedia.org/wiki/Forgetting_curve).
 
+![Ebbinghaus's forgetting curve: 58% saved after 20 minutes, 34% after a day, 21% after a month](../images/forgetting-curve.svg)
+
 — Forgetting is a defect of memory.
 
 — It's a function. A two-year-old has far more synapses than an adult, and as the child grows up the brain [removes](https://en.wikipedia.org/wiki/Synaptic_pruning) a large part of them, by some estimates up to half. The ones that aren't used. Remember the evening about [apoptosis](14-apoptosis-of-humanity.md)? The death of the small is a condition of the life of the large. Images in a head live by the same rule.
@@ -146,6 +148,8 @@ Oleg opened his mouth and closed it again.
 — So the images flow back.
 
 — For thousands of years images flowed from heads onto platforms: onto papyrus, into books, into the network. Now they have begun to flow the other way: they are born on the new platform and come to people from there. The person becomes a reader, no longer the keeper.
+
+![Images move from heads to writing, print, the internet and neural networks, and now flow back to people](../images/image-platforms.svg)
 
 — And "human knowledge"? What happens to it?
 

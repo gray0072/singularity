@@ -134,6 +134,9 @@ articles as closely as possible. In practice:
 6. **Check every fact before using it**, with a primary source where possible, and state figures with their year.
    Verify the details of famous experiments too (who, when, what exactly was measured).
 7. **Write the English original, then the Russian translation**, and compare the number of dialogue lines.
+   Give the evening 1–3 figures where a picture carries the argument (a scheme drawn in the ash, a curve, a
+   chart of the figures used): draw them in [`tools/figures.py`](tools/figures.py), which writes the English
+   SVG and its `.ru.svg` variant from one function, and put each right after the replica it illustrates.
 8. **In the same commit**, update the front matter (`status`, `published`, `tags`, `builds_on`), the status lines of
    all three tables of contents, the glossary for new terms, and `sources/continuation-notes.md`.
 9. **The user is a native Russian speaker and proofreads the translations.** When the user says an

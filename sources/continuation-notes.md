@@ -10,6 +10,8 @@ the article.
 - Article 16 opens in autumn 2026: Andrey and Oleg meet at the same fire after fifteen years (the log has moss,
   Andrey has a grey beard). From 16 on, the evenings are consecutive again ("until tomorrow").
 - Andrey keeps the author's biography: the 1989 self-learning diagnostic system, the dacha, winter bird-feeding.
+- Figures: every evening has 1–3 of its own diagrams or charts (drawn by `tools/figures.py`, listed in
+  `images/README.md`); do not redraw a figure an earlier evening already has, refer back to it.
 - Andrey now openly corrects the 2011–2012 mistakes when Oleg raises them, and thanks him (as the author thanked
   readers for typos).
 

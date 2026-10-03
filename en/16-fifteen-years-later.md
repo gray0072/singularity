@@ -153,6 +153,8 @@ Oleg said nothing.
 
 — And the thinnest layer is the easiest to copy. Especially since all of it is written down in words, and words are what the machine learned from. Roboticists noticed this back in the eighties; it is called [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). And I, after years of weeding anthropocentrism out of my head, missed it. A wisdom tooth with crooked roots: one root was left behind.
 
+![How long nature polished each skill: seeing and grasping for hundreds of millions of years, speech for about two hundred thousand, writing and mathematics for a few thousand](../images/skill-age-layers.svg)
+
 — So the first thing the machines took from people was...
 
 — Speech. The very thing people saw as their essence: man, the speaking animal. And abstract reasoning, the pride of the species. The leading edge of evolution takes the youngest layer first.
@@ -234,6 +236,8 @@ Andrey looked into the flames for a long time.
 — About a million.
 
 — A million times in ten years. Moore's law gives about thirty over the same ten years. And human intelligence, over the same ten years, gives one: it doesn't grow. Remember the "rate of profit" of a dynamic system? Here it is, measured. And one more reference point. Researchers at [METR](https://arxiv.org/abs/2503.14499) measured how long the tasks are that machines can finish on their own, in hours of an expert's work. That length has been doubling about every seven months.
+
+![Growth over ten years: compute for training AI about a million times, Moore's law about thirty times, human intelligence not at all](../images/growth-over-ten-years.svg)
 
 — And if you extrapolate?
 

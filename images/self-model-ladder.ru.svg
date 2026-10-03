@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Лестница, а не выключатель</title>
+<defs><marker id="arrow-2a78d6" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#2a78d6"/></marker><marker id="arrow-eb6834" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#eb6834"/></marker></defs>
+<rect x="0.5" y="0.5" width="759" height="439" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Лестница, а не выключатель</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Признаки модели самого себя, снизу вверх. Где включается «настоящее» сознание?</text>
+<text x="188.0" y="100.0" font-size="14" fill="#52514e" text-anchor="middle" font-weight="600">Живые системы: зеркальный тест</text>
+<line x1="48.0" y1="410.0" x2="48.0" y2="118.0" stroke="#8a8985" stroke-width="2" stroke-linecap="round"/>
+<line x1="328.0" y1="410.0" x2="328.0" y2="118.0" stroke="#8a8985" stroke-width="2" stroke-linecap="round"/>
+<line x1="48.0" y1="407.0" x2="328.0" y2="407.0" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="62.0" y="379.3" font-size="14" fill="#0b0b0b" font-weight="600">Губан-чистильщик</text>
+<text x="62.0" y="394.3" font-size="11.5" fill="#52514e">2019, спорно</text>
+<line x1="48.0" y1="358.3" x2="328.0" y2="358.3" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="62.0" y="330.7" font-size="14" fill="#0b0b0b" font-weight="600">Сорока</text>
+<text x="62.0" y="345.7" font-size="11.5" fill="#52514e">2008</text>
+<line x1="48.0" y1="309.7" x2="328.0" y2="309.7" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="62.0" y="282.0" font-size="14" fill="#0b0b0b" font-weight="600">Слон</text>
+<text x="62.0" y="297.0" font-size="11.5" fill="#52514e">2006</text>
+<line x1="48.0" y1="261.0" x2="328.0" y2="261.0" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="62.0" y="233.3" font-size="14" fill="#0b0b0b" font-weight="600">Шимпанзе</text>
+<text x="62.0" y="248.3" font-size="11.5" fill="#52514e">Гэллап, 1970</text>
+<line x1="48.0" y1="212.3" x2="328.0" y2="212.3" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="62.0" y="184.7" font-size="14" fill="#0b0b0b" font-weight="600">Ребёнок</text>
+<text x="62.0" y="199.7" font-size="11.5" fill="#52514e">с 1,5–2 лет</text>
+<line x1="48.0" y1="163.7" x2="328.0" y2="163.7" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="62.0" y="136.0" font-size="14" fill="#0b0b0b" font-weight="600">Взрослый человек</text>
+<line x1="358.0" y1="400.0" x2="358.0" y2="128.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow-2a78d6)"/>
+<text x="552.0" y="100.0" font-size="14" fill="#52514e" text-anchor="middle" font-weight="600">Машины: модель самого себя</text>
+<line x1="412.0" y1="410.0" x2="412.0" y2="118.0" stroke="#8a8985" stroke-width="2" stroke-linecap="round"/>
+<line x1="692.0" y1="410.0" x2="692.0" y2="118.0" stroke="#8a8985" stroke-width="2" stroke-linecap="round"/>
+<line x1="412.0" y1="407.0" x2="692.0" y2="407.0" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="426.0" y="355.0" font-size="14" fill="#0b0b0b" font-weight="600">Термостат</text>
+<text x="426.0" y="370.0" font-size="11.5" fill="#52514e">модель комнаты, а не себя</text>
+<line x1="412.0" y1="334.0" x2="692.0" y2="334.0" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="426.0" y="282.0" font-size="14" fill="#0b0b0b" font-weight="600">Робот-«морская звезда»</text>
+<text x="426.0" y="297.0" font-size="11.5" fill="#52514e">перестраивает модель тела, 2006</text>
+<line x1="412.0" y1="261.0" x2="692.0" y2="261.0" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="426.0" y="209.0" font-size="14" fill="#0b0b0b" font-weight="600">Языковая модель</text>
+<text x="426.0" y="224.0" font-size="11.5" fill="#52514e"><tspan x="426.0" dy="0.0">предсказывает себя лучше внешней</tspan><tspan x="426.0" dy="14.4">модели, простые задачи, 2024</tspan></text>
+<line x1="412.0" y1="188.0" x2="692.0" y2="188.0" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<text x="426.0" y="136.0" font-size="14" fill="#eb6834" font-weight="600">?</text>
+<line x1="722.0" y1="400.0" x2="722.0" y2="128.0" stroke="#eb6834" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+</svg>

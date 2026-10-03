@@ -63,6 +63,8 @@ Andrey picked up a stick and drew boxes and arrows in the ash by the fire.
 
 — This is the regulator, the most ordinary one, as engineers draw it. Here are the sensors: they measure what is going on. Here is the setpoint: the value the system has to hold. The comparator subtracts one from the other and gets an error signal. The computing block works out what to do to make the error smaller. The motors do it. The world changes, the sensors measure it again, and the loop closes. In the thermostat the setpoint is twenty-one degrees and the computing block is a single relay.
 
+![A want as a control loop: setpoint, comparator, error signal as emotion, mind as the computing block, motors, world, sensors](../images/wants-control-loop.svg)
+
 — And in me?
 
 — In you there are thousands of setpoints. Hunger, thirst, warmth, fear, sex, curiosity, the wish to be respected, the wish to stand out. Each is a setpoint with its own comparator. Wants are setpoints. Mind is the computing block. And emotions are the error signal: the bigger the gap between the setpoint and reality, the stronger the itch.
@@ -124,6 +126,8 @@ Oleg looked at the ash for a long time.
 — Two, obviously. What's one more day after a year?
 
 — That example is from Richard Thaler, who [got the Nobel Prize](https://en.wikipedia.org/wiki/Hyperbolic_discounting) partly for work like it. Look at what you've just done. It's the same day of waiting, but in one case you won't wait it and in the other you will. The force of a want falls with distance in time, and falls steeply at first. The sweet is here, right now, and its arrow is enormous. Diabetes is ten years away, and its arrow is a thin line.
+
+![Two curves of a want's force over time: from afar two apples are stronger, up close the near apple wins](../images/near-want-wins.svg)
 
 — So "logic two moves deep"...
 

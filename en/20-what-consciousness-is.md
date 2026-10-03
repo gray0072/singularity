@@ -65,6 +65,8 @@ Oleg sat down by the fire with his phone in his hand and held the screen out to 
 
 — A bit. On simple tasks. That's another rung on the ladder, a low one. In 2023 nineteen researchers, neuroscientists, philosophers and engineers, [took](https://arxiv.org/abs/2308.08708) five leading scientific theories of consciousness, derived from each the features a conscious system should have, and checked today's AI systems against that list. Their conclusion: no current system is conscious, but there are no obvious technical obstacles to building systems that have these features. The philosopher David Chalmers [wrote](https://arxiv.org/abs/2303.07103) at about the same time that current models are somewhat unlikely to be conscious, but that their successors may become so within ten years or so.
 
+![Two ladders of self-models: animals in the mirror test from the cleaner wrasse to the adult human, and machines from the thermostat to language models](../images/self-model-ladder.svg)
+
 — "Somewhat unlikely." "May become." Even scientists speak in degrees.
 
 — Because they have stopped asking "yes or no". Now your main objection. Go on, I can see it coming.

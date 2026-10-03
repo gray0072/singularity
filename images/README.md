@@ -11,6 +11,15 @@ Reference images from articles as `../images/<file>`.
 | `world-population-growth.ru.png` | World population growth, UN data (Russian labels) | 10 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_population_(UN)_ru.svg) | Zhwachwa (derivative work) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
 | `dynamic-system-life-cycle.png` | Life cycle of a dynamic system (Russian labels) | 10, 13 | sql.ru attachment 11582885, via the Wayback Machine | Андрей Гордиенко | used with the author's permission |
 | `singularity-vertical-asymptote.png` | Blow-up curve approaching a vertical asymptote | 13 | sql.ru attachment 11716462, via the Wayback Machine | Андрей Гордиенко | used with the author's permission |
+| `skill-age-layers.svg` (+ `.ru.svg`) | How long nature polished each skill (Moravec's paradox), log scale | 16 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `growth-over-ten-years.svg` (+ `.ru.svg`) | Growth over a decade: AI training compute, Moore's law, human intelligence | 16 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `vase-and-slices.svg` (+ `.ru.svg`) | The vase and the flat creature: the block universe seen slice by slice | 17 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `forecast-reliability.svg` (+ `.ru.svg`) | What a local forecaster can foretell: trend, date, details | 17 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `wants-control-loop.svg` (+ `.ru.svg`) | A want as a control loop: setpoint, comparator, mind, motors, sensors | 18 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `near-want-wins.svg` (+ `.ru.svg`) | Hyperbolic discounting: the preference between one apple and two flips | 18 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `forgetting-curve.svg` (+ `.ru.svg`) | Ebbinghaus's forgetting curve, his 1885 data | 19 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `image-platforms.svg` (+ `.ru.svg`) | Images moving from heads to writing, print, the internet and neural networks | 19 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `self-model-ladder.svg` (+ `.ru.svg`) | Ladders of self-models: the mirror test and machines | 20 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

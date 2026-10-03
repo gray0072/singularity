@@ -135,6 +135,8 @@ Oleg thought.
 
 — We see one slice at a time, "now", and we call the sliding of our point of attention along the axis "time".
 
+![A vase with the time axis along it; a flat creature sees one round slice at a time and takes the neck for the cause of the bottom](../images/vase-and-slices.svg)
+
 — Then everything is pointless, — Oleg threw a branch into the fire harder than he needed to. — Why do anything, if the film has already been shot? I'll lie on the sofa, and whatever is written will happen.
 
 — The Greeks had that argument too. It is called the [lazy argument](https://en.wikipedia.org/wiki/Lazy_argument): if you are fated to recover, you'll recover whether you call the doctor or not, so why call him? And Chrysippus answered: the recovery and the call to the doctor are fated together. Your call is part of the picture, one of the causes. Fatalism says the outcome is the same whatever you do. Determinism says that what you do is part of the outcome.
@@ -194,6 +196,8 @@ Oleg thought.
 — Like the cow. That she'll calve, roughly when, and what colour the calf will be.
 
 — Exactly. Remember the gas cylinder with a hole in it? Each molecule flies about chaotically, and nobody can say which one will come out next. But how much gas escapes per second, any engineer will calculate. An insurance company doesn't know which of its clients will die this year, but it knows how many, and it doesn't go bust. The more particles, the steadier the law. Humanity, the technosphere and the economy are systems of billions of particles.
+
+![What a local forecaster can foretell: the trend best, the date worse, the details hardly at all](../images/forecast-reliability.svg)
 
 — That's why your trends hold and your dates miss.
 
