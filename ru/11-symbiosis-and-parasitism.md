@@ -9,7 +9,7 @@ author: "Андрей Гордиенко (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-11-12
 tags: []
-source: http://www.sql.ru/blogs/garya/1078
+source: sql.ru/blogs/garya/1078
 archive: https://web.archive.org/web/20181024064141/http://www.sql.ru/blogs/garya/1078
 sqlru: ../sources/garya/sqlru/11-symbiosis-and-parasitism.md
 notes: ../sources/garya/en/11-symbiosis-and-parasitism.md
@@ -58,7 +58,7 @@ status: original
 
 — Это из-за антропоцентризма. Чтобы не вносить сумятицу, давай все-таки использовать термин "динамическая система", а не "живая". Может быть, это поможет. Так вот, [вчера мы рассматривали](10-life-cycle-and-death.md) динамику двух динамических систем — "человечество" и "техносфера". Техносфера возникла примерно на 4 миллиона лет позже человечества, она "более молодая" динамическая система. И она развивается быстрее, чем человечество. Я полагаю, это как раз связано с особенностями "платформы". Отличия платформ мы обсудим в следующий раз. А сейчас посмотрим на этот график, чтобы понять, как эти динамические системы друг с другом взаимодействуют.
 
-<!-- TODO image: http://www.sql.ru/forum/actualfile.aspx?id=11587264 -->
+<!-- TODO image: www.sql.ru/forum/actualfile.aspx?id=11587264 -->
 
 — Что такое "F притяжения"?
 

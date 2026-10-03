@@ -9,7 +9,7 @@ author: "Андрей Гордиенко (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-10-22
 tags: ["искусственный интеллект", "сознание"]
-source: http://www.sql.ru/blogs/garya/1061
+source: sql.ru/blogs/garya/1061
 archive: https://web.archive.org/web/20181025210541/http://www.sql.ru/blogs/garya/1061
 sqlru: ../sources/garya/sqlru/05-artificial-intelligence.md
 notes: ../sources/garya/en/05-artificial-intelligence.md

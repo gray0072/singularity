@@ -5,7 +5,7 @@ title_en: "Anthropocentrism"
 series_no: 02
 article: ../../../ru/02-anthropocentrism.md
 published: 2011-10-14
-source: http://www.sql.ru/blogs/garya/1053
+source: sql.ru/blogs/garya/1053
 archive: https://web.archive.org/web/20181113064905/http://www.sql.ru/blogs/garya/1053
 comments_total: 16
 author_comments: 5

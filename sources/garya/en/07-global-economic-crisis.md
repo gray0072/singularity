@@ -5,7 +5,7 @@ title_en: "The True Causes of the Global Economic Crisis"
 series_no: 07
 article: ../../../ru/07-global-economic-crisis.md
 published: 2011-10-26
-source: http://www.sql.ru/blogs/garya/1066
+source: sql.ru/blogs/garya/1066
 archive: https://web.archive.org/web/20181022054953/http://www.sql.ru/blogs/garya/1066
 comments_total: 40
 author_comments: 18

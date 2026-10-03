@@ -5,7 +5,7 @@ title_en: "On the slowing growth of humanity's numbers, on symbiosis and parasit
 series_no: 11
 article: ../../../ru/11-symbiosis-and-parasitism.md
 published: 2011-11-12
-source: http://www.sql.ru/blogs/garya/1078
+source: sql.ru/blogs/garya/1078
 archive: https://web.archive.org/web/20181024064141/http://www.sql.ru/blogs/garya/1078
 comments_total: 11
 author_comments: 4
@@ -75,7 +75,7 @@ Oleg asks why population growth has slowed — was Malthus right? Andrey says Ma
 - Wikipedia (ru) links: История населения Земли, Мальтузианство, Демографический переход, Чайлдфри, Симметрия (физика), Продление жизни, Симбиоз, Синергия.
 - newsru.com/world/01aug2011/mozg.html — news item cited as "a known scientific fact" that brain growth (cephalisation) has reached its limit.
 - Reference back to article 05 (artificial intelligence) for the AI-parity date.
-- Image: http://www.sql.ru/forum/actualfile.aspx?id=11587264 — graph of attraction forces between humanity and technosphere over time (technosphere's interest falling, humanity's rising, crossing at parity; thin green cohesion curve; phases symbiosis → parasitism → break). Proposed name: `humanity-technosphere-attraction-forces.png`.
+- Image: `www.sql.ru/forum/actualfile.aspx?id=11587264` — graph of attraction forces between humanity and technosphere over time (technosphere's interest falling, humanity's rising, crossing at parity; thin green cohesion curve; phases symbiosis → parasitism → break). Proposed name: `humanity-technosphere-attraction-forces.png`.
 - Note: image descriptions are inferred from the surrounding text and captions; the images themselves were not viewed.
 
 ## The author in the comments

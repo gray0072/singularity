@@ -9,7 +9,7 @@ author: "Андрей Гордиенко (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-12-06
 tags: []
-source: http://www.sql.ru/blogs/garya/1095
+source: sql.ru/blogs/garya/1095
 archive: https://web.archive.org/web/20181018164254/http://www.sql.ru/blogs/garya/1095
 sqlru: ../sources/garya/sqlru/13-singularity-as-process.md
 notes: ../sources/garya/en/13-singularity-as-process.md

@@ -5,7 +5,7 @@ title_en: "The apoptosis of humanity"
 series_no: 14
 article: ../../../ru/14-apoptosis-of-humanity.md
 published: 2011-12-18
-source: http://www.sql.ru/blogs/garya/1103
+source: sql.ru/blogs/garya/1103
 archive: https://web.archive.org/web/20181109163024/http://www.sql.ru/blogs/garya/1103
 comments_total: 132
 author_comments: 46

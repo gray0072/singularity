@@ -5,7 +5,7 @@ title_en: "Singularity as a process"
 series_no: 13
 article: ../../../ru/13-singularity-as-process.md
 published: 2011-12-06
-source: http://www.sql.ru/blogs/garya/1095
+source: sql.ru/blogs/garya/1095
 archive: https://web.archive.org/web/20181018164254/http://www.sql.ru/blogs/garya/1095
 comments_total: 18
 author_comments: 8
@@ -67,9 +67,9 @@ Published after a three-week gap (see the delay explained in article 12's commen
 - Also named: G. D. Snooks (1996), S. P. Kapitsa (1996), John von Neumann (1940s–50s, "singularity").
 - Author's forecast table (as given in the article): Panov — 2064, humanity, singularity from Dyakonov's historical phases; Panov — 1989, humanity, phase transition to post-capitalism; Kapitsa — 2027, humanity, blow-up of the self-similar population growth law; A. E. Chuchin-Rusov — 2015, humanity, convergence of cultural-ecological formations; S. N. Grinchenko — 1981, humanity, invariance point of system-memory mechanisms; Wikipedia (demographic transition) — 2050, population growth stops; A. Antonov (MSU sociology) — 2051–2055, no country above replacement fertility; von Foerster — 2026, population blow-up; Dani Eder — 2016–2018, technological singularity; 2007 report of the US Congress Joint Economic Committee — 2020–2030, technological singularity; Vernor Vinge — 2020–2040; Kurzweil — 2014 supercomputers reach human brain power, 2020 PCs do, 2029 Turing test passed, 2040 humans abandon biological bodies, 2045 singularity, Earth becomes a supercomputer network; IBM SyNAPSE — 2018 human-level supercomputer, "by my estimate +10–12 years and unemployment on Earth reaches 100%"; Panov — 2004, biosphere, from prokaryote phases; history — 2007–2008, start of the global economic crisis.
 - Video (YouTube 69TZWEJBbIg) — bedtime listening at the end.
-- Image: http://www.sql.ru/forum/actualfile.aspx?id=11716462 — graph of a blow-up (hyperbolic/geometric) evolution curve approaching a vertical asymptote at the singularity point. Proposed name: `singularity-vertical-asymptote.png`.
-- Image: http://www.sql.ru/forum/actualfile.aspx?id=11582885 — the generic life-cycle curve of a dynamic system, reused from article 10. Proposed name: `dynamic-system-life-cycle.png`.
-- Comments: ru.wikipedia.org/wiki/Негэнтропия; the sql.ru forum thread that preceded the blog: http://www.sql.ru/forum/actualthread.aspx?tid=695766.
+- Image: [www.sql.ru/forum/actualfile.aspx?id=11716462](https://web.archive.org/web/20220302114137/https://www.sql.ru/forum/actualfile.aspx?id=11716462) — graph of a blow-up (hyperbolic/geometric) evolution curve approaching a vertical asymptote at the singularity point. Proposed name: `singularity-vertical-asymptote.png`.
+- Image: [www.sql.ru/forum/actualfile.aspx?id=11582885](https://web.archive.org/web/20140920132326/http://www.sql.ru/forum/actualfile.aspx?id=11582885) — the generic life-cycle curve of a dynamic system, reused from article 10. Proposed name: `dynamic-system-life-cycle.png`.
+- Comments: ru.wikipedia.org/wiki/Негэнтропия; the sql.ru forum thread that preceded the blog: [www.sql.ru/forum/actualthread.aspx?tid=695766](https://web.archive.org/web/20111130034717/http://www.sql.ru:80/forum/actualthread.aspx?tid=695766).
 - Note: image descriptions are inferred from the surrounding text and captions; the images themselves were not viewed.
 
 ## The author in the comments

@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-10-26
 tags: ["STP", "scientific and technological progress", "global economic crisis", "technosphere"]
-source: http://www.sql.ru/blogs/garya/1066
+source: sql.ru/blogs/garya/1066
 archive: https://web.archive.org/web/20181022054953/http://www.sql.ru/blogs/garya/1066
 sqlru: ../sources/garya/sqlru/07-global-economic-crisis.md
 notes: ../sources/garya/en/07-global-economic-crisis.md

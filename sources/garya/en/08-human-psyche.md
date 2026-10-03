@@ -5,7 +5,7 @@ title_en: "On Some Peculiarities of the Human Psyche"
 series_no: 08
 article: ../../../ru/08-human-psyche.md
 published: 2011-10-29
-source: http://www.sql.ru/blogs/garya/1069
+source: sql.ru/blogs/garya/1069
 archive: https://web.archive.org/web/20181109163017/http://www.sql.ru/blogs/garya/1069
 comments_total: 11
 author_comments: 6
@@ -59,7 +59,7 @@ Andrey goes back to the claim from article 04 that reason follows causal chains 
 - Hegel: the law of the unity and struggle of opposites, named as a basic natural law.
 - In comments: Raja yoga (the author's note that the post describes one of its techniques for exploring one's own consciousness). Vadim Zeland's "pendulums" (Reality Transurfing), raised by a reader and kept at a distance by the author.
 - Lenin ("communist upbringing") and the Olympic Games are discussed in comments.
-- Image: `https://web.archive.org/web/20181109163017im_/http://www.sql.ru/forum/actualfile.aspx?id=11520389` (original `http://www.sql.ru/forum/actualfile.aspx?id=11520389`, alt text "Картинка с другого сайта", "picture from another site"). It is placed right after the paragraph about a person in the space of causal links with explored links "highlighted in colour". It most likely illustrates that idea: a radial or network diagram with chains explored to different depths. The content could not be checked, because the archive copy did not return the image (rate-limited or missing). Proposed name: `uneven-knowledge-causal-links.png` (rename if the actual picture shows something else). It is a third-party image ("from another site"), so it probably needs to be redrawn.
+- Image: `https://web.archive.org/web/20181109163017im_/http://www.sql.ru/forum/actualfile.aspx?id=11520389` (original `www.sql.ru/forum/actualfile.aspx?id=11520389`, alt text "Картинка с другого сайта", "picture from another site"). It is placed right after the paragraph about a person in the space of causal links with explored links "highlighted in colour". It most likely illustrates that idea: a radial or network diagram with chains explored to different depths. The content could not be checked, because the archive copy did not return the image (rate-limited or missing). Proposed name: `uneven-knowledge-causal-links.png` (rename if the actual picture shows something else). It is a third-party image ("from another site"), so it probably needs to be redrawn.
 
 ## The author in the comments
 **Method**

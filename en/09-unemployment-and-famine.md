@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-11-01
 tags: []
-source: http://www.sql.ru/blogs/garya/1073
+source: sql.ru/blogs/garya/1073
 archive: https://web.archive.org/web/20181109162420/http://www.sql.ru/blogs/garya/1073
 sqlru: ../sources/garya/sqlru/09-unemployment-and-famine.md
 notes: ../sources/garya/en/09-unemployment-and-famine.md

@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-11-12
 tags: []
-source: http://www.sql.ru/blogs/garya/1078
+source: sql.ru/blogs/garya/1078
 archive: https://web.archive.org/web/20181024064141/http://www.sql.ru/blogs/garya/1078
 sqlru: ../sources/garya/sqlru/11-symbiosis-and-parasitism.md
 notes: ../sources/garya/en/11-symbiosis-and-parasitism.md

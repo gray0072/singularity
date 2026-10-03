@@ -3,7 +3,7 @@ post: 1095
 title: "Сингулярность как процесс"
 article: ../../../ru/13-singularity-as-process.md
 published: 2011-12-06
-source: http://www.sql.ru/blogs/garya/1095
+source: sql.ru/blogs/garya/1095
 archive: https://web.archive.org/web/20181018164254/http://www.sql.ru/blogs/garya/1095
 comments_total: 18
 author_comments: 8
@@ -12,7 +12,7 @@ notes: ../en/13-singularity-as-process.md
 
 # Сингулярность как процесс
 
-Блог «Технологическая сингулярность» на sql.ru, запись от 2011-12-06: текст в том виде, в каком он был опубликован, и комментарии под ним. Комментарии автора (Garya) приведены полностью. Реплики читателей сокращены до 300 знаков и оставлены как контекст; полностью их можно прочитать в [архиве](https://web.archive.org/web/20181018164254/http://www.sql.ru/blogs/garya/1095).
+Блог «Технологическая сингулярность» на sql.ru (сайт закрыт в 2022 году), запись от 2011-12-06: текст в том виде, в каком он был опубликован, и комментарии под ним. Комментарии автора (Garya) приведены полностью. Реплики читателей сокращены до 300 знаков и оставлены как контекст; полностью их можно прочитать в [архиве](https://web.archive.org/web/20181018164254/http://www.sql.ru/blogs/garya/1095).
 
 Статья серии: [Сингулярность как процесс](../../../ru/13-singularity-as-process.md)
 
@@ -212,7 +212,7 @@ Idol_111, дискуссия мне интересна. Но я не вполн�
 
 Можно на форуме в треде, который стал предтечей данного блога.
 
-http://www.sql.ru/forum/actualthread.aspx?tid=695766
+[www.sql.ru/forum/actualthread.aspx?tid=695766](https://web.archive.org/web/20111130034717/http://www.sql.ru:80/forum/actualthread.aspx?tid=695766)
 
 ### 04 апреля 2018, 08:36 · ThomasCix
 

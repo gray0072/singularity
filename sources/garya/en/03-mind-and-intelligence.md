@@ -5,7 +5,7 @@ title_en: "Mind and Intelligence"
 series_no: 03
 article: ../../../ru/03-mind-and-intelligence.md
 published: 2011-10-16
-source: http://www.sql.ru/blogs/garya/1055
+source: sql.ru/blogs/garya/1055
 archive: https://web.archive.org/web/20181027074322/http://www.sql.ru/blogs/garya/1055
 comments_total: 3
 author_comments: 1

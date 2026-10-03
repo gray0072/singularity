@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-11-09
 tags: []
-source: http://www.sql.ru/blogs/garya/1077
+source: sql.ru/blogs/garya/1077
 archive: https://web.archive.org/web/20180910062855/http://www.sql.ru/blogs/garya/1077
 sqlru: ../sources/garya/sqlru/10-life-cycle-and-death.md
 notes: ../sources/garya/en/10-life-cycle-and-death.md

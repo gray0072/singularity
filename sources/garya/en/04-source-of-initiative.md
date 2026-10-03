@@ -5,7 +5,7 @@ title_en: "In Search of the Source of Initiative"
 series_no: 04
 article: ../../../ru/04-source-of-initiative.md
 published: 2011-10-20
-source: http://www.sql.ru/blogs/garya/1058
+source: sql.ru/blogs/garya/1058
 archive: https://web.archive.org/web/20181113070611/http://www.sql.ru/blogs/garya/1058
 comments_total: 9
 author_comments: 4

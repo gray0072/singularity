@@ -9,7 +9,7 @@ author: "Андрей Гордиенко (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-10-16
 tags: ["разум", "интеллект", "логичность", "ареал-логичность"]
-source: http://www.sql.ru/blogs/garya/1055
+source: sql.ru/blogs/garya/1055
 archive: https://web.archive.org/web/20181027074322/http://www.sql.ru/blogs/garya/1055
 sqlru: ../sources/garya/sqlru/03-mind-and-intelligence.md
 notes: ../sources/garya/en/03-mind-and-intelligence.md

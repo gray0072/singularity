@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-10-25
 tags: ["technosphere"]
-source: http://www.sql.ru/blogs/garya/1065
+source: sql.ru/blogs/garya/1065
 archive: https://web.archive.org/web/20190415122212/http://www.sql.ru/blogs/garya/1065
 sqlru: ../sources/garya/sqlru/06-karl-marx-mistake.md
 notes: ../sources/garya/en/06-karl-marx-mistake.md

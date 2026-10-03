@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-10-09
 tags: []
-source: http://www.sql.ru/blogs/garya/1051
+source: sql.ru/blogs/garya/1051
 archive: https://web.archive.org/web/20181204120328/http://www.sql.ru/blogs/garya/1051
 sqlru: ../sources/garya/sqlru/01-introduction.md
 notes: ../sources/garya/en/01-introduction.md

@@ -60,6 +60,47 @@ EXTRA_POSTS = [
     (1278, "2012-05-17-seti-talk", "20181024181550"),
 ]
 SLUG_BY_POST = {post: f"{num:02d}-{slug}.md" for num, post, slug, _ in ARTICLES}
+EXTRA_BY_POST = {post: f"{name}.md" for post, name, _ in EXTRA_POSTS}
+
+# sql.ru stopped working in March 2022, so every link to it is dead. Links to posts of the blog become relative
+# links, pages that the Wayback Machine kept are linked there, and everything else stays as plain, unlinked text.
+ARCHIVED_PAGES = {
+    "http://www.sql.ru/forum/actualthread.aspx?tid=695766":
+        "https://web.archive.org/web/20111130034717/http://www.sql.ru:80/forum/actualthread.aspx?tid=695766",
+    "http://www.sql.ru/blogs/garya/?skip=11":
+        "https://web.archive.org/web/20210423045807/https://www.sql.ru/blogs/garya/?skip=11",
+    "http://www.sql.ru/forum/actualfile.aspx?id=11582885":
+        "https://web.archive.org/web/20140920132326/http://www.sql.ru/forum/actualfile.aspx?id=11582885",
+    "http://www.sql.ru/forum/actualfile.aspx?id=11716462":
+        "https://web.archive.org/web/20220302114137/https://www.sql.ru/forum/actualfile.aspx?id=11716462",
+}
+SQLRU_URL = re.compile(r"(?<![/\w`])https?://(?:www\.)?sql\.ru(?::80)?/[^\s<>()\[\]\"'`]*?(?=[.,;:!?]*(?:[\s<>()\[\]\"'`]|$))")
+
+
+def sqlru_target(url, articles_prefix, sqlru_prefix):
+    """Where a link to the closed sql.ru points now, or None if it can only be plain text."""
+    m = re.search(r"sql\.ru(?::80)?/blogs/garya/(\d+)/?$", url)
+    if m and int(m.group(1)) in SLUG_BY_POST:
+        return articles_prefix + SLUG_BY_POST[int(m.group(1))]
+    if m and int(m.group(1)) in EXTRA_BY_POST:
+        return sqlru_prefix + EXTRA_BY_POST[int(m.group(1))]
+    return ARCHIVED_PAGES.get(url)
+
+
+def unlink_sqlru(text, articles_prefix="", sqlru_prefix="../sources/garya/sqlru/"):
+    """Rewrite links to sql.ru in Markdown text; the prefixes lead from the file to ru/ and to sources/garya/sqlru/."""
+    def anchor(m):
+        target = sqlru_target(m.group(2), articles_prefix, sqlru_prefix)
+        return f"[{m.group(1)}]({target})" if target else m.group(1)
+
+    def bare(m):
+        shown = re.sub(r"^https?://", "", m.group(0))
+        target = sqlru_target(m.group(0), articles_prefix, sqlru_prefix)
+        return f"[{shown}]({target})" if target else f"`{shown}`"
+
+    text = re.sub(r"\[([^\]]*)\]\((https?://(?:www\.)?sql\.ru[^)\s]*)\)", anchor, text)
+    text = re.sub(r"`https?://((?:www\.)?sql\.ru[^`]*)`", r"`\1`", text)
+    return SQLRU_URL.sub(bare, text)
 
 # The author's own charts that survive in the Wayback Machine: attachment id -> shared file name.
 AUTHOR_IMAGES = {
@@ -129,7 +170,8 @@ class BodyToMarkdown(HTMLParser):
             self.link = (unwrap_archive(a.get("href", "")), len(self.out))
         elif tag == "img":
             src = unwrap_archive(a.get("src", ""))
-            md = next((v for k, v in IMAGES.items() if k in src), f"<!-- TODO image: {src} -->")
+            md = next((v for k, v in IMAGES.items() if k in src),
+                      f"<!-- TODO image: {re.sub(r'^https?://', '', src)} -->")
             if self.link_prefix:
                 md = md.replace("](../images/", f"]({self.link_prefix}../images/")
             self.out.append(f"\n\n{md}\n\n")
@@ -168,7 +210,8 @@ def to_markdown(body_html, link_prefix=""):
         line = re.sub(r"^[-–—]\s*", "— ", line)
         line = re.sub(r" [-–] ", " — ", line)
         paragraphs.append(line)
-    return "\n\n".join(paragraphs) + "\n"
+    sqlru_prefix = "" if link_prefix else "../sources/garya/sqlru/"
+    return unlink_sqlru("\n\n".join(paragraphs) + "\n", link_prefix, sqlru_prefix)
 
 
 def parse(page):
@@ -205,7 +248,7 @@ def front_matter(num, slug, title, date, tags, post, archive_url):
         f"author_url: {AUTHOR_URL}\n"
         f"published: {date}\n"
         f"tags: [{tag_list}]\n"
-        f"source: http://www.sql.ru/blogs/garya/{post}\n"
+        f"source: sql.ru/blogs/garya/{post}\n"
         f"archive: {archive_url}\n"
         f"sqlru: ../sources/garya/sqlru/{num:02d}-{slug}.md\n"
         f"notes: ../sources/garya/en/{num:02d}-{slug}.md\n"
@@ -230,7 +273,7 @@ def sqlru_md(post, name, title, date, archive_url, article, comments, post_body)
         f'title: "{title}"',
         f"article: {article or 'none'}",
         f"published: {date}",
-        f"source: http://www.sql.ru/blogs/garya/{post}",
+        f"source: sql.ru/blogs/garya/{post}",
         f"archive: {archive_url}",
         f"comments_total: {len(comments)}",
         f"author_comments: {own}",
@@ -239,8 +282,8 @@ def sqlru_md(post, name, title, date, archive_url, article, comments, post_body)
         "",
         f"# {title}",
         "",
-        f"Блог «Технологическая сингулярность» на sql.ru, запись от {date}: текст в том виде, в каком он был "
-        f"опубликован, и комментарии под ним. Комментарии автора ({AUTHOR_NICK}) приведены полностью. Реплики "
+        f"Блог «Технологическая сингулярность» на sql.ru (сайт закрыт в 2022 году), запись от {date}: текст в "
+        f"том виде, в каком он был опубликован, и комментарии под ним. Комментарии автора ({AUTHOR_NICK}) приведены полностью. Реплики "
         f"читателей сокращены до {CONTEXT_CHARS} знаков и оставлены как контекст; полностью их можно прочитать в "
         f"[архиве]({archive_url}).",
     ]

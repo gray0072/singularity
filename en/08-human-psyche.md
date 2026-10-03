@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-10-29
 tags: []
-source: http://www.sql.ru/blogs/garya/1069
+source: sql.ru/blogs/garya/1069
 archive: https://web.archive.org/web/20181109163017/http://www.sql.ru/blogs/garya/1069
 sqlru: ../sources/garya/sqlru/08-human-psyche.md
 notes: ../sources/garya/en/08-human-psyche.md

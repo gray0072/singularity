@@ -5,7 +5,7 @@ title_en: "The history of unemployment, the causes of famine in Africa, and the 
 series_no: 09
 article: ../../../ru/09-unemployment-and-famine.md
 published: 2011-11-01
-source: http://www.sql.ru/blogs/garya/1073
+source: sql.ru/blogs/garya/1073
 archive: https://web.archive.org/web/20181109162420/http://www.sql.ru/blogs/garya/1073
 comments_total: 105
 author_comments: 42

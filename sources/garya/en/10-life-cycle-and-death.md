@@ -5,7 +5,7 @@ title_en: "On the life cycle of dynamic systems and the meaning of death"
 series_no: 10
 article: ../../../ru/10-life-cycle-and-death.md
 published: 2011-11-09
-source: http://www.sql.ru/blogs/garya/1077
+source: sql.ru/blogs/garya/1077
 archive: https://web.archive.org/web/20180910062855/http://www.sql.ru/blogs/garya/1077
 comments_total: 2
 author_comments: 1
@@ -71,8 +71,8 @@ This is the "theory" evening announced in the comments to article 09: a general 
 - Video (YouTube z8Cbpgi5zZA) — Danila Medvedev on defeating death.
 - Wikipedia (ru): "Население Земли" (world population; deceleration since 1989), "Демографический переход" (13 countries with falling population in 1970, 66 in 2002).
 - Video (YouTube pLjOI9REAVE) — lecture on the acceleration of progress, given as bedtime homework.
-- Image: http://www.sql.ru/forum/actualfile.aspx?id=11582885 — generic life-cycle curve of a dynamic system (investment, birth, accelerating growth with thin lilac exponential approximation, decelerating growth, limit, ageing, death, decay). Reused in article 13. Proposed name: `dynamic-system-life-cycle.png`.
-- Image: http://www.sql.ru/forum/actualfile.aspx?id=11584337 — evolution curves of humanity and technosphere over time: humanity bending into deceleration with three dashed forecasts, technosphere growing with oscillations and one dashed forecast. Proposed name: `humanity-technosphere-evolution-curves.png`.
+- Image: [www.sql.ru/forum/actualfile.aspx?id=11582885](https://web.archive.org/web/20140920132326/http://www.sql.ru/forum/actualfile.aspx?id=11582885) — generic life-cycle curve of a dynamic system (investment, birth, accelerating growth with thin lilac exponential approximation, decelerating growth, limit, ageing, death, decay). Reused in article 13. Proposed name: `dynamic-system-life-cycle.png`.
+- Image: `www.sql.ru/forum/actualfile.aspx?id=11584337` — evolution curves of humanity and technosphere over time: humanity bending into deceleration with three dashed forecasts, technosphere growing with oscillations and one dashed forecast. Proposed name: `humanity-technosphere-evolution-curves.png`.
 - Image: http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/World_population_%28UN%29_ru.svg/300px-World_population_%28UN%29_ru.svg.png — UN world population history and projections (Russian labels). Proposed name: `world-population-growth.ru.png` (stored; English variant `world-population-growth.png` to add).
 - Note: image descriptions are inferred from the surrounding text and captions; the images themselves were not viewed.
 

@@ -5,7 +5,7 @@ title_en: "Roger Penrose's counterarguments"
 series_no: 15
 article: ../../../ru/15-penrose-counterarguments.md
 published: 2012-04-05
-source: http://www.sql.ru/blogs/garya/1245
+source: sql.ru/blogs/garya/1245
 archive: https://web.archive.org/web/20181109163033/http://www.sql.ru/blogs/garya/1245
 comments_total: 13
 author_comments: 4

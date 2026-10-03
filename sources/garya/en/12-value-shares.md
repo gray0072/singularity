@@ -5,7 +5,7 @@ title_en: "The shares of value created by people and by the technosphere"
 series_no: 12
 article: ../../../ru/12-value-shares.md
 published: 2011-11-13
-source: http://www.sql.ru/blogs/garya/1079
+source: sql.ru/blogs/garya/1079
 archive: https://web.archive.org/web/20181109162425/http://www.sql.ru/blogs/garya/1079
 comments_total: 24
 author_comments: 10

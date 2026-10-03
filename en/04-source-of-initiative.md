@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-10-20
 tags: ["will", "initiative", "mind"]
-source: http://www.sql.ru/blogs/garya/1058
+source: sql.ru/blogs/garya/1058
 archive: https://web.archive.org/web/20181113070611/http://www.sql.ru/blogs/garya/1058
 sqlru: ../sources/garya/sqlru/04-source-of-initiative.md
 notes: ../sources/garya/en/04-source-of-initiative.md

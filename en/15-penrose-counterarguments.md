@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2012-04-05
 tags: []
-source: http://www.sql.ru/blogs/garya/1245
+source: sql.ru/blogs/garya/1245
 archive: https://web.archive.org/web/20181109163033/http://www.sql.ru/blogs/garya/1245
 sqlru: ../sources/garya/sqlru/15-penrose-counterarguments.md
 notes: ../sources/garya/en/15-penrose-counterarguments.md

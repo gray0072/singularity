@@ -9,7 +9,7 @@ author: "Andrey Gordienko (Garya)"
 author_url: https://proza.ru/avtor/garya
 published: 2011-10-14
 tags: ["anthropocentrism"]
-source: http://www.sql.ru/blogs/garya/1053
+source: sql.ru/blogs/garya/1053
 archive: https://web.archive.org/web/20181113064905/http://www.sql.ru/blogs/garya/1053
 sqlru: ../sources/garya/sqlru/02-anthropocentrism.md
 notes: ../sources/garya/en/02-anthropocentrism.md

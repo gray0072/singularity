@@ -5,7 +5,7 @@ title_en: "Karl Marx's Mistake"
 series_no: 06
 article: ../../../ru/06-karl-marx-mistake.md
 published: 2011-10-25
-source: http://www.sql.ru/blogs/garya/1065
+source: sql.ru/blogs/garya/1065
 archive: https://web.archive.org/web/20190415122212/http://www.sql.ru/blogs/garya/1065
 comments_total: 203
 author_comments: 90

@@ -5,7 +5,7 @@ title_en: "Introduction"
 series_no: 01
 article: ../../../ru/01-introduction.md
 published: 2011-10-09
-source: http://www.sql.ru/blogs/garya/1051
+source: sql.ru/blogs/garya/1051
 archive: https://web.archive.org/web/20181204120328/http://www.sql.ru/blogs/garya/1051
 comments_total: 2
 author_comments: 1
