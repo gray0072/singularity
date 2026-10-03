@@ -30,6 +30,8 @@ Reference images from articles as `../images/<file>`.
 | `page-of-translation.svg` (+ `.ru.svg`) | One page of translation in minutes of human work: by hand, checking, the machine's own cost | 24 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `bank-tellers.svg` (+ `.ru.svg`) | Full-time bank tellers in the US, 2000–2025 (FRED, BLS CPS) | 24 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `profession-shields.svg` (+ `.ru.svg`) | What shields a profession: words, hands, the signature, “made by a human”, and the customer under them | 24 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `basic-income-arithmetic.svg` (+ `.ru.svg`) | A basic income for US adults against GDP and federal spending, 2025 | 25 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `freebie-circle.svg` (+ `.ru.svg`) | The circle of the freebie: taxes, basic income, purchases, and machines buying from machines | 25 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

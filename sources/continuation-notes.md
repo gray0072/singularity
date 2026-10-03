@@ -281,3 +281,36 @@ FIDE rated players; Common Sense Media 2025 (72%, 52%, 31%).
 **Figures**: `page-of-translation`, `bank-tellers`, `profession-shields`.
 
 **Left for later**: basic income ("freebies for everyone"), who pays and how long → 25 (promised).
+
+## 25. Freebies for Everyone?
+
+**Established**
+- "Free in one place means paid in another" (article 11) applied to basic income: every freebie has an address where it
+  is paid for (Rome's grain dole paid by Egypt, Sicily and Africa; Alaska's dividend by oil; the American experiment
+  by donors' tech fortunes; Finland by taxes). The experiments are accepted as honest: people barely work less.
+- Arithmetic: $1,000 a month for 260 million US adults ≈ $3.1 trillion a year ≈ a tenth of GDP ($30.8T), nearly half
+  of federal outlays ($7.0T).
+- The circle: the technosphere pays (taxes) so that people can pay it (purchases). Only solvent demand brings profit
+  (07); the freebie is the technosphere's cost of keeping a customer while it needs one (the near-zero rates after
+  2008 were a disguised freebie). Machines increasingly buy from machines (Furman: IT investment ≈ 4% of GDP gave 92%
+  of US growth in H1 2025; disputed because chips are imported); when the main customer is the technosphere itself,
+  the human customer and his freebie become optional.
+- Basic income as the likely form of the short parasitism phase predicted in article 11: humanity holding on to the
+  technosphere's output by law, not by rebellion. Parasitism is a biological word, not a moral one (the mistletoe on
+  the birch at the dacha). It holds while voters still control something the technosphere needs.
+- A freebie does not calm wants (bread and circuses; the setpoint rises; equal money buys no status) and removes the
+  need that held people together ("communism by technical progress", the author's 2023 phrase; the aquarium with a
+  feeder and no owner).
+
+**Images and devices used**: Oleg's thermos of "free" tea (opens and closes the evening); the mistletoe on the birch;
+the aquarium with a feeder; bread and circuses.
+
+**Facts used**: Finland 2017–2018 (2,000 people, €560; life satisfaction 7.3 vs 6.8); OpenResearch 2020–2023 (1,000 ×
+$1,000 vs 2,000 × $50; −1.3 h/week, −2 points employment); Alaska PFD since 1982, $1,000 in 2025; Roman grain dole
+under Augustus (~200,000 recipients); Bill Gates's robot tax (2017); CBO FY2025 outlays $7.0T; US GDP 2025 ≈ $30.8T;
+Furman (September 2025).
+
+**Figures**: `basic-income-arithmetic`, `freebie-circle`.
+
+**Left for later**: why people stopped having children, and why the most generous child benefits do not help → 26
+(promised).

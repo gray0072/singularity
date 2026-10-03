@@ -979,6 +979,73 @@ def profession_shields(lang):
     return f
 
 
+# --- 25. Freebies for Everyone? -----------------------------------------------------------------
+
+@figure("basic-income-arithmetic")
+def basic_income_arithmetic(lang):
+    t = {
+        "en": dict(title="A basic income for America, on the back of an envelope",
+                   sub="Trillions of dollars a year, 2025.",
+                   rows=[("The whole economy (GDP)", 30.8, MUTED), ("All federal spending", 7.0, MUTED),
+                         ("$1,000 a month × 260 million adults", 3.1, ORANGE)],
+                   unit="trillion", note="≈ a tenth of the economy, nearly half of the budget",
+                   src="Sources: BEA, CBO (fiscal year 2025); the sum of the OpenResearch experiment, 2020–2023."),
+        "ru": dict(title="Базовый доход для Америки на коленке",
+                   sub="Триллионов долларов в год, 2025.",
+                   rows=[("Вся экономика (ВВП)", 30.8, MUTED), ("Все федеральные расходы", 7.0, MUTED),
+                         ("$1000 в месяц × 260 млн взрослых", 3.1, ORANGE)],
+                   unit="трлн", note="≈ десятая часть экономики, почти половина бюджета",
+                   src="Источники: BEA, CBO (2025 финансовый год); сумма эксперимента OpenResearch, 2020–2023."),
+    }[lang]
+    f = Fig(760, 290, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, scale = 300, 11
+    for i, (label, v, c) in enumerate(t["rows"]):
+        y = 86 + i * 44
+        f.text(x0 - 12, y + 18, label, size=13.5, anchor="end")
+        w = v * scale
+        f.rect(x0, y + 3, w, 24, fill=c, r=4)
+        num = f"{v:.1f}".replace(".", "," if lang == "ru" else ".")
+        f.text(x0 + w + 8, y + 20, f"{num} {t['unit']}", size=12.5, color=INK, weight="600")
+    f.text(x0, 86 + 2 * 44 + 50, t["note"], size=12.5, color=ORANGE)
+    f.text(28, 276, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("freebie-circle")
+def freebie_circle(lang):
+    t = {
+        "en": dict(title="The circle of the freebie",
+                   sub="The technosphere pays people so that people can pay it, while it needs a human customer.",
+                   tech="Technosphere", state="State", people="People",
+                   a1="taxes", a2="basic income", a3="purchases",
+                   inner="machines buy from machines:\nchips, data centres, electricity",
+                   note="When the inner circle outgrows the outer one, the human customer becomes optional."),
+        "ru": dict(title="Круг халявы",
+                   sub="Техносфера платит людям, чтобы люди платили ей, — пока ей нужен покупатель-человек.",
+                   tech="Техносфера", state="Государство", people="Люди",
+                   a1="налоги", a2="базовый доход", a3="покупки",
+                   inner="машины покупают у машин:\nчипы, ЦОДы, электричество",
+                   note="Когда внутренний круг перерастёт внешний, покупатель-человек станет необязательным."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    f.box(300, 92, 160, 52, t["tech"], stroke=ORANGE, fill="#fdf0ea", weight="600", size=15)
+    f.box(560, 250, 140, 50, t["state"], weight="600", size=15)
+    f.box(60, 250, 140, 50, t["people"], stroke=BLUE, fill="#eaf2fc", weight="600", size=15)
+    f.path("M460,124 C560,140 620,190 630,246", color=INK2, width=2, arrow=True)
+    f.text(590, 170, t["a1"], size=12.5, color=INK2)
+    f.path("M558,286 C450,320 310,320 204,286", color=INK2, width=2, arrow=True)
+    f.text(380, 330, t["a2"], size=12.5, color=INK2, anchor="middle")
+    f.path("M130,248 C140,190 200,140 298,124", color=BLUE, width=2, arrow=True)
+    f.text(150, 170, t["a3"], size=12.5, color=BLUE, anchor="end")
+    # inner self-loop of the technosphere
+    f.path("M340,146 C320,215 440,215 420,146", color=ORANGE, width=2.5, arrow=True)
+    f.text(380, 232, t["inner"], size=12, color=ORANGE, anchor="middle")
+    f.text(380, 382, t["note"], size=12, color=INK2, italic=True, anchor="middle")
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:
