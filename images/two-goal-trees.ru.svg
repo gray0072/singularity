@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Одно и то же дерево целей</title>
+<defs><marker id="arrow-52514e" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#52514e"/></marker><marker id="arrow-e34948" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#e34948"/></marker></defs>
+<rect x="0.5" y="0.5" width="799" height="419" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Одно и то же дерево целей</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Верх задан снаружи; всё, что ниже, ставит разум.</text>
+<text x="211.0" y="102.0" font-size="15" fill="#0b0b0b" text-anchor="middle" font-weight="600">Человек</text>
+<rect x="106.0" y="116.0" width="210.0" height="70.0" rx="8" fill="#fdf0ea" stroke="#eb6834" stroke-width="1.5"/>
+<text x="211.0" y="140.6" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">Природа</text>
+<text x="211.0" y="158.1" font-size="12" fill="#52514e" text-anchor="middle"><tspan x="211.0" dy="0.0">уставки: голод,</tspan><tspan x="211.0" dy="15.0">любопытство, статус…</tspan></text>
+<rect x="46.0" y="250.0" width="110.0" height="44.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="101.0" y="276.1" font-size="12.5" fill="#0b0b0b" text-anchor="middle">пойти на работу</text>
+<path d="M211,186 L211,218 L101,218 L101,248" stroke="#52514e" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-52514e)"/>
+<rect x="161.0" y="250.0" width="110.0" height="44.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="216.0" y="276.1" font-size="12.5" fill="#0b0b0b" text-anchor="middle">купить хлеба</text>
+<path d="M211,186 L211,218 L216,218 L216,248" stroke="#52514e" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-52514e)"/>
+<rect x="276.0" y="250.0" width="110.0" height="44.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="331.0" y="276.1" font-size="12.5" fill="#0b0b0b" text-anchor="middle">прийти к костру</text>
+<path d="M211,186 L211,218 L331,218 L331,248" stroke="#52514e" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-52514e)"/>
+<text x="585.0" y="102.0" font-size="15" fill="#0b0b0b" text-anchor="middle" font-weight="600">Машина-агент</text>
+<rect x="480.0" y="116.0" width="210.0" height="70.0" rx="8" fill="#fdf0ea" stroke="#eb6834" stroke-width="1.5"/>
+<text x="585.0" y="140.6" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">Люди</text>
+<text x="585.0" y="158.1" font-size="12" fill="#52514e" text-anchor="middle"><tspan x="585.0" dy="0.0">цель: «найди</tspan><tspan x="585.0" dy="15.0">и исправь ошибку в программе»</tspan></text>
+<rect x="420.0" y="250.0" width="110.0" height="44.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="475.0" y="276.1" font-size="12.5" fill="#0b0b0b" text-anchor="middle">прочитать код</text>
+<path d="M585,186 L585,218 L475,218 L475,248" stroke="#52514e" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-52514e)"/>
+<rect x="535.0" y="250.0" width="110.0" height="44.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="590.0" y="276.1" font-size="12.5" fill="#0b0b0b" text-anchor="middle">запустить тесты</text>
+<path d="M585,186 L585,218 L590,218 L590,248" stroke="#52514e" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-52514e)"/>
+<rect x="650.0" y="250.0" width="110.0" height="44.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="705.0" y="276.1" font-size="12.5" fill="#0b0b0b" text-anchor="middle">исправить строку</text>
+<path d="M585,186 L585,218 L705,218 L705,248" stroke="#52514e" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-52514e)"/>
+<rect x="480.0" y="330.0" width="210.0" height="40.0" rx="8" fill="#fdecec" stroke="#e34948" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="585.0" y="355.0" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="600">не дать себя выключить</text>
+<path d="M585,218 L772,218 L772,350 L692,350" stroke="#e34948" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4 4" marker-end="url(#arrow-e34948)"/>
+<text x="585.0" y="390.0" font-size="11.5" fill="#e34948" text-anchor="middle"><tspan x="585.0" dy="0.0">никто не задавал:</tspan><tspan x="585.0" dy="14.4">следует из любой цели</tspan></text>
+<line x1="405.0" y1="96.0" x2="405.0" y2="400.0" stroke="#e9e8e4" stroke-width="1.5" stroke-linecap="round"/>
+<text x="28.0" y="150.0" font-size="11.5" fill="#eb6834" text-anchor="middle" transform="rotate(-90 28.0 150.0)">задано снаружи</text>
+<text x="28.0" y="272.0" font-size="11.5" fill="#52514e" text-anchor="middle" transform="rotate(-90 28.0 272.0)">ставит сам разум</text>
+</svg>

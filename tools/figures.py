@@ -682,6 +682,105 @@ def machine_helper_time(lang):
     return f
 
 
+# --- 22. Who Sets the Tasks ---------------------------------------------------------------------
+
+@figure("two-goal-trees")
+def two_goal_trees(lang):
+    t = {
+        "en": dict(title="The same tree of goals",
+                   sub="The top is set from outside; mind sets everything below it.",
+                   person="A person", machine="A machine agent",
+                   ptop=("Nature", "setpoints: hunger,\ncuriosity, status…"),
+                   mtop=("People", "the goal: “fix\nthe error in the program”"),
+                   psub=["go to work", "buy bread", "come to the fire"],
+                   msub=["read the code", "run the tests", "change a line"],
+                   outside="set from outside", inside="set by mind itself",
+                   extra="stay switched on", extra_note="nobody set this:\nit follows from any goal"),
+        "ru": dict(title="Одно и то же дерево целей",
+                   sub="Верх задан снаружи; всё, что ниже, ставит разум.",
+                   person="Человек", machine="Машина-агент",
+                   ptop=("Природа", "уставки: голод,\nлюбопытство, статус…"),
+                   mtop=("Люди", "цель: «найди\nи исправь ошибку в программе»"),
+                   psub=["пойти на работу", "купить хлеба", "прийти к костру"],
+                   msub=["прочитать код", "запустить тесты", "исправить строку"],
+                   outside="задано снаружи", inside="ставит сам разум",
+                   extra="не дать себя выключить", extra_note="никто не задавал:\nследует из любой цели"),
+    }[lang]
+    f = Fig(800, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+
+    def tree(x0, name, top, subs, extra=False):
+        f.text(x0 + 165, 102, name, size=15, weight="600", anchor="middle")
+        f.box(x0 + 60, 116, 210, 70, top[0], sub=top[1], stroke=ORANGE, fill="#fdf0ea", weight="600")
+        xs = [x0 + i * 115 for i in range(3)]
+        for x, s in zip(xs, subs):
+            f.box(x, 250, 110, 44, s, size=12.5)
+            f.path(f"M{x0 + 165},186 L{x0 + 165},218 L{x + 55},218 L{x + 55},248", color=INK2, width=1.5,
+                   arrow=True)
+        if extra:
+            f.rect(x0 + 60, 330, 210, 40, fill="#fdecec", stroke=RED, r=8, dash="5 4")
+            f.text(x0 + 165, 355, t["extra"], size=13, color=INK, anchor="middle", weight="600")
+            f.path(f"M{x0 + 165},218 L{x0 + 352},218 L{x0 + 352},350 L{x0 + 272},350", color=RED, width=1.5,
+                   dash="4 4", arrow=True)
+            f.text(x0 + 165, 390, t["extra_note"], size=11.5, color=RED, anchor="middle")
+
+    tree(46, t["person"], t["ptop"], t["psub"])
+    tree(420, t["machine"], t["mtop"], t["msub"], extra=True)
+    f.line(405, 96, 405, 400, color=GRID, width=1.5)
+    f.text(28, 150, t["outside"], size=11.5, color=ORANGE, rotate=-90, anchor="middle")
+    f.text(28, 272, t["inside"], size=11.5, color=INK2, rotate=-90, anchor="middle")
+    return f
+
+
+@figure("apples-and-earth")
+def apples_and_earth(lang):
+    t = {
+        "en": dict(title="The apple and the Earth",
+                   sub="They attract each other. Both move towards the common centre of mass; the lighter one moves more.",
+                   earth="Earth", apple="apples", centre="common centre",
+                   caps=["One apple: the Earth\nhardly moves", "A heap: both move\nnoticeably", "The heap outweighs the Earth:\nthe Earth moves more"],
+                   note="Habit still says: the Earth is in charge."),
+        "ru": dict(title="Яблоко и Земля",
+                   sub="Они притягивают друг друга. Оба движутся к общему центру масс; сильнее движется более лёгкий.",
+                   earth="Земля", apple="яблоки", centre="общий центр",
+                   caps=["Одно яблоко: Земля\nпочти не движется", "Куча: заметно\nдвижутся обе", "Куча тяжелее Земли:\nЗемля движется сильнее"],
+                   note="А привычка всё ещё говорит: главная тут Земля."),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+    masses = [0.02, 0.5, 3.0]  # heap mass in Earth masses
+    for i, m in enumerate(masses):
+        x0 = 30 + i * 245
+        cy = 175
+        re_ = 34
+        ra = max(5, re_ * m ** (1 / 3))
+        ex, ax = x0 + 55, x0 + 190
+        # centre of mass along the line between the centres
+        cx = (ex * 1 + ax * m) / (1 + m)
+        f.circle(ex, cy, re_, fill="#eaf2fc", stroke=BLUE, width=2)
+        f.circle(ax, cy, ra, fill="#eaf5e6", stroke=GREEN, width=2)
+        f.text(ex, cy + 5, t["earth"], size=12, color=INK, anchor="middle")
+        if i == 0:
+            f.text(ax, cy - ra - 8, t["apple"], size=11.5, color=GREEN, anchor="middle")
+        else:
+            f.text(ax, cy + 4, t["apple"], size=11.5, color=INK, anchor="middle")
+        f.line(cx, cy - 52, cx, cy + 52, color=ORANGE, width=1.5, dash="3 3")
+        if i == 0:
+            f.text(cx + 6, cy - 44, t["centre"], size=11.5, color=ORANGE)
+        f.circle(cx, cy, 4, fill=ORANGE)
+        # arrows: displacement of each body towards the centre, proportional to the other's share
+        de = 70 * m / (1 + m)
+        da = 70 * 1 / (1 + m)
+        if de > 4:
+            f.line(ex, cy + re_ + 14, ex + de, cy + re_ + 14, color=BLUE, width=2, arrow=True)
+        else:
+            f.circle(ex, cy + re_ + 14, 2.5, fill=BLUE)
+        f.line(ax, cy + max(ra, 18) + 14, ax - da, cy + max(ra, 18) + 14, color=GREEN, width=2, arrow=True)
+        f.text(x0 + 122, 280, t["caps"][i], size=12.5, color=INK2, anchor="middle")
+    f.text(732, 318, t["note"], size=12, color=INK2, italic=True, anchor="end")
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

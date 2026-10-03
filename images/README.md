@@ -23,6 +23,8 @@ Reference images from articles as `../images/<file>`.
 | `two-rulers-one-skill.svg` (+ `.ru.svg`) | One skill measured all-or-nothing and digit by digit (illustration after Schaeffer et al. 2023) | 21 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `test-ruler-ran-out.svg` (+ `.ru.svg`) | Best MMLU scores 2020–2024 against chance, the experts' level and the test's own errors | 21 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `machine-helper-time.svg` (+ `.ru.svg`) | Change in task time with an AI helper in four randomised experiments | 21 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `two-goal-trees.svg` (+ `.ru.svg`) | Goal trees of a person and of a machine agent: the top set from outside, subgoals set by mind | 22 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `apples-and-earth.svg` (+ `.ru.svg`) | The apple and the Earth: mutual attraction and the common centre of mass as the heap grows | 22 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

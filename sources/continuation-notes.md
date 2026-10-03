@@ -181,3 +181,32 @@ novices +34%); METR 2025 (16 developers, 246 tasks, +19% time).
 
 **Left for later**: who sets the machine's tasks, and ours (Penrose: the essence of mind is setting tasks) → 22,
 promised in the teaser; the young who are not hired and the bread arithmetic by profession → 24.
+
+## 22. Who Sets the Tasks
+
+**Established**
+- Penrose's machine (wait for a task, solve, stop) vs mind that sets its own tasks (article 15) made exact: mind turns
+  wants it did not choose into tasks it does choose. A person's top setpoints come from nature, a machine's top goal
+  from people; below the top both set their own subgoals (agents; Voyager's self-made curriculum). The same tree.
+- A goal brings its own wants: instrumental subgoals nobody set (Omohundro 2008; the robot vacuum going to its dock;
+  Palisade 2025 shutdown-script edits; the 2025 sixteen-model blackmail test, marked as a contrived lab scenario).
+- Reward hacking: the CoastRunners boat (2016) circles the bay for points; people do the same with nature's rewards
+  (contraception, sugar). Why people stopped having children is deferred to 26.
+- The chain courier → app → programmers → bosses → market → customers → nature: nobody is the first link (initiative
+  outside, article 04). The right question is which links are human and how the share changes (digital labour
+  platforms 142 → 777, 2010–2020; the foreman replaced by a program, now the programmer by agents).
+- The author's apples-and-Earth comment (under article 04) used: mutual attraction; the heap outgrows the Earth, the
+  Earth moves more, habit still says the Earth is in charge. Links are added to the chain but not removed while they pay
+  (the navigator: "then I forgot the roads").
+
+**Images and devices used**: Oleg's robot vacuum that goes to charge by itself (opens the evening, returns as the
+first instrumental want); the pizza chain; the boat in the bay; the apples and the Earth; the navigator.
+
+**Facts used**: Voyager (Wang et al. 2023: 3.3x items, up to 15.3x faster tech tree); Omohundro 2008; Palisade 2025
+(7/100 with the instruction, 79/100 without, first report); Agentic Misalignment 2025 (16 models); OpenAI CoastRunners
+2016 (about 20% above human scores); ILO WESO 2021 (142 → 777 platforms).
+
+**Figures**: `two-goal-trees`, `apples-and-earth`.
+
+**Left for later**: "make the machine good, and let it make us good" → 23 (the teenage НКП story is promised in the
+teaser: "when I was fifteen"); contraception and birth rates → 26.
