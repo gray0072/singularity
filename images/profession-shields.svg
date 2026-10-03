@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>What shields a profession</title>
+<defs><marker id="arrow-e34948" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#e34948"/></marker></defs>
+<rect x="0.5" y="0.5" width="759" height="399" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">What shields a profession</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Not difficulty. Machines advance from the top; the bottom layer holds all the others up.</text>
+<rect x="110.0" y="90.0" width="610.0" height="50.0" rx="8" fill="#e34948" stroke="#e34948" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="126.0" y="111.0" font-size="14.5" fill="#0b0b0b" font-weight="600">No shield: words and symbols</text>
+<text x="126.0" y="129.0" font-size="12" fill="#52514e">translators, copywriters, call centres, junior programmers</text>
+<rect x="110.0" y="148.0" width="610.0" height="50.0" rx="8" fill="#eb6834" stroke="#eb6834" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="126.0" y="169.0" font-size="14.5" fill="#0b0b0b" font-weight="600">Hands in an unpredictable world</text>
+<text x="126.0" y="187.0" font-size="12" fill="#52514e">plumber, nurse, electrician · Moravec's paradox</text>
+<rect x="110.0" y="206.0" width="610.0" height="50.0" rx="8" fill="#eda100" stroke="#eda100" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="126.0" y="227.0" font-size="14.5" fill="#0b0b0b" font-weight="600">The signature</text>
+<text x="126.0" y="245.0" font-size="12" fill="#52514e">doctor, judge, pilot, notary · a want written into law</text>
+<rect x="110.0" y="264.0" width="610.0" height="50.0" rx="8" fill="#008300" stroke="#008300" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="126.0" y="285.0" font-size="14.5" fill="#0b0b0b" font-weight="600">“Made by a human”</text>
+<text x="126.0" y="303.0" font-size="12" fill="#52514e">actor, chess player, craftsman, friend · people's want for people</text>
+<rect x="110.0" y="328.0" width="610.0" height="44.0" rx="8" fill="#eeeeec" stroke="#52514e" stroke-width="1.5"/>
+<text x="415.0" y="355.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">The customer, who must earn in order to pay</text>
+<line x1="70.0" y1="92.0" x2="70.0" y2="300.0" stroke="#e34948" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-e34948)"/>
+<text x="64.0" y="330.0" font-size="12" fill="#e34948" text-anchor="middle"><tspan x="64.0" dy="0.0">the machine</tspan><tspan x="64.0" dy="15.0">advances</tspan></text>
+</svg>

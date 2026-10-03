@@ -65,7 +65,7 @@ New articles written for this repository, continuing the series in the author's 
 | 29 | The Silence of the Universe *(continuation)* | [en](en/29-silence-of-the-universe.md) | [ru](ru/29-silence-of-the-universe.md) |
 | 30 | The Last Campfire *(continuation)* | [en](en/30-the-last-campfire.md) | [ru](ru/30-the-last-campfire.md) |
 
-**Status:** 01–15 — Russian originals, published with the author's permission; English translations are pending. 16–23 — continuation, written: Parts I, II complete (English originals; the Russian translations of 16–20 are reviewed, of 21–23 translated and awaiting review). 24–30 — continuation, in progress.
+**Status:** 01–15 — Russian originals, published with the author's permission; English translations are pending. 16–24 — continuation, written: Parts I, II complete (English originals; the Russian translations of 16–20 are reviewed, of 21–24 translated and awaiting review). 25–30 — continuation, in progress.
 
 ## Repository
 

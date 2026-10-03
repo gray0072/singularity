@@ -863,6 +863,122 @@ def who_rewrites_wants(lang):
     return f
 
 
+# --- 24. The Last Profession --------------------------------------------------------------------
+
+@figure("page-of-translation")
+def page_of_translation(lang):
+    t = {
+        "en": dict(title="One page of translation, in human work",
+                   sub="Minutes of work, logarithmic scale. The machine's price converted into time at the average US wage.",
+                   rows=[("By hand", "≈ 50 minutes", 50, INK2), ("Checking the machine's text", "≈ 10 minutes", 10, BLUE),
+                         ("The machine itself", "≈ 1/20 of a second", 1 / 1200, ORANGE)],
+                   axis=["0.001", "0.01", "0.1", "1", "10", "100 min"],
+                   src="Price of a cheap model in 2024: $0.15 / $0.60 per million tokens; wage ≈ $36 an hour."),
+        "ru": dict(title="Одна страница перевода в человеческом труде",
+                   sub="Минуты работы, логарифмическая шкала. Цена машины пересчитана во время по средней зарплате в США.",
+                   rows=[("Вручную", "≈ 50 минут", 50, INK2), ("Проверка текста машины", "≈ 10 минут", 10, BLUE),
+                         ("Сама машина", "≈ 1/20 секунды", 1 / 1200, ORANGE)],
+                   axis=["0,001", "0,01", "0,1", "1", "10", "100 мин"],
+                   src="Цена дешёвой модели в 2024 году: $0,15 / $0,60 за миллион токенов; зарплата ≈ $36 в час."),
+    }[lang]
+    f = Fig(760, 280, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, lo, hi = 260, 720, 1e-4, 100
+    for i, label in enumerate(t["axis"]):
+        x = log_x(10 ** (i - 3), lo, hi, x0, x1)
+        f.line(x, 88, x, 222, color=GRID, width=1)
+        f.text(x, 240, label, size=11.5, color=INK2, anchor="middle")
+    for i, (label, value, v, c) in enumerate(t["rows"]):
+        y = 92 + i * 42
+        f.text(x0 - 12, y + 21, label, size=14, anchor="end")
+        w = log_x(v, lo, hi, x0, x1) - x0
+        f.rect(x0, y + 5, w, 22, fill=c, r=4)
+        if w > 380:
+            f.text(x0 + w - 8, y + 21, value, size=12.5, color="#ffffff", anchor="end", weight="600")
+        else:
+            f.text(x0 + w + 8, y + 21, value, size=12.5, color=INK2)
+    f.text(28, 266, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("bank-tellers")
+def bank_tellers(lang):
+    t = {
+        "en": dict(title="Bank tellers in the United States",
+                   sub="Employed full time, thousands. The ATM took one function; the phone took the visit to the bank.",
+                   phone="2007: the first\nsmartphone", atm="ATMs: about 400 thousand by 2010,\ntellers keep the rest of the bundle",
+                   src="Data: US Bureau of Labor Statistics, Current Population Survey (FRED series LEU0254499900A)."),
+        "ru": dict(title="Банковские кассиры в США",
+                   sub="Занятые полный день, тысяч. Банкомат забрал одну функцию, телефон — сам поход в банк.",
+                   phone="2007: первый\nсмартфон", atm="Банкоматов около 400 тысяч к 2010 году,\nкассиры держат остальную связку",
+                   src="Данные: Бюро статистики труда США, обследование населения (ряд FRED LEU0254499900A)."),
+    }[lang]
+    data = [274, 277, 279, 275, 301, 296, 308, 342, 338, 317, 332, 283, 268, 265, 284, 264, 235, 209, 240, 241,
+            225, 173, 164, 163, 173, 183]
+    f = Fig(760, 360, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 70, 720, 300, 96
+
+    def X(year):
+        return x0 + (year - 2000) / 25 * (x1 - x0)
+
+    def Y(v):
+        return y0 - v / 400 * (y0 - y1)
+
+    for v in (0, 100, 200, 300, 400):
+        f.line(x0, Y(v), x1, Y(v), color=GRID, width=1)
+        f.text(x0 - 8, Y(v) + 4, str(v), size=11.5, color=INK2, anchor="end")
+    for year in range(2000, 2026, 5):
+        f.text(X(year), y0 + 20, str(year), size=11.5, color=INK2, anchor="middle")
+    pts = [(X(2000 + i), Y(v)) for i, v in enumerate(data)]
+    f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts), color=BLUE, width=2)
+    f.circle(X(2007), Y(342), 5, fill=BLUE, stroke=SURFACE, width=2)
+    f.line(X(2007), Y(342) - 8, X(2007), Y(400), color=ORANGE, width=1.5, dash="4 4")
+    f.text(X(2007) + 8, Y(400) + 6, t["phone"], size=12, color=ORANGE, weight="600")
+    f.text(X(2000) + 6, Y(80), t["atm"], size=12, color=INK2)
+    f.circle(X(2023), Y(163), 4, fill=BLUE)
+    f.text(X(2023), Y(163) + 22, "163", size=12, color=INK, anchor="middle", weight="600")
+    f.text(X(2007) - 8, Y(342) - 6, "342", size=12, color=INK, anchor="end", weight="600")
+    f.text(28, 346, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("profession-shields")
+def profession_shields(lang):
+    t = {
+        "en": dict(title="What shields a profession",
+                   sub="Not difficulty. Machines advance from the top; the bottom layer holds all the others up.",
+                   rows=[("No shield: words and symbols", "translators, copywriters, call centres, junior programmers", RED),
+                         ("Hands in an unpredictable world", "plumber, nurse, electrician · Moravec's paradox", ORANGE),
+                         ("The signature", "doctor, judge, pilot, notary · a want written into law", YELLOW),
+                         ("“Made by a human”", "actor, chess player, craftsman, friend · people's want for people", GREEN)],
+                   base="The customer, who must earn in order to pay",
+                   arrow="the machine\nadvances"),
+        "ru": dict(title="Что защищает профессию",
+                   sub="Не трудность. Машины наступают сверху; нижний слой держит на себе все остальные.",
+                   rows=[("Щита нет: слова и символы", "переводчики, копирайтеры, колл-центры, младшие программисты", RED),
+                         ("Руки в непредсказуемом мире", "сантехник, медсестра, электрик · парадокс Моравека", ORANGE),
+                         ("Подпись", "врач, судья, пилот, нотариус · хотелка, записанная в закон", YELLOW),
+                         ("«Сделано человеком»", "актёр, шахматист, мастер, друг · хотелка людей в людях", GREEN)],
+                   base="Покупатель, которому надо заработать, чтобы платить",
+                   arrow="машина\nнаступает"),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x, w = 110, 610
+    for i, (name, ex, c) in enumerate(t["rows"]):
+        y = 90 + i * 58
+        f.rect(x, y, w, 50, fill=c, opacity=0.12, stroke=c, r=8)
+        f.text(x + 16, y + 21, name, size=14.5, weight="600")
+        f.text(x + 16, y + 39, ex, size=12, color=INK2)
+    yb = 90 + 4 * 58 + 6
+    f.rect(x, yb, w, 44, fill="#eeeeec", stroke=INK2, r=8)
+    f.text(x + w / 2, yb + 27, t["base"], size=14, anchor="middle", weight="600")
+    f.line(70, 92, 70, 300, color=RED, width=2.5, arrow=True)
+    f.text(64, 330, t["arrow"], size=12, color=RED, anchor="middle")
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

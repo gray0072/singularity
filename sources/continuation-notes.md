@@ -247,3 +247,37 @@ Greenblatt et al. 2024 alignment faking (14% vs almost never; 78%); Anthropic, e
 
 **Left for later**: the professions one by one with the loaf of bread, "which is the last" → 24 (promised); the end of
 the symbiosis step by step → 27; the moral status of machines is still open (possible in 28 or 30).
+
+## 24. The Last Profession
+
+**Established**
+- Bread arithmetic redone roughly (no subsidy correction): a shop loaf was about 5.5 minutes of average Russian wage
+  in 2011, a 400 g loaf about 4.6 minutes in 2025 (117 roubles/kg, wage 100,360 roubles); by hand from the six sotkas
+  22 minutes. Bread is a mature technology; the technosphere moves fastest elsewhere.
+- Translation arithmetic: a page by hand ≈ 50 minutes; the machine's price ≈ 1/20 of a cent ≈ 1/20 of a second of
+  US average wage (GPT-4o mini prices 2024); what stays human is the check (≈ 10 minutes): four of five translators
+  become unnecessary (CAD logic of 05). Freelance markets: writing −2% jobs, −5.2% earnings; images −3.7%, −9.4%; the
+  most experienced lost more (the machine narrows the master's premium).
+- A profession is a bundle of functions. Compensation comes in steps, displacement is a trend: the ATM took one
+  function and tellers grew (Bessen: 20 → 13 per branch, +43% urban branches); the smartphone took the visit to the
+  bank (full-time tellers 342k in 2007 → 163k in 2023; BLS −13% to 2035). Andrey admits he underestimated how long
+  compensation lasts.
+- Radiologists (Hinton 2016 vs record residency places and +48% pay in 2025): their shield is the signature (law = a
+  want written down) and growing demand; laws shift when the arithmetic shifts (driverless taxis).
+- Four shields: none (words, symbols); hands (Moravec); the signature; "made by a human" (chess since 1997, 1.6 million
+  rated players; status want). Even the last thins: 72% of US teens tried AI companions, 31% find them as satisfying as
+  friends or more.
+- The last profession (a person wanted because he is a person) falls not when the machine learns it but when its
+  customers lose their earnings: the bounded market of article 07.
+
+**Images and devices used**: the warm loaf from the station bakery (measuring instrument eaten afterwards); the crust;
+the phone calculator; the musician whose customer is the translator.
+
+**Facts used**: Rosstat 2025 average wage 100,360 roubles; wheat bread ≈ 117 roubles/kg (Dec 2025); GPT-4o mini
+$0.15/$0.60 per million tokens; Hui–Reshef–Zhou 2024; Bessen 2015 (IMF F&D); FRED LEU0254499900A; BLS OOH tellers
+339,200 (2025) → −13%; Hinton 2016, radiology residencies 2025; Klarna (Feb 2024: 700 agents; May 2025 rehiring);
+FIDE rated players; Common Sense Media 2025 (72%, 52%, 31%).
+
+**Figures**: `page-of-translation`, `bank-tellers`, `profession-shields`.
+
+**Left for later**: basic income ("freebies for everyone"), who pays and how long → 25 (promised).

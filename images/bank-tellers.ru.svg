@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Банковские кассиры в США</title>
+
+<rect x="0.5" y="0.5" width="759" height="359" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Банковские кассиры в США</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Занятые полный день, тысяч. Банкомат забрал одну функцию, телефон — сам поход в банк.</text>
+<line x1="70.0" y1="300.0" x2="720.0" y2="300.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="304.0" font-size="11.5" fill="#52514e" text-anchor="end">0</text>
+<line x1="70.0" y1="249.0" x2="720.0" y2="249.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="253.0" font-size="11.5" fill="#52514e" text-anchor="end">100</text>
+<line x1="70.0" y1="198.0" x2="720.0" y2="198.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="202.0" font-size="11.5" fill="#52514e" text-anchor="end">200</text>
+<line x1="70.0" y1="147.0" x2="720.0" y2="147.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="151.0" font-size="11.5" fill="#52514e" text-anchor="end">300</text>
+<line x1="70.0" y1="96.0" x2="720.0" y2="96.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="100.0" font-size="11.5" fill="#52514e" text-anchor="end">400</text>
+<text x="70.0" y="320.0" font-size="11.5" fill="#52514e" text-anchor="middle">2000</text>
+<text x="200.0" y="320.0" font-size="11.5" fill="#52514e" text-anchor="middle">2005</text>
+<text x="330.0" y="320.0" font-size="11.5" fill="#52514e" text-anchor="middle">2010</text>
+<text x="460.0" y="320.0" font-size="11.5" fill="#52514e" text-anchor="middle">2015</text>
+<text x="590.0" y="320.0" font-size="11.5" fill="#52514e" text-anchor="middle">2020</text>
+<text x="720.0" y="320.0" font-size="11.5" fill="#52514e" text-anchor="middle">2025</text>
+<path d="M70.0,160.3 L96.0,158.7 L122.0,157.7 L148.0,159.8 L174.0,146.5 L200.0,149.0 L226.0,142.9 L252.0,125.6 L278.0,127.6 L304.0,138.3 L330.0,130.7 L356.0,155.7 L382.0,163.3 L408.0,164.8 L434.0,155.2 L460.0,165.4 L486.0,180.1 L512.0,193.4 L538.0,177.6 L564.0,177.1 L590.0,185.2 L616.0,211.8 L642.0,216.4 L668.0,216.9 L694.0,211.8 L720.0,206.7" stroke="#2a78d6" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="252.0" cy="125.6" r="5.0" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<line x1="252.0" y1="117.6" x2="252.0" y2="96.0" stroke="#eb6834" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<text x="260.0" y="102.0" font-size="12" fill="#eb6834" font-weight="600"><tspan x="260.0" dy="0.0">2007: первый</tspan><tspan x="260.0" dy="15.0">смартфон</tspan></text>
+<text x="76.0" y="259.2" font-size="12" fill="#52514e"><tspan x="76.0" dy="0.0">Банкоматов около 400 тысяч к 2010 году,</tspan><tspan x="76.0" dy="15.0">кассиры держат остальную связку</tspan></text>
+<circle cx="668.0" cy="216.9" r="4.0" fill="#2a78d6"/>
+<text x="668.0" y="238.9" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="600">163</text>
+<text x="244.0" y="119.6" font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600">342</text>
+<text x="28.0" y="346.0" font-size="11" fill="#8a8985">Данные: Бюро статистики труда США, обследование населения (ряд FRED LEU0254499900A).</text>
+</svg>

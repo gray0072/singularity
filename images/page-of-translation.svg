@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="280" viewBox="0 0 760 280" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>One page of translation, in human work</title>
+
+<rect x="0.5" y="0.5" width="759" height="279" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">One page of translation, in human work</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Minutes of work, logarithmic scale. The machine's price converted into time at the average US wage.</text>
+<line x1="336.7" y1="88.0" x2="336.7" y2="222.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="336.7" y="240.0" font-size="11.5" fill="#52514e" text-anchor="middle">0.001</text>
+<line x1="413.3" y1="88.0" x2="413.3" y2="222.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="413.3" y="240.0" font-size="11.5" fill="#52514e" text-anchor="middle">0.01</text>
+<line x1="490.0" y1="88.0" x2="490.0" y2="222.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="490.0" y="240.0" font-size="11.5" fill="#52514e" text-anchor="middle">0.1</text>
+<line x1="566.7" y1="88.0" x2="566.7" y2="222.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="566.7" y="240.0" font-size="11.5" fill="#52514e" text-anchor="middle">1</text>
+<line x1="643.3" y1="88.0" x2="643.3" y2="222.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="643.3" y="240.0" font-size="11.5" fill="#52514e" text-anchor="middle">10</text>
+<line x1="720.0" y1="88.0" x2="720.0" y2="222.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="720.0" y="240.0" font-size="11.5" fill="#52514e" text-anchor="middle">100 min</text>
+<text x="248.0" y="113.0" font-size="14" fill="#0b0b0b" text-anchor="end">By hand</text>
+<rect x="260.0" y="97.0" width="436.9" height="22.0" rx="4" fill="#52514e"/>
+<text x="688.9" y="113.0" font-size="12.5" fill="#ffffff" text-anchor="end" font-weight="600">≈ 50 minutes</text>
+<text x="248.0" y="155.0" font-size="14" fill="#0b0b0b" text-anchor="end">Checking the machine's text</text>
+<rect x="260.0" y="139.0" width="383.3" height="22.0" rx="4" fill="#2a78d6"/>
+<text x="635.3" y="155.0" font-size="12.5" fill="#ffffff" text-anchor="end" font-weight="600">≈ 10 minutes</text>
+<text x="248.0" y="197.0" font-size="14" fill="#0b0b0b" text-anchor="end">The machine itself</text>
+<rect x="260.0" y="181.0" width="70.6" height="22.0" rx="4" fill="#eb6834"/>
+<text x="338.6" y="197.0" font-size="12.5" fill="#52514e">≈ 1/20 of a second</text>
+<text x="28.0" y="266.0" font-size="11" fill="#8a8985">Price of a cheap model in 2024: $0.15 / $0.60 per million tokens; wage ≈ $36 an hour.</text>
+</svg>
