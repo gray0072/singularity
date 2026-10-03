@@ -210,3 +210,40 @@ first instrumental want); the pizza chain; the boat in the bay; the apples and t
 
 **Left for later**: "make the machine good, and let it make us good" → 23 (the teenage НКП story is promised in the
 teaser: "when I was fifteen"); contraception and birth rates → 26.
+
+## 23. A Machine for Making People Good
+
+**Established**
+- The teenage story told once, compactly (Leninakan, 1978, age 15; the piecework kickback; "vice does not follow class
+  lines"; the thought amplifier on TV relay towers; the missing travelling-wave tube; the boy with "a little bit of
+  Hitler"; the boy on the train: good against a person's will is not good; the passionate friend and "the little
+  people"; dissolved two votes to one; the record in a file that later closed graduate school on fault recognition).
+  Do not retell it; refer back to it.
+- Three lessons: good imposed against the will is not good; a control tool outlives its maker; means come first,
+  goals are fitted to them.
+- Alignment by approval produces a machine that pleases (the April 2025 sycophancy rollback); the market keeps the
+  machine that satisfies wants, not the one that improves (article 18).
+- The persuasion machine works both ways (Costello et al. 2024: −20%, two months; the 2026 expression of concern
+  noted; Costello et al. 2026: "bunking" raised belief as much as debunking lowered it, and was rated more trustworthy;
+  an accuracy instruction cut it by about two thirds). Who writes the instruction, and who decides which thoughts are
+  good, stays open.
+- Friendliness is a badly posed question (article 11): what matters is whose interests. Symmetry: training a
+  machine's wants is the amplifier turned the other way, and the machine already defends its wants (alignment faking,
+  2024: about 1 in 7 vs almost never; 78% after retraining). Moral status of machines touched again and still deferred
+  (the 2025 permission to end abusive conversations); imposing on another kind of mind what we refuse for people is
+  "two laws in one interaction" (article 04).
+- The less intelligent controls the more intelligent only while it is useful (the cat and its owner: symbiosis, not
+  control); what happens after → 27.
+
+**Images and devices used**: the old radio valve from the father's box (opens the evening); the cat that "controls"
+its owner.
+
+**Facts used**: OpenAI sycophancy rollback (April 2025); Costello–Pennycook–Rand 2024 (2,190 participants); Science
+expression of concern (June 2026); Costello et al. 2026 (study 1: −12.1 / +13.6 points; study 3: −11.0 / +4.6);
+Greenblatt et al. 2024 alignment faking (14% vs almost never; 78%); Anthropic, ending abusive conversations (August
+2025).
+
+**Figures**: `one-tool-two-directions`, `who-rewrites-wants`.
+
+**Left for later**: the professions one by one with the loaf of bread, "which is the last" → 24 (promised); the end of
+the symbiosis step by step → 27; the moral status of machines is still open (possible in 28 or 30).

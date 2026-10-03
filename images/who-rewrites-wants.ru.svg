@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Кто переписывает чьи хотелки</title>
+<defs><marker id="arrow-008300" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#008300"/></marker><marker id="arrow-2a78d6" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#2a78d6"/></marker><marker id="arrow-52514e" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#52514e"/></marker><marker id="arrow-e34948" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#e34948"/></marker><marker id="arrow-eb6834" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#eb6834"/></marker></defs>
+<rect x="0.5" y="0.5" width="759" height="419" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Кто переписывает чьи хотелки</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Усилитель 1978 года должен был бить от людей к людям. Сегодня стрелки идут через машины.</text>
+<rect x="300.0" y="92.0" width="160.0" height="50.0" rx="8" fill="#eaf5e6" stroke="#008300" stroke-width="1.5"/>
+<text x="380.0" y="121.9" font-size="15" fill="#0b0b0b" text-anchor="middle" font-weight="600">Природа</text>
+<rect x="90.0" y="230.0" width="160.0" height="56.0" rx="8" fill="#eaf2fc" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="170.0" y="262.9" font-size="15" fill="#0b0b0b" text-anchor="middle" font-weight="600">Люди</text>
+<rect x="510.0" y="230.0" width="160.0" height="56.0" rx="8" fill="#fdf0ea" stroke="#eb6834" stroke-width="1.5"/>
+<text x="590.0" y="262.9" font-size="15" fill="#0b0b0b" text-anchor="middle" font-weight="600">Машины</text>
+<rect x="560.0" y="336.0" width="120.0" height="38.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="620.0" y="359.4" font-size="13.5" fill="#0b0b0b" text-anchor="middle">Рынок</text>
+<line x1="330.0" y1="142.0" x2="200.0" y2="226.0" stroke="#008300" stroke-width="2" stroke-linecap="round" marker-end="url(#arrow-008300)"/>
+<text x="212.0" y="176.0" font-size="12" fill="#008300" text-anchor="end">задаёт уставки</text>
+<path d="M250,248 C350,228 420,228 506,248" stroke="#2a78d6" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-2a78d6)"/>
+<text x="380.0" y="206.0" font-size="12" fill="#2a78d6" text-anchor="middle"><tspan x="380.0" dy="0.0">обучают: одобрение,</tspan><tspan x="380.0" dy="15.0">правила, награды</tspan></text>
+<path d="M510,272 C430,300 340,300 254,272" stroke="#eb6834" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+<text x="380.0" y="318.0" font-size="12" fill="#eb6834" text-anchor="middle"><tspan x="380.0" dy="0.0">удовлетворяют хотелки,</tspan><tspan x="380.0" dy="15.0">убеждают, советуют</tspan></text>
+<line x1="620.0" y1="336.0" x2="620.0" y2="290.0" stroke="#52514e" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4" marker-end="url(#arrow-52514e)"/>
+<text x="552.0" y="350.0" font-size="11.5" fill="#52514e" text-anchor="end"><tspan x="552.0" dy="0.0">оставляет машину,</tspan><tspan x="552.0" dy="14.4">которая нравится</tspan></text>
+<path d="M120,286 C80,340 200,340 160,290" stroke="#e34948" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 4" marker-end="url(#arrow-e34948)"/>
+<text x="40.0" y="362.0" font-size="11.5" fill="#e34948"><tspan x="40.0" dy="0.0">усилитель 1978 года:</tspan><tspan x="40.0" dy="14.4">люди → люди</tspan></text>
+<text x="732.0" y="408.0" font-size="11.5" fill="#52514e" text-anchor="end" font-style="italic">Машина уже защищает свои хотелки (2024).</text>
+</svg>

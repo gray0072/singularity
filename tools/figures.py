@@ -781,6 +781,88 @@ def apples_and_earth(lang):
     return f
 
 
+# --- 23. A Machine for Making People Good -------------------------------------------------------
+
+@figure("one-tool-two-directions")
+def one_tool_two_directions(lang):
+    t = {
+        "en": dict(title="One tool, two directions",
+                   sub="Change in belief in a conspiracy theory after a dialogue with a language model, points out of 100.",
+                   rows=[("Told to argue against", -12.1), ("Told to argue for", 13.6),
+                         ("Against, accurate arguments only", -11.0), ("For, accurate arguments only", 4.6)],
+                   g1="Instruction: any arguments", g2="Instruction: accurate arguments only",
+                   less="◀ belief falls", more="belief rises ▶",
+                   src="Source: Costello et al., 2026 (studies 1 and 3, about 4,000 participants)."),
+        "ru": dict(title="Один инструмент, два направления",
+                   sub="Изменение веры в теорию заговора после диалога с языковой моделью, пунктов из 100.",
+                   rows=[("Велено спорить против", -12.1), ("Велено спорить за", 13.6),
+                         ("Против, только точные доводы", -11.0), ("За, только точные доводы", 4.6)],
+                   g1="Инструкция: любые доводы", g2="Инструкция: только точные доводы",
+                   less="◀ вера падает", more="вера растёт ▶",
+                   src="Источник: Costello et al., 2026 (исследования 1 и 3, около 4000 участников)."),
+    }[lang]
+    f = Fig(760, 350, t["title"])
+    heading(f, t["title"], t["sub"])
+    zero, scale = 480, 14
+    for p in (-15, -10, -5, 0, 5, 10, 15):
+        x = zero + p * scale
+        f.line(x, 92, x, 292, color=GRID if p else INK2, width=1 if p else 1.5)
+        f.text(x, 308, (f"{p:+d}".replace("-", "−") if p else "0"), size=11.5, color=INK2, anchor="middle")
+    f.text(zero - 8, 326, t["less"], size=12, color=BLUE, anchor="end", weight="600")
+    f.text(zero + 8, 326, t["more"], size=12, color=ORANGE, weight="600")
+    ys = [104, 140, 214, 250]
+    f.text(28, 96, t["g1"], size=12, color=MUTED, weight="600")
+    f.text(28, 206, t["g2"], size=12, color=MUTED, weight="600")
+    for (label, v), y in zip(t["rows"], ys):
+        f.text(28, y + 17, label, size=13.5)
+        w = abs(v) * scale
+        x = zero - w if v < 0 else zero
+        f.rect(x, y, w, 24, fill=BLUE if v < 0 else ORANGE, r=4)
+        num = f"{v:+.1f}".replace("-", "−")
+        if lang == "ru":
+            num = num.replace(".", ",")
+        f.text(x - 6 if v < 0 else x + w + 6, y + 17, num, size=12.5, color=INK, weight="600",
+               anchor="end" if v < 0 else "start")
+    f.text(28, 344, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("who-rewrites-wants")
+def who_rewrites_wants(lang):
+    t = {
+        "en": dict(title="Who rewrites whose wants",
+                   sub="The amplifier of 1978 was meant to point from people to people. Today the arrows run through machines.",
+                   nature="Nature", people="People", machines="Machines", market="The market",
+                   a1="sets the setpoints", a2="train: approval,\nrules, rewards", a3="satisfy wants,\npersuade, recommend",
+                   a4="keeps the machine\nthat pleases", amp="the amplifier of 1978:\npeople → people",
+                   note="The machine already defends its own wants (2024)."),
+        "ru": dict(title="Кто переписывает чьи хотелки",
+                   sub="Усилитель 1978 года должен был бить от людей к людям. Сегодня стрелки идут через машины.",
+                   nature="Природа", people="Люди", machines="Машины", market="Рынок",
+                   a1="задаёт уставки", a2="обучают: одобрение,\nправила, награды", a3="удовлетворяют хотелки,\nубеждают, советуют",
+                   a4="оставляет машину,\nкоторая нравится", amp="усилитель 1978 года:\nлюди → люди",
+                   note="Машина уже защищает свои хотелки (2024)."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    f.box(300, 92, 160, 50, t["nature"], stroke=GREEN, fill="#eaf5e6", weight="600", size=15)
+    f.box(90, 230, 160, 56, t["people"], stroke=BLUE, fill="#eaf2fc", weight="600", size=15)
+    f.box(510, 230, 160, 56, t["machines"], stroke=ORANGE, fill="#fdf0ea", weight="600", size=15)
+    f.box(560, 336, 120, 38, t["market"], size=13.5)
+    f.line(330, 142, 200, 226, color=GREEN, width=2, arrow=True)
+    f.text(212, 176, t["a1"], size=12, color=GREEN, anchor="end")
+    f.path("M250,248 C350,228 420,228 506,248", color=BLUE, width=2, arrow=True)
+    f.text(380, 206, t["a2"], size=12, color=BLUE, anchor="middle")
+    f.path("M510,272 C430,300 340,300 254,272", color=ORANGE, width=2, arrow=True)
+    f.text(380, 318, t["a3"], size=12, color=ORANGE, anchor="middle")
+    f.line(620, 336, 620, 290, color=INK2, width=1.5, dash="4 4", arrow=True)
+    f.text(552, 350, t["a4"], size=11.5, color=INK2, anchor="end")
+    f.path("M120,286 C80,340 200,340 160,290", color=RED, width=1.5, dash="5 4", arrow=True)
+    f.text(40, 362, t["amp"], size=11.5, color=RED)
+    f.text(732, 408, t["note"], size=11.5, color=INK2, italic=True, anchor="end")
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

@@ -25,6 +25,8 @@ Reference images from articles as `../images/<file>`.
 | `machine-helper-time.svg` (+ `.ru.svg`) | Change in task time with an AI helper in four randomised experiments | 21 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `two-goal-trees.svg` (+ `.ru.svg`) | Goal trees of a person and of a machine agent: the top set from outside, subgoals set by mind | 22 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `apples-and-earth.svg` (+ `.ru.svg`) | The apple and the Earth: mutual attraction and the common centre of mass as the heap grows | 22 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `one-tool-two-directions.svg` (+ `.ru.svg`) | Change in conspiracy belief after dialogues with a model told to argue against or for (Costello et al. 2026) | 23 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `who-rewrites-wants.svg` (+ `.ru.svg`) | Who rewrites whose wants: nature, people, machines, the market, and the 1978 amplifier | 23 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

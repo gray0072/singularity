@@ -209,6 +209,9 @@ articles as closely as possible. In practice:
 | большая языковая модель | large language model | a neural network trained on humanity's texts; in the series, a machine that gains mind from accumulated knowledge |
 | демографическая инерция | population momentum | population growth that continues for decades after fertility falls, because the generation having children is large |
 | зубчатая граница | jagged frontier | the uneven edge of a machine's domain logicalities: above humans in some domains, below a child in neighbouring ones |
+| инструментальная конвергенция | instrumental convergence | subgoals that follow from almost any goal (keep running, get resources); a machine's wants that nobody set |
+| взлом вознаграждения | reward hacking | reaching the reward by the shortest road instead of the intention behind it; machines do it with our rewards, people with nature's |
+| согласование (ИИ) | alignment (of AI) | tuning a machine's goals to human values; in the series, the 1978 amplifier of wants turned on machines |
 
 ## 7. Tooling notes for agents
 
