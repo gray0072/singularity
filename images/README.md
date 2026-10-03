@@ -37,6 +37,8 @@ Reference images from articles as `../images/<file>`.
 | `humanity-technosphere-attraction-forces.svg` (+ `.ru.svg`) | Forces of attraction between humanity and the technosphere, redrawn from the description in article 11 | 27 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `scenario-steps.svg` (+ `.ru.svg`) | The scenario of events as a staircase of seven steps with their status | 27 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `energy-per-person.svg` (+ `.ru.svg`) | Energy per person: the body against the world average and the US, 2023 | 27 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `few-through-the-hole.svg` (+ `.ru.svg`) | Selective short-sightedness as a law of the whole: the gas cylinder and the few molecules at the hole | 28 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `what-understanding-changes.svg` (+ `.ru.svg`) | What understanding changes and what it does not | 28 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

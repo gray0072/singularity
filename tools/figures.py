@@ -1304,6 +1304,76 @@ def energy_per_person(lang):
     return f
 
 
+# --- 28. For Those Who Understand ---------------------------------------------------------------
+
+@figure("few-through-the-hole")
+def few_through_the_hole(lang):
+    t = {
+        "en": dict(title="Selective short-sightedness is a law of the whole",
+                   sub="Nature needs the system to be blind, not every molecule. A few always find the hole.",
+                   wants="pressure = wants", hole="those who\nunderstand",
+                   flow="the flow is set by the pressure,\nnot by the molecules at the hole"),
+        "ru": dict(title="Избирательная недальновидность — закон целого",
+                   sub="Природе нужно, чтобы была слепа система, а не каждая молекула. Немногие всегда находят дырку.",
+                   wants="давление = хотелки", hole="те, кто\nпонял",
+                   flow="поток задаёт давление,\nа не молекулы у дырки"),
+    }[lang]
+    import random
+    rnd = random.Random(7)
+    f = Fig(760, 340, t["title"])
+    heading(f, t["title"], t["sub"])
+    cx, cy, w, h = 90, 100, 420, 200
+    f.rect(cx, cy, w, h, fill="#f1f4f8", stroke=INK2, width=2, r=40)
+    hx, hy = cx + w, cy + h / 2
+    f.rect(hx - 4, hy - 9, 10, 18, fill=SURFACE, r=0)
+    for _ in range(140):
+        x = rnd.uniform(cx + 20, cx + w - 20)
+        y = rnd.uniform(cy + 16, cy + h - 16)
+        f.circle(x, y, 3.2, fill=BLUE, opacity=0.55)
+    for k, (x, y) in enumerate([(hx + 30, hy - 4), (hx + 62, hy + 10), (hx + 98, hy - 14)]):
+        f.circle(x, y, 4, fill=ORANGE)
+    f.line(hx + 10, hy, hx + 130, hy, color=ORANGE, width=1.5, dash="4 4", arrow=True)
+    f.text(hx + 30, hy - 30, t["hole"], size=12.5, color=ORANGE, weight="600")
+    f.text(cx + w / 2, cy - 8, t["wants"], size=12.5, color=INK2, anchor="middle")
+    f.text(hx + 30, hy + 50, t["flow"], size=12, color=INK2, italic=True)
+    return f
+
+
+@figure("what-understanding-changes")
+def what_understanding_changes(lang):
+    t = {
+        "en": dict(title="What understanding changes, and what it does not",
+                   left="Does not change", right="Changes",
+                   lrows=["the trend", "the order of the steps", "the outcome for humanity",
+                          "the wants of eight\nbillion people"],
+                   rrows=["whom you trust: sellers of salvation,\nyour own wants, the hunt for enemies",
+                          "what you stake your\nfamily's life on",
+                          "how you keep your bonds with people:\nby habit, not by need",
+                          "how you meet the end: calmly"],
+                   foot="Determinism, not fatalism: your decisions are among the causes of your own family's outcome."),
+        "ru": dict(title="Что понимание меняет, а что нет",
+                   left="Не меняет", right="Меняет",
+                   lrows=["тренд", "порядок шагов", "исход для человечества", "хотелки восьми\nмиллиардов людей"],
+                   rrows=["кому ты веришь: продавцам спасения,\nсвоим хотелкам, охоте на врагов",
+                          "на что ты ставишь\nжизнь своей семьи",
+                          "как держишь связи с людьми:\nпривычкой, а не нуждой",
+                          "как встречаешь конец: спокойно"],
+                   foot="Детерминизм, а не фатализм: твои решения — среди причин исхода для твоей собственной семьи."),
+    }[lang]
+    f = Fig(760, 350, t["title"])
+    f.text(28, 40, t["title"], size=19, weight="600")
+    f.rect(28, 64, 250, 236, fill="#eeeeec", stroke=MUTED, r=10)
+    f.rect(292, 64, 440, 236, fill="#eaf2fc", stroke=BLUE, r=10)
+    f.text(44, 90, t["left"], size=15, weight="600", color=INK2)
+    f.text(308, 90, t["right"], size=15, weight="600", color=BLUE)
+    for i, r in enumerate(t["lrows"]):
+        f.text(44, 124 + i * 46, "— " + r.replace("\n", "\n   "), size=13, color=INK2)
+    for i, r in enumerate(t["rrows"]):
+        f.text(308, 124 + i * 46, "— " + r.replace("\n", "\n   "), size=13, color=INK)
+    f.text(28, 330, t["foot"], size=12.5, color=INK2, italic=True)
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

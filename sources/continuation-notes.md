@@ -376,3 +376,32 @@ pause letter (March 2023); Energy Institute 2024 (620 EJ); EIA 2023 (279 million
 
 **Left for later**: "so what should I do?" and the author's promised "strategy of action at the very end" → 28
 (promised); technogenic life after humanity and the silence of the universe → 29.
+
+## 28. For Those Who Understand
+
+**Established**
+- The author's 2011 promise in the comments ("what needs to be done by those who want to survive and save their
+  children") answered without selling salvation: whoever frightens and then sells a cure is a con man (bunkers,
+  survival courses, mind uploading, politicians promising jobs back).
+- Determinism, not fatalism (article 17): understanding does not change the outcome for humanity, but a person's
+  decisions are among the causes of his own family's outcome.
+- The "weakest point" of article 15 (no human should understand this) answered: selective short-sightedness is a law
+  of the whole, like the gas cylinder; nature needs the system blind, not every molecule; understanding is not a
+  force, a want is. Proof: the May 2023 Statement on AI Risk, signed by the builders themselves, who went on building.
+  Why Andrey: years of weeding, the 1989 program, the teenage underground, and curiosity stronger than comfort
+  (the method of article 08); "not a merit, a combination of setpoints". The 2012 formulation was too strong.
+- What a person who understands can do (not advice, what Andrey does): not be deceived (sellers of salvation, one's own
+  wants, the hunt for enemies; from the author's 2011 comment: those who keep out of the general brawl may last
+  longest); not stake the family's life on what is ending (professions without shields; pensions with a shrinking
+  next generation; one in six over 65 by 2050); keep bonds by habit now that need does not hold them; meet the end
+  calmly (illness in youth, not expecting to live to thirty).
+
+**Images and devices used**: the printed page of the 2011 comments; the gas cylinder (from 17) as the law of the
+whole; the bird feeder at the dacha ("these tits, this winter, are fed"); the stars over the trees (teaser).
+
+**Facts used**: Statement on AI Risk (CAIS, 30 May 2023); UN: one in six over 65 by 2050.
+
+**Figures**: `few-through-the-hole`, `what-understanding-changes`.
+
+**Left for later**: why SETI hears nothing, Panov's objection, intelligent cosmic dust → 29 (promised); the moral
+status of machines is still open (possible in 30).
