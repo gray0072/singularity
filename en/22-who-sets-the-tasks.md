@@ -189,6 +189,6 @@ Andrey laughed quietly.
 
 ---
 
-*Continuation of the series* (Part II. Machines today): a new article written for this repository after the author's original 15, in his method. Builds on: [04](./04-source-of-initiative.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [21](./21-machines-that-talk.md).
+*Continuation of the series* (Part II. Machines today): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [04](./04-source-of-initiative.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [21](./21-machines-that-talk.md).
 
 [← 21](./21-machines-that-talk.md) · [Contents](./README.md) · [23 →](./23-machine-for-making-people-good.md)

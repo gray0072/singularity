@@ -131,6 +131,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть IV. Переход и после): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Перевод с английского оригинала. Опирается на: [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [17](./17-global-determinism.md), [22](./22-who-sets-the-tasks.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md).
+*Продолжение серии* (Часть IV. Переход и после): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [17](./17-global-determinism.md), [22](./22-who-sets-the-tasks.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md).
 
 [← 26](./26-why-people-stopped-having-children.md) · [Оглавление](./README.md) · [28 →](./28-those-who-understand.md)

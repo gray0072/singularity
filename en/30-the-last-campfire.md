@@ -147,6 +147,6 @@ They sat on until the last log burned through.
 
 ---
 
-*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method; the last evening of the continuation. Builds on: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [04](./04-source-of-initiative.md), [10](./10-life-cycle-and-death.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [16](./16-fifteen-years-later.md), [19](./19-struggle-of-images.md), [20](./20-what-consciousness-is.md), [29](./29-silence-of-the-universe.md).
+*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method; the last evening of the continuation. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [04](./04-source-of-initiative.md), [10](./10-life-cycle-and-death.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [16](./16-fifteen-years-later.md), [19](./19-struggle-of-images.md), [20](./20-what-consciousness-is.md), [29](./29-silence-of-the-universe.md).
 
 [← 29](./29-silence-of-the-universe.md) · [Contents](./README.md)

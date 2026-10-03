@@ -127,6 +127,6 @@ status: reviewed
 
 ---
 
-*Продолжение серии* (Часть I. Проверка основ): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [19](./19-struggle-of-images.md).
+*Продолжение серии* (Часть I. Проверка основ): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [19](./19-struggle-of-images.md).
 
 [← 19](./19-struggle-of-images.md) · [Оглавление](./README.md) · [21 →](./21-machines-that-talk.md)

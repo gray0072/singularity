@@ -119,6 +119,6 @@ The fire had almost gone out. Oleg looked at the sky for a long time.
 
 ---
 
-*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. Builds on: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [13](./13-singularity-as-process.md), [16](./16-fifteen-years-later.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md).
+*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [13](./13-singularity-as-process.md), [16](./16-fifteen-years-later.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md).
 
 [← 28](./28-those-who-understand.md) · [Contents](./README.md) · [30 →](./30-the-last-campfire.md)

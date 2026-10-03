@@ -173,6 +173,6 @@ status: reviewed
 
 ---
 
-*Продолжение серии* (Часть I. Проверка основ): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md).
+*Продолжение серии* (Часть I. Проверка основ): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md).
 
 [← 18](./18-anatomy-of-wants.md) · [Оглавление](./README.md) · [20 →](./20-what-consciousness-is.md)

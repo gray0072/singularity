@@ -131,6 +131,6 @@ Oleg took out his phone and counted for a long time.
 
 ---
 
-*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. Builds on: [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [17](./17-global-determinism.md), [22](./22-who-sets-the-tasks.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md).
+*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [17](./17-global-determinism.md), [22](./22-who-sets-the-tasks.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md).
 
 [← 26](./26-why-people-stopped-having-children.md) · [Contents](./README.md) · [28 →](./28-those-who-understand.md)

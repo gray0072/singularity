@@ -125,6 +125,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть II. Машины сегодня): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [08](./08-human-psyche.md), [11](./11-symbiosis-and-parasitism.md), [18](./18-anatomy-of-wants.md), [20](./20-what-consciousness-is.md), [22](./22-who-sets-the-tasks.md).
+*Продолжение серии* (Часть II. Машины сегодня): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [08](./08-human-psyche.md), [11](./11-symbiosis-and-parasitism.md), [18](./18-anatomy-of-wants.md), [20](./20-what-consciousness-is.md), [22](./22-who-sets-the-tasks.md).
 
 [← 22](./22-who-sets-the-tasks.md) · [Оглавление](./README.md) · [24 →](./24-last-profession.md)

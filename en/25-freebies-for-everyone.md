@@ -139,6 +139,6 @@ Oleg set a big thermos on the log, unscrewed the cap and poured tea into two mug
 
 ---
 
-*Continuation of the series* (Part III. Economy and people): a new article written for this repository after the author's original 15, in his method. Builds on: [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [24](./24-last-profession.md).
+*Continuation of the series* (Part III. Economy and people): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [24](./24-last-profession.md).
 
 [← 24](./24-last-profession.md) · [Contents](./README.md) · [26 →](./26-why-people-stopped-having-children.md)

@@ -107,6 +107,6 @@ Oleg brought a printed page and handed it to Andrey before he sat down.
 
 ---
 
-*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. Builds on: [01](./01-introduction.md), [08](./08-human-psyche.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [25](./25-freebies-for-everyone.md), [27](./27-scenario-of-events.md).
+*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [01](./01-introduction.md), [08](./08-human-psyche.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [25](./25-freebies-for-everyone.md), [27](./27-scenario-of-events.md).
 
 [← 27](./27-scenario-of-events.md) · [Contents](./README.md) · [29 →](./29-silence-of-the-universe.md)

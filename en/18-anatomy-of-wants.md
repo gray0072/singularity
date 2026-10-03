@@ -203,6 +203,6 @@ Oleg looked at the ash for a long time.
 
 ---
 
-*Continuation of the series* (Part I. Re-examining the foundations): a new article written for this repository after the author's original 15, in his method. Builds on: [03](./03-mind-and-intelligence.md), [04](./04-source-of-initiative.md), [08](./08-human-psyche.md), [09](./09-unemployment-and-famine.md), [17](./17-global-determinism.md).
+*Continuation of the series* (Part I. Re-examining the foundations): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [03](./03-mind-and-intelligence.md), [04](./04-source-of-initiative.md), [08](./08-human-psyche.md), [09](./09-unemployment-and-famine.md), [17](./17-global-determinism.md).
 
 [← 17](./17-global-determinism.md) · [Contents](./README.md) · [19 →](./19-struggle-of-images.md)

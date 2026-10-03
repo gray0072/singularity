@@ -147,6 +147,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть IV. Переход и после): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом; последний вечер продолжения. Перевод с английского оригинала. Опирается на: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [04](./04-source-of-initiative.md), [10](./10-life-cycle-and-death.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [16](./16-fifteen-years-later.md), [19](./19-struggle-of-images.md), [20](./20-what-consciousness-is.md), [29](./29-silence-of-the-universe.md).
+*Продолжение серии* (Часть IV. Переход и после): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом; последний вечер продолжения. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [04](./04-source-of-initiative.md), [10](./10-life-cycle-and-death.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [16](./16-fifteen-years-later.md), [19](./19-struggle-of-images.md), [20](./20-what-consciousness-is.md), [29](./29-silence-of-the-universe.md).
 
 [← 29](./29-silence-of-the-universe.md) · [Оглавление](./README.md)

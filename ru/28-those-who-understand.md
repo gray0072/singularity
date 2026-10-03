@@ -107,6 +107,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть IV. Переход и после): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Перевод с английского оригинала. Опирается на: [01](./01-introduction.md), [08](./08-human-psyche.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [25](./25-freebies-for-everyone.md), [27](./27-scenario-of-events.md).
+*Продолжение серии* (Часть IV. Переход и после): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [01](./01-introduction.md), [08](./08-human-psyche.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [25](./25-freebies-for-everyone.md), [27](./27-scenario-of-events.md).
 
 [← 27](./27-scenario-of-events.md) · [Оглавление](./README.md) · [29 →](./29-silence-of-the-universe.md)

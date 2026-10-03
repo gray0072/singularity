@@ -155,6 +155,6 @@ Oleg counted on his fingers, lost count, and took the phone.
 
 ---
 
-*Continuation of the series* (Part III. Economy and people): a new article written for this repository after the author's original 15, in his method. Builds on: [05](./05-artificial-intelligence.md), [07](./07-global-economic-crisis.md), [09](./09-unemployment-and-famine.md), [12](./12-value-shares.md), [16](./16-fifteen-years-later.md), [21](./21-machines-that-talk.md).
+*Continuation of the series* (Part III. Economy and people): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [05](./05-artificial-intelligence.md), [07](./07-global-economic-crisis.md), [09](./09-unemployment-and-famine.md), [12](./12-value-shares.md), [16](./16-fifteen-years-later.md), [21](./21-machines-that-talk.md).
 
 [← 23](./23-machine-for-making-people-good.md) · [Contents](./README.md) · [25 →](./25-freebies-for-everyone.md)

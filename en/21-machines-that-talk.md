@@ -211,6 +211,6 @@ Oleg thought for a moment.
 
 ---
 
-*Continuation of the series* (Part II. Machines today): a new article written for this repository after the author's original 15, in his method. Builds on: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [16](./16-fifteen-years-later.md), [20](./20-what-consciousness-is.md).
+*Continuation of the series* (Part II. Machines today): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [16](./16-fifteen-years-later.md), [20](./20-what-consciousness-is.md).
 
 [← 20](./20-what-consciousness-is.md) · [Contents](./README.md) · [22 →](./22-who-sets-the-tasks.md)

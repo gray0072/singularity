@@ -189,6 +189,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть II. Машины сегодня): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [21](./21-machines-that-talk.md).
+*Продолжение серии* (Часть II. Машины сегодня): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [21](./21-machines-that-talk.md).
 
 [← 21](./21-machines-that-talk.md) · [Оглавление](./README.md) · [23 →](./23-machine-for-making-people-good.md)

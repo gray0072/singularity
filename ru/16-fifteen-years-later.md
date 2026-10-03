@@ -288,6 +288,6 @@ status: reviewed
 
 ---
 
-*Продолжение серии* (Часть I. Проверка основ): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [13](./13-singularity-as-process.md).
+*Продолжение серии* (Часть I. Проверка основ): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [13](./13-singularity-as-process.md).
 
 [← 15](./15-penrose-counterarguments.md) · [Оглавление](./README.md) · [17 →](./17-global-determinism.md)

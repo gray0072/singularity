@@ -7,11 +7,14 @@ written as the dialogue series **"Campfire Dialogues"** (*«Диалог у ко
 
 - The series was started in 2011–2012 on the sql.ru blog *«Технологическая сингулярность»* by
   **Андрей Гордиенко** (Andrey Gordienko, nickname **Garya**): 15 numbered articles and 2 unnumbered posts.
-  The blog survives only in the Wayback Machine:
-  <https://web.archive.org/web/20181022050755/http://www.sql.ru/blogs/garya/>.
+  sql.ru stopped working in March 2022; the blog survives only in the Wayback Machine:
+  <https://web.archive.org/web/20181022050755/http://www.sql.ru/blogs/garya/>. Addresses on sql.ru are kept as
+  plain text, never as links (see §5).
   The author today: [proza.ru/avtor/garya](https://proza.ru/avtor/garya), [stihi.ru/avtor/garya](https://stihi.ru/avtor/garya).
 - The original texts are published here **with the author's permission**.
 - This repository continues the series in the same style and with the same ideas (see [AGENTS.md](AGENTS.md)).
+  **The continuation (16 onwards) is not written by Andrey Gordienko.** He is the author of articles 01–15 only;
+  every table of contents and the footer of every continuation article say so.
   The author's views, including those he stated only in reader comments, and his later prose are collected in
   [`sources/garya/`](sources/garya/) so new articles can follow them closely.
 - **English is the primary language** of the repository. Content is translated into other languages,
@@ -107,7 +110,7 @@ original_lang: ru               # language of the original
 series: "Диалог у костра"       # series name in this language ("Campfire Dialogues" in en)
 published: 2011-10-14           # date of first publication of the original
 tags: ["антропоцентризм"]       # tags in this language
-source: http://www.sql.ru/blogs/garya/1053          # only for articles 01–15
+source: sql.ru/blogs/garya/1053                   # only for 01–15: the address on the closed sql.ru, plain text
 archive: https://web.archive.org/web/.../1053       # only for articles 01–15
 author: "Андрей Гордиенко (Garya)"                  # in the language of the file
 author_url: https://proza.ru/avtor/garya
@@ -164,7 +167,10 @@ both require `--authorized` as a reminder that the texts are published by permis
   5. fills the `ru/NN-slug.md` stubs (`status: original`, author line, navigation);
   6. writes `sources/garya/sqlru/<name>.md` for every post — the blog page as published: the post text, then
      the comments under it (the author's in full, readers' shortened to 300 characters as context, since they
-     belong to their authors). `--skip-articles` rebuilds these pages without touching `ru/`.
+     belong to their authors). `--skip-articles` rebuilds these pages without touching `ru/`;
+  7. since sql.ru is closed, rewrites every link to it: links to posts of the blog become relative links to the
+     copies in this repository, pages that the Wayback Machine kept (its `ARCHIVED_PAGES` table) link to the
+     archive, and all other addresses stay as plain text in a code span.
 - `python tools/import_proza.py --authorized` imports the books «Подпольщики» and «Диалоги с самим собой» from
   [proza.ru/avtor/garya](https://proza.ru/avtor/garya): one Markdown file per book, one `##` per chapter.
 

@@ -8,8 +8,11 @@ specified in [SPEC.md](SPEC.md); this file covers **how to write**.
 The series **"Campfire Dialogues"** (*«Диалог у костра»*) consists of popular-science essays on the
 technological singularity. It was started in 2011–2012 on the sql.ru blog *«Технологическая сингулярность»*
 by **Андрей Гордиенко** (Andrey Gordienko, **Garya**; [proza.ru/avtor/garya](https://proza.ru/avtor/garya)):
-15 articles and a long trail of debates in the comments. The originals are published here with the author's
-permission. We continue the series, staying as close as possible to his ideas, logic and voice.
+15 articles and a long trail of debates in the comments. sql.ru closed in 2022; the blog is kept in
+[`sources/garya/sqlru/`](sources/garya/sqlru/) and the Wayback Machine. Never link to sql.ru itself: give its
+addresses as plain text and link to the archive or to the copies here. The originals are published here with the
+author's permission. We continue the series, staying as close as possible to his ideas, logic and voice, but
+**he is the author of articles 01–15 only**: never present the continuation as his.
 
 Before writing anything, read:
 
@@ -115,7 +118,8 @@ articles as closely as possible. In practice:
   *Handling his forecasts* in [`author-profile.md`](sources/garya/en/author-profile.md).
 - Oleg's objections are best taken from the real ones: every note has a section *The author in the comments*
   with readers' objections and the author's answers. Andrey's answers must agree with those.
-- New articles are not attributed to the original author: they continue his series and method; the byline,
+- New articles are not attributed to the original author, and their footer says that Andrey Gordienko did not
+  write them: they continue his series and method; the byline,
   if any, is the repository's.
 
 ### Writing a continuation evening, step by step

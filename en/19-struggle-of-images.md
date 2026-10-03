@@ -173,6 +173,6 @@ Oleg opened his mouth and closed it again.
 
 ---
 
-*Continuation of the series* (Part I. Re-examining the foundations): a new article written for this repository after the author's original 15, in his method. Builds on: [03](./03-mind-and-intelligence.md), [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md).
+*Continuation of the series* (Part I. Re-examining the foundations): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [03](./03-mind-and-intelligence.md), [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md).
 
 [← 18](./18-anatomy-of-wants.md) · [Contents](./README.md) · [20 →](./20-what-consciousness-is.md)

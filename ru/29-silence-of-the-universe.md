@@ -119,6 +119,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть IV. Переход и после): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Перевод с английского оригинала. Опирается на: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [13](./13-singularity-as-process.md), [16](./16-fifteen-years-later.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md).
+*Продолжение серии* (Часть IV. Переход и после): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [13](./13-singularity-as-process.md), [16](./16-fifteen-years-later.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md).
 
 [← 28](./28-those-who-understand.md) · [Оглавление](./README.md) · [30 →](./30-the-last-campfire.md)
