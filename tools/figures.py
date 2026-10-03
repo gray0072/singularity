@@ -1170,6 +1170,140 @@ def humanity_yearly_growth(lang):
     return f
 
 
+# --- 27. The Scenario of Events -----------------------------------------------------------------
+
+@figure("humanity-technosphere-attraction-forces")
+def attraction_forces(lang):
+    """The author's lost chart from article 11, redrawn from his description in the text."""
+    t = {
+        "en": dict(title="Forces of attraction between humanity and the technosphere",
+                   sub="A scheme after the author's chart of 2011 (article 11). The curves are drawn smooth; in reality they are strongly nonlinear.",
+                   hum="humanity's interest\nin the technosphere", tech="the technosphere's\ninterest in humanity",
+                   coh="cohesion of the union", parity="parity", now="we are here,\nI believe",
+                   ph=["symbiosis", "parasitism", "break"], start="≈ 1 million years ago", end="time →"),
+        "ru": dict(title="Силы притяжения человечества и техносферы",
+                   sub="Схема по графику автора 2011 года (статья 11). Кривые нарисованы плавными; на деле они сильно нелинейны.",
+                   hum="заинтересованность\nчеловечества в техносфере", tech="заинтересованность\nтехносферы в человечестве",
+                   coh="сила сцепления союза", parity="паритет", now="мы здесь,\nя полагаю",
+                   ph=["симбиоз", "паразитирование", "разрыв"], start="≈ 1 млн лет назад", end="время →"),
+    }[lang]
+    f = Fig(760, 450, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yz, yh = 70, 720, 275, 150  # yz: zero line; yh: pixels per unit force
+    xz, xb = 0.861, 0.934
+
+    def fh(u):
+        return 0.08 + 0.75 * u * u
+
+    def ft(u):
+        return 0.95 - 1.49 * u ** 3 if u <= xz else -(u - xz) * 10
+
+    def X(u):
+        return x0 + u * (x1 - x0)
+
+    def Y(v):
+        return yz - v * yh
+
+    f.rect(X(xz), Y(1.05), X(xb) - X(xz), Y(-0.72) - Y(1.05), fill=ORANGE, opacity=0.10, r=0)
+    f.rect(X(xb), Y(1.05), X(1.0) - X(xb), Y(-0.72) - Y(1.05), fill=RED, opacity=0.12, r=0)
+    f.line(x0, yz, x1, yz, color=INK2, width=1.2)
+    f.line(x0, Y(1.05), x0, Y(-0.72), color=INK2, width=1.2)
+    us = [i / 400 for i in range(401)]
+    coh = [(u, min(fh(u), ft(u))) for u in us if ft(u) > 0]
+    f.add('<path d="M' + " L".join(f"{X(u):.1f},{Y(v):.1f}" for u, v in coh) + f'" stroke="{GREEN}" stroke-opacity="0.35" stroke-width="9" fill="none" stroke-linecap="round"/>')
+    f.path("M" + " L".join(f"{X(u):.1f},{Y(fh(u)):.1f}" for u in us), color=BLUE, width=2.5)
+    f.path("M" + " L".join(f"{X(u):.1f},{Y(ft(u)):.1f}" for u in us if ft(u) > -0.72), color=ORANGE, width=2.5)
+    up = min((u for u in us if u < xz), key=lambda u: abs(fh(u) - ft(u)))
+    f.circle(X(up), Y(fh(up)), 5, fill=INK, stroke=SURFACE, width=2)
+    f.text(X(up) - 10, Y(fh(up)) - 12, t["parity"], size=12, color=INK, weight="600", anchor="end")
+    f.text(X(0.03), Y(fh(0.03)) - 32, t["hum"], size=12, color=BLUE)
+    f.text(X(0.03), Y(0.95) - 26, t["tech"], size=12, color=ORANGE)
+    f.text(X(0.30), Y(fh(0.30)) + 30, t["coh"], size=12, color=GREEN)
+    un = 0.79
+    f.line(X(un), Y(1.0), X(un), yz + 4, color=INK2, width=1.2, dash="3 3")
+    f.text(X(un) - 6, Y(1.0) + 4, t["now"], size=11.5, color=INK2, anchor="end", italic=True)
+    f.line(X(0) + 2, 396, X(xz) - 2, 396, color=INK2, width=1)
+    f.line(X(xz) + 2, 396, X(xb) - 2, 396, color=ORANGE, width=1.5)
+    f.line(X(xb) + 2, 396, X(1.0) - 2, 396, color=RED, width=1.5)
+    f.text(X(xz / 2), 412, t["ph"][0], size=12, color=INK2, anchor="middle")
+    f.text(X((xz + xb) / 2), 412, t["ph"][1], size=12, color=ORANGE, anchor="end")
+    f.text(X(1.0), 430, t["ph"][2], size=12, color=RED, anchor="end")
+    f.text(x0 + 4, yz + 18, t["start"], size=11.5, color=MUTED)
+    f.text(X(0.62), yz + 18, t["end"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("scenario-steps")
+def scenario_steps(lang):
+    t = {
+        "en": dict(title="The scenario of events, step by step",
+                   sub="The order I trust; dates I do not give; the details of the last steps least of all.",
+                   steps=["takes the\nyoungest\nfunctions: words,\nsymbols, numbers",
+                          "the chain of\ntasks loses its\nhuman links",
+                          "becomes its own\nmain customer",
+                          "learns to\nreproduce itself",
+                          "people hold on\nby law: a short\nparasitism",
+                          "stops giving",
+                          "humanity leaves\nsoftly, through\nbirths"],
+                   status=["visible", "visible", "visible", "begun", "ahead", "ahead", "begun"]),
+        "ru": dict(title="Сценарий событий по шагам",
+                   sub="Порядку я доверяю; дат не называю; подробностям последних шагов доверяю меньше всего.",
+                   steps=["забирает\nсамые молодые\nфункции: слова,\nсимволы, счёт",
+                          "цепочка задач\nтеряет\nчеловеческие\nзвенья",
+                          "становится сама\nсебе главным\nпокупателем",
+                          "учится\nвоспроизводить\nсебя сама",
+                          "люди держатся\nза неё законом:\nкороткий\nпаразитизм",
+                          "перестаёт\nдавать",
+                          "человечество\nуходит мягко,\nчерез рождения"],
+                   status=["видно", "видно", "видно", "началось", "впереди", "впереди", "началось"]),
+    }[lang]
+    colors = {0: GREEN, 1: GREEN, 2: GREEN, 3: YELLOW, 4: MUTED, 5: MUTED, 6: YELLOW}
+    f = Fig(800, 470, t["title"])
+    heading(f, t["title"], t["sub"])
+    n = len(t["steps"])
+    w, gap = 106, 4
+    for i, (label, st) in enumerate(zip(t["steps"], t["status"])):
+        x = 28 + i * (w + gap)
+        h = 150 + i * 30
+        y = 455 - h
+        c = colors[i]
+        f.rect(x, y, w, h - 10, fill=c, opacity=0.12, stroke=c, r=6)
+        f.text(x + 10, y + 22, str(i + 1), size=18, color=c if c != MUTED else INK2, weight="700")
+        f.text(x + 8, y + 44, label, size=11, color=INK)
+        f.rect(x + 8, y + h - 38, w - 16, 20, fill=c, opacity=0.9 if c != MUTED else 0.5, r=10)
+        f.text(x + w / 2, y + h - 24, st, size=11, color="#ffffff", anchor="middle", weight="600")
+    return f
+
+
+@figure("energy-per-person")
+def energy_per_person(lang):
+    t = {
+        "en": dict(title="How much energy one person needs, and how much passes through the technosphere",
+                   sub="Watts per person. The body runs on food; everything above it flows through the technosphere.",
+                   rows=[("The human body (≈ 2,500 kcal a day)", 120, ORANGE, "≈ 120 W"),
+                         ("World average, 2023", 2440, BLUE, "≈ 2,400 W: the body ≈ 5%"),
+                         ("United States, 2023", 9330, BLUE, "≈ 9,300 W: the body ≈ 1%")],
+                   src="Sources: Energy Institute, Statistical Review of World Energy 2024 (620 EJ); US EIA (279 million Btu per person)."),
+        "ru": dict(title="Сколько энергии нужно человеку и сколько проходит через техносферу",
+                   sub="Ватт на человека. Тело работает на еде; всё сверх него течёт через техносферу.",
+                   rows=[("Тело человека (≈ 2500 ккал в день)", 120, ORANGE, "≈ 120 Вт"),
+                         ("В среднем по миру, 2023", 2440, BLUE, "≈ 2400 Вт: тело ≈ 5%"),
+                         ("США, 2023", 9330, BLUE, "≈ 9300 Вт: тело ≈ 1%")],
+                   src="Источники: Energy Institute, Statistical Review of World Energy 2024 (620 ЭДж); EIA США (279 млн БТЕ на человека)."),
+    }[lang]
+    f = Fig(760, 270, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, scale = 300, 300 / 9330
+    for i, (label, v, c, note) in enumerate(t["rows"]):
+        y = 90 + i * 44
+        f.text(x0 - 12, y + 18, label, size=13, anchor="end")
+        w = max(v * scale, 4)
+        f.rect(x0, y + 3, w, 24, fill=c, r=4)
+        f.text(x0 + w + 8, y + 20, note, size=12.5, color=INK, weight="600")
+    f.text(28, 252, t["src"], size=11, color=MUTED)
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

@@ -341,3 +341,38 @@ OWID mean years of schooling; Eurostat 2023 (29.8); Lancet GBD 2024 fertility; U
 **Figures**: `fertility-and-money`, `humanity-yearly-growth`.
 
 **Left for later**: the scenario of events step by step (promised in article 14, never written) → 27 (promised).
+
+## 27. The Scenario of Events
+
+**Established**
+- The author's lost chart of article 11 (forces of attraction) redrawn from his own description: humanity's interest
+  rises, the technosphere's falls; parity point = firmest union; zero interest of the technosphere = end of symbiosis;
+  short parasitism while humanity's pull exceeds the push; then the break. Andrey puts "now" between parity and zero.
+- The promised scenario (article 14) as seven ordered steps, with reliability from article 17 (order trusted, no
+  dates, details of late steps least): (1) the youngest functions go; (2) the chain of tasks loses human links;
+  (3) the technosphere becomes its own main customer (Ireland: data centres 21% of electricity in 2023 vs urban
+  households 18%); (4) self-reproduction, the key step, begun (FANUC robots building robots since 2001, a month
+  without people; AlphaChip laying out parts of three TPU generations; "watch the hands"); (5) parasitism by law
+  (short); (6) the technosphere stops giving (body ≈ 120 W vs ≈ 2,400 W per person in the world, ≈ 9,300 W in the US:
+  ≈ 95% / 99% of energy flows through the technosphere; the author's 140 W corrected to 120); (7) humanity leaves
+  softly, through births (begun).
+- Objections answered: regulation and the 2023 pause letter (31,000+ signatures; nobody paused, compute kept growing
+  4–5x a year; the race logic; a law is a counter-want); merging with machines (helps the paralysed; as a species
+  strategy it is the valve radio with a chip, article 11). The scenario can be cut short by oscillations or cheap
+  catastrophe (articles 11, 14), not painted.
+- Instead of dates, three gauges: labour's share of income; machines as customers of machines (data-centre vs
+  household electricity); the hands (robots building robots, laying cable, assembling data centres).
+- On the late steps Andrey repeats the author's 2012 comment (those living by their own muscle may last a generation
+  or two longer) and says his forecast is weakest there.
+
+**Images and devices used**: the pencil chart on Andrey's knee (opens and closes the evening); the cow (from 16/17);
+the control panel with three gauges.
+
+**Facts used**: CSO Ireland 2023; FANUC lights-out factory; AlphaChip (Nature 2021, addendum 2024); EU AI Act 2024; FLI
+pause letter (March 2023); Energy Institute 2024 (620 EJ); EIA 2023 (279 million Btu per person).
+
+**Figures**: `humanity-technosphere-attraction-forces` (the redrawn chart of article 11), `scenario-steps`,
+`energy-per-person`.
+
+**Left for later**: "so what should I do?" and the author's promised "strategy of action at the very end" → 28
+(promised); technogenic life after humanity and the silence of the universe → 29.

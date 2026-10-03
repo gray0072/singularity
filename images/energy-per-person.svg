@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>How much energy one person needs, and how much passes through the technosphere</title>
+
+<rect x="0.5" y="0.5" width="759" height="269" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">How much energy one person needs, and how much passes through the technosphere</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Watts per person. The body runs on food; everything above it flows through the technosphere.</text>
+<text x="288.0" y="108.0" font-size="13" fill="#0b0b0b" text-anchor="end">The human body (≈ 2,500 kcal a day)</text>
+<rect x="300.0" y="93.0" width="4.0" height="24.0" rx="4" fill="#eb6834"/>
+<text x="312.0" y="110.0" font-size="12.5" fill="#0b0b0b" font-weight="600">≈ 120 W</text>
+<text x="288.0" y="152.0" font-size="13" fill="#0b0b0b" text-anchor="end">World average, 2023</text>
+<rect x="300.0" y="137.0" width="78.5" height="24.0" rx="4" fill="#2a78d6"/>
+<text x="386.5" y="154.0" font-size="12.5" fill="#0b0b0b" font-weight="600">≈ 2,400 W: the body ≈ 5%</text>
+<text x="288.0" y="196.0" font-size="13" fill="#0b0b0b" text-anchor="end">United States, 2023</text>
+<rect x="300.0" y="181.0" width="300.0" height="24.0" rx="4" fill="#2a78d6"/>
+<text x="608.0" y="198.0" font-size="12.5" fill="#0b0b0b" font-weight="600">≈ 9,300 W: the body ≈ 1%</text>
+<text x="28.0" y="252.0" font-size="11" fill="#8a8985">Sources: Energy Institute, Statistical Review of World Energy 2024 (620 EJ); US EIA (279 million Btu per person).</text>
+</svg>

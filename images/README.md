@@ -34,6 +34,9 @@ Reference images from articles as `../images/<file>`.
 | `freebie-circle.svg` (+ `.ru.svg`) | The circle of the freebie: taxes, basic income, purchases, and machines buying from machines | 25 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `fertility-and-money.svg` (+ `.ru.svg`) | Children per woman 2000–2024 in South Korea, Finland, Hungary and the world, with pro-natal spending | 26 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `humanity-yearly-growth.svg` (+ `.ru.svg`) | Yearly change of the world population 1950–2100 (UN WPP 2024): peak in 1989, zero around 2084 | 26 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `humanity-technosphere-attraction-forces.svg` (+ `.ru.svg`) | Forces of attraction between humanity and the technosphere, redrawn from the description in article 11 | 27 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `scenario-steps.svg` (+ `.ru.svg`) | The scenario of events as a staircase of seven steps with their status | 27 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `energy-per-person.svg` (+ `.ru.svg`) | Energy per person: the body against the world average and the US, 2023 | 27 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 
@@ -47,7 +50,7 @@ articles use it.
 | `uneven-knowledge-causal-links.png` | 08 | sql.ru attachment `actualfile.aspx?id=11520389` | Not in the Wayback Machine; redraw from the article text |
 | `kimberlite-pipe-diamond-mine.jpg` | 09 | coolplaces.ru Google Earth picture | Third-party: replace with a free photo (Wikimedia) |
 | `humanity-technosphere-evolution-curves.png` | 10 | the author's chart, `actualfile.aspx?id=11584337` | Not archived; redraw from the article text |
-| `humanity-technosphere-attraction-forces.png` | 11 | the author's chart, `actualfile.aspx?id=11587264` | Not archived; redraw from the article text |
+| `humanity-technosphere-attraction-forces.svg` | 11 | the author's chart, `actualfile.aspx?id=11587264` | Not archived; redrawn from the article text (registered above, used in 27); still to be placed in 11 instead of its `TODO` comment, as a separate editorial commit |
 
 Redrawn charts are SVG (`.svg`, plus `.ru.svg` when they carry text); the planned extensions above become
 `.svg` when redrawn.

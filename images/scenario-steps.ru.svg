@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Сценарий событий по шагам</title>
+
+<rect x="0.5" y="0.5" width="799" height="469" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Сценарий событий по шагам</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Порядку я доверяю; дат не называю; подробностям последних шагов доверяю меньше всего.</text>
+<rect x="28.0" y="305.0" width="106.0" height="140.0" rx="6" fill="#008300" stroke="#008300" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="38.0" y="327.0" font-size="18" fill="#008300" font-weight="700">1</text>
+<text x="36.0" y="349.0" font-size="11" fill="#0b0b0b"><tspan x="36.0" dy="0.0">забирает</tspan><tspan x="36.0" dy="13.8">самые молодые</tspan><tspan x="36.0" dy="13.8">функции: слова,</tspan><tspan x="36.0" dy="13.8">символы, счёт</tspan></text>
+<rect x="36.0" y="417.0" width="90.0" height="20.0" rx="10" fill="#008300" fill-opacity="0.9"/>
+<text x="81.0" y="431.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">видно</text>
+<rect x="138.0" y="275.0" width="106.0" height="170.0" rx="6" fill="#008300" stroke="#008300" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="148.0" y="297.0" font-size="18" fill="#008300" font-weight="700">2</text>
+<text x="146.0" y="319.0" font-size="11" fill="#0b0b0b"><tspan x="146.0" dy="0.0">цепочка задач</tspan><tspan x="146.0" dy="13.8">теряет</tspan><tspan x="146.0" dy="13.8">человеческие</tspan><tspan x="146.0" dy="13.8">звенья</tspan></text>
+<rect x="146.0" y="417.0" width="90.0" height="20.0" rx="10" fill="#008300" fill-opacity="0.9"/>
+<text x="191.0" y="431.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">видно</text>
+<rect x="248.0" y="245.0" width="106.0" height="200.0" rx="6" fill="#008300" stroke="#008300" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="258.0" y="267.0" font-size="18" fill="#008300" font-weight="700">3</text>
+<text x="256.0" y="289.0" font-size="11" fill="#0b0b0b"><tspan x="256.0" dy="0.0">становится сама</tspan><tspan x="256.0" dy="13.8">себе главным</tspan><tspan x="256.0" dy="13.8">покупателем</tspan></text>
+<rect x="256.0" y="417.0" width="90.0" height="20.0" rx="10" fill="#008300" fill-opacity="0.9"/>
+<text x="301.0" y="431.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">видно</text>
+<rect x="358.0" y="215.0" width="106.0" height="230.0" rx="6" fill="#eda100" stroke="#eda100" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="368.0" y="237.0" font-size="18" fill="#eda100" font-weight="700">4</text>
+<text x="366.0" y="259.0" font-size="11" fill="#0b0b0b"><tspan x="366.0" dy="0.0">учится</tspan><tspan x="366.0" dy="13.8">воспроизводить</tspan><tspan x="366.0" dy="13.8">себя сама</tspan></text>
+<rect x="366.0" y="417.0" width="90.0" height="20.0" rx="10" fill="#eda100" fill-opacity="0.9"/>
+<text x="411.0" y="431.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">началось</text>
+<rect x="468.0" y="185.0" width="106.0" height="260.0" rx="6" fill="#8a8985" stroke="#8a8985" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="478.0" y="207.0" font-size="18" fill="#52514e" font-weight="700">5</text>
+<text x="476.0" y="229.0" font-size="11" fill="#0b0b0b"><tspan x="476.0" dy="0.0">люди держатся</tspan><tspan x="476.0" dy="13.8">за неё законом:</tspan><tspan x="476.0" dy="13.8">короткий</tspan><tspan x="476.0" dy="13.8">паразитизм</tspan></text>
+<rect x="476.0" y="417.0" width="90.0" height="20.0" rx="10" fill="#8a8985" fill-opacity="0.5"/>
+<text x="521.0" y="431.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">впереди</text>
+<rect x="578.0" y="155.0" width="106.0" height="290.0" rx="6" fill="#8a8985" stroke="#8a8985" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="588.0" y="177.0" font-size="18" fill="#52514e" font-weight="700">6</text>
+<text x="586.0" y="199.0" font-size="11" fill="#0b0b0b"><tspan x="586.0" dy="0.0">перестаёт</tspan><tspan x="586.0" dy="13.8">давать</tspan></text>
+<rect x="586.0" y="417.0" width="90.0" height="20.0" rx="10" fill="#8a8985" fill-opacity="0.5"/>
+<text x="631.0" y="431.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">впереди</text>
+<rect x="688.0" y="125.0" width="106.0" height="320.0" rx="6" fill="#eda100" stroke="#eda100" stroke-width="1.5" fill-opacity="0.12"/>
+<text x="698.0" y="147.0" font-size="18" fill="#eda100" font-weight="700">7</text>
+<text x="696.0" y="169.0" font-size="11" fill="#0b0b0b"><tspan x="696.0" dy="0.0">человечество</tspan><tspan x="696.0" dy="13.8">уходит мягко,</tspan><tspan x="696.0" dy="13.8">через рождения</tspan></text>
+<rect x="696.0" y="417.0" width="90.0" height="20.0" rx="10" fill="#eda100" fill-opacity="0.9"/>
+<text x="741.0" y="431.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="600">началось</text>
+</svg>
