@@ -39,6 +39,8 @@ Reference images from articles as `../images/<file>`.
 | `energy-per-person.svg` (+ `.ru.svg`) | Energy per person: the body against the world average and the US, 2023 | 27 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `few-through-the-hole.svg` (+ `.ru.svg`) | Selective short-sightedness as a law of the whole: the gas cylinder and the few molecules at the hole | 28 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `what-understanding-changes.svg` (+ `.ru.svg`) | What understanding changes and what it does not | 28 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `speeds-of-minds.svg` (+ `.ru.svg`) | How fast carriers of mind work: neuron vs transistor, nerve impulse vs light in fibre | 29 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `what-seti-looks-for.svg` (+ `.ru.svg`) | What SETI looks for and what post-singular life may be | 29 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

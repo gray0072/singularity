@@ -405,3 +405,32 @@ whole; the bird feeder at the dacha ("these tits, this winter, are fed"); the st
 
 **Left for later**: why SETI hears nothing, Panov's objection, intelligent cosmic dust → 29 (promised); the moral
 status of machines is still open (possible in 30).
+
+## 29. The Silence of the Universe
+
+**Established**
+- Fermi's question in its strongest form (expansionist technospheres should have filled the Galaxy) answered in three
+  steps: (1) the silence proves little: SETI has searched about a hot tub of the oceans (Wright, Kanodia, Lubar 2018);
+  (2) we search for minds like ours (warm planets, radio, wish to talk) — anthropocentrism; by the measuring-system
+  rule of article 03 a higher mind looks like nature (the 2012 "supernova flash"); an optimally compressed signal is
+  indistinguishable from noise (Lachmann, Newman, Moore 2004); (3) technogenic life prefers cold (Landauer limit;
+  aestivation hypothesis, Sandberg et al. 2017, marked as a hypothesis), is "intelligent cosmic dust" (the author's
+  2012 image), thinks ~10 million times faster (neuron ≈ 200 Hz vs transistor ≈ 3 GHz: a year of our thinking in ≈ 3
+  seconds), and has no reason to call biological neighbours (we do not signal to ants).
+- Panov's strongest objection (minds survive the singularity; humanity's laws change but it does not vanish) answered:
+  his own 2005 scaling law (each epoch ≈ 2.5–3 times shorter, converging in this century; Snooks independently) has
+  no kink where humans appear: the attractor of biological evolution ends. "Humanity with new laws" vs "technogenic
+  life" is a question of naming (we are not called bacteria). The Great Filter is a door, not a wall.
+- Honest limit: the Universe may be empty; the silence just does not prove it.
+
+**Images and devices used**: the star-map app on Oleg's phone; the hot tub and the bucket; the ant and the anthill
+(from 02); the boulder; the door.
+
+**Facts used**: Fermi 1950; Drake 1960; Wright et al. 2018; Lachmann–Newman–Moore 2004; Sandberg–Armstrong–Ćirković
+2017; Panov 2005 (Advances in Space Research); Snooks.
+
+**Figures**: `speeds-of-minds`, `what-seti-looks-for`.
+
+**Left for later**: the last evening — every dynamic system, technogenic life included, has one life cycle; what is
+left for a human who has understood → 30 (promised; Oleg is to bring dry wood). The moral status of machines is still
+open (30 may close it).

@@ -1374,6 +1374,77 @@ def what_understanding_changes(lang):
     return f
 
 
+# --- 29. The Silence of the Universe ------------------------------------------------------------
+
+@figure("speeds-of-minds")
+def speeds_of_minds(lang):
+    t = {
+        "en": dict(title="How fast the carriers of mind work",
+                   sub="Logarithmic scale. A mind on a fast platform would live a year of our thinking in a few seconds.",
+                   g1="Switching, times a second", g2="Signal speed, metres a second",
+                   rows=[("A neuron fires", 200, "≈ 200", ORANGE, 0), ("A transistor switches", 3e9, "≈ 3 billion", BLUE, 0),
+                         ("A nerve impulse", 100, "≈ 100", ORANGE, 1), ("Light in an optical fibre", 2e8, "≈ 200 million", BLUE, 1)],
+                   ratio1="≈ × 10 million", ratio2="≈ × 2 million"),
+        "ru": dict(title="Как быстро работают носители разума",
+                   sub="Логарифмическая шкала. Разум на быстрой платформе прожил бы год нашего мышления за несколько секунд.",
+                   g1="Переключения, раз в секунду", g2="Скорость сигнала, метров в секунду",
+                   rows=[("Нейрон срабатывает", 200, "≈ 200", ORANGE, 0), ("Транзистор переключается", 3e9, "≈ 3 млрд", BLUE, 0),
+                         ("Нервный импульс", 100, "≈ 100", ORANGE, 1), ("Свет в оптоволокне", 2e8, "≈ 200 млн", BLUE, 1)],
+                   ratio1="≈ × 10 млн", ratio2="≈ × 2 млн"),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, lo, hi = 260, 650, 1, 1e10
+    ys = [104, 136, 214, 246]
+    f.text(28, 96, t["g1"], size=12, color=MUTED, weight="600")
+    f.text(28, 206, t["g2"], size=12, color=MUTED, weight="600")
+    for (label, v, txt, c, g), y in zip(t["rows"], ys):
+        f.text(x0 - 12, y + 17, label, size=13.5, anchor="end")
+        w = log_x(v, lo, hi, x0, x1) - x0
+        f.rect(x0, y + 3, w, 22, fill=c, r=4)
+        f.text(x0 + w + 8, y + 19, txt, size=12.5, color=INK, weight="600")
+    f.text(732, 140, t["ratio1"], size=13, color=BLUE, anchor="end", weight="600")
+    f.text(732, 250, t["ratio2"], size=13, color=BLUE, anchor="end", weight="600")
+    for k in range(0, 11, 2):
+        x = log_x(10 ** k, lo, hi, x0, x1)
+        f.line(x, 280, x, 286, color=INK2, width=1)
+        f.text(x, 302, f"10{''.join('⁰¹²³⁴⁵⁶⁷⁸⁹'[int(d)] for d in str(k))}", size=11.5, color=INK2, anchor="middle")
+    f.line(x0, 283, x1, 283, color=INK2, width=1)
+    return f
+
+
+@figure("what-seti-looks-for")
+def what_seti_looks_for(lang):
+    t = {
+        "en": dict(title="What we look for, and what may be there",
+                   left="SETI looks for a civilisation like ours", right="Post-singular life may be",
+                   lrows=["on a warm planet with oxygen and water", "with radio beacons and big engineering",
+                          "talking slowly, with simple, redundant signals", "wanting to talk to its neighbours"],
+                   rrows=["in the cold and dark, where computing is cheapest", "scattered, like intelligent cosmic dust",
+                          "with signals compressed until they look like noise", "with no reason to call biological neighbours"],
+                   foot="Searched so far: about a hot tub's worth of the ocean (Wright et al. 2018)."),
+        "ru": dict(title="Что мы ищем и что может там быть",
+                   left="SETI ищет цивилизацию вроде нашей", right="Постсингулярная жизнь может быть",
+                   lrows=["на тёплой планете с кислородом и водой", "с радиомаяками и большой инженерией",
+                          "медленной, с простыми избыточными сигналами", "желающей поговорить с соседями"],
+                   rrows=["в холоде и темноте, где вычисления дешевле всего", "рассеянной, как разумная космическая пыль",
+                          "с сигналами, сжатыми до неотличимости от шума", "без причин звать биологических соседей"],
+                   foot="Обыскано пока примерно столько, сколько ванна-джакузи от океана (Wright et al., 2018)."),
+    }[lang]
+    f = Fig(760, 320, t["title"])
+    f.text(28, 40, t["title"], size=19, weight="600")
+    f.rect(28, 64, 340, 210, fill="#fdf0ea", stroke=ORANGE, r=10)
+    f.rect(392, 64, 340, 210, fill="#eaf2fc", stroke=BLUE, r=10)
+    f.text(44, 90, t["left"], size=14, weight="600", color=ORANGE)
+    f.text(408, 90, t["right"], size=14, weight="600", color=BLUE)
+    for i, r in enumerate(t["lrows"]):
+        f.text(44, 126 + i * 38, "— " + r, size=12.5, color=INK)
+    for i, r in enumerate(t["rrows"]):
+        f.text(408, 126 + i * 38, "— " + r, size=12.5, color=INK)
+    f.text(28, 302, t["foot"], size=12.5, color=INK2, italic=True)
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

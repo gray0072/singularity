@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>What we look for, and what may be there</title>
+
+<rect x="0.5" y="0.5" width="759" height="319" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">What we look for, and what may be there</text>
+<rect x="28.0" y="64.0" width="340.0" height="210.0" rx="10" fill="#fdf0ea" stroke="#eb6834" stroke-width="1.5"/>
+<rect x="392.0" y="64.0" width="340.0" height="210.0" rx="10" fill="#eaf2fc" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="44.0" y="90.0" font-size="14" fill="#eb6834" font-weight="600">SETI looks for a civilisation like ours</text>
+<text x="408.0" y="90.0" font-size="14" fill="#2a78d6" font-weight="600">Post-singular life may be</text>
+<text x="44.0" y="126.0" font-size="12.5" fill="#0b0b0b">— on a warm planet with oxygen and water</text>
+<text x="44.0" y="164.0" font-size="12.5" fill="#0b0b0b">— with radio beacons and big engineering</text>
+<text x="44.0" y="202.0" font-size="12.5" fill="#0b0b0b">— talking slowly, with simple, redundant signals</text>
+<text x="44.0" y="240.0" font-size="12.5" fill="#0b0b0b">— wanting to talk to its neighbours</text>
+<text x="408.0" y="126.0" font-size="12.5" fill="#0b0b0b">— in the cold and dark, where computing is cheapest</text>
+<text x="408.0" y="164.0" font-size="12.5" fill="#0b0b0b">— scattered, like intelligent cosmic dust</text>
+<text x="408.0" y="202.0" font-size="12.5" fill="#0b0b0b">— with signals compressed until they look like noise</text>
+<text x="408.0" y="240.0" font-size="12.5" fill="#0b0b0b">— with no reason to call biological neighbours</text>
+<text x="28.0" y="302.0" font-size="12.5" fill="#52514e" font-style="italic">Searched so far: about a hot tub's worth of the ocean (Wright et al. 2018).</text>
+</svg>
