@@ -96,8 +96,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Planned evenings 16–30 have stubs with abstracts, a `part` and a
-  `builds_on` list in `en/` and `ru/`; the next free number is `31`. The arc: I. Re-examining the foundations
+- The continuation starts at `16`. Evenings 16–30 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `31`. The arc: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30, the
   last evening closes the series). A continuation article is marked `continuation: true` and listed
   in the *Continuation* block of every table of contents.

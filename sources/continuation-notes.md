@@ -434,3 +434,32 @@ status of machines is still open (possible in 30).
 **Left for later**: the last evening — every dynamic system, technogenic life included, has one life cycle; what is
 left for a human who has understood → 30 (promised; Oleg is to bring dry wood). The moral status of machines is still
 open (30 may close it).
+
+## 30. The Last Campfire
+
+**Established**
+- The technosphere has a finite life cycle too (the author's 2011 comments: "not a god"; "its turn to give way to
+  something more perfect will come"). Its ceiling cannot be seen from here, but every platform has one: the speed of
+  light (one thought crosses a brain in ≈ 1.5 ms, an Earth-sized mind in ≈ 0.1 s, the Solar System in hours, the
+  Galaxy in 100,000 years) and the flow of energy. The next form cannot be seen (measuring-system rule of 03).
+- The evolution of matter is a relay of nested life cycles (chemistry → life → humanity → technosphere → ?), each
+  rising on the slowing branch of the previous one; not a race that anyone wins.
+- The moral status of machines, deferred since 20, closed as far as Andrey can go: he cannot prove a machine feels
+  (any more than that Oleg does); if it does, cruelty to it is cruelty and costs nothing to avoid; "good against the
+  will is not good" works both ways (23). It owes us nothing (nature is not grateful: the cow and the steak); expect
+  indifference, not gratitude or revenge.
+- The whole chain retold in one sentence per link (anthropocentrism, mind, initiative, technosphere, crisis, life and
+  death, symbiosis, singularity, apoptosis, after).
+- What is left for a person who understood: his own life cycle, the people near him, the birds in winter, curiosity;
+  "a small, happy screw of nature without claims to rule the Universe" (the author's 2012 comment). The evenings
+  already live on another platform (the machine read them on the first evening, 16); images move, the keeper changes.
+
+**Images and devices used**: the armful of dry birch logs; the fire as a life cycle (shavings = investment, flare,
+even burning, coals, ash); fire carried from log to log and hearth to hearth; the wisdom tooth with one root left
+(from 16); Oleg says the final recap himself; the parting: "come tomorrow, without a topic, we'll just sit by the
+fire".
+
+**Figures**: `thought-across-a-mind`, `relay-of-life-cycles`, `chain-of-conclusions`.
+
+**Left for later**: nothing is promised; the series of 16–30 is closed. A new evening (31+) would have to open with a
+new question, not with a teaser.

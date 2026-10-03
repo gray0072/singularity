@@ -41,6 +41,9 @@ Reference images from articles as `../images/<file>`.
 | `what-understanding-changes.svg` (+ `.ru.svg`) | What understanding changes and what it does not | 28 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `speeds-of-minds.svg` (+ `.ru.svg`) | How fast carriers of mind work: neuron vs transistor, nerve impulse vs light in fibre | 29 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `what-seti-looks-for.svg` (+ `.ru.svg`) | What SETI looks for and what post-singular life may be | 29 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `thought-across-a-mind.svg` (+ `.ru.svg`) | How long one thought takes to cross a mind: brain, Earth, Solar System, Galaxy | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `relay-of-life-cycles.svg` (+ `.ru.svg`) | The relay of life cycles: chemical evolution, life, humanity, the technosphere and an unknown next form | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `chain-of-conclusions.svg` (+ `.ru.svg`) | The chain of conclusions of the series with the articles that establish each link | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

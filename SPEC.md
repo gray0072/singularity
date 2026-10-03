@@ -90,7 +90,7 @@ tools/
 - `NN` — two-digit sequence number in the series (`01`…`99`); it defines the reading order. The series is
   meant to be read sequentially: later articles build on conclusions of earlier ones.
   `01`–`15` are the author's originals; `16` onwards is the **continuation** written for this repository
-  (16–30 are planned, in four parts; the next free number is `31`).
+  (16–30 are written, in four parts; the next free number is `31`).
 - `slug` — short English kebab-case name, **identical in every language** (`ru/02-anthropocentrism.md`
   and `en/02-anthropocentrism.md` are the same article). Slugs never change once published.
 - Numbers are never reused or renumbered.
@@ -257,5 +257,5 @@ Material for writing and translating, not published content of the series.
 3. Import the originals: `tools/import_sqlru.py --authorized` and `tools/import_proza.py --authorized` — **done**.
 4. Redraw the remaining charts (articles 05, 08, 10, 11) as SVG; replace the third-party picture of 09.
 5. Translate 01–15 into English (`en/`).
-6. Write the continuation 16–30 in four parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30). Stubs with abstracts are in place. Written: 16–29.
+6. Write the continuation 16–30 in four parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30). Written: 16–30 — **done**; the Russian translations of 21–30 await review.
 7. Further languages.

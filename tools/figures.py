@@ -1445,6 +1445,136 @@ def what_seti_looks_for(lang):
     return f
 
 
+# --- 30. The Last Campfire ----------------------------------------------------------------------
+
+@figure("thought-across-a-mind")
+def thought_across_a_mind(lang):
+    t = {
+        "en": dict(title="How long one thought takes to cross a mind",
+                   sub="Seconds, logarithmic scale. The bigger the mind, the slower it thinks as a whole.",
+                   rows=[("A human brain, 15 cm, nerves", 1.5e-3, "≈ 1.5 ms"),
+                         ("A mind the size of the Earth, fibre", 0.1, "≈ 0.1 s"),
+                         ("The Solar System, 40 AU, light", 2e4, "≈ 5.5 hours"),
+                         ("The Galaxy, light", 3.2e12, "≈ 100,000 years")],
+                   axis=["1 ms", "1 s", "1 hour", "1 year", "1,000 years", "1 million years"]),
+        "ru": dict(title="Сколько одна мысль пересекает разум",
+                   sub="Секунды, логарифмическая шкала. Чем больше разум, тем медленнее он думает как целое.",
+                   rows=[("Мозг человека, 15 см, нервы", 1.5e-3, "≈ 1,5 мс"),
+                         ("Разум размером с Землю, оптоволокно", 0.1, "≈ 0,1 с"),
+                         ("Солнечная система, 40 а. е., свет", 2e4, "≈ 5,5 часа"),
+                         ("Галактика, свет", 3.2e12, "≈ 100 000 лет")],
+                   axis=["1 мс", "1 с", "1 час", "1 год", "1000 лет", "1 млн лет"]),
+    }[lang]
+    f = Fig(760, 300, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, lo, hi = 300, 700, 1e-4, 1e14
+    ticks = [1e-3, 1, 3600, 3.156e7, 3.156e10, 3.156e13]
+    for v, label in zip(ticks, t["axis"]):
+        x = log_x(v, lo, hi, x0, x1)
+        f.line(x, 88, x, 262, color=GRID, width=1)
+        f.text(x, 280, label, size=11, color=INK2, anchor="middle")
+    for i, (label, v, txt) in enumerate(t["rows"]):
+        y = 92 + i * 42
+        f.text(x0 - 12, y + 19, label, size=13, anchor="end")
+        w = log_x(v, lo, hi, x0, x1) - x0
+        f.rect(x0, y + 4, w, 22, fill=BLUE if i else ORANGE, r=4)
+        if w > 300:
+            f.text(x0 + w - 8, y + 20, txt, size=12.5, color="#ffffff", anchor="end", weight="600")
+        else:
+            f.text(x0 + w + 8, y + 20, txt, size=12.5, color=INK, weight="600")
+    return f
+
+
+@figure("relay-of-life-cycles")
+def relay_of_life_cycles(lang):
+    t = {
+        "en": dict(title="The relay of life cycles",
+                   sub="Each form grows on the slowing branch of the previous one and rises faster. A scheme, not to scale.",
+                   names=["chemical\nevolution", "biological\nlife", "humanity", "the\ntechnosphere", "?"],
+                   y="complexity", x="time →", here="we are here"),
+        "ru": dict(title="Эстафета жизненных циклов",
+                   sub="Каждая форма вырастает на ветви замедления предыдущей и поднимается быстрее. Схема, не в масштабе.",
+                   names=["химическая\nэволюция", "биологическая\nжизнь", "человечество", "техносфера", "?"],
+                   y="сложность", x="время →", here="мы здесь"),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 70, 720, 330, 90
+    f.line(x0, y0, x1, y0, color=INK2, arrow=True)
+    f.line(x0, y0, x0, y1, color=INK2, arrow=True)
+    f.text(x1, y0 + 22, t["x"], size=12, color=INK2, anchor="end")
+    f.text(x0 - 14, (y0 + y1) / 2, t["y"], size=12, color=INK2, anchor="middle", rotate=-90)
+    colors = [MUTED, GREEN, BLUE, ORANGE, VIOLET]
+    # (start x, rise width, base level, height)
+    cycles = [(80, 300, 0.0, 0.32), (260, 220, 0.24, 0.26), (430, 120, 0.42, 0.18), (520, 90, 0.54, 0.24),
+              (620, 60, 0.72, 0.2)]
+    labels = [(470, 290, "start"), (575, 236, "start"), (630, 190, "start"), (505, 146, "end"), (700, 96, "end")]
+    for (sx, rw, base, hgt), c, name, (lx, ly, anchor) in zip(cycles, colors, t["names"], labels):
+        pts = []
+        for i in range(81):
+            u = i / 80
+            x = sx + u * (rw * 1.6)
+            if x > x1 - 10:
+                break
+            v = base + hgt / (1 + math.exp(-(u * 1.6 - 0.6) * 9))
+            pts.append((x, y0 - v * (y0 - y1)))
+        dash = "6 4" if name == "?" else None
+        f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts), color=c, width=2.5, dash=dash)
+        f.text(lx, ly, name, size=12, color=c if c != MUTED else INK2, weight="600", anchor=anchor)
+    xh = 560
+    f.line(xh, y0, xh, y1 + 10, color=INK2, width=1, dash="3 3")
+    f.text(xh + 6, y0 - 8, t["here"], size=11.5, color=INK2, italic=True)
+    return f
+
+
+@figure("chain-of-conclusions")
+def chain_of_conclusions(lang):
+    t = {
+        "en": dict(title="The chain of conclusions",
+                   rows=[("Anthropocentrism is humanity's oldest and least visible mistake", "02"),
+                         ("Mind and intelligence come in degrees; intelligence is the platform's ceiling", "03"),
+                         ("Initiative comes from the laws of nature; mind is its instrument", "04, 17, 18"),
+                         ("AI is nature continuing through human hands", "05, 21, 22"),
+                         ("The technosphere creates most of the value and takes no wage", "06, 12"),
+                         ("Productivity removes human time: the machine takes functions, youngest first", "07, 09, 24"),
+                         ("Wants steer reason; it sees two moves ahead and does not go there", "08, 18"),
+                         ("Every system has one life cycle; the death of the small keeps the large alive", "10, 30"),
+                         ("Symbiosis ends when the technosphere stops needing people; it stops giving", "11, 25, 27"),
+                         ("The singularity is a process; for humanity it began around 1989", "13, 26"),
+                         ("Humanity leaves softly, by its own programme, without villains", "14, 26, 28"),
+                         ("Technogenic life takes the leading edge of evolution, and will give way in turn", "29, 30")],
+                   foot="The continuation checked the chain against fifteen years of practice: the trends held, the dates did not (16)."),
+        "ru": dict(title="Цепочка выводов",
+                   rows=[("Антропоцентризм — самая древняя и незаметная ошибка человечества", "02"),
+                         ("Разум и интеллект имеют степень; интеллект — потолок платформы", "03"),
+                         ("Инициатива исходит от законов природы; разум — её инструмент", "04, 17, 18"),
+                         ("ИИ — это природа, продолжающаяся через руки человека", "05, 21, 22"),
+                         ("Техносфера создаёт большую часть ценности и не берёт зарплаты", "06, 12"),
+                         ("Производительность убирает время человека: машина берёт функции, молодые первыми", "07, 09, 24"),
+                         ("Хотелки управляют разумом: он видит на два хода и туда не идёт", "08, 18"),
+                         ("У каждой системы один жизненный цикл; смерть малого держит жизнь большого", "10, 30"),
+                         ("Симбиоз кончается, когда люди не нужны техносфере: она перестаёт давать", "11, 25, 27"),
+                         ("Сингулярность — процесс; для человечества он начался около 1989 года", "13, 26"),
+                         ("Человечество уходит мягко, по своей программе, без злодеев", "14, 26, 28"),
+                         ("Техногенная жизнь занимает передний край эволюции и в свой черёд уступит его", "29, 30")],
+                   foot="Продолжение проверило цепочку пятнадцатью годами практики: тренды подтвердились, даты — нет (16)."),
+    }[lang]
+    n = len(t["rows"])
+    f = Fig(760, 90 + n * 36 + 30, t["title"])
+    f.text(28, 40, t["title"], size=19, weight="600")
+    for i, (text, arts) in enumerate(t["rows"]):
+        y = 60 + i * 36
+        f.rect(28, y, 640, 28, fill="#eaf2fc" if i % 2 == 0 else SURFACE, stroke=BLUE if i in (0, n - 1) else BORDER,
+               r=6)
+        f.text(40, y + 19, f"{i + 1}.", size=12.5, color=BLUE, weight="700")
+        f.text(66, y + 19, text, size=12.5, color=INK)
+        f.text(732, y + 19, arts, size=11.5, color=INK2, anchor="end")
+        if i < n - 1:
+            f.line(348, y + 28, 348, y + 36, color=BLUE, width=1.5)
+    f.text(28, 60 + n * 36 + 18, t["foot"], size=12, color=INK2, italic=True)
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:
