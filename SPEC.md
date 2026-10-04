@@ -11,9 +11,11 @@ written as the dialogue series **"Campfire Dialogues"** (*«Диалог у ко
   <https://web.archive.org/web/20181022050755/http://www.sql.ru/blogs/garya/>. Addresses on sql.ru are kept as
   plain text, never as links (see §5).
   The author today: [proza.ru/avtor/garya](https://proza.ru/avtor/garya), [stihi.ru/avtor/garya](https://stihi.ru/avtor/garya).
-- The original texts are published here **with the author's permission**.
+- The blog was public, and sql.ru has been closed since 2022. The posts and all the comments under them, the
+  author's and the readers', are kept here in full; the author's authorship of 01–15 is stated on every page.
 - This repository continues the series in the same style and with the same ideas (see [AGENTS.md](AGENTS.md)).
-  **The continuation (16 onwards) is not written by Andrey Gordienko.** He is the author of articles 01–15 only;
+  **The continuation (16 onwards) is not written by Andrey Gordienko.** He is the author of articles 01–15 only.
+  Articles 16–32 were written by **Claude Opus 5.5**, an AI model made by Anthropic, imitating his style and method;
   every table of contents and the footer of every continuation article say so.
   The author's views, including those he stated only in reader comments, and his later prose are collected in
   [`sources/garya/`](sources/garya/) so new articles can follow them closely.
@@ -37,6 +39,10 @@ Rules:
 - Every language folder holds the same set of files with the same names. A missing text is a stub
   with `status: pending` (see §4), never an absent file — so links between languages never break.
 - Repository-level files (`README.md`, `SPEC.md`, `AGENTS.md`, `images/README.md`) are in English.
+- **English files are English only.** No Cyrillic in English pages, tables of contents or READMEs: names, titles and
+  links are given in English translation (*Technological Singularity*, Andrey Gordienko, "Russian"). The only
+  exceptions are instructions about Russian text itself: the glossary and the style quotes in `AGENTS.md`, the
+  table of original titles in §5, and source notes quoting the originals.
   Each language folder has its own `README.md` — a table of contents in that language.
 - Source material by the author (original comments, prose) stays in **Russian**, exactly as written.
   English analysis and translations of source material live in `sources/garya/en/`.
@@ -60,11 +66,12 @@ sources/
   README.md                what the source material is and how to use it
   continuation-notes.md    record of the written continuation articles: conclusions, facts, images, deferrals
   garya/
-    README.md              об авторе: ссылки, разрешение, состав материалов (ru)
+    README.md              об авторе: ссылки, состав материалов (ru)
     sqlru/                 source: the sql.ru blog — each post as published, article text + comments (ru)
       01-introduction.md   same NN-slug as the article
       ...
       2012-05-17-seti-talk.md   unnumbered posts (date + slug)
+      2009-09-15-apocalypse-scenario-thread.md   the forum thread the blog grew out of (surviving pages)
     proza/                 the author's later prose from proza.ru, Russian originals
       podpolshchiki.md
       dialogi-s-samim-soboj.md
@@ -80,6 +87,7 @@ images/                    shared, language-neutral images used by any language 
   world-population-growth.ru.png
 tools/
   import_sqlru.py          blog importer: articles → ru/, posts with comments → sources/garya/sqlru/, charts → images/
+  import_forum.py          forum importer: the surviving pages of the sql.ru thread → sources/garya/sqlru/
   import_proza.py          prose importer: proza.ru → sources/garya/proza/
   figures.py               draws the continuation's diagrams and charts → images/<name>.svg and <name>.ru.svg
 ```
@@ -93,7 +101,7 @@ tools/
 - `NN` — two-digit sequence number in the series (`01`…`99`); it defines the reading order. The series is
   meant to be read sequentially: later articles build on conclusions of earlier ones.
   `01`–`15` are the author's originals; `16` onwards is the **continuation** written for this repository
-  (16–30 are written, in four parts; the next free number is `31`).
+  (16–32 are written, in five parts; the next free number is `33`).
 - `slug` — short English kebab-case name, **identical in every language** (`ru/02-anthropocentrism.md`
   and `en/02-anthropocentrism.md` are the same article). Slugs never change once published.
 - Numbers are never reused or renumbered.
@@ -125,8 +133,9 @@ A continuation article has no `source`/`archive`/`author` fields and adds instea
 ```yaml
 original_lang: en
 continuation: true              # written for this repository, not by the original author
-part: II                        # part of the continuation: I–IV
+part: II                        # part of the continuation: I–V
 builds_on: [04, 08, 11, 22]     # articles whose conclusions it relies on
+form: essay                     # optional: essay | fantasy, for an article outside the campfire form (Part V)
 ```
 
 In every table of contents continuation articles are listed in a separate *Continuation* / *Продолжение* block
@@ -153,10 +162,10 @@ a link to the archived original (for 01–15) and the marker `<!-- import:pendin
 
 ## 5. Import of the originals
 
-The author has permitted publishing his texts here. They are imported by two scripts (standard library only;
-both require `--authorized` as a reminder that the texts are published by permission):
+The originals are imported by scripts (standard library only). The blog and the forum were public, and sql.ru has
+been closed since 2022, so the posts and all the comments are kept in full; the author's own texts stay his.
 
-- `python tools/import_sqlru.py --authorized` imports the blog from pinned Wayback Machine snapshots:
+- `python tools/import_sqlru.py` imports the blog from pinned Wayback Machine snapshots:
   1. decodes `windows-1251`, takes the title, date, tags and the article body (no site chrome);
   2. converts HTML to Markdown: `<br>` → paragraphs, `<b>`/`<font>` → `**bold**`, `<i>`/`<u>` → `*italic*`,
      `<sup>`/`<sub>` kept, Wayback prefixes stripped; links to other posts of the blog become relative links;
@@ -166,12 +175,18 @@ both require `--authorized` as a reminder that the texts are published by permis
      fixes go in separate commits;
   5. fills the `ru/NN-slug.md` stubs (`status: original`, author line, navigation);
   6. writes `sources/garya/sqlru/<name>.md` for every post — the blog page as published: the post text, then
-     the comments under it (the author's in full, readers' shortened to 300 characters as context, since they
-     belong to their authors). `--skip-articles` rebuilds these pages without touching `ru/`;
+     all the comments under it in full, the author's marked as his. `--skip-articles` rebuilds these pages without
+     touching `ru/`;
   7. since sql.ru is closed, rewrites every link to it: links to posts of the blog become relative links to the
      copies in this repository, pages that the Wayback Machine kept (its `ARCHIVED_PAGES` table) link to the
      archive, and all other addresses stay as plain text in a code span.
-- `python tools/import_proza.py --authorized` imports the books «Подпольщики» and «Диалоги с самим собой» from
+- `python tools/import_forum.py` imports the forum thread «Вот, решил процитировать на ПТ сценарий апокалипсиса...»
+  (sql.ru, «Просто треп», thread 695766), which Garya started on 15 September 2009 and from which the blog grew. Of its
+  568 pages only 40 survive in the Wayback Machine (1, 2, 269–271, 465–468, 496–505, 540–568 with gaps); the script
+  takes every message on them, the author's and the readers', in full and in order, marks the gaps between pages,
+  turns forum quotes into Markdown quotes and handles links to sql.ru as above. It writes
+  `sources/garya/sqlru/2009-09-15-apocalypse-scenario-thread.md` (958 messages, 292 by Garya, 2009–2017).
+- `python tools/import_proza.py` imports the books «Подпольщики» and «Диалоги с самим собой» from
   [proza.ru/avtor/garya](https://proza.ru/avtor/garya): one Markdown file per book, one `##` per chapter.
 
 Already imported files are skipped unless `--force`; `--root DIR` writes the same tree elsewhere (dry run).
@@ -197,7 +212,8 @@ Already imported files are skipped unless `--force`; `--root DIR` writes the sam
 | — | Доклад автора блога в НКЦ SETI ГАИШ МГУ | notes only | 2012-05-17 | [1278](https://web.archive.org/web/20181024181550/http://www.sql.ru/blogs/garya/1278) |
 
 The two unnumbered posts are announcements, not articles of the series; they exist only as source notes
-(the SETI post carries the largest comment discussion of the blog).
+(the SETI post carries the largest comment discussion of the blog). The forum thread is not a post of the blog but
+its prehistory; it too exists only as a source with a note.
 
 ## 6. Source material (`sources/`)
 
@@ -235,7 +251,8 @@ Material for writing and translating, not published content of the series.
 - Only images we may redistribute: our own work, public domain, or free licenses (CC BY / CC BY-SA, …).
   Every image is registered in [`images/README.md`](images/README.md) with source, author and license.
   Third-party images that cannot be redistributed are redrawn as our own (e.g. a chart re-plotted from the
-  cited data) or replaced by a link to the source. The author's own pictures are stored with his permission.
+  cited data) or replaced by a link to the source. The author's own pictures come from his archived blog and are
+  credited to him.
 - Alt text is written in the language of the article.
 
 ## 8. README and tables of contents
@@ -260,8 +277,9 @@ Material for writing and translating, not published content of the series.
 
 1. Repository skeleton, spec, agent instructions, stubs — **done**.
 2. English notes on all 17 posts and the author's prose; the author profile — **done**.
-3. Import the originals: `tools/import_sqlru.py --authorized` and `tools/import_proza.py --authorized` — **done**.
+3. Import the originals: `tools/import_sqlru.py` and `tools/import_proza.py` — **done**; all comments in full — **done**.
 4. Redraw the remaining charts (articles 05, 08, 10, 11) as SVG; replace the third-party picture of 09.
 5. Translate 01–15 into English (`en/`).
-6. Write the continuation 16–30 in four parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30). Written: 16–30 — **done**; the Russian translations of 21–30 await review.
-7. Further languages.
+6. Write the continuation in five parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30, ending with dated forecasts for 2031, 2036 and 2041), V. The new keeper (31: an essay by the model that wrote the continuation; 32: a fantasy set in 2041). Written: 16–32 — **done**; the Russian translations of 16–30 are reviewed, of 31–32 await review.
+7. New evenings (about 2028): check the dated forecasts of 27–30 honestly and add new ones.
+8. Further languages.

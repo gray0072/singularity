@@ -99,7 +99,15 @@ The night was clear, and the fire had burned low. Oleg lay back on the log and h
 
 — And you're not afraid that the answer is simpler? That there's nobody at all, and the Universe is empty?
 
-— That is possible too. I can't prove that they exist. I only say that the silence doesn't prove they don't. We've scooped a hot tub, fishing with a bucket for fish like ourselves. Let's finish for today by fixing the result.
+— That is possible too. I can't prove that they exist. I only say that the silence doesn't prove they don't. We've scooped a hot tub, fishing with a bucket for fish like ourselves.
+
+— Then give me a mark for this too. You've given dates for everything else.
+
+— By the autumn of 2041 SETI will not have announced a confirmed signal from another mind. Nine chances out of ten. And if something is found, it won't be a beacon calling to us, but something strange that at first everyone takes for nature.
+
+— And if they call tomorrow?
+
+— Then I'll be glad to be wrong, and we'll sit here till morning. Let's finish for today by fixing the result.
 
 1. **The silence of the Universe proves less than it seems. We have searched about as much of the sky as a hot tub is of the ocean, and we are searching for minds like our own: on warm planets, with radio stations and a wish to talk. That is anthropocentrism again. A mind far above ours, by the rule of the measuring system, would look to us like nature: like noise or a flash.**
 2. **Post-singular life is more likely intelligent cosmic dust than a civilisation with radio stations. It needs no planets with oxygen and water, it prefers the cold, its most efficient signals are indistinguishable from noise, and it thinks millions of times faster than we do. It has no more reason to call out to biological neighbours than we have to signal to ants.**
@@ -109,16 +117,16 @@ The fire had almost gone out. Oleg looked at the sky for a long time.
 
 — And this dust, — he said quietly. — Will it live forever? Is that the end of evolution? Something that never dies?
 
-— Fifteen years ago, on the evening about the [life cycle](10-life-cycle-and-death.md), we said that every dynamic system has one life cycle. Every one. [Tomorrow](30-the-last-campfire.md) is our last evening. Let's talk about that.
+— Fifteen years ago, on the evening about the [life cycle](10-life-cycle-and-death.md), we said that every dynamic system has one life cycle. Every one. [Tomorrow](30-the-last-campfire.md) is the last evening of this autumn. Let's talk about that.
 
 — The last one?
 
-— Bring some dry wood. Until tomorrow.
+— Of this autumn. The frosts are coming, and we've talked our way to the end of the chain. Bring some dry wood. Until tomorrow.
 
 — Bye.
 
 ---
 
-*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [13](./13-singularity-as-process.md), [16](./16-fifteen-years-later.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md).
+*Continuation of the series* (Part IV. The transition and after): written for this repository by Claude Opus 5.5, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it. Builds on: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [13](./13-singularity-as-process.md), [16](./16-fifteen-years-later.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md).
 
 [← 28](./28-those-who-understand.md) · [Contents](./README.md) · [30 →](./30-the-last-campfire.md)

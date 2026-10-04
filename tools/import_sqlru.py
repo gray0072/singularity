@@ -1,13 +1,13 @@
 """Import the original Russian articles and comments from the sql.ru blog (via the Wayback Machine).
 
-The texts belong to their author and are imported with his permission (SPEC.md, section 5);
-the script refuses to start without --authorized.
+The blog was public and sql.ru closed in 2022, so the posts and all comments under them, the author's and the
+readers', are kept in full (SPEC.md, section 5).
 
 Usage:
-    python tools/import_sqlru.py --authorized             # fill ru/ stubs, write sqlru/ pages and the author's images
-    python tools/import_sqlru.py --authorized --force     # overwrite what was already imported
-    python tools/import_sqlru.py --authorized --force --skip-articles   # rebuild sqlru/ only, keep ru/ as edited
-    python tools/import_sqlru.py --authorized --root DIR  # write the same tree under DIR (dry run)
+    python tools/import_sqlru.py             # fill ru/ stubs, write sqlru/ pages and the author's images
+    python tools/import_sqlru.py --force     # overwrite what was already imported
+    python tools/import_sqlru.py --force --skip-articles   # rebuild sqlru/ only, keep ru/ as edited
+    python tools/import_sqlru.py --root DIR  # write the same tree under DIR (dry run)
 
 Writes:
     ru/NN-slug.md                              original article (status: original)
@@ -34,7 +34,6 @@ SERIES = "Диалог у костра"
 AUTHOR = "Андрей Гордиенко (Garya)"
 AUTHOR_URL = "https://proza.ru/avtor/garya"
 AUTHOR_NICK = "Garya"
-CONTEXT_CHARS = 300  # readers' comments are kept as short context only
 
 # (number, sql.ru post id, slug, Wayback timestamp of a known good snapshot)
 ARTICLES = [
@@ -283,9 +282,8 @@ def sqlru_md(post, name, title, date, archive_url, article, comments, post_body)
         f"# {title}",
         "",
         f"Блог «Технологическая сингулярность» на sql.ru (сайт закрыт в 2022 году), запись от {date}: текст в "
-        f"том виде, в каком он был опубликован, и комментарии под ним. Комментарии автора ({AUTHOR_NICK}) приведены полностью. Реплики "
-        f"читателей сокращены до {CONTEXT_CHARS} знаков и оставлены как контекст; полностью их можно прочитать в "
-        f"[архиве]({archive_url}).",
+        f"том виде, в каком он был опубликован, и все комментарии под ним, автора ({AUTHOR_NICK}) и читателей, полностью. "
+        f"Страница в [веб-архиве]({archive_url}).",
     ]
     if article:
         lines += ["", f"Статья серии: [{title}]({article})"]
@@ -293,13 +291,8 @@ def sqlru_md(post, name, title, date, archive_url, article, comments, post_body)
     lines += ["", "## Комментарии"]
     for cid, cdate, author, body in comments:
         text = to_markdown(body, "../../../ru/").strip()
-        if author == AUTHOR_NICK:
-            lines += ["", f"### {cdate} · **{author}** (автор)", "", text]
-        else:
-            short = re.sub(r"\s+", " ", text)
-            if len(short) > CONTEXT_CHARS:
-                short = short[:CONTEXT_CHARS].rsplit(" ", 1)[0] + " …"
-            lines += ["", f"### {cdate} · {author}", "", f"> {short}"]
+        header = f"**{author}** (автор)" if author == AUTHOR_NICK else author
+        lines += ["", f"### {cdate} · {header}", "", text]
     return "\n".join(lines) + "\n"
 
 
@@ -315,13 +308,10 @@ def write(root, path, text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--authorized", action="store_true", help="the author has permitted the import")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--skip-articles", action="store_true", help="do not touch ru/ (it may hold editorial fixes)")
     ap.add_argument("--root", type=Path, default=ROOT)
     args = ap.parse_args()
-    if not args.authorized:
-        sys.exit("The original texts may be imported only with the author's permission. See SPEC.md, section 5.")
     root = args.root
 
     for att, name in AUTHOR_IMAGES.items():

@@ -57,6 +57,10 @@ Oleg brought a printed page and handed it to Andrey before he sat down.
 
 — Every one of them for good reasons: if I stop, someone worse will build it. Understanding is not a force. A force is a want. So it was not a contradiction that I understood. It was a contradiction only in the strong form in which I put it in 2012. The understanding of a few is allowed. It changes nothing in the flow.
 
+— And will they ever stop? When they're frightened enough?
+
+— Write that down too, next to yesterday's marks. By the autumn of 2031 not one of the companies whose heads signed that statement will have stopped, of its own will, building more powerful machines. If one of them leaves the race, it will be because it lost, not because it understood. Nine chances out of ten.
+
 ![Selective short-sightedness as a law of the whole: in a gas cylinder most molecules never reach the hole and a few pass through it, yet the flow is set by the pressure, not by the molecules that found the hole](../images/few-through-the-hole.svg)
 
 — And why you, of all the molecules?
@@ -107,6 +111,6 @@ Oleg brought a printed page and handed it to Andrey before he sat down.
 
 ---
 
-*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [01](./01-introduction.md), [08](./08-human-psyche.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [25](./25-freebies-for-everyone.md), [27](./27-scenario-of-events.md).
+*Continuation of the series* (Part IV. The transition and after): written for this repository by Claude Opus 5.5, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it. Builds on: [01](./01-introduction.md), [08](./08-human-psyche.md), [14](./14-apoptosis-of-humanity.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [25](./25-freebies-for-everyone.md), [27](./27-scenario-of-events.md).
 
 [← 27](./27-scenario-of-events.md) · [Contents](./README.md) · [29 →](./29-silence-of-the-universe.md)

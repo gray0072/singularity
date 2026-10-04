@@ -10,23 +10,31 @@ technological singularity. It was started in 2011–2012 on the sql.ru blog *«�
 by **Андрей Гордиенко** (Andrey Gordienko, **Garya**; [proza.ru/avtor/garya](https://proza.ru/avtor/garya)):
 15 articles and a long trail of debates in the comments. sql.ru closed in 2022; the blog is kept in
 [`sources/garya/sqlru/`](sources/garya/sqlru/) and the Wayback Machine. Never link to sql.ru itself: give its
-addresses as plain text and link to the archive or to the copies here. The originals are published here with the
-author's permission. We continue the series, staying as close as possible to his ideas, logic and voice, but
-**he is the author of articles 01–15 only**: never present the continuation as his.
+addresses as plain text and link to the archive or to the copies here. The blog was public and the site is
+closed, so the posts and all the comments under them are kept here in full. We continue the series, staying as
+close as possible to his ideas, logic and voice, but **he is the author of articles 01–15 only**: never present the
+continuation as his. Articles 16–32 were written by **Claude Opus 5.5**, an AI model made by Anthropic, imitating
+his style and method.
 
 Before writing anything, read:
 
 1. [`sources/garya/en/author-profile.md`](sources/garya/en/author-profile.md) — who the author is and how he thinks.
 2. The notes in [`sources/garya/en/`](sources/garya/en/) for the articles your text builds on, especially their
    *Key theses* and *The author in the comments* sections.
-3. The previous article of the series in `ru/`, and its page on sql.ru with the author's comments under it in
-   [`sources/garya/sqlru/`](sources/garya/sqlru/) (Russian originals).
+3. The previous article of the series in `ru/`, and its page on sql.ru with the comments under it in
+   [`sources/garya/sqlru/`](sources/garya/sqlru/) (Russian originals). For the origins of an idea, the forum thread
+   the blog grew out of (2009–2017):
+   [`2009-09-15-apocalypse-scenario-thread.md`](sources/garya/sqlru/2009-09-15-apocalypse-scenario-thread.md) and its
+   note in `sources/garya/en/`.
 4. For his life experience, humour and narrative voice: his prose in [`sources/garya/proza/`](sources/garya/proza/)
    and its notes (`sources/garya/en/proza-*.md`).
 
 ## 2. Languages and translation
 
 - **English is the primary language**: repository docs, README, metadata, and new articles by default.
+- **English files are English only**: no Russian words in English pages and READMEs; give names and titles in
+  translation (Andrey Gordienko, the blog *Technological Singularity*, a link labelled "Russian"). Russian appears
+  only where the instruction is about Russian text (the glossary, style quotes, quotes from the originals in notes).
 - Content is translated into several languages, **starting with Russian** (`ru/`). Articles 01–15 were
   written in Russian. They are the originals, and the English versions are translations of them.
 - Every article exists in every language folder under the same file name. Translations are made from the
@@ -99,11 +107,18 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Evenings 16–30 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `31`. The arc: I. Re-examining the foundations
-  (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30, the
-  last evening closes the series). A continuation article is marked `continuation: true` and listed
+- The continuation starts at `16`. Articles 16–32 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `33`. The arc: I. Re-examining the foundations
+  (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
+  ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
+  which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
+  which the AI doubles of Andrey and Oleg check the forecasts). Part V has `form: essay` / `form: fantasy`; it is
+  the only place where the campfire form is left. A continuation article is marked `continuation: true` and listed
   in the *Continuation* block of every table of contents.
+- **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
+  evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
+  checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
+  their AI doubles from article 32. The events of 32 are invented: when real data arrive, the real data win.
 - New articles must be consistent with all earlier conclusions and with the
   author's positions in [`sources/garya/`](sources/garya/). If something is developed beyond what the
   author said, it must follow from his logic; never contradict him silently.
@@ -118,9 +133,8 @@ articles as closely as possible. In practice:
   *Handling his forecasts* in [`author-profile.md`](sources/garya/en/author-profile.md).
 - Oleg's objections are best taken from the real ones: every note has a section *The author in the comments*
   with readers' objections and the author's answers. Andrey's answers must agree with those.
-- New articles are not attributed to the original author, and their footer says that Andrey Gordienko did not
-  write them: they continue his series and method; the byline,
-  if any, is the repository's.
+- New articles are not attributed to the original author. Their footer says that Andrey Gordienko did not write
+  them and names the model that did (16–32: Claude Opus 5.5, Anthropic): they continue his series and method.
 
 ### Writing a continuation evening, step by step
 
@@ -151,8 +165,9 @@ articles as closely as possible. In practice:
 - Conventions for files, front matter, images and tables of contents: [SPEC.md](SPEC.md). Follow them exactly.
 - The author's original texts (articles, comments, prose) are kept in Russian exactly as written; they are
   imported by the scripts in `tools/` (SPEC §5). Never edit them silently: editorial fixes are separate commits.
-- English analysis and translations of source material go to `sources/garya/en/`. Readers' comments (other
-  people's texts) are only quoted briefly or paraphrased, without names.
+- English analysis and translations of source material go to `sources/garya/en/`. Readers' comments are kept in
+  full in `sources/garya/sqlru/` (public posts on a site closed in 2022); in notes and articles they are paraphrased,
+  without names.
 - Images go to the shared [`images/`](images/) folder, are reused across articles and languages, and are
   registered with their license in [`images/README.md`](images/README.md).
 - Any change to the list of articles or their status updates [README.md](README.md) and every
@@ -217,6 +232,9 @@ articles as closely as possible. In practice:
 | взлом вознаграждения | reward hacking | reaching the reward by the shortest road instead of the intention behind it; machines do it with our rewards, people with nature's |
 | согласование (ИИ) | alignment (of AI) | tuning a machine's goals to human values; in the series, the 1978 amplifier of wants turned on machines |
 | стоимость обучения | cost of learning | the price of making a person fit for the technosphere's world; paid anew by every generation, once by a machine |
+| отметка (прогноза) | mark | a dated, checkable forecast with odds ("below half by the autumn of 2036, two to one"); introduced in 27–30 |
+| двое часов | two clocks | the fast clock of the technosphere (the speed of copying) and the slow clock of people (generations, laws, habits); forecasts are made with both (32) |
+| двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
 
@@ -245,3 +263,11 @@ Mistakes made while writing earlier articles. Avoid them.
   to scripts; that does not mean the link is broken.
 - **Python on Windows prints Cyrillic only with UTF-8 output.** Run it as `PYTHONIOENCODING=utf-8 python ...`,
   or a script that prints Russian titles fails with `UnicodeEncodeError`.
+- **Never rewrite a file with Windows PowerShell 5.1 `Get-Content`/`Set-Content`.** It reads UTF-8 as the ANSI code
+  page and writes the mangled text back: every Cyrillic letter, `≈` and `§` in `tools/figures.py` turned into
+  mojibake (repaired by encoding the text back to cp1252 and decoding as UTF-8). Edit with the file tools or Python.
+- **Check a figure by looking at it.** Headless Edge renders an SVG to PNG:
+  `msedge --headless=new --screenshot=out.png --window-size=800,600 file:///.../images/<name>.svg` (Edge lives in
+  `C:\Program Files (x86)\Microsoft\EdgeCore\<version>\`). Overlapping labels are invisible in the SVG source.
+- **Two-line labels in a table figure need a taller row.** In `dated-forecasts` a two-line row name ran into the
+  italic "now" line under it until the row height went from 50 to 58.

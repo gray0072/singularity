@@ -288,6 +288,6 @@ Andrey looked into the flames for a long time.
 
 ---
 
-*Continuation of the series* (Part I. Re-examining the foundations): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [13](./13-singularity-as-process.md).
+*Continuation of the series* (Part I. Re-examining the foundations): written for this repository by Claude Opus 5.5, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it. Builds on: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [13](./13-singularity-as-process.md).
 
 [← 15](./15-penrose-counterarguments.md) · [Contents](./README.md) · [17 →](./17-global-determinism.md)

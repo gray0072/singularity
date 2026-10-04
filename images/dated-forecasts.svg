@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="622" viewBox="0 0 808 622" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Marks to check</title>
+
+<rect x="0.5" y="0.5" width="807" height="621" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Marks to check</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Andrey's dated forecasts, autumn 2026, with his odds. Trend best, date worse.</text>
+<rect x="232.0" y="82.0" width="176.0" height="24.0" rx="6" fill="#2a78d6" fill-opacity="0.12"/>
+<text x="320.0" y="99.0" font-size="13" fill="#2a78d6" text-anchor="middle" font-weight="700">by autumn 2031</text>
+<rect x="416.0" y="82.0" width="176.0" height="24.0" rx="6" fill="#eb6834" fill-opacity="0.12"/>
+<text x="504.0" y="99.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="700">by autumn 2036</text>
+<rect x="600.0" y="82.0" width="176.0" height="24.0" rx="6" fill="#4a3aa7" fill-opacity="0.12"/>
+<text x="688.0" y="99.0" font-size="13" fill="#4a3aa7" text-anchor="middle" font-weight="700">by autumn 2041</text>
+<rect x="28.0" y="112.0" width="752.0" height="58.0" rx="4" fill="#f1f0ec"/>
+<text x="36.0" y="131.0" font-size="12.5" fill="#0b0b0b" font-weight="600">What a machine does alone</text>
+<text x="36.0" y="163.0" font-size="10.5" fill="#52514e" font-style="italic">≈ 3 h at 4 of 5 (2026)</text>
+<circle cx="240.0" cy="130.0" r="3.5" fill="#2a78d6"/>
+<text x="250.0" y="134.0" font-size="11.5" fill="#0b0b0b"><tspan x="250.0" dy="0.0">a month-long task,</tspan><tspan x="250.0" dy="14.4">4 times of 5 · 3:1</tspan></text>
+<text x="36.0" y="189.0" font-size="12.5" fill="#0b0b0b" font-weight="600"><tspan x="36.0" dy="0.0">Labour's share of</tspan><tspan x="36.0" dy="15.6">world income</tspan></text>
+<text x="36.0" y="221.0" font-size="10.5" fill="#52514e" font-style="italic">52.4% (2024)</text>
+<circle cx="240.0" cy="197.0" r="3.5" fill="#2a78d6"/>
+<text x="250.0" y="201.0" font-size="11.5" fill="#0b0b0b">below 51.5% · 3:1</text>
+<circle cx="424.0" cy="197.0" r="3.5" fill="#eb6834"/>
+<text x="434.0" y="201.0" font-size="11.5" fill="#0b0b0b">below half · 2:1</text>
+<circle cx="608.0" cy="197.0" r="3.5" fill="#4a3aa7"/>
+<text x="618.0" y="201.0" font-size="11.5" fill="#0b0b0b">below 47%</text>
+<rect x="28.0" y="228.0" width="752.0" height="58.0" rx="4" fill="#f1f0ec"/>
+<text x="36.0" y="247.0" font-size="12.5" fill="#0b0b0b" font-weight="600">World unemployment</text>
+<text x="36.0" y="279.0" font-size="10.5" fill="#52514e" font-style="italic">≈ 5% (2025)</text>
+<circle cx="240.0" cy="246.0" r="3.5" fill="#2a78d6"/>
+<text x="250.0" y="250.0" font-size="11.5" fill="#0b0b0b"><tspan x="250.0" dy="0.0">below 6.5%: a glacier,</tspan><tspan x="250.0" dy="14.4">not an avalanche · 3:1</tspan></text>
+<text x="36.0" y="305.0" font-size="12.5" fill="#0b0b0b" font-weight="600"><tspan x="36.0" dy="0.0">Electricity of</tspan><tspan x="36.0" dy="15.6">data centres</tspan></text>
+<text x="36.0" y="337.0" font-size="10.5" fill="#52514e" font-style="italic">415 TWh (2024)</text>
+<circle cx="240.0" cy="304.0" r="3.5" fill="#2a78d6"/>
+<text x="250.0" y="308.0" font-size="11.5" fill="#0b0b0b"><tspan x="250.0" dy="0.0">over 1,000 TWh,</tspan><tspan x="250.0" dy="14.4">as much as Japan</tspan></text>
+<circle cx="608.0" cy="304.0" r="3.5" fill="#4a3aa7"/>
+<text x="618.0" y="308.0" font-size="11.5" fill="#0b0b0b"><tspan x="618.0" dy="0.0">more than all homes</tspan><tspan x="618.0" dy="14.4">of the US and EU · 3:2</tspan></text>
+<rect x="28.0" y="344.0" width="752.0" height="58.0" rx="4" fill="#f1f0ec"/>
+<text x="36.0" y="363.0" font-size="12.5" fill="#0b0b0b" font-weight="600">The hands</text>
+<text x="36.0" y="395.0" font-size="10.5" fill="#52514e" font-style="italic">4.66 M robots (2024)</text>
+<circle cx="240.0" cy="362.0" r="3.5" fill="#2a78d6"/>
+<text x="250.0" y="366.0" font-size="11.5" fill="#0b0b0b"><tspan x="250.0" dy="0.0">over 8 M industrial</tspan><tspan x="250.0" dy="14.4">robots at work</tspan></text>
+<circle cx="424.0" cy="362.0" r="3.5" fill="#eb6834"/>
+<text x="434.0" y="366.0" font-size="11.5" fill="#0b0b0b"><tspan x="434.0" dy="0.0">1 M general-purpose</tspan><tspan x="434.0" dy="14.4">robots a year · 2:1</tspan></text>
+<circle cx="608.0" cy="362.0" r="3.5" fill="#4a3aa7"/>
+<text x="618.0" y="366.0" font-size="11.5" fill="#0b0b0b"><tspan x="618.0" dy="0.0">a data centre built</tspan><tspan x="618.0" dy="14.4">without workers · 1 in 2</tspan></text>
+<text x="36.0" y="421.0" font-size="12.5" fill="#0b0b0b" font-weight="600">Births</text>
+<text x="36.0" y="453.0" font-size="10.5" fill="#52514e" font-style="italic">2.25 per woman (2024)</text>
+<circle cx="424.0" cy="420.0" r="3.5" fill="#eb6834"/>
+<text x="434.0" y="424.0" font-size="11.5" fill="#0b0b0b"><tspan x="434.0" dy="0.0">world below 2.1</tspan><tspan x="434.0" dy="14.4">(UN expects ≈ 2050) · 2:1</tspan></text>
+<circle cx="608.0" cy="420.0" r="3.5" fill="#4a3aa7"/>
+<text x="618.0" y="424.0" font-size="11.5" fill="#0b0b0b"><tspan x="618.0" dy="0.0">under 45 M added a year</tspan><tspan x="618.0" dy="14.4">(UN: ≈ 55 M) · 2:1</tspan></text>
+<rect x="28.0" y="460.0" width="752.0" height="58.0" rx="4" fill="#f1f0ec"/>
+<text x="36.0" y="479.0" font-size="12.5" fill="#0b0b0b" font-weight="600">Law and the race</text>
+<circle cx="240.0" cy="478.0" r="3.5" fill="#2a78d6"/>
+<text x="250.0" y="482.0" font-size="11.5" fill="#0b0b0b"><tspan x="250.0" dy="0.0">no signatory stops</tspan><tspan x="250.0" dy="14.4">of its own will · 9:1</tspan></text>
+<circle cx="424.0" cy="478.0" r="3.5" fill="#eb6834"/>
+<text x="434.0" y="482.0" font-size="11.5" fill="#0b0b0b"><tspan x="434.0" dy="0.0">basic payment in a</tspan><tspan x="434.0" dy="14.4">rich country · 1 in 2</tspan></text>
+<text x="36.0" y="537.0" font-size="12.5" fill="#0b0b0b" font-weight="600">Mind and the sky</text>
+<circle cx="424.0" cy="536.0" r="3.5" fill="#eb6834"/>
+<text x="434.0" y="540.0" font-size="11.5" fill="#0b0b0b"><tspan x="434.0" dy="0.0">a Millennium Problem</tspan><tspan x="434.0" dy="14.4">solved by a machine · 1 in 2</tspan></text>
+<circle cx="608.0" cy="536.0" r="3.5" fill="#4a3aa7"/>
+<text x="618.0" y="540.0" font-size="11.5" fill="#0b0b0b"><tspan x="618.0" dy="0.0">no signal from the sky,</tspan><tspan x="618.0" dy="14.4">no war of machines · 9:1</tspan></text>
+<text x="28.0" y="602.0" font-size="11.5" fill="#52514e" font-style="italic">Not on the list: the dates of steps six and seven (articles 27, 30). A crash of AI shares before 2031: 1 in 2.</text>
+</svg>

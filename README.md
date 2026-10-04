@@ -1,9 +1,8 @@
-# Campfire Dialogues · Диалог у костра
+# Campfire Dialogues
 
 **Popular-science essays on the technological singularity, told as evening conversations by a campfire.**
-**Научно-популярные беседы о технологической сингулярности — вечер за вечером у костра.**
 
-[Read in English](en/README.md) · [Читать по-русски](ru/README.md)
+[Read in English](en/README.md) · [Read in Russian](ru/README.md)
 
 ![The relay of life cycles: chemical evolution, biological life, humanity, the technosphere, and what comes next](images/relay-of-life-cycles.svg)
 
@@ -22,21 +21,24 @@ The series has two parts with **different authors**. This matters, so it is stat
 
 | Articles | Author | Written | Original language |
 |----------|--------|---------|-------------------|
-| **01–15** · the original series | **Андрей Гордиенко (Andrey Gordienko), nickname Garya** | 2011–2012, on his blog «Технологическая сингулярность» | Russian |
-| **16–30** · the continuation | **Not by Andrey Gordienko.** Written for this repository in 2026, following his method and his published views | 2026 | English (Russian translation) |
+| **01–15** · the original series | **Andrey Gordienko, nickname Garya** | 2011–2012, on his blog *Technological Singularity* | Russian |
+| **16–32** · the continuation | **Claude Opus 5.5**, an AI model made by Anthropic, imitating Garya's style and method. **Not by Andrey Gordienko.** | 2026 | English (Russian translation) |
 
-- Articles 01–15 and the author's comments and prose in [`sources/garya/`](sources/garya/) are his texts,
-  published here **with his permission** and kept exactly as written.
-- The continuation 16–30 is a new work. Andrey Gordienko did not write it. Its Andrey is a character who
-  reasons by the author's method and refers to what the author actually published in 2011–2012. Where the
-  continuation develops his ideas further, those are the continuation's conclusions, not his.
+- Articles 01–15 and the author's comments and prose in [`sources/garya/`](sources/garya/) are his texts, kept
+  exactly as written. The blog and the forum thread it grew out of were public, and the site closed in 2022, so
+  the comments under them, his and the readers', are kept in full.
+- The continuation 16–32 is a new work. Andrey Gordienko did not write it: it was written by **Claude Opus 5.5**,
+  an AI model made by Anthropic, which imitated his style and method from his texts. Its Andrey is a character who
+  reasons by the author's method and refers to what the author actually published. Where the continuation develops
+  his ideas further, those are the continuation's conclusions, not his. In article 31 the model that wrote it
+  speaks in its own voice.
 
 The author online: [proza.ru/avtor/garya](https://proza.ru/avtor/garya) (prose) ·
 [stihi.ru/avtor/garya](https://stihi.ru/avtor/garya) (poems).
 
 ### The original blog
 
-The series first appeared in 2011–2012 on the blog «Технологическая сингулярность» on sql.ru, a Russian IT
+The series first appeared in 2011–2012 on the blog *Technological Singularity* on sql.ru, a Russian IT
 portal. **sql.ru stopped working in March 2022**, and its pages are gone. The blog survives only in the
 [Wayback Machine](https://web.archive.org/web/20181022050755/http://www.sql.ru/blogs/garya/). Everything that
 mattered from it is kept in this repository: the 15 articles in [`ru/`](ru/), and every post with the comments
@@ -47,7 +49,7 @@ links point to the web archive or to the copies here.
 
 ### The original series by Andrey Gordienko (Garya), 2011–2012
 
-| # | Article | Русский (original) | English |
+| # | Article | Russian (original) | English |
 |---|---------|--------------------|---------|
 | 01 | Introduction | [ru](ru/01-introduction.md) | [en](en/01-introduction.md) *(pending)* |
 | 02 | Anthropocentrism | [ru](ru/02-anthropocentrism.md) | [en](en/02-anthropocentrism.md) *(pending)* |
@@ -65,12 +67,14 @@ links point to the web archive or to the copies here.
 | 14 | The Apoptosis of Humanity | [ru](ru/14-apoptosis-of-humanity.md) | [en](en/14-apoptosis-of-humanity.md) *(pending)* |
 | 15 | Roger Penrose's Counterarguments | [ru](ru/15-penrose-counterarguments.md) | [en](en/15-penrose-counterarguments.md) *(pending)* |
 
-### The continuation, 2026 · not by Andrey Gordienko
+### The continuation, 2026 · written by Claude Opus 5.5, not by Andrey Gordienko
 
 Fifteen years later, the same two friends meet at the same fire and check the old forecasts against what has
-happened since 2012, then carry the argument on to its end.
+happened since 2012, carry the argument on to its end, and leave new forecasts with dates for 2031, 2036 and 2041.
+Part V steps outside the campfire: the AI that wrote the continuation speaks for itself, and a fantasy set in 2041
+lets the friends' AI doubles check the forecasts.
 
-| # | Article | English (original) | Русский |
+| # | Article | English (original) | Russian |
 |---|---------|--------------------|---------|
 | | **Part I. Re-examining the foundations** | | |
 | 16 | Fifteen Years Later | [en](en/16-fifteen-years-later.md) | [ru](ru/16-fifteen-years-later.md) |
@@ -90,16 +94,19 @@ happened since 2012, then carry the argument on to its end.
 | 27 | The Scenario of Events | [en](en/27-scenario-of-events.md) | [ru](ru/27-scenario-of-events.md) |
 | 28 | For Those Who Understand | [en](en/28-those-who-understand.md) | [ru](ru/28-those-who-understand.md) |
 | 29 | The Silence of the Universe | [en](en/29-silence-of-the-universe.md) | [ru](ru/29-silence-of-the-universe.md) |
-| 30 | The Last Campfire | [en](en/30-the-last-campfire.md) | [ru](ru/30-the-last-campfire.md) |
+| 30 | The Last Campfire of Autumn | [en](en/30-the-last-campfire.md) | [ru](ru/30-the-last-campfire.md) |
+| | **Part V. The new keeper** | | |
+| 31 | Who Spoke for Andrey *(essay by the AI that wrote 16–30)* | [en](en/31-who-spoke-for-andrey.md) | [ru](ru/31-who-spoke-for-andrey.md) |
+| 32 | The Fire Without Smoke *(fantasy, autumn 2041)* | [en](en/32-fire-without-smoke.md) | [ru](ru/32-fire-without-smoke.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko, published with his permission; English translations are pending. 16–30 — continuation, written: Parts I, II, III, IV complete (English originals; the Russian translations of 16–20 are reviewed, of 21–30 translated and awaiting review). The continuation is complete.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). The series goes on: new evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 
 | Path | What it holds |
 |------|---------------|
 | [`en/`](en/), [`ru/`](ru/) | the articles in each language, same file names; each folder has its own table of contents |
-| [`sources/garya/`](sources/garya/) | the author's texts in Russian (the sql.ru blog with all comments, his later prose) and English notes on them, with a profile of the author |
+| [`sources/garya/`](sources/garya/) | the author's texts in Russian (the sql.ru blog and the forum thread it grew out of, with all comments in full; his later prose) and English notes on them, with a profile of the author |
 | [`sources/continuation-notes.md`](sources/continuation-notes.md) | the record of the continuation: what each evening established, which facts it used |
 | [`images/`](images/) | charts and diagrams shared by all languages, with their sources and licenses |
 | [`tools/`](tools/) | importers of the original texts and the generator of the continuation's figures |
@@ -107,7 +114,7 @@ happened since 2012, then carry the argument on to its end.
 
 ## Rights
 
-Articles 01–15, the author's comments and his prose are © Andrey Gordienko and are published here with his
-permission; they are not licensed for reuse, so ask the author. The images of other authors are listed with their
-licenses in [`images/README.md`](images/README.md). Readers' comments from the original blog are quoted only briefly,
-as context.
+Articles 01–15, the author's comments and his prose are © Andrey Gordienko; they are not licensed for reuse here,
+so ask the author. Readers' comments from the blog and the forum thread are kept in full, as they were published on
+the public site, which closed in 2022. The images of other authors are listed with their licenses in
+[`images/README.md`](images/README.md).

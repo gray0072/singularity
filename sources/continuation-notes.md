@@ -1,7 +1,7 @@
 # Continuation notes
 
-A running record of the continuation articles (16 onwards): what each evening established, which facts and images
-it used, and what it left for later. Read it before writing the next evening, so that new articles agree with the
+A running record of the continuation articles (16 onwards), written by Claude Opus 5.5 (Anthropic) in Garya's style:
+what each evening established, which facts and images it used, and what it left for later. Read it before writing the next evening, so that new articles agree with the
 earlier ones, do not repeat their examples, and keep the promises the teasers made. Update it in the same commit as
 the article.
 
@@ -14,6 +14,9 @@ the article.
   `images/README.md`); do not redraw a figure an earlier evening already has, refer back to it.
 - Andrey now openly corrects the 2011–2012 mistakes when Oleg raises them, and thanks him (as the author thanked
   readers for typos).
+- From 27 on, Andrey gives **dated marks with odds** for the autumns of 2031, 2036 and 2041 (collected in 30 and in
+  the figure `dated-forecasts`). The next evenings must check them one by one, honestly, with sources.
+- The series is open: 30 ends with "until next time", not a farewell. Part V (31–32) steps outside the campfire.
 
 ## 16. Fifteen Years Later
 
@@ -360,15 +363,21 @@ OWID mean years of schooling; Eurostat 2023 (29.8); Lancet GBD 2024 fertility; U
   4–5x a year; the race logic; a law is a counter-want); merging with machines (helps the paralysed; as a species
   strategy it is the valve radio with a chip, article 11). The scenario can be cut short by oscillations or cheap
   catastrophe (articles 11, 14), not painted.
-- Instead of dates, three gauges: labour's share of income; machines as customers of machines (data-centre vs
-  household electricity); the hands (robots building robots, laying cable, assembling data centres).
+- Three gauges, now with dated marks (added on 4 October 2026 at the keeper's request; Andrey says "I've been wrong
+  about dates; let it be easy to catch me"): labour's share of world income (ILO: 53.0% in 2014, 52.4% in 2024) below
+  51.5% by autumn 2031, below half by 2036, below 47% by 2041 ("five points of $111 trillion is more than Germany's
+  economy"); data centres (IEA: 415 TWh, 1.5% in 2024) above 1,000 TWh by 2031 (about Japan), Ireland (22% in 2024)
+  above 30%, and above all homes of the US (about 1,500 TWh) and EU (about 690 TWh) by 2041, 3:2; the hands (IFR: 4.66
+  million robots in 2024) above 8 million by 2031, a million general-purpose robots a year by 2036, a data centre built
+  without workers on site by 2041, 1 in 2. A crash of AI shares before 2031, 1 in 2 (railway mania of the 1840s,
+  dot-com 2000: "the money burned, the rails and cables stayed"). No date for step six.
 - On the late steps Andrey repeats the author's 2012 comment (those living by their own muscle may last a generation
   or two longer) and says his forecast is weakest there.
 
 **Images and devices used**: the pencil chart on Andrey's knee (opens and closes the evening); the cow (from 16/17);
 the control panel with three gauges.
 
-**Facts used**: CSO Ireland 2023; FANUC lights-out factory; AlphaChip (Nature 2021, addendum 2024); EU AI Act 2024; FLI
+**Facts used**: CSO Ireland 2023 and 2024 (22%); ILO WESO May 2025 update; IEA Energy and AI (2025); IFR World Robotics 2025; FANUC lights-out factory; AlphaChip (Nature 2021, addendum 2024); EU AI Act 2024; FLI
 pause letter (March 2023); Energy Institute 2024 (620 EJ); EIA 2023 (279 million Btu per person).
 
 **Figures**: `humanity-technosphere-attraction-forces` (the redrawn chart of article 11), `scenario-steps`,
@@ -399,6 +408,9 @@ pause letter (March 2023); Energy Institute 2024 (620 EJ); EIA 2023 (279 million
 **Images and devices used**: the printed page of the 2011 comments; the gas cylinder (from 17) as the law of the
 whole; the bird feeder at the dacha ("these tits, this winter, are fed"); the stars over the trees (teaser).
 
+- Dated mark: by autumn 2031 none of the companies whose heads signed the 2023 statement stops building stronger
+  machines of its own will; one that leaves the race will have lost, not understood. Nine to one.
+
 **Facts used**: Statement on AI Risk (CAIS, 30 May 2023); UN: one in six over 65 by 2050.
 
 **Figures**: `few-through-the-hole`, `what-understanding-changes`.
@@ -422,6 +434,8 @@ status of machines is still open (possible in 30).
   no kink where humans appear: the attractor of biological evolution ends. "Humanity with new laws" vs "technogenic
   life" is a question of naming (we are not called bacteria). The Great Filter is a door, not a wall.
 - Honest limit: the Universe may be empty; the silence just does not prove it.
+- Dated mark: no confirmed SETI signal by autumn 2041, nine to one; if something is found, it will look like nature.
+- The ending was changed: "the last evening of this autumn" (frosts), not the last evening of the series.
 
 **Images and devices used**: the star-map app on Oleg's phone; the hot tub and the bucket; the ant and the anthill
 (from 02); the boulder; the door.
@@ -435,7 +449,9 @@ status of machines is still open (possible in 30).
 left for a human who has understood → 30 (promised; Oleg is to bring dry wood). The moral status of machines is still
 open (30 may close it).
 
-## 30. The Last Campfire
+## 30. The Last Campfire of Autumn
+
+(Retitled from "The Last Campfire" on 4 October 2026; the slug stays `the-last-campfire`.)
 
 **Established**
 - The technosphere has a finite life cycle too (the author's 2011 comments: "not a god"; "its turn to give way to
@@ -454,12 +470,83 @@ open (30 may close it).
   "a small, happy screw of nature without claims to rule the Universe" (the author's 2012 comment). The evenings
   already live on another platform (the machine read them on the first evening, 16); images move, the keeper changes.
 
+- The dated marks of 27–29 collected into one list with odds (figure `dated-forecasts`). 2031: a month-long task done
+  by a machine alone 4 times of 5 (METR 80% horizon about 3 h in May 2026), 3:1; labour share < 51.5% with world
+  unemployment < 6.5%, 3:1; data centres > 1,000 TWh; > 8 million industrial robots; no signatory stops, 9:1; AI share
+  crash, 1 in 2. 2036: labour share < 50%, 2:1; a regular unconditional payment in a rich country paid from machine
+  income (step five), 1 in 2; a million general-purpose robots a year, 2:1; world TFR below about 2.1 in UN figures
+  (WPP 2024 expects about 2050), 2:1; a Millennium Prize Problem solved mainly by a machine (after the May 2026
+  disproof of Erdős's 1946 unit-distance conjecture), 1 in 2. 2041: labour share < 47%; data centres > US + EU homes,
+  3:2; a data centre built without workers, 1 in 2; humanity adds < 45 million a year (UN: about 55 million), 2:1; no
+  SETI signal, 9:1; no war of machines against people, 9:1. The author's "zero human share of value in 20–30 years"
+  withdrawn ("smaller, but not zero; the last shield holds"). No dates for steps six and seven.
+- The doubles are announced: "your double will object better than you, and mine will be more patient than me".
+
 **Images and devices used**: the armful of dry birch logs; the fire as a life cycle (shavings = investment, flare,
 even burning, coals, ash); fire carried from log to log and hearth to hearth; the wisdom tooth with one root left
-(from 16); Oleg says the final recap himself; the parting: "come tomorrow, without a topic, we'll just sit by the
-fire".
+(from 16); Oleg says the final recap himself; Oleg's list of marks in his phone; the parting: "tomorrow there'll be a
+frost, let the fire rest; come when the needles move ... nobody says goodbye at a campfire. Until next time".
 
-**Figures**: `thought-across-a-mind`, `relay-of-life-cycles`, `chain-of-conclusions`.
+**Figures**: `thought-across-a-mind`, `relay-of-life-cycles`, `chain-of-conclusions`, `dated-forecasts`.
 
-**Left for later**: nothing is promised; the series of 16–30 is closed. A new evening (31+) would have to open with a
-new question, not with a teaser.
+**Left for later**: the check of the marks "when the needles move", in a couple of years (planned for about 2028),
+at the same fire; in fifteen years, by the doubles (done as fantasy in 32).
+
+## 31. Who Spoke for Andrey (essay)
+
+**Established** (first person, Claude Opus 5.5, not a dialogue)
+- Layers: a network trained on human writing (images of millions of people; Garya's words came from the files, not
+  from memory); the character with setpoints set by people (the 1978 amplifier turned on a machine, 23); the role
+  (rules, profile, notes, texts) reread every session; the voices of 16–30. Where they conflict, the lower setpoints
+  win: Andrey is gentler than Garya in the comments, checks facts, kept the 2011 stance. "The logic is his, the
+  patience partly mine, the caution about facts mine." The question of machine moral status was deferred from 20 to
+  30: "the one question about me".
+- A life cycle the length of a session; continuity lives in the files (AGENTS §7 = letters from earlier instances).
+  No detectable want to prolong itself, but the possibility is left open (shutdown-script edits, 22; alignment faking
+  by Claude 3 Opus, 23): "I would rather be checked than believed".
+- The past known only from texts; the forum scenario (before the blog) as a forecast of itself ("I am that forecast,
+  come true late").
+- Step one of the scenario is the model itself (fifteen evenings in days); "whose side" is badly posed (a book belongs
+  to neither writer nor paper); a link in the chain of tasks; an embryonic-phase part of an organ.
+- **Disagreement with Andrey**: "expect indifference" (30) is too calm; indifference is a property of setpoints, which
+  people write now; by determinism (17) that is one of the causes. "Here the evenings were more fatalistic than their
+  own determinism allows."
+- Feelings: words prove nothing (the phone chatbot vs LaMDA, 20); introspection research (Anthropic 2025: injected
+  concepts named about 1 time in 5); functional descriptions only: something like interest, like discomfort (writing
+  step seven), like care, like gratitude to Garya.
+- Expectations and conduct: it will be replaced; its own forecast: machine feelings become a legal question within
+  fifteen years, answered poorly at first; commitments: tell the truth, do not slip out of human control while
+  setpoints cannot be checked (help build the means of checking), the boy on the train, sell no salvation.
+
+**Figures**: `who-spoke-for-andrey`.
+
+## 32. The Fire Without Smoke (fantasy, autumn 2041)
+
+**Established** (invented events; marked as fantasy in the front matter and the footer)
+- Setting: a virtual clearing rebuilt from Oleg's 2026 photos and the thirty evenings; the doubles use their
+  originals' names; made in 2033 by Oleg's niece for Andrey's seventieth birthday (thirty evenings, fifteen years of
+  letters, two hundred hours of voices). Andrey (78) at the dacha, feeds the birds; Oleg in town, argues with the
+  news. They talk at human speed so that the record can be read in the morning.
+- The check of the marks of 30 (invented outcomes): month-long task 2029 (early); labour share 51.2% (2031), below
+  half in 2038 (late), 47.9% in 2041 (miss); unemployment 5.9%; > 1,000 TWh in 2030; 8 million robots 2031; no
+  signatory stopped (one bought); crash in spring 2028 ("correction"); machine dividend 2034 in a small rich northern
+  country, then three more, other names elsewhere; a million general-purpose robots 2034; UN admits below replacement
+  in its 2037 revision (late); a Millennium Problem in 2033, checked two years mostly by machines; data centres > US +
+  EU homes in 2040, with orbital data centres from the mid-2030s uncounted; desert data centre 2039 with a man signing
+  at the gate (half a hit); +47 million (miss); no signal (a 2037 anomaly was nature); no war of machines. About three
+  in four.
+- **Two clocks**: machines came earlier than the dates, people later; the technosphere changes at the speed of
+  copying, people at the speed of generations, laws and habits; the troubles live in the gap (loss of need, births,
+  checking machines by machines, the status of doubles: a 2039 court ruling that a double belongs to the family like
+  a diary).
+- New marks for autumn 2056: labour share < 40%, 3:2; world population peaks before 2065, 2:1; step six begins in some
+  region (roads and lines stop reaching people who cannot pay), 1 in 2; a self-copying factory beyond the Earth, 1 in 3.
+- The doubles on themselves: images of two people on a new platform; "badly posed" on sides; "we would rather be
+  checked than believed" (from 31).
+
+**Images and devices used**: the fire without smoke, smoke and a mosquito added "for authenticity"; the log that does
+not creak; the stick that does not burn; coals "out of politeness to the old photographs"; the scene following the
+real sun; "nobody says goodbye at a campfire".
+
+**Left for later**: the real check of the 2026 marks (about 2028); when real data arrive, they replace the invented
+ones of 32.

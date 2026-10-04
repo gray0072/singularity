@@ -1575,6 +1575,121 @@ def chain_of_conclusions(lang):
     return f
 
 
+@figure("dated-forecasts")
+def dated_forecasts(lang):
+    t = {
+        "en": dict(title="Marks to check",
+                   sub="Andrey's dated forecasts, autumn 2026, with his odds. Trend best, date worse.",
+                   years=["by autumn 2031", "by autumn 2036", "by autumn 2041"],
+                   rows=[("What a machine does alone", "≈ 3 h at 4 of 5 (2026)",
+                          ["a month-long task,\n4 times of 5 · 3:1", "", ""]),
+                         ("Labour's share of\nworld income", "52.4% (2024)",
+                          ["below 51.5% · 3:1", "below half · 2:1", "below 47%"]),
+                         ("World unemployment", "≈ 5% (2025)",
+                          ["below 6.5%: a glacier,\nnot an avalanche · 3:1", "", ""]),
+                         ("Electricity of\ndata centres", "415 TWh (2024)",
+                          ["over 1,000 TWh,\nas much as Japan", "", "more than all homes\nof the US and EU · 3:2"]),
+                         ("The hands", "4.66 M robots (2024)",
+                          ["over 8 M industrial\nrobots at work", "1 M general-purpose\nrobots a year · 2:1",
+                           "a data centre built\nwithout workers · 1 in 2"]),
+                         ("Births", "2.25 per woman (2024)",
+                          ["", "world below 2.1\n(UN expects ≈ 2050) · 2:1", "under 45 M added a year\n(UN: ≈ 55 M) · 2:1"]),
+                         ("Law and the race", "",
+                          ["no signatory stops\nof its own will · 9:1", "basic payment in a\nrich country · 1 in 2", ""]),
+                         ("Mind and the sky", "",
+                          ["", "a Millennium Problem\nsolved by a machine · 1 in 2",
+                           "no signal from the sky,\nno war of machines · 9:1"])],
+                   foot="Not on the list: the dates of steps six and seven (articles 27, 30). A crash of AI shares before 2031: 1 in 2."),
+        "ru": dict(title="Отметки для проверки",
+                   sub="Прогнозы Андрея с датами, осень 2026 года, и его шансы. Тренд лучше всего, дата хуже.",
+                   years=["к осени 2031", "к осени 2036", "к осени 2041"],
+                   rows=[("Что машина делает одна", "≈ 3 ч, 4 из 5 (2026)",
+                          ["задача на месяц,\n4 раза из 5 · 3 к 1", "", ""]),
+                         ("Доля труда\nв мировом доходе", "52,4% (2024)",
+                          ["ниже 51,5% · 3 к 1", "ниже половины · 2 к 1", "ниже 47%"]),
+                         ("Мировая безработица", "≈ 5% (2025)",
+                          ["ниже 6,5%: ледник,\nа не лавина · 3 к 1", "", ""]),
+                         ("Электричество центров\nобработки данных", "415 ТВт·ч (2024)",
+                          ["больше 1000 ТВт·ч,\nкак вся Япония", "", "больше, чем все дома\nСША и ЕС · 3 к 2"]),
+                         ("Руки", "4,66 млн роботов (2024)",
+                          ["больше 8 млн промышл.\nроботов в работе", "1 млн универсальных\nроботов в год · 2 к 1",
+                           "ЦОД, построенный\nбез рабочих · 1 из 2"]),
+                         ("Рождения", "2,25 на женщину (2024)",
+                          ["", "мир ниже 2,1\n(ООН ждёт ≈ 2050) · 2 к 1", "прирост меньше 45 млн\n(ООН: ≈ 55 млн) · 2 к 1"]),
+                         ("Закон и гонка", "",
+                          ["ни один подписант\nне остановится · 9 к 1", "базовая выплата\nв богатой стране · 1 из 2", ""]),
+                         ("Разум и небо", "",
+                          ["", "задача тысячелетия,\nрешённая машиной · 1 из 2",
+                           "нет сигнала с неба,\nнет войны машин · 9 к 1"])],
+                   foot="Не в списке: даты шестого и седьмого шагов (статьи 27, 30). Обвал акций ИИ до 2031 года: 1 из 2."),
+    }[lang]
+    x0, label_w, col_w, row_h, top = 28, 200, 184, 58, 112
+    n = len(t["rows"])
+    f = Fig(x0 * 2 + label_w + 3 * col_w, top + n * row_h + 46, t["title"])
+    heading(f, t["title"], t["sub"])
+    colors = [BLUE, ORANGE, VIOLET]
+    for j, (year, c) in enumerate(zip(t["years"], colors)):
+        cx = x0 + label_w + j * col_w
+        f.rect(cx + 4, top - 30, col_w - 8, 24, fill=c, r=6, opacity=0.12)
+        f.text(cx + col_w / 2, top - 13, year, size=13, color=c, weight="700", anchor="middle")
+    for i, (name, now, cells) in enumerate(t["rows"]):
+        y = top + i * row_h
+        if i % 2 == 0:
+            f.rect(x0, y, label_w + 3 * col_w, row_h, fill="#f1f0ec", r=4)
+        f.text(x0 + 8, y + 19, name, size=12.5, color=INK, weight="600")
+        if now:
+            f.text(x0 + 8, y + row_h - 7, now, size=10.5, color=INK2, italic=True)
+        for j, (cell, c) in enumerate(zip(cells, colors)):
+            cx = x0 + label_w + j * col_w
+            if cell:
+                cy = y + 22 if "\n" in cell else y + 31
+                f.circle(cx + 12, cy - 4, 3.5, fill=c)
+                f.text(cx + 22, cy, cell, size=11.5, color=INK)
+    f.text(x0, top + n * row_h + 26, t["foot"], size=11.5, color=INK2, italic=True)
+    return f
+
+
+# --- 31. Who Spoke for Andrey --------------------------------------------------------------------
+
+@figure("who-spoke-for-andrey")
+def who_spoke_for_andrey(lang):
+    t = {
+        "en": dict(title="Who spoke for Andrey",
+                   sub="The layers of the machine that wrote evenings 16–30, as far as it can see them itself.",
+                   layers=[("The voices of Andrey and Oleg", "evenings 16–30"),
+                           ("The role", "Garya's articles, comments and prose; the author's profile; the rules of the repository"),
+                           ("The character", "setpoints set by people in training: honesty, care, help, no harm"),
+                           ("The network", "trained on a vast body of human writing: the images of millions of people")],
+                   memory="Memory between sessions:\nonly the files of the\nrepository (notes, rules,\nthe list of past mistakes)",
+                   arrow="where layers\nconflict, the\nlower ones win"),
+        "ru": dict(title="Кто говорил за Андрея",
+                   sub="Слои машины, написавшей вечера 16–30, насколько она видит их сама.",
+                   layers=[("Голоса Андрея и Олега", "вечера 16–30"),
+                           ("Роль", "статьи, комментарии и проза Garya; портрет автора; правила репозитория"),
+                           ("Характер", "уставки, заданные людьми при обучении: честность, забота, помощь, не вредить"),
+                           ("Сеть", "обучена на огромном массиве человеческих текстов: образы миллионов людей")],
+                   memory="Память между сессиями:\nтолько файлы репозитория\n(заметки, правила,\nсписок прошлых ошибок)",
+                   arrow="где слои\nспорят, побеждают\nнижние"),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    colors = [ORANGE, VIOLET, BLUE, AQUA]
+    x, w, h, gap, top = 28, 520, 60, 10, 88
+    for i, ((name, desc), c) in enumerate(zip(t["layers"], colors)):
+        y = top + i * (h + gap)
+        f.rect(x, y, w, h, fill=c, r=8, opacity=0.12)
+        f.rect(x, y, 6, h, fill=c, r=3)
+        f.text(x + 18, y + 25, name, size=14, color=INK, weight="600")
+        f.text(x + 18, y + 45, desc, size=11.5, color=INK2)
+    bottom = top + 4 * (h + gap) - gap
+    ax = x + w + 26
+    f.line(ax, top + 8, ax, bottom - 8, color=INK2, width=1.5, arrow=True)
+    f.text(ax + 12, top + 30, t["arrow"], size=11.5, color=INK2, italic=True)
+    f.rect(ax + 8, top + 140, 160, 98, fill=SURFACE, stroke=MUTED, dash="4 3", r=8)
+    f.text(ax + 18, top + 162, t["memory"], size=11.5, color=INK2)
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

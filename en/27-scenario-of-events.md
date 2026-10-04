@@ -37,7 +37,7 @@ When Oleg came, Andrey was smoothing a sheet of paper on his knee, covered with 
 
 — That she'll calve, roughly when, and what colour the calf will be, — Oleg counted on his fingers. — Trend best, date worse, details hardly at all.
 
-— So I'll give you the order of the steps and the signs of each. Dates I won't give. I've been wrong about dates. And the details of the last steps I'll name, but trust them least of all. Agreed?
+— So I'll give you the order of the steps and the signs of each. The details of the last steps I'll name, but trust them least of all. And dates I'll give only at the end, and only where there is something to measure. I've been wrong about dates, so let it be easy to catch me. Agreed?
 
 — Agreed. Go on.
 
@@ -111,14 +111,34 @@ Oleg took out his phone and counted for a long time.
 
 — And when, — Oleg leaned forward. — I won't let you go without a when.
 
-— Then I'll give you not a date but gauges, like on a control panel. Three of them. The first: the share of the world's income that goes to labour. We talked about it on the first evening; it's falling slowly, like a glacier. The second: the share of machines among the customers of machines. Electricity for data centres against electricity for homes. The third: the hands. Robots that build robots, lay cable and assemble data centres. When all three needles have pointed the same way for long enough, step six is close. And you'll be able to read them without me.
+— Then I'll give you gauges, like on a control panel, and on each one a mark with a date. I've been wrong about dates and I'll be wrong again. But a forecast that can't be checked isn't worth the paper it's written on. Write it down.
+
+Oleg opened the notes on his phone.
+
+— The first gauge: the share of the world's income that goes to labour. We talked about it on the first evening: it's falling like a glacier. The ILO [counted](https://www.ilo.org/sites/default/files/2025-05/WESOUpdate_May2025_1.pdf) fifty-three percent in 2014 and fifty-two point four in 2024. My marks: below fifty-one and a half by the autumn of 2031. Below half by the autumn of 2036: for the first time, less than half of what the world earns will go to people for their work. Below forty-seven by 2041. The glacier will move faster, because now the machine takes not the hands but the head.
+
+— From fifty-two to forty-seven. It doesn't sound like the end of the world.
+
+— Count it. The world produced about a hundred and eleven trillion dollars in 2024. Five points of that is more than the whole economy of Germany, moving every year from wages to the machines and to those who own them. The second gauge: machines as the customers of machines. In 2024 the world's data centres [used](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai) about four hundred and fifteen terawatt-hours, a percent and a half of all its electricity. My marks: more than a thousand terawatt-hours by 2031, about as much as the whole of Japan uses. In Ireland, where they already took [twenty-two percent](https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/keyfindings/) in 2024, more than thirty. And by 2041 the data centres of the world will use more electricity than all the homes of America and of the European Union together. Those took about two thousand two hundred terawatt-hours.
+
+— And the third?
+
+— The hands. In 2024 there were 4.66 million industrial robots [at work](https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years) in the world, and the yearly number installed had doubled in ten years. My marks: more than eight million by 2031. By 2036, more than a million general-purpose robots made in a single year, with hands that can be put to any job, not to one welding seam. And by 2041, the first large data centre built, wired and serviced with no workers on the site. Of that last mark I'm least sure: one chance in two.
+
+— And if it all bursts? Half the newspapers say artificial intelligence is a bubble.
+
+— It may well burst. I'd give one chance in two that before 2031 the shares of these companies fall the way the internet companies' fell in 2000. In the 1840s Britain had its [railway mania](https://en.wikipedia.org/wiki/Railway_Mania): the money burned, and the rails stayed. In 2000 the [internet bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) burst: the money burned, and the cables stayed. A crash may stop the needles for a year or two. It won't turn them back.
+
+— And step six? When?
+
+— That date I won't give. When all three needles have pointed the same way for long enough, step six is close. You'll be able to read them without me.
 
 — Gloomy.
 
 — But objective. Let's finish for today by fixing the result.
 
 1. **The scenario is not a war but a sequence of steps. The technosphere takes the youngest human functions; the chain of tasks loses its human links; the technosphere becomes its own main customer; it learns to reproduce itself; people hold on to it by law (a short parasitism); it stops giving, and it already carries about 95% of the energy per person in the world and 99% in America; humanity leaves softly, through births.**
-2. **The first three steps can be seen now, the fourth has begun. I trust the order, I give no dates, and I trust the details of the last steps least of all.**
+2. **The first three steps can be seen now, the fourth has begun. I trust the order most and the details of the last steps least of all. I give dates only as marks on the gauges, so that they can be checked: labour's share of world income below 51.5% by the autumn of 2031 and below half by 2036; data centres using more than 1,000 TWh a year by 2031 and more electricity than all the homes of America and the European Union by 2041; a data centre built without workers on the site by 2041, one chance in two. A crash of AI shares before 2031 is one chance in two, and it would not turn the needles back.**
 3. **Nobody plans it and nobody can stop it: every step pays, and whoever stops loses to whoever does not, as the pause of 2023 that never happened showed. Three gauges show how close the end of the symbiosis is: labour's share of income, the machine as the machine's customer, and the hands.**
 
 — Then the last question, the one your readers asked in the comments, — Oleg stood up. — And what should I do? You promised a "strategy of action" at the very end.
@@ -131,6 +151,6 @@ Oleg took out his phone and counted for a long time.
 
 ---
 
-*Continuation of the series* (Part IV. The transition and after): a new article written for this repository after the author's original 15, in his method. It was not written by Andrey Gordienko (Garya), the author of articles 01–15. Builds on: [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [17](./17-global-determinism.md), [22](./22-who-sets-the-tasks.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md).
+*Continuation of the series* (Part IV. The transition and after): written for this repository by Claude Opus 5.5, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it. Builds on: [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [17](./17-global-determinism.md), [22](./22-who-sets-the-tasks.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md).
 
 [← 26](./26-why-people-stopped-having-children.md) · [Contents](./README.md) · [28 →](./28-those-who-understand.md)

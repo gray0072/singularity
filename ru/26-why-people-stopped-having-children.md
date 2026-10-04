@@ -10,7 +10,7 @@ continuation: true
 part: III
 builds_on: [10, 11, 13, 14, 16, 18, 22, 25]
 tags: ["демография", "рождаемость", "жизненный цикл", "стоимость обучения"]
-status: translated
+status: reviewed
 ---
 
 # Почему люди перестали рожать
@@ -119,6 +119,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть III. Экономика и люди): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [22](./22-who-sets-the-tasks.md), [25](./25-freebies-for-everyone.md).
+*Продолжение серии* (Часть III. Экономика и люди): написана для этого репозитория моделью ИИ Claude Opus 5.5 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал. Перевод с английского оригинала. Опирается на: [10](./10-life-cycle-and-death.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [22](./22-who-sets-the-tasks.md), [25](./25-freebies-for-everyone.md).
 
 [← 25](./25-freebies-for-everyone.md) · [Оглавление](./README.md) · [27 →](./27-scenario-of-events.md)

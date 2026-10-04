@@ -10,7 +10,7 @@ continuation: true
 part: III
 builds_on: [07, 11, 12, 16, 18, 24]
 tags: ["базовый доход", "халява", "симбиоз", "паразитизм", "спрос"]
-status: translated
+status: reviewed
 ---
 
 # Халява для всех?
@@ -139,6 +139,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть III. Экономика и люди): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [24](./24-last-profession.md).
+*Продолжение серии* (Часть III. Экономика и люди): написана для этого репозитория моделью ИИ Claude Opus 5.5 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал. Перевод с английского оригинала. Опирается на: [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [24](./24-last-profession.md).
 
 [← 24](./24-last-profession.md) · [Оглавление](./README.md) · [26 →](./26-why-people-stopped-having-children.md)

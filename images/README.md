@@ -9,8 +9,8 @@ Reference images from articles as `../images/<file>`.
 |------|-------|---------|--------|--------|---------|
 | `venus-flytrap-closing.gif` | Venus flytrap closing its trap (animation) | 03 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dionaea_muscipula_closing_trap_animation.gif) | Mnolf | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | `world-population-growth.ru.png` | World population growth, UN data (Russian labels) | 10 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_population_(UN)_ru.svg) | Zhwachwa (derivative work) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
-| `dynamic-system-life-cycle.png` | Life cycle of a dynamic system (Russian labels) | 10, 13 | sql.ru attachment 11582885, via the Wayback Machine | Андрей Гордиенко | used with the author's permission |
-| `singularity-vertical-asymptote.png` | Blow-up curve approaching a vertical asymptote | 13 | sql.ru attachment 11716462, via the Wayback Machine | Андрей Гордиенко | used with the author's permission |
+| `dynamic-system-life-cycle.png` | Life cycle of a dynamic system (Russian labels) | 10, 13 | sql.ru attachment 11582885, via the Wayback Machine | Andrey Gordienko | the author's own chart from his blog, credited to him |
+| `singularity-vertical-asymptote.png` | Blow-up curve approaching a vertical asymptote | 13 | sql.ru attachment 11716462, via the Wayback Machine | Andrey Gordienko | the author's own chart from his blog, credited to him |
 | `skill-age-layers.svg` (+ `.ru.svg`) | How long nature polished each skill (Moravec's paradox), log scale | 16 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `growth-over-ten-years.svg` (+ `.ru.svg`) | Growth over a decade: AI training compute, Moore's law, human intelligence | 16 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `vase-and-slices.svg` (+ `.ru.svg`) | The vase and the flat creature: the block universe seen slice by slice | 17 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
@@ -44,6 +44,8 @@ Reference images from articles as `../images/<file>`.
 | `thought-across-a-mind.svg` (+ `.ru.svg`) | How long one thought takes to cross a mind: brain, Earth, Solar System, Galaxy | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `relay-of-life-cycles.svg` (+ `.ru.svg`) | The relay of life cycles: chemical evolution, life, humanity, the technosphere and an unknown next form | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `chain-of-conclusions.svg` (+ `.ru.svg`) | The chain of conclusions of the series with the articles that establish each link | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `dated-forecasts.svg` (+ `.ru.svg`) | Andrey's dated forecasts for the autumns of 2031, 2036 and 2041, with his odds | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `who-spoke-for-andrey.svg` (+ `.ru.svg`) | The layers of the machine that wrote evenings 16–30: network, character, role, voices; memory in files | 31 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

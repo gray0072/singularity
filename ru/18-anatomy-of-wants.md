@@ -203,6 +203,6 @@ status: reviewed
 
 ---
 
-*Продолжение серии* (Часть I. Проверка основ): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [04](./04-source-of-initiative.md), [08](./08-human-psyche.md), [09](./09-unemployment-and-famine.md), [17](./17-global-determinism.md).
+*Продолжение серии* (Часть I. Проверка основ): написана для этого репозитория моделью ИИ Claude Opus 5.5 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [04](./04-source-of-initiative.md), [08](./08-human-psyche.md), [09](./09-unemployment-and-famine.md), [17](./17-global-determinism.md).
 
 [← 17](./17-global-determinism.md) · [Оглавление](./README.md) · [19 →](./19-struggle-of-images.md)

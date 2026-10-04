@@ -10,7 +10,7 @@ continuation: true
 part: II
 builds_on: [04, 08, 11, 18, 20, 22]
 tags: ["контроль ИИ", "дружественный ИИ", "хотелки", "убеждение"]
-status: translated
+status: reviewed
 ---
 
 # Машина, которая делает людей хорошими
@@ -125,6 +125,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть II. Машины сегодня): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [08](./08-human-psyche.md), [11](./11-symbiosis-and-parasitism.md), [18](./18-anatomy-of-wants.md), [20](./20-what-consciousness-is.md), [22](./22-who-sets-the-tasks.md).
+*Продолжение серии* (Часть II. Машины сегодня): написана для этого репозитория моделью ИИ Claude Opus 5.5 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [08](./08-human-psyche.md), [11](./11-symbiosis-and-parasitism.md), [18](./18-anatomy-of-wants.md), [20](./20-what-consciousness-is.md), [22](./22-who-sets-the-tasks.md).
 
 [← 22](./22-who-sets-the-tasks.md) · [Оглавление](./README.md) · [24 →](./24-last-profession.md)

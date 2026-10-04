@@ -10,7 +10,7 @@ continuation: true
 part: II
 builds_on: [03, 05, 16, 20]
 tags: ["искусственный интеллект", "языковые модели", "ареал-логичность", "метод замещения"]
-status: translated
+status: reviewed
 ---
 
 # Говорящие машины
@@ -211,6 +211,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть II. Машины сегодня): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [16](./16-fifteen-years-later.md), [20](./20-what-consciousness-is.md).
+*Продолжение серии* (Часть II. Машины сегодня): написана для этого репозитория моделью ИИ Claude Opus 5.5 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [16](./16-fifteen-years-later.md), [20](./20-what-consciousness-is.md).
 
 [← 20](./20-what-consciousness-is.md) · [Оглавление](./README.md) · [22 →](./22-who-sets-the-tasks.md)

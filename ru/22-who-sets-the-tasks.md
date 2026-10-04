@@ -10,7 +10,7 @@ continuation: true
 part: II
 builds_on: [04, 15, 16, 18, 21]
 tags: ["цели", "хотелки", "ИИ-агенты", "техносфера"]
-status: translated
+status: reviewed
 ---
 
 # Кто ставит задачи
@@ -189,6 +189,6 @@ status: translated
 
 ---
 
-*Продолжение серии* (Часть II. Машины сегодня): новая статья, написанная для этого репозитория после 15 оригинальных статей автора, его методом. Андрей Гордиенко (Garya), автор статей 01–15, её не писал. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [21](./21-machines-that-talk.md).
+*Продолжение серии* (Часть II. Машины сегодня): написана для этого репозитория моделью ИИ Claude Opus 5.5 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [15](./15-penrose-counterarguments.md), [16](./16-fifteen-years-later.md), [18](./18-anatomy-of-wants.md), [21](./21-machines-that-talk.md).
 
 [← 21](./21-machines-that-talk.md) · [Оглавление](./README.md) · [23 →](./23-machine-for-making-people-good.md)

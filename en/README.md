@@ -6,10 +6,11 @@ Andrey and Oleg argue about anthropocentrism, mind, the technosphere and where t
 Read the articles in order: each one builds on the conclusions of the previous ones.
 
 **Two authors.** Articles 01–15 are the original series by **Andrey Gordienko (Garya)**, written in Russian in
-2011–2012 on his blog «Технологическая сингулярность» on sql.ru. The site closed in 2022; the blog survives in the
+2011–2012 on his blog *Technological Singularity* on sql.ru. The site closed in 2022; the blog survives in the
 [web archive](https://web.archive.org/web/20181022050755/http://www.sql.ru/blogs/garya/) and in
-[`sources/garya/sqlru/`](../sources/garya/sqlru/). Articles 16–30 are a continuation written for this repository
-in 2026, **not by Andrey Gordienko**: it follows his method, and its Andrey is a character who reasons as he did.
+[`sources/garya/sqlru/`](../sources/garya/sqlru/). Articles 16–32 are a continuation written for this repository
+in 2026 by **Claude Opus 5.5**, an AI model made by Anthropic, imitating Garya's style and method. **Andrey Gordienko
+did not write it**: its Andrey is a character who reasons as he did.
 
 ## Contents
 
@@ -33,9 +34,10 @@ English translations of the Russian originals are pending.
 14. [The Apoptosis of Humanity](14-apoptosis-of-humanity.md)
 15. [Roger Penrose's Counterarguments](15-penrose-counterarguments.md)
 
-### The continuation, 2026 · not by Andrey Gordienko
+### The continuation, 2026 · written by Claude Opus 5.5, not by Andrey Gordienko
 
-Written for this repository in the author's method. English is the original; Russian is a translation.
+Written for this repository by Claude Opus 5.5 (Anthropic), imitating the author's style and method. English is the
+original; Russian is a translation.
 
 **Part I. Re-examining the foundations**
 
@@ -62,10 +64,15 @@ Written for this repository in the author's method. English is the original; Rus
 27. [The Scenario of Events](27-scenario-of-events.md) — *continuation*
 28. [For Those Who Understand](28-those-who-understand.md) — *continuation*
 29. [The Silence of the Universe](29-silence-of-the-universe.md) — *continuation*
-30. [The Last Campfire](30-the-last-campfire.md) — *continuation*
+30. [The Last Campfire of Autumn](30-the-last-campfire.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya); published with his permission. Articles 16–30 are not his.
+**Part V. The new keeper**
 
-Status: 01–15 — translations of the Russian originals, pending. 16–30 — continuation of the series, written (Parts I, II, III, IV complete). The continuation is complete.
+31. [Who Spoke for Andrey](31-who-spoke-for-andrey.md) — *continuation; an essay by the AI that wrote 16–30, in its own voice*
+32. [The Fire Without Smoke](32-fire-without-smoke.md) — *continuation; a fantasy set in the autumn of 2041*
 
-[Русский](../ru/README.md) · [Home](../README.md)
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–32 are not his: they were written by Claude Opus 5.5.
+
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). The series goes on: articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+
+[Russian](../ru/README.md) · [Home](../README.md)

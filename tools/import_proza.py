@@ -1,13 +1,12 @@
 """Import the author's prose from proza.ru into sources/garya/proza/ (Russian originals).
 
 Used to understand the author's personality and voice; not part of the article series.
-The texts belong to the author and are imported with his permission (SPEC.md, section 5);
-the script refuses to start without --authorized.
+The texts belong to the author (SPEC.md, section 5).
 
 Usage:
-    python tools/import_proza.py --authorized             # write books that are not there yet
-    python tools/import_proza.py --authorized --force     # overwrite
-    python tools/import_proza.py --authorized --root DIR  # write the same tree under DIR (dry run)
+    python tools/import_proza.py             # write books that are not there yet
+    python tools/import_proza.py --force     # overwrite
+    python tools/import_proza.py --root DIR  # write the same tree under DIR (dry run)
 
 Standard library only.
 """
@@ -75,12 +74,9 @@ def iso(date):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--authorized", action="store_true", help="the author has permitted the import")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--root", type=Path, default=ROOT)
     args = ap.parse_args()
-    if not args.authorized:
-        sys.exit("The author's texts may be imported only with his permission. See SPEC.md, section 5.")
 
     found = books()
     for header, (slug, title_en) in BOOKS.items():

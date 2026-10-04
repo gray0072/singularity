@@ -15,7 +15,14 @@ sources are in the notes in this folder; the Russian originals are in [`../sqlru
   first chill of understanding to that work.
 - Writes the blog as a side project, next to his day job, and apologises when articles are late.
 - Says he arrived at the singularity on his own, through an earlier forum thread. He reads agreement with
-  famous scientists as confirmation, and their blindness as a reason to keep writing.
+  famous scientists as confirmation, and their blindness as a reason to keep writing. The thread, «Вот, решил
+  процитировать на ПТ сценарий апокалипсиса...» (sql.ru, 2009–2017, 14,180 messages), survives only in part: 40 of
+  568 pages, 292 of his messages ([copy](../sqlru/2009-09-15-apocalypse-scenario-thread.md),
+  [note](2009-09-15-apocalypse-scenario-thread.md)). It opens on 15 September 2009 with his scenario: the crisis drags
+  on, an AI announcement brings a boom, new bubbles and a wave of freebies, then a fast and violent collapse, far
+  harsher than the soft exit of article 27. In November 2013 he stopped arguing there, overworked and frightened by his
+  own conclusions, without having written the blog's closing article; in 2016–2017 he returned with a quieter version
+  (people hand power over voluntarily, utilities are cut off for non-payment, AI is indifferent rather than hostile).
 - In 2012 he presented the concept at the SETI centre of the Sternberg Astronomical Institute (MSU) and
   followed the GF2045 congress.
 
@@ -94,7 +101,8 @@ the articles in order.
 13. **After the singularity** comes a non-biological, technogenic form of life ("intelligent cosmic dust") that
     takes humanity's place at the leading edge of evolution (07, SETI).
 
-His forecasts, as stated in 2011–2012: human-level AI hardware around 2018–2019, citing IBM/DARPA SyNAPSE;
+His forecasts, as stated in 2011–2012 (and restated on the forum in 2011 and February 2017, "at the end of 2018 or the
+start of 2019, on supercomputers"): human-level AI hardware around 2018–2019, citing IBM/DARPA SyNAPSE;
 population growth stopping in the 2040s; a zero human share of value in 20–30 years; the world economy broken by
 2030–2035. Several dated forecasts have not come true as stated (see *Handling his forecasts*).
 
