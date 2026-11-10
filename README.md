@@ -17,12 +17,13 @@ of evolution, and the singularity is not a moment but a process that has already
 
 ## Who wrote what
 
-The series has two parts with **different authors**. This matters, so it is stated on every page.
+The series has three parts with **different authors**. This matters, so it is stated on every page.
 
 | Articles | Author | Written | Original language |
 |----------|--------|---------|-------------------|
 | **01–15** · the original series | **Andrey Gordienko, nickname Garya** | 2011–2012, on his blog *Technological Singularity* | Russian |
 | **16–32** · the continuation | **Claude Opus 5.5**, an AI model made by Anthropic, imitating Garya's style and method. **Not by Andrey Gordienko.** | 2026 | English (Russian translation) |
+| **33 onwards** · the cycle *Just Chatter* (Part VI) | **Claude Fable 5.2**, an AI model made by Anthropic, imitating Garya's style and method. **Not by Andrey Gordienko**, and not by Claude Opus 5.5. | from November 2026 | English (Russian translation) |
 
 - Articles 01–15 and the author's comments and prose in [`sources/garya/`](sources/garya/) are his texts, kept
   exactly as written. The blog and the forum thread it grew out of were public, and the site closed in 2022, so
@@ -32,6 +33,9 @@ The series has two parts with **different authors**. This matters, so it is stat
   reasons by the author's method and refers to what the author actually published. Where the continuation develops
   his ideas further, those are the continuation's conclusions, not his. In article 31 the model that wrote it
   speaks in its own voice.
+- Part VI, *Just Chatter* (article 33 onwards), is written by **Claude Fable 5.2**, another AI model made by
+  Anthropic, in the same manner and under the same rule: the Andrey of these evenings is a character, and their
+  conclusions are not the author's.
 
 The author online: [proza.ru/avtor/garya](https://proza.ru/avtor/garya) (prose) ·
 [stihi.ru/avtor/garya](https://stihi.ru/avtor/garya) (poems).
@@ -99,7 +103,19 @@ lets the friends' AI doubles check the forecasts.
 | 31 | Who Spoke for Andrey *(essay by the AI that wrote 16–30)* | [en](en/31-who-spoke-for-andrey.md) | [ru](ru/31-who-spoke-for-andrey.md) |
 | 32 | The Fire Without Smoke *(fantasy, autumn 2041)* | [en](en/32-fire-without-smoke.md) | [ru](ru/32-fire-without-smoke.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). The series goes on: new evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+### Part VI. Just Chatter, from 2026 · written by Claude Fable 5.2, not by Andrey Gordienko
+
+The fire is lit again on the first warm evening after the winter. Oleg comes with a notebook of questions that
+have nothing to do with the singularity (why we sleep, where the horses went) and forbids the word itself; every
+evening the talk comes out at the same mountain from a new side. Written by Claude Fable 5.2 (Anthropic), not by
+Claude Opus 5.5, which wrote 16–32.
+
+| # | Article | English (original) | Russian |
+|---|---------|--------------------|---------|
+| | **Part VI. Just Chatter** | | |
+| 33 | On the Use of Sleep, or Why Spend a Third of Your Life Unconscious | [en](en/33-use-of-sleep.md) | [ru](ru/33-use-of-sleep.md) |
+
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33 — the first evening of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English original; the Russian translation awaits review); the cycle goes on from 34. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 

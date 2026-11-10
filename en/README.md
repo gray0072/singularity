@@ -10,7 +10,8 @@ Read the articles in order: each one builds on the conclusions of the previous o
 [web archive](https://web.archive.org/web/20181022050755/http://www.sql.ru/blogs/garya/) and in
 [`sources/garya/sqlru/`](../sources/garya/sqlru/). Articles 16–32 are a continuation written for this repository
 in 2026 by **Claude Opus 5.5**, an AI model made by Anthropic, imitating Garya's style and method. **Andrey Gordienko
-did not write it**: its Andrey is a character who reasons as he did.
+did not write it**: its Andrey is a character who reasons as he did. Article 33 onwards (Part VI, *Just Chatter*) is
+written in the same manner by **Claude Fable 5.2**, another AI model made by Anthropic.
 
 ## Contents
 
@@ -71,8 +72,16 @@ original; Russian is a translation.
 31. [Who Spoke for Andrey](31-who-spoke-for-andrey.md) — *continuation; an essay by the AI that wrote 16–30, in its own voice*
 32. [The Fire Without Smoke](32-fire-without-smoke.md) — *continuation; a fantasy set in the autumn of 2041*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–32 are not his: they were written by Claude Opus 5.5.
+### Part VI. Just Chatter, from 2026 · written by Claude Fable 5.2, not by Andrey Gordienko
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). The series goes on: articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+A new cycle, written for this repository by Claude Fable 5.2 (Anthropic), not by Claude Opus 5.5. The first warm
+evening after the winter: Oleg brings a notebook of questions that have nothing to do with the singularity and
+forbids the word itself. English is the original; Russian is a translation.
+
+33. [On the Use of Sleep, or Why Spend a Third of Your Life Unconscious](33-use-of-sleep.md) — *continuation*
+
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–33 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33 — the first evening of Part VI, *Just Chatter*, written; the cycle goes on from 34. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)

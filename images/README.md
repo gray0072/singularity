@@ -46,6 +46,8 @@ Reference images from articles as `../images/<file>`.
 | `chain-of-conclusions.svg` (+ `.ru.svg`) | The chain of conclusions of the series with the articles that establish each link | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `dated-forecasts.svg` (+ `.ru.svg`) | Andrey's dated forecasts for the autumns of 2031, 2036 and 2041, with his odds | 30 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `who-spoke-for-andrey.svg` (+ `.ru.svg`) | The layers of the machine that wrote evenings 16–30: network, character, role, voices; memory in files | 31 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `forgetting-without-replay.svg` (+ `.ru.svg`) | Scheme: a network taught a new task loses its skill at the old one at once (catastrophic forgetting) unless old experience is replayed mixed with the new | 33 | drawn by [`tools/figures.py`](../tools/figures.py); a scheme, not measured data | this repository | own work of the repository |
+| `three-ways-to-sleep.svg` (+ `.ru.svg`) | Three ways to rebuild memory without destroying it: a human sleeps whole, a dolphin by halves of the brain in turn, a machine with spare resources by copies that change places | 33 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 
 ## To do
 

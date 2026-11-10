@@ -16,6 +16,7 @@ written as the dialogue series **"Campfire Dialogues"** (*«Диалог у ко
 - This repository continues the series in the same style and with the same ideas (see [AGENTS.md](AGENTS.md)).
   **The continuation (16 onwards) is not written by Andrey Gordienko.** He is the author of articles 01–15 only.
   Articles 16–32 were written by **Claude Opus 5.5**, an AI model made by Anthropic, imitating his style and method;
+  article 33 onwards (Part VI, "Just Chatter") is written the same way by **Claude Fable 5.2**, also by Anthropic;
   every table of contents and the footer of every continuation article say so.
   The author's views, including those he stated only in reader comments, and his later prose are collected in
   [`sources/garya/`](sources/garya/) so new articles can follow them closely.
@@ -65,7 +66,8 @@ ru/
 sources/
   README.md                what the source material is and how to use it
   continuation-notes.md    record of the written continuation articles: conclusions, facts, images, deferrals
-  next-evenings.ru.md      proposal for the next cycle of evenings, 33–66 (draft in Russian, not part of the series)
+  next-evenings.md         plan of the next cycle of evenings, Part VI "Just Chatter", 33–66 (not part of the series)
+  next-evenings.ru.md      the same plan in Russian
   garya/
     README.md              об авторе: ссылки, состав материалов (ru)
     sqlru/                 source: the sql.ru blog — each post as published, article text + comments (ru)
@@ -102,7 +104,7 @@ tools/
 - `NN` — two-digit sequence number in the series (`01`…`99`); it defines the reading order. The series is
   meant to be read sequentially: later articles build on conclusions of earlier ones.
   `01`–`15` are the author's originals; `16` onwards is the **continuation** written for this repository
-  (16–32 are written, in five parts; the next free number is `33`).
+  (16–32 are written, in five parts; 33 opens Part VI; the next free number is `34`).
 - `slug` — short English kebab-case name, **identical in every language** (`ru/02-anthropocentrism.md`
   and `en/02-anthropocentrism.md` are the same article). Slugs never change once published.
 - Numbers are never reused or renumbered.
@@ -134,7 +136,7 @@ A continuation article has no `source`/`archive`/`author` fields and adds instea
 ```yaml
 original_lang: en
 continuation: true              # written for this repository, not by the original author
-part: II                        # part of the continuation: I–V
+part: II                        # part of the continuation: I–VI
 builds_on: [04, 08, 11, 22]     # articles whose conclusions it relies on
 form: essay                     # optional: essay | fantasy, for an article outside the campfire form (Part V)
 ```
@@ -282,5 +284,6 @@ Material for writing and translating, not published content of the series.
 4. Redraw the remaining charts (articles 05, 08, 10, 11) as SVG; replace the third-party picture of 09.
 5. Translate 01–15 into English (`en/`).
 6. Write the continuation in five parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30, ending with dated forecasts for 2031, 2036 and 2041), V. The new keeper (31: an essay by the model that wrote the continuation; 32: a fantasy set in 2041). Written: 16–32 — **done**; the Russian translations of 16–30 are reviewed, of 31–32 await review.
-7. New evenings (about 2028): check the dated forecasts of 27–30 honestly and add new ones.
-8. Further languages.
+7. Part VI, "Just Chatter" (33 onwards), written by Claude Fable 5.2: campfire evenings that start from questions off the topic; the plan is [`sources/next-evenings.md`](sources/next-evenings.md). Written: 33; its Russian translation awaits review.
+8. New evenings (about 2028): check the dated forecasts of 27–30 honestly and add new ones.
+9. Further languages.

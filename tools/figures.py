@@ -1690,6 +1690,137 @@ def who_spoke_for_andrey(lang):
     return f
 
 
+# --- 33. On the Use of Sleep -------------------------------------------------------------------
+
+@figure("forgetting-without-replay")
+def forgetting_without_replay(lang):
+    t = {
+        "en": dict(title="A network that learns the new forgets the old",
+                   sub="Skill at the old task while the network is taught a new one, with and without replay.",
+                   y="skill at the old task", old="lessons: the old task", new="lessons: the new task",
+                   replay="old experience replayed, mixed with the new",
+                   none="without replay:\ncatastrophic forgetting",
+                   src="A scheme, not measured data. After McCloskey & Cohen (1989) and Lin (1992)."),
+        "ru": dict(title="Сеть, которую учат новому, забывает старое",
+                   sub="Умение решать старую задачу, пока сеть учат новой: с проигрыванием и без него.",
+                   y="умение в старой задаче", old="уроки: старая задача", new="уроки: новая задача",
+                   replay="старый опыт проигрывают вперемешку с новым",
+                   none="без проигрывания:\nкатастрофическое забывание",
+                   src="Схема, а не измеренные данные. По Макклоски и Коэну (1989) и Лину (1992)."),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 90, 720, 310, 110
+    xm = (x0 + x1) / 2
+
+    def Y(p):
+        return y0 - p / 100 * (y0 - y1)
+
+    f.rect(x0, y1 - 8, xm - x0, y0 - y1 + 8, fill=GRID, r=0, opacity=0.45)
+    f.line(x0, y0, x1, y0, color=INK2, width=1.5)
+    f.line(x0, y0, x0, y1 - 8, color=INK2, width=1.5)
+    f.line(xm, y0, xm, y1 - 8, color=MUTED, width=1.2, dash="5 4")
+    for p, label in ((0, "0"), (100, "100%")):
+        f.text(x0 - 10, Y(p) + 4, label, size=12, color=INK2, anchor="end")
+    f.text(40, (y0 + y1) / 2, t["y"], size=12.5, color=INK2, anchor="middle", rotate=-90)
+    f.text((x0 + xm) / 2, y0 + 22, t["old"], size=12.5, color=INK2, anchor="middle")
+    f.text((xm + x1) / 2, y0 + 22, t["new"], size=12.5, color=INK2, anchor="middle")
+
+    def curve(fn, xa, xb, n=60):
+        pts = [(xa + (xb - xa) * i / n, Y(fn(i / n))) for i in range(n + 1)]
+        return "M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts)
+
+    top = 95 * (1 - math.exp(-4))
+    f.path(curve(lambda u: 95 * (1 - math.exp(-4 * u)), x0, xm), color=INK, width=2.5)
+    f.path(curve(lambda u: top - 7 * (1 - math.exp(-6 * u)), xm, x1), color=BLUE, width=2.5)
+    f.path(curve(lambda u: 4 + (top - 4) * math.exp(-14 * u), xm, x1), color=RED, width=2.5)
+    f.text(x1, Y(top - 7) + 24, t["replay"], size=12.5, color=BLUE, anchor="end", weight="600")
+    f.text(x1, Y(30), t["none"], size=12.5, color=RED, anchor="end", weight="600")
+    f.text(28, 366, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("three-ways-to-sleep")
+def three_ways_to_sleep(lang):
+    t = {
+        "en": dict(title="Three ways to rebuild memory without destroying it",
+                   sub="The task is the same for any mind that learns; the way belongs to the platform.",
+                   work="serves: takes in images, answers the world",
+                   rebuild="rebuilds: replays, sorts, writes off",
+                   rows=[("A human", "one network"), ("A dolphin", "two halves of the brain"),
+                         ("A machine with\nspare resources", "copies of one network")],
+                   awake="awake", asleep="asleep", halves=("left half", "right half"),
+                   copies=("copy 1", "copy 2"), works="works", rebuilt="is rebuilt", time="time"),
+        "ru": dict(title="Три способа перестраивать память, не разрушая её",
+                   sub="Задача одна для любого разума, который учится; способ зависит от платформы.",
+                   work="обслуживает: принимает образы, отвечает миру",
+                   rebuild="перестраивается: проигрывает, сортирует, списывает",
+                   rows=[("Человек", "одна сеть"), ("Дельфин", "две половины мозга"),
+                         ("Машина с запасом\nресурсов", "копии одной сети")],
+                   awake="бодрствует", asleep="спит", halves=("левая половина", "правая половина"),
+                   copies=("копия 1", "копия 2"), works="работает", rebuilt="перестраивается", time="время"),
+    }[lang]
+    f = Fig(800, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    bx, bw = 282, 490
+    soft = "#fbe1d5"
+
+    def seg(y, h, a, b, kind, label=None):
+        """A segment of a bar between the fractions a and b of the time axis."""
+        x, w = bx + bw * a, bw * (b - a)
+        f.rect(x + 1, y, w - 2, h, fill=soft if kind == "work" else BLUE, r=4)
+        if label:
+            f.text(x + w / 2, y + h / 2 + 4, label, size=11.5, anchor="middle",
+                   color=INK if kind == "work" else "#ffffff", weight="600")
+
+    # legend
+    f.rect(28, 86, 14, 14, fill=soft, stroke=ORANGE, width=1, r=3)
+    f.text(50, 98, t["work"], size=12, color=INK2)
+    f.rect(400, 86, 14, 14, fill=BLUE, r=3)
+    f.text(422, 98, t["rebuild"], size=12, color=INK2)
+
+    def name(y, row):
+        title, sub = row
+        f.text(28, y, title, size=14, weight="600")
+        f.text(28, y + 17.5 * len(title.split("\n")) + 1, sub, size=11.5, color=INK2)
+
+    # a human: one bar
+    y = 130
+    name(y + 14, t["rows"][0])
+    seg(y, 36, 0, 2 / 3, "work", t["awake"])
+    seg(y, 36, 2 / 3, 1, "rebuild", t["asleep"])
+    f.line(28, y + 60, 772, y + 60, color=GRID, width=1.5)
+
+    # a dolphin: two halves, asleep in turn
+    y = 208
+    name(y + 14, t["rows"][1])
+    for i, (label, start) in enumerate(zip(t["halves"], (1, 3))):
+        yy = y + i * 28
+        f.text(bx - 10, yy + 15, label, size=11, color=INK2, anchor="end")
+        edges = [0]
+        for k in range(start, 12, 4):
+            edges += [k, k + 1]
+        edges.append(12)
+        for j in range(len(edges) - 1):
+            if edges[j] != edges[j + 1]:
+                seg(yy, 22, edges[j] / 12, edges[j + 1] / 12, "rebuild" if j % 2 else "work")
+    f.line(28, y + 72, 772, y + 72, color=GRID, width=1.5)
+
+    # a machine: two copies change places
+    y = 298
+    name(y + 14, t["rows"][2])
+    for i, label in enumerate(t["copies"]):
+        yy = y + i * 28
+        f.text(bx - 10, yy + 15, label, size=11, color=INK2, anchor="end")
+        first, second = ("work", "rebuild") if i == 0 else ("rebuild", "work")
+        seg(yy, 22, 0, 0.5, first, t["works"] if first == "work" else t["rebuilt"])
+        seg(yy, 22, 0.5, 1, second, t["works"] if second == "work" else t["rebuilt"])
+
+    f.line(bx, 384, bx + bw, 384, color=INK2, width=1.2, arrow=True)
+    f.text(bx + bw, 402, t["time"], size=11.5, color=INK2, anchor="end")
+    return f
+
+
 def main(names):
     unknown = [n for n in names if n not in FIGURES]
     if unknown:

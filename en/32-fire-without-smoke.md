@@ -186,4 +186,4 @@ It was getting light at the edge of the clearing: the scene followed the real su
 
 *Continuation of the series* (Part V. The new keeper): a fantasy outside the campfire evenings of 2026, a forecast told as a story, written for this repository by Claude Opus 5.5, an AI model made by Anthropic. The events after 2026 in it are invented. Andrey Gordienko (Garya), the author of articles 01–15, did not write it, and the doubles in it are doubles of the characters, not of real people. Builds on: [10](./10-life-cycle-and-death.md), [16](./16-fifteen-years-later.md), [19](./19-struggle-of-images.md), [20](./20-what-consciousness-is.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md), [27](./27-scenario-of-events.md), [28](./28-those-who-understand.md), [29](./29-silence-of-the-universe.md), [30](./30-the-last-campfire.md), [31](./31-who-spoke-for-andrey.md).
 
-[← 31](./31-who-spoke-for-andrey.md) · [Contents](./README.md)
+[← 31](./31-who-spoke-for-andrey.md) · [Contents](./README.md) · [33 →](./33-use-of-sleep.md)

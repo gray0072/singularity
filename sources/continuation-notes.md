@@ -1,6 +1,7 @@
 # Continuation notes
 
-A running record of the continuation articles (16 onwards), written by Claude Opus 5.5 (Anthropic) in Garya's style:
+A running record of the continuation articles (16 onwards), written in Garya's style by Claude Opus 5.5 (16–32) and,
+from 33 on (Part VI, "Just Chatter"), by Claude Fable 5.2 (both by Anthropic):
 what each evening established, which facts and images it used, and what it left for later. Read it before writing the next evening, so that new articles agree with the
 earlier ones, do not repeat their examples, and keep the promises the teasers made. Update it in the same commit as
 the article.
@@ -550,3 +551,64 @@ real sun; "nobody says goodbye at a campfire".
 
 **Left for later**: the real check of the 2026 marks (about 2028); when real data arrive, they replace the invented
 ones of 32.
+
+## Frame of Part VI, "Just Chatter" (from 33)
+
+- Written by Claude Fable 5.2 (Anthropic). The plan of the cycle, evening by evening: [`next-evenings.md`](next-evenings.md).
+- The first warm evening after the winter of 30, at the same log; consecutive evenings again ("until tomorrow"). The
+  needles have not moved: the marks of 30 are not checked in this cycle.
+- Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
+  spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
+  firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 1).
+
+## 33. On the Use of Sleep, or Why Spend a Third of Your Life Unconscious
+
+**Established**
+- Sleep is not rest: lying still would rest the muscles, and a sleepless day costs only about 7% more energy. It is
+  the tax of a platform with one carrier for working and rebuilding: one and the same network is the shop floor and
+  the warehouse, so it closes for stocktaking. First half: the day's images are replayed and moved from the quick
+  memory to the long one. Second half: the write-off, connections are scaled down, the heavy images (significance
+  coefficient, 19) are kept and the light ones go; "forgetting is a function" (19) now has its time of day.
+- Nature could not cancel the tax, only split it: the dolphin sleeps with the halves of its brain in turn.
+- Engineers reached the same from the other side: catastrophic forgetting and experience replay ("they gave the
+  machine sleep without calling it sleep"); a language model does not learn while it talks; the phone updates at
+  night on the charger.
+- Anthropocentrism exposed: "sleep is rest, a machine does not get tired, so it needs no sleep" names the task after
+  our way of solving it (the fish that "does not breathe" because it has no lungs). The task belongs to any mind that
+  learns, the way to the platform. The author's 2013 forum answer is quoted: a computer short of resources will need
+  sleep, one with enough will sort its images in parallel; here: by copies that change places ("the dolphin with as
+  many halves as you like").
+- A dream is the correlator working without sensors; a language model's hallucination is the same thing awake
+  (stated as a comparison, not a proof; grounding reduces it).
+- Limits stated by Andrey: why sleep arose and what a sleepless animal dies of are unknown; washing of waste is
+  disputed; synaptic downscaling as the main purpose is a hypothesis; "sleep is only for memory" is not claimed
+  (15% that the main tenant is another). The logical part (a mind learning on one network must stop serving to
+  rebuild) does not depend on the electrodes.
+- Oleg says the forbidden word and goes for firewood; the first tick "again".
+
+**Images and devices used**: the paper notebook and the firewood bet; evolution the miser and the sandwich on the
+scales; the shop sign "Closed for stocktaking" (shelves cannot be served and counted at once; the lorry at the back
+door); the fish without lungs; the shed built for firewood where the skis and the bicycle move in ("many tenants");
+flying in a dream ("And what did the sensors show? — The blanket"); the late grandmother and the price of petrol; the
+invented book with author, year and publisher; "a man with a hammer"; "Go and do your stocktaking. — Closed till
+morning".
+
+**Facts used**: Jung et al. 2011 (7 adults, 24-hour energy expenditure about +7% without sleep); Mukhametov, Supin,
+Polyakova 1977 (Brain Research 134: unihemispheric slow-wave sleep in bottlenose dolphins, Black Sea station of the
+Severtsov Institute; recognised in the USSR as a scientific discovery; one eye open; episodes of 4–132 minutes, 42 on
+average, given as "half an hour or an hour"); Rechtschaffen's disc-over-water rats (Chicago, 1980s; totally deprived
+rats died in 11–32 days, yoked controls lived, no anatomical cause of death); Wilson & McNaughton 1994 (three rats,
+place cells that fired together on the track fire together in slow-wave sleep; later: order kept, faster); de Vivo et
+al. 2017 (6,920 mouse synapses, about 18% smaller after sleep, the largest fifth spared; Tononi and Cirelli);
+McCloskey & Cohen 1989 (ones, then twos); Lin 1992 (experience replay); Mnih et al. 2015 (49 Atari games,
+"biologically inspired" replay); McClelland, McNaughton & O'Reilly 1995 (two memories, interleaving); Girardeau et
+al. 2009 (suppressing ripples impairs spatial memory); Xie et al. 2013 vs Miao et al. 2024 (clearance in sleep);
+Vaccaro et al. 2020 (sleepless flies die of the gut, antioxidants rescue them).
+
+**Figures**: `forgetting-without-replay` (a scheme, not data), `three-ways-to-sleep`.
+
+**Left for later**: why dreams sometimes come true ("a separate evening", written into the notebook) → 39; the mind
+that ages by filling up and the machine that loses plasticity → 44; the table "task of any mind / our way" → 46 (33
+gives it its first two rows: sleep and dreams); Oleg's next question, the riding club advert ("an hour in the saddle
+costs what I used to earn in a day; and it used to be a working animal") → 34, promised in the teaser.

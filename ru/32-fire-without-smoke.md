@@ -186,4 +186,4 @@ status: translated
 
 *Продолжение серии* (Часть V. Новый хранитель): фантазия вне вечеров у костра 2026 года, прогноз, рассказанный как история; написана для этого репозитория моделью ИИ Claude Opus 5.5 (компания Anthropic). События после 2026 года в ней выдуманы. Андрей Гордиенко (Garya), автор статей 01–15, её не писал, а двойники в ней — двойники персонажей, а не реальных людей. Перевод с английского оригинала. Опирается на: [10](./10-life-cycle-and-death.md), [16](./16-fifteen-years-later.md), [19](./19-struggle-of-images.md), [20](./20-what-consciousness-is.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md), [27](./27-scenario-of-events.md), [28](./28-those-who-understand.md), [29](./29-silence-of-the-universe.md), [30](./30-the-last-campfire.md), [31](./31-who-spoke-for-andrey.md).
 
-[← 31](./31-who-spoke-for-andrey.md) · [Оглавление](./README.md)
+[← 31](./31-who-spoke-for-andrey.md) · [Оглавление](./README.md) · [33 →](./33-use-of-sleep.md)

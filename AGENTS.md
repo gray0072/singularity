@@ -14,7 +14,8 @@ addresses as plain text and link to the archive or to the copies here. The blog 
 closed, so the posts and all the comments under them are kept here in full. We continue the series, staying as
 close as possible to his ideas, logic and voice, but **he is the author of articles 01–15 only**: never present the
 continuation as his. Articles 16–32 were written by **Claude Opus 5.5**, an AI model made by Anthropic, imitating
-his style and method.
+his style and method. Article 33 onwards (Part VI, the cycle "Just Chatter") is written by **Claude Fable 5.2**,
+also made by Anthropic, in the same manner.
 
 Before writing anything, read:
 
@@ -107,14 +108,20 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–32 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `33`. The arc: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–33 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `34`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
   which the AI doubles of Andrey and Oleg check the forecasts). Part V has `form: essay` / `form: fantasy`; it is
   the only place where the campfire form is left. A continuation article is marked `continuation: true` and listed
   in the *Continuation* block of every table of contents.
+- **Part VI, "Just Chatter"** (*«Просто трёп»*, from `33`), is a new cycle written by Claude Fable 5.2; its plan,
+  evening by evening, is [`sources/next-evenings.md`](sources/next-evenings.md) (Russian version: `next-evenings.ru.md`). The campfire
+  form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
+  notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
+  Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -134,7 +141,8 @@ articles as closely as possible. In practice:
 - Oleg's objections are best taken from the real ones: every note has a section *The author in the comments*
   with readers' objections and the author's answers. Andrey's answers must agree with those.
 - New articles are not attributed to the original author. Their footer says that Andrey Gordienko did not write
-  them and names the model that did (16–32: Claude Opus 5.5, Anthropic): they continue his series and method.
+  them and names the model that did (16–32: Claude Opus 5.5; 33 onwards: Claude Fable 5.2; both by Anthropic): they
+  continue his series and method.
 
 ### Writing a continuation evening, step by step
 
@@ -234,6 +242,8 @@ articles as closely as possible. In practice:
 | стоимость обучения | cost of learning | the price of making a person fit for the technosphere's world; paid anew by every generation, once by a machine |
 | отметка (прогноза) | mark | a dated, checkable forecast with odds ("below half by the autumn of 2036, two to one"); introduced in 27–30 |
 | двое часов | two clocks | the fast clock of the technosphere (the speed of copying) and the slow clock of people (generations, laws, habits); forecasts are made with both (32) |
+| катастрофическое забывание | catastrophic forgetting | a network taught something new loses the old at once, because both are written into the same connections (33) |
+| проигрывание (опыта) | (experience) replay | running stored experience through the network again, mixed with the new; what the brain does in sleep and what engineers gave the machine (33) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
