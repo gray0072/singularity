@@ -15,5 +15,9 @@ Material for writing new articles and translating existing ones. Not published c
 - [`continuation-notes.md`](continuation-notes.md) — the record of the continuation 16–32, which was written for
   this repository by Claude Opus 5.5 (Anthropic) in the author's style, and not by the author.
 
+- [`next-evenings.ru.md`](next-evenings.ru.md) — a proposal for the next cycle of evenings (33–66), drafted in
+  Russian for the keeper by Claude Fable 5.2 (Anthropic). It is a plan, not part of the series; the English version
+  is made once the list is agreed.
+
 The originals are kept in Russian exactly as written and imported by the scripts in [`tools/`](../tools/)
 (see [SPEC.md](../SPEC.md), sections 5–6).

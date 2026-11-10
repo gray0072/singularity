@@ -65,6 +65,7 @@ ru/
 sources/
   README.md                what the source material is and how to use it
   continuation-notes.md    record of the written continuation articles: conclusions, facts, images, deferrals
+  next-evenings.ru.md      proposal for the next cycle of evenings, 33–66 (draft in Russian, not part of the series)
   garya/
     README.md              об авторе: ссылки, состав материалов (ru)
     sqlru/                 source: the sql.ru blog — each post as published, article text + comments (ru)
