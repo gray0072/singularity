@@ -229,4 +229,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп): первый вечер нового цикла. Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [19](./19-struggle-of-images.md), [21](./21-machines-that-talk.md), [22](./22-who-sets-the-tasks.md), [30](./30-the-last-campfire.md).
 
-[← 32](./32-fire-without-smoke.md) · [Оглавление](./README.md)
+[← 32](./32-fire-without-smoke.md) · [Оглавление](./README.md) · [34 →](./34-where-the-horses-went.md)

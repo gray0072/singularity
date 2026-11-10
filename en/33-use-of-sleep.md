@@ -229,4 +229,4 @@ Oleg leafed through the notebook.
 
 *Continuation of the series* (Part VI. Just Chatter): the first evening of a new cycle, written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [03](./03-mind-and-intelligence.md), [19](./19-struggle-of-images.md), [21](./21-machines-that-talk.md), [22](./22-who-sets-the-tasks.md), [30](./30-the-last-campfire.md).
 
-[← 32](./32-fire-without-smoke.md) · [Contents](./README.md)
+[← 32](./32-fire-without-smoke.md) · [Contents](./README.md) · [34 →](./34-where-the-horses-went.md)

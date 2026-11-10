@@ -48,6 +48,8 @@ Reference images from articles as `../images/<file>`.
 | `who-spoke-for-andrey.svg` (+ `.ru.svg`) | The layers of the machine that wrote evenings 16–30: network, character, role, voices; memory in files | 31 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
 | `forgetting-without-replay.svg` (+ `.ru.svg`) | Scheme: a network taught a new task loses its skill at the old one at once (catastrophic forgetting) unless old experience is replayed mixed with the new | 33 | drawn by [`tools/figures.py`](../tools/figures.py); a scheme, not measured data | this repository | own work of the repository |
 | `three-ways-to-sleep.svg` (+ `.ru.svg`) | Three ways to rebuild memory without destroying it: a human sleeps whole, a dolphin by halves of the brain in turn, a machine with spare resources by copies that change places | 33 | drawn by [`tools/figures.py`](../tools/figures.py) | this repository | own work of the repository |
+| `horses-on-farms.svg` (+ `.ru.svg`) | Chart: horses and mules on US farms, 1900–1960 (peak of 26.7 million in 1918, 3.1 million in 1960), with the number of tractors on farms in 1920, 1929 and 1960 | 34 | drawn by [`tools/figures.py`](../tools/figures.py) from *Historical Statistics of the United States*, table Da983-987; tractors from Olmstead & Rhode (2001) | this repository | own work of the repository |
+| `wage-below-feed.svg` (+ `.ru.svg`) | Scheme: the worth of a horse's day of work falls below the cost of its feed; to the left of the crossing foals are raised, to the right they are not | 34 | drawn by [`tools/figures.py`](../tools/figures.py); a scheme, not measured data | this repository | own work of the repository |
 
 ## To do
 

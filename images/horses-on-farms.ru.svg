@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="390" viewBox="0 0 760 390" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Лошадь не уволили: она не родилась</title>
+
+<rect x="0.5" y="0.5" width="759" height="389" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Лошадь не уволили: она не родилась</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Лошади и мулы на фермах США, миллионов голов, 1900–1960.</text>
+<line x1="70.0" y1="278.0" x2="715.0" y2="278.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="62.0" y="282.0" font-size="11.5" fill="#52514e" text-anchor="end">0</text>
+<line x1="70.0" y1="247.0" x2="715.0" y2="247.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="251.0" font-size="11.5" fill="#52514e" text-anchor="end">5</text>
+<line x1="70.0" y1="216.0" x2="715.0" y2="216.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="220.0" font-size="11.5" fill="#52514e" text-anchor="end">10</text>
+<line x1="70.0" y1="185.0" x2="715.0" y2="185.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="189.0" font-size="11.5" fill="#52514e" text-anchor="end">15</text>
+<line x1="70.0" y1="154.0" x2="715.0" y2="154.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="158.0" font-size="11.5" fill="#52514e" text-anchor="end">20</text>
+<line x1="70.0" y1="123.0" x2="715.0" y2="123.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="127.0" font-size="11.5" fill="#52514e" text-anchor="end">25</text>
+<line x1="70.0" y1="92.0" x2="715.0" y2="92.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="62.0" y="96.0" font-size="11.5" fill="#52514e" text-anchor="end">30</text>
+<text x="70.0" y="296.0" font-size="11.5" fill="#52514e" text-anchor="middle">1900</text>
+<text x="177.5" y="296.0" font-size="11.5" fill="#52514e" text-anchor="middle">1910</text>
+<text x="285.0" y="296.0" font-size="11.5" fill="#52514e" text-anchor="middle">1920</text>
+<text x="392.5" y="296.0" font-size="11.5" fill="#52514e" text-anchor="middle">1930</text>
+<text x="500.0" y="296.0" font-size="11.5" fill="#52514e" text-anchor="middle">1940</text>
+<text x="607.5" y="296.0" font-size="11.5" fill="#52514e" text-anchor="middle">1950</text>
+<text x="715.0" y="296.0" font-size="11.5" fill="#52514e" text-anchor="middle">1960</text>
+<path d="M70.0,147.8 L123.8,141.1 L177.5,127.9 L231.2,113.7 L263.5,112.3 L285.0,118.4 L338.8,138.1 L392.5,159.4 L446.2,174.6 L500.0,188.2 L553.8,203.9 L607.5,229.8 L661.2,251.3 L715.0,258.8 L715.0,278.0 L70.0,278.0 Z" stroke="none" stroke-width="0" fill="#2a78d6" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.08"/>
+<path d="M70.0,147.8 L123.8,141.1 L177.5,127.9 L231.2,113.7 L263.5,112.3 L285.0,118.4 L338.8,138.1 L392.5,159.4 L446.2,174.6 L500.0,188.2 L553.8,203.9 L607.5,229.8 L661.2,251.3 L715.0,258.8" stroke="#2a78d6" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="263.5" cy="112.3" r="5.0" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<text x="275.5" y="100.3" font-size="12" fill="#eb6834" font-weight="600"><tspan x="275.5" dy="0.0">1918: пик,</tspan><tspan x="275.5" dy="15.0">26,7 миллиона</tspan></text>
+<circle cx="715.0" cy="258.8" r="5.0" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<text x="711.0" y="196.8" font-size="12" fill="#eb6834" text-anchor="end" font-weight="600"><tspan x="711.0" dy="0.0">1960:</tspan><tspan x="711.0" dy="15.0">3,1 миллиона</tspan></text>
+<line x1="70.0" y1="312.0" x2="715.0" y2="312.0" stroke="#e9e8e4" stroke-width="1.5" stroke-linecap="round"/>
+<text x="28.0" y="330.0" font-size="12" fill="#52514e" font-weight="600">Тракторов на фермах, млн:</text>
+<line x1="285.0" y1="278.0" x2="285.0" y2="316.0" stroke="#8a8985" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="285.0" y="330.0" font-size="12" fill="#52514e" text-anchor="middle">1920: 0,25</text>
+<line x1="381.8" y1="278.0" x2="381.8" y2="316.0" stroke="#8a8985" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="381.8" y="330.0" font-size="12" fill="#52514e" text-anchor="middle">1929: ≈ 1</text>
+<line x1="715.0" y1="278.0" x2="715.0" y2="316.0" stroke="#8a8985" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="715.0" y="330.0" font-size="12" fill="#52514e" text-anchor="end">1960: больше 4,5</text>
+<text x="28.0" y="372.0" font-size="11" fill="#8a8985">Данные: Historical Statistics of the United States, таблица Da983-987; тракторы: Олмстед и Роуд (2001).</text>
+</svg>

@@ -560,7 +560,9 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 1).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 2).
+- The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
+  count; the tick does"), nobody went. Andrey has not said it yet.
 
 ## 33. On the Use of Sleep, or Why Spend a Third of Your Life Unconscious
 
@@ -612,3 +614,58 @@ Vaccaro et al. 2020 (sleepless flies die of the gut, antioxidants rescue them).
 that ages by filling up and the machine that loses plasticity → 44; the table "task of any mind / our way" → 46 (33
 gives it its first two rows: sleep and dreams); Oleg's next question, the riding club advert ("an hour in the saddle
 costs what I used to earn in a day; and it used to be a working animal") → 34, promised in the teaser.
+
+## 34. Where the Horses Went
+
+**Established**
+- The horse was not sacked and not slaughtered: people stopped breeding it. US farms had 26.7 million horses and
+  mules at the peak (1918, one for every four inhabitants) and 3.1 million in 1960. Few went to slaughter (6% of those
+  that disappeared in 1940, under half even at the highest); many farmers kept the old horse beside the tractor. The
+  herd shrank because foals were not raised (half the replacement need by 1931; registered stallions down to under a
+  third within a decade) and it aged (average age about 9 in 1923, over 12.5 in 1935).
+- Nobody decided it: each farmer compared the price of a grown horse (in real money more than halved in 1915–1925)
+  with three years of feed for a foal. Nobody asked the horse, and nobody asked the farmer either ("Did anyone ask you
+  when you bought a car?"). No law, no villain.
+- More than a quarter of US cropland (22% for farm animals, 5% for town and mine ones; 93 million acres in 1915) grew
+  feed, "fuel for the engine of that time"; by 1960, 5 million acres. The freed field is the size of Germany.
+- The bottom was not zero: 6.65 million horses in 2023, kept for pleasure. A tool became a want; the whole bill is paid
+  by somebody's wish to sit in a saddle, which is why an hour costs a day's wages. One horse for fifty people where
+  there was one for four. The horse lives under the last shield of 24 ("made by a human" → "a live horse"); room under
+  it for one horse in four.
+- Oleg names the mountain himself (Leontief, 1983) and brings the economists' three answers. (1) "Machines always made
+  more work": so they did for the horse, for a hundred years (the herd grew sixfold in 1840–1900, the railway added
+  carts), until a motor did the horse's own job; the lock with the tellers of 24. (2) Comparative advantage (the
+  surgeon and his assistant): answered with the author's 2017 forum reply ("why did we stop riding horses? perhaps the
+  farmers hadn't read Ricardo") and with Clark: there was always a wage at which the horses could have stayed
+  employed, but it did not pay for their feed; plus the author's third option, a second surgeon at the assistant's
+  pay, which exists for tractors. (3) Ownership and the vote: **left open on purpose**. Andrey adds a point for Oleg
+  (the horse was never a customer; for humans things are still made, 25) and one against (the farmer owned his
+  tractor: 6.8 million farms in 1935, under 1.9 million now; "ownership protects the owner").
+- Oleg himself maps the foal's three years of oats onto his niece's twenty-five years of raising a child (26). Andrey
+  limits the likeness ("your niece is not a mare, and she counts more than money") and refuses to convert the forty
+  years into human years: no new dates beyond the marks of 27–30.
+
+**Images and devices used**: the riding-club advert on Oleg's phone; the grandfather's horse as a bundle of jobs; "to
+the knacker: sausage, glue and dog food"; the old horse behind the barn; the mare taken to the stallion and the
+congress that never voted; oats as fuel; "what was a tool has become a treat. — A want"; the rug for the winter and a
+doctor of its own; "I see where this cart is going"; "if horses had had economists"; the two lines drawn in the ash;
+"what is the oats of a human?"; the half-said word; "Gloomy. Even with the rug and the doctor. — But objective."
+
+**Facts used**: Historical Statistics of the United States, table Da983-987 (horses and mules on farms: 21.0 million
+in 1900, 26.7 million in 1918, 3.1 million in 1960); Olmstead & Rhode 2001, JEH 61(3) (peak; 3 acres of cropland per
+horse; 22% + 5% of cropland harvested; 93 million acres in 1915, 65 million in 1930, 5 million in 1960; slaughter 19
+of 314 thousand in 1940; 1931 USDA Yearbook on foals; stallion registrations; average age; real horse prices; about
+246 thousand tractors in 1920, about a million in 1929, over 4.5 million by 1960); American Horse Council 2023 (6.65
+million horses); Leontief 1983 (NAE symposium), quoted through Brynjolfsson & McAfee, "Will Humans Go the Way of
+Horses?", Foreign Affairs 2015 (sixfold growth of the herd in 1840–1900; capital and the vote); G. Clark, *A Farewell
+to Alms* (2007, p. 286: England's 3.25 million working horses in 1901; the wage below the feed); USDA ERS (6.8
+million farms in 1935, 1.88 million in 2024). Not used: a tractor series by year (the census and USDA series differ
+by definition).
+
+**Figures**: `horses-on-farms` (data), `wage-below-feed` (a scheme, not data).
+
+**Left for later**: who owns the machines and why what is owned gathers in fewer hands ("Who owns the tractor", "Why
+money goes to money", written into the notebook as two evenings) → 49 and 55; domestication and the row "a pet,
+livestock" of the table of fates → 48 and 52 (not touched here); Oleg's last question, "nobody decided anything, yet
+everything rolls one way: who is pushing?" → 35 (Andrey promised to bring a pot: "you'll see the answer on its surface
+before it boils").

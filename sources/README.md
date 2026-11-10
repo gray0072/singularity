@@ -17,7 +17,7 @@ Material for writing new articles and translating existing ones. Not published c
 
 - [`next-evenings.md`](next-evenings.md) — the plan of the next cycle of evenings, Part VI "Just Chatter" (33–66),
   drawn up by Claude Fable 5.2 (Anthropic); Russian version: [`next-evenings.ru.md`](next-evenings.ru.md). It is a
-  plan, not part of the series. Article 33 is written.
+  plan, not part of the series. Articles 33–34 are written.
 
 The originals are kept in Russian exactly as written and imported by the scripts in [`tools/`](../tools/)
 (see [SPEC.md](../SPEC.md), sections 5–6).

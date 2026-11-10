@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–33 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `34`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–34 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `35`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–34.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -244,6 +244,7 @@ articles as closely as possible. In practice:
 | двое часов | two clocks | the fast clock of the technosphere (the speed of copying) and the slow clock of people (generations, laws, habits); forecasts are made with both (32) |
 | катастрофическое забывание | catastrophic forgetting | a network taught something new loses the old at once, because both are written into the same connections (33) |
 | проигрывание (опыта) | (experience) replay | running stored experience through the network again, mixed with the new; what the brain does in sleep and what engineers gave the machine (33) |
+| сравнительное преимущество | comparative advantage | Ricardo's theorem: even the weaker party is worth hiring at some price; in the series, it promises that such a price exists, not that it pays for the feed (34) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

@@ -1821,8 +1821,115 @@ def three_ways_to_sleep(lang):
     return f
 
 
+# --- 34. Where the Horses Went --------------------------------------------------------------------
+
+# Horses and mules on US farms, thousand head (Historical Statistics of the United States, table Da983-987).
+US_HORSES_AND_MULES = [(1900, 20995), (1905, 22077), (1910, 24211), (1915, 26493), (1918, 26723), (1920, 25742),
+                       (1925, 22569), (1930, 19124), (1935, 16683), (1940, 14478), (1945, 11950), (1950, 7781),
+                       (1955, 4309), (1960, 3089)]
+
+
+@figure("horses-on-farms")
+def horses_on_farms(lang):
+    t = {
+        "en": dict(title="The horse was not sacked: it was not born",
+                   sub="Horses and mules on the farms of the United States, million head, 1900–1960.",
+                   peak="1918: the peak,\n26.7 million", end="1960:\n3.1 million",
+                   tractors="Tractors on farms, million:", tr=["0.25", "≈ 1", "over 4.5"],
+                   src="Data: Historical Statistics of the United States, table Da983-987; "
+                       "tractors: Olmstead & Rhode (2001)."),
+        "ru": dict(title="Лошадь не уволили: она не родилась",
+                   sub="Лошади и мулы на фермах США, миллионов голов, 1900–1960.",
+                   peak="1918: пик,\n26,7 миллиона", end="1960:\n3,1 миллиона",
+                   tractors="Тракторов на фермах, млн:", tr=["0,25", "≈ 1", "больше 4,5"],
+                   src="Данные: Historical Statistics of the United States, таблица Da983-987; "
+                       "тракторы: Олмстед и Роуд (2001)."),
+    }[lang]
+    f = Fig(760, 390, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 70, 715, 278, 92
+
+    def X(year):
+        return x0 + (year - 1900) / 60 * (x1 - x0)
+
+    def Y(v):
+        return y0 - v / 30 * (y0 - y1)
+
+    for v in (0, 5, 10, 15, 20, 25, 30):
+        f.line(x0, Y(v), x1, Y(v), color=INK2 if v == 0 else GRID, width=1.2 if v == 0 else 1)
+        f.text(x0 - 8, Y(v) + 4, str(v), size=11.5, color=INK2, anchor="end")
+    for year in range(1900, 1961, 10):
+        f.text(X(year), y0 + 18, str(year), size=11.5, color=INK2, anchor="middle")
+    pts = [(X(year), Y(n / 1000)) for year, n in US_HORSES_AND_MULES]
+    f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts) + f" L{X(1960):.1f},{Y(0):.1f} L{X(1900):.1f},{Y(0):.1f} Z",
+           color="none", width=0, fill=BLUE, opacity=0.08)
+    f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts), color=BLUE, width=2.5)
+    f.circle(X(1918), Y(26.723), 5, fill=ORANGE, stroke=SURFACE, width=2)
+    f.text(X(1918) + 12, Y(26.723) - 12, t["peak"], size=12, color=ORANGE, weight="600")
+    f.circle(X(1960), Y(3.089), 5, fill=ORANGE, stroke=SURFACE, width=2)
+    f.text(X(1960) - 4, Y(3.089) - 62, t["end"], size=12, color=ORANGE, weight="600", anchor="end")
+    # the tractors, as three verified points under the axis
+    ty = 330
+    f.line(x0, ty - 18, x1, ty - 18, color=GRID, width=1.5)
+    f.text(28, ty, t["tractors"], size=12, color=INK2, weight="600")
+    for year, label, anchor in zip((1920, 1929, 1960), t["tr"], ("middle", "middle", "end")):
+        f.line(X(year), y0, X(year), ty - 14, color=MUTED, width=1, dash="3 3")
+        f.text(X(year), ty, f"{year}: {label}", size=12, color=INK2, anchor=anchor)
+    f.text(28, 372, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("wage-below-feed")
+def wage_below_feed(lang):
+    t = {
+        "en": dict(title="There is always a wage; it may not pay for the feed",
+                   sub="Andrey's drawing in the ash: what a horse's day of work is worth, and what the horse costs.",
+                   y="money per day of work", feed="the feed: oats, hay, the stable",
+                   worth="what a horse's day of work is worth:\nno more than the same work done by a motor",
+                   left="the work pays for the feed:\nfoals are raised",
+                   right="there is still a wage, but it is below the feed:\nfoals are not raised",
+                   src="A scheme, not measured data. After G. Clark (2007) and Olmstead & Rhode (2001)."),
+        "ru": dict(title="Плата есть всегда; она может не окупить корм",
+                   sub="Рисунок Андрея на золе: сколько стоит день работы лошади и во что обходится лошадь.",
+                   y="деньги за день работы", feed="корм: овёс, сено, конюшня",
+                   worth="сколько стоит день работы лошади:\nне дороже той же работы, сделанной мотором",
+                   left="работа окупает корм:\nжеребят растят",
+                   right="плата ещё есть, но она ниже корма:\nжеребят не растят",
+                   src="Схема, а не измеренные данные. По Г. Кларку (2007) и Олмстеду и Роуду (2001)."),
+    }[lang]
+    f = Fig(760, 390, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 90, 720, 296, 100
+
+    def Y(p):
+        return y0 - p / 100 * (y0 - y1)
+
+    def worth(u):
+        return 12 + 78 * math.exp(-2.2 * u)
+
+    feed = 45
+    um = -math.log((feed - 12) / 78) / 2.2
+    xm = x0 + um * (x1 - x0)
+    f.rect(xm, y1 - 8, x1 - xm, y0 - y1 + 8, fill=GRID, r=0, opacity=0.5)
+    f.line(x0, y0, x1, y0, color=INK2, width=1.5, arrow=True)
+    f.line(x0, y0, x0, y1 - 8, color=INK2, width=1.5)
+    f.line(xm, y0, xm, y1 - 8, color=MUTED, width=1.2, dash="5 4")
+    f.text(40, (y0 + y1) / 2, t["y"], size=12.5, color=INK2, anchor="middle", rotate=-90)
+    f.line(x0, Y(feed), x1 - 8, Y(feed), color=ORANGE, width=2.5)
+    n = 60
+    pts = [(x0 + (x1 - 8 - x0) * i / n, Y(worth(i / n * (x1 - 8 - x0) / (x1 - x0)))) for i in range(n + 1)]
+    f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts), color=BLUE, width=2.5)
+    f.circle(xm, Y(feed), 5, fill=INK, stroke=SURFACE, width=2)
+    f.text(x0 + 12, Y(feed) + 20, t["feed"], size=12.5, color=ORANGE, weight="600")
+    f.text(xm + 16, Y(88), t["worth"], size=12.5, color=BLUE, weight="600")
+    f.text((x0 + xm) / 2, y0 + 22, t["left"], size=12.5, color=INK2, anchor="middle")
+    f.text((xm + x1) / 2, y0 + 22, t["right"], size=12.5, color=INK2, anchor="middle")
+    f.text(28, 376, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
-    unknown = [n for n in names if n not in FIGURES]
+    unknown =[n for n in names if n not in FIGURES]
     if unknown:
         sys.exit(f"unknown figures: {', '.join(unknown)}; known: {', '.join(FIGURES)}")
     for name in names or FIGURES:
