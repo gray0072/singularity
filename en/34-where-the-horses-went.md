@@ -263,4 +263,4 @@ Oleg got up, then sat down again.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md), [27](./27-scenario-of-events.md).
 
-[← 33](./33-use-of-sleep.md) · [Contents](./README.md)
+[← 33](./33-use-of-sleep.md) · [Contents](./README.md) · [35 →](./35-pot-on-the-stove.md)

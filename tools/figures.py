@@ -1928,6 +1928,152 @@ def wage_below_feed(lang):
     return f
 
 
+# --- 35. A Pot on the Stove -----------------------------------------------------------------------
+
+@figure("pot-on-the-fire")
+def pot_on_the_fire(lang):
+    t = {
+        "en": dict(title="Who built the cells? Nobody",
+                   sub="The same pot over the same fire. On the left the water stands still; on the right it turns.",
+                   cold="cold air above", hot="fire below",
+                   left="still water: heat creeps\nfrom molecule to molecule",
+                   right="turning water: the hot goes up, the cold\ncomes down, heat passes tens of times faster",
+                   src="A scheme, not measured data. The cells: H. Bénard, 1900."),
+        "ru": dict(title="Кто построил ячейки? Никто",
+                   sub="Один котелок над одним огнём. Слева вода стоит, справа вращается.",
+                   cold="сверху холодный воздух", hot="снизу огонь",
+                   left="вода стоит: тепло ползёт\nот молекулы к молекуле",
+                   right="вода вращается: горячее идёт вверх, холодное\nвниз, тепло проходит в десятки раз быстрее",
+                   src="Схема, а не измеренные данные. Ячейки: А. Бенар, 1900."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    top, water, bottom = 112, 132, 282
+
+    def pot(x0, x1):
+        f.rect(x0, water, x1 - x0, bottom - water, fill=BLUE, r=0, opacity=0.08)
+        f.path(f"M{x0},{top} L{x0},{bottom} L{x1},{bottom} L{x1},{top}", color=INK2, width=3)
+        f.line(x0 + 3, water, x1 - 3, water, color=BLUE, width=1.2, dash="4 4")
+        n = 6
+        for i in range(n):
+            x = x0 + (x1 - x0) * (i + 0.5) / n
+            f.path(f"M{x:.1f},{bottom + 40} Q{x - 11:.1f},{bottom + 24} {x:.1f},{bottom + 8} "
+                   f"Q{x + 11:.1f},{bottom + 24} {x:.1f},{bottom + 40} Z", color=ORANGE, width=1.2, fill=ORANGE,
+                   opacity=0.35)
+        xc = (x0 + x1) / 2
+        f.text(xc, top - 12, t["cold"], size=12.5, color=BLUE, anchor="middle")
+        f.text(xc, bottom + 60, t["hot"], size=12.5, color=ORANGE, anchor="middle")
+        return xc
+
+    xc = pot(70, 330)
+    for i in range(5):
+        x = 110 + i * 45
+        for y in (268, 228, 188):
+            f.line(x, y, x, y - 20, color=ORANGE, width=1.5, arrow=True)
+    f.text(xc, bottom + 86, t["left"], size=13, color=INK, anchor="middle", weight="600")
+
+    xc = pot(430, 690)
+    for cx, side in ((495, 1), (625, -1)):
+        a, b = 160, 264
+        f.path(f"M{cx},{b} C{cx + side * 62},{b} {cx + side * 62},{a} {cx},{a}", color=ORANGE, width=2.5,
+               arrow=True)
+        f.path(f"M{cx},{a} C{cx - side * 62},{a} {cx - side * 62},{b} {cx},{b}", color=BLUE, width=2.5,
+               arrow=True)
+    f.text(xc, bottom + 86, t["right"], size=13, color=INK, anchor="middle", weight="600")
+    f.text(28, 406, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("one-photon-for-twenty")
+def one_photon_for_twenty(lang):
+    t = {
+        "en": dict(title="One photon in, twenty out",
+                   sub="The Earth returns as much energy as it receives. Only the coin is smaller.",
+                   sun="the Sun", sun_t="about 5,800 K", earth="the Earth", earth_t="about 255 K\nseen from space",
+                   one="1 photon of sunlight", twenty="about 20 infrared photons", sky="to the cold sky",
+                   between="between the one and the twenty:\nthe wind, the rivers, the grass, you and I",
+                   src="Rough arithmetic: a photon's energy goes with the temperature of the body that sent it;\n"
+                       "5,800 / 255 ≈ 23, say twenty."),
+        "ru": dict(title="Один фотон пришёл, двадцать ушло",
+                   sub="Земля возвращает столько же энергии, сколько получает. Только монета мельче.",
+                   sun="Солнце", sun_t="около 5800 К", earth="Земля", earth_t="около 255 К,\nесли смотреть из космоса",
+                   one="1 фотон солнечного света", twenty="около 20 инфракрасных фотонов", sky="в холодное небо",
+                   between="между одним и двадцатью:\nветер, реки, трава, мы с тобой",
+                   src="Арифметика на колене: энергия фотона пропорциональна температуре тела, которое его послало;\n"
+                       "5800 / 255 ≈ 23, пусть будет двадцать."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    cy = 200
+    f.circle(92, cy, 46, fill=YELLOW, opacity=0.85)
+    f.text(92, cy + 70, t["sun"], size=14, anchor="middle", weight="600")
+    f.text(92, cy + 88, t["sun_t"], size=12.5, color=INK2, anchor="middle")
+    ex = 400
+    f.line(146, cy, ex - 44, cy, color=YELLOW, width=5, arrow=True)
+    f.text((146 + ex - 44) / 2, cy - 14, t["one"], size=13, color=INK, anchor="middle", weight="600")
+    f.circle(ex, cy, 34, fill=BLUE, opacity=0.8)
+    f.text(ex, cy + 58, t["earth"], size=14, anchor="middle", weight="600")
+    f.text(ex, cy + 76, t["earth_t"], size=12.5, color=INK2, anchor="middle")
+    n = 20
+    for i in range(n):
+        ang = math.radians(-32 + 64 * i / (n - 1))
+        x1, y1 = ex + 42 * math.cos(ang), cy + 42 * math.sin(ang)
+        x2, y2 = ex + 215 * math.cos(ang), cy + 215 * math.sin(ang)
+        f.line(x1, y1, x2, y2, color=RED, width=1.2, arrow=True)
+    f.text(728, 334, t["twenty"], size=13, color=RED, anchor="end", weight="600")
+    f.text(728, 352, t["sky"], size=12.5, color=INK2, anchor="end")
+    f.text(250, 318, t["between"], size=13, color=INK, anchor="middle", italic=True)
+    f.text(28, 372, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("watts-per-kilogram")
+def watts_per_kilogram(lang):
+    t = {
+        "en": dict(title="How much flow passes through a kilogram",
+                   sub="Watts per kilogram of the thing the flow passes through. The scale is logarithmic.",
+                   rows=[("the Sun", 0.0002, "0.0002"), ("a human body", 1.5, "1.5"),
+                         ("a human brain", 14, "14"),
+                         ("a server with eight graphics\nprocessors, the whole of it", 75, "about 75"),
+                         ("the silicon crystal of\na graphics processor", 200000, "about 200,000")],
+                   unit="W/kg", ticks=["0.0001", "0.01", "1", "100", "10,000", "1,000,000"],
+                   src="Rough arithmetic: the Sun 3.8·10²⁶ W / 2·10³⁰ kg; a body 120 W / 80 kg; a brain 20 W / 1.4 kg; "
+                       "a server 10 kW / 130 kg;\na crystal: several hundred watts / a gram or two. "
+                       "The measure is E. Chaisson's energy rate density; it is not a measure of mind."),
+        "ru": dict(title="Сколько потока проходит через килограмм",
+                   sub="Ватты на килограмм того, сквозь что идёт поток. Шкала логарифмическая.",
+                   rows=[("Солнце", 0.0002, "0,0002"), ("тело человека", 1.5, "1,5"),
+                         ("мозг человека", 14, "14"),
+                         ("сервер с восемью графическими\nпроцессорами, целиком", 75, "около 75"),
+                         ("кристалл кремния\nграфического процессора", 200000, "около 200 000")],
+                   unit="Вт/кг", ticks=["0,0001", "0,01", "1", "100", "10 000", "1 000 000"],
+                   src="Арифметика на колене: Солнце 3,8·10²⁶ Вт / 2·10³⁰ кг; тело 120 Вт / 80 кг; мозг 20 Вт / 1,4 кг; "
+                       "сервер 10 кВт / 130 кг;\nкристалл: несколько сотен ватт / грамм-два. "
+                       "Мера — «плотность потока энергии» Э. Чейссона; это не мера разума."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, lo, hi = 250, 610, 1e-4, 1e6
+    y0, row = 96, 50
+    ybase = y0 + row * len(t["rows"])
+    for k, label in enumerate(t["ticks"]):
+        x = log_x(10 ** (-4 + 2 * k), lo, hi, x0, x1)
+        f.line(x, y0 - 4, x, ybase, color=GRID, width=1)
+        f.text(x, ybase + 18, label, size=11.5, color=MUTED, anchor="middle")
+    f.text(x1 + 46, ybase + 18, t["unit"], size=11.5, color=MUTED)
+    colors = [YELLOW, AQUA, AQUA, BLUE, BLUE]
+    for i, (name, value, shown) in enumerate(t["rows"]):
+        y = y0 + i * row
+        lines = name.count("\n") + 1
+        f.text(x0 - 14, y + (27 if lines == 1 else 18), name, size=13, color=INK, anchor="end")
+        x = log_x(value, lo, hi, x0, x1)
+        f.rect(x0, y + 10, max(x - x0, 3), 24, fill=colors[i], r=3, opacity=0.85)
+        f.text(x + 8, y + 27, f"{shown} {t['unit']}", size=13, color=INK, weight="600")
+    f.line(x0, y0 - 4, x0, ybase, color=INK2, width=1.5)
+    f.text(28, 392, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

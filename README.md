@@ -115,8 +115,9 @@ Claude Opus 5.5, which wrote 16–32.
 | | **Part VI. Just Chatter** | | |
 | 33 | On the Use of Sleep, or Why Spend a Third of Your Life Unconscious | [en](en/33-use-of-sleep.md) | [ru](ru/33-use-of-sleep.md) |
 | 34 | Where the Horses Went | [en](en/34-where-the-horses-went.md) | [ru](ru/34-where-the-horses-went.md) |
+| 35 | A Pot on the Stove, or Where Complexity Comes From | [en](en/35-pot-on-the-stove.md) | [ru](ru/35-pot-on-the-stove.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–34 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 35. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–35 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 35. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 

@@ -560,9 +560,9 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 2).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 3).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
-  count; the tick does"), nobody went. Andrey has not said it yet.
+  count; the tick does"), nobody went; in 35 nobody said it. Andrey has not said it yet.
 
 ## 33. On the Use of Sleep, or Why Spend a Third of Your Life Unconscious
 
@@ -669,3 +669,72 @@ money goes to money", written into the notebook as two evenings) → 49 and 55; 
 livestock" of the table of fates → 48 and 52 (not touched here); Oleg's last question, "nobody decided anything, yet
 everything rolls one way: who is pushing?" → 35 (Andrey promised to bring a pot: "you'll see the answer on its surface
 before it boils").
+
+## 35. A Pot on the Stove, or Where Complexity Comes From
+
+**Established**
+- The answer to Oleg's "who is pushing all this?" (34): nobody. Heated from below, still water passes heat from
+  molecule to molecule; past a threshold the hot and the cold streams, which are obstacles to each other, sort
+  themselves into cells ("a rule of the road"), and ordered motion carries heat tens of times faster. Nobody built
+  the cells and nobody wanted them: they are the way the heat gets round what is in its way. Each order is born at a
+  threshold and lives until the flow outgrows it (cells, then bubbles; the life cycle of 10).
+- The author's 2013 forum images are used as Andrey's own: the tsunami that rises over an island without gaining
+  energy ("it grows because that is the only way to get past the obstacle and remain a wave"); the Earth as "a
+  high-class obstacle" in the way of the flow from the hot Sun to the cold sky; the saucepan on the burner; the
+  "mousetrap (transistor) effect" (evolution goes on only while a small outlay of energy turns a larger flow).
+  Andrey corrects his own forum figure: convection is faster than conduction not "by many orders" but tens of times.
+- The Earth returns as much energy as it receives (to a fraction of a percent, "left to the climatologists"); what
+  is used up is the exchange: about twenty infrared photons for one photon of sunlight (5,800 K / 255 K ≈ 23, "let
+  it be twenty"). The electricity bill pays for the exchange, not for energy. Nearly everything that moves on the
+  Earth lives between the one and the twenty (heat from the depths and tides aside).
+- Oleg's catch: the Moon makes the same exchange and nothing stirs on it. Answer: the exchange is the budget, not
+  the building; on the Earth the road between arrival and departure is long and branching (ocean, air, water in
+  three states). What makes the Earth a high-class obstacle and where obstacles come from: **left open**, as the
+  author left it in 2013 ("still scratching my head"); liquid water and a moderate atmosphere are named as a guess.
+- Valves: a leaf, a beaver, a man with a spade, the horse, the tractor; whoever turns more flow for less outlay
+  displaces the other "without fighting". Oleg himself names the transistor ("a valve and nothing else"). Watts per
+  kilogram: the Sun 0.0002, a human body 1.5, a brain 14, a whole GPU server about 75, a GPU crystal about 200,000.
+  Andrey refuses to make a ruler of it (the kettle coil): only "today the densest place of the flow is not in your
+  head".
+- The debt of 04 is paid: initiative is nowhere, neither inside nor outside. Each "outside" (millet → water → fire →
+  wood → the Sun → the cold sky) is the next stretch of the same flow, and the whole has no outside; a difference
+  "has no address"; no first link (22). "Initiative" is the name a cell gives to the flow that passes through it.
+  "So I am a whirl in the soup? — A very complex whirl. And the soup is good."
+- Oleg's four objections and what Andrey concedes: (1) a cell in the soup is not a living cell (no record of itself,
+  no repair): conceded, the pot shows order without a builder, not heredity; (2) there is no accepted law that flows
+  strive to dissipate faster (maximum entropy production is a hypothesis; Prigogine's theorem near equilibrium says
+  minimum): conceded; (3) England's 2013 hypothesis: "beautiful", tried on computer models, disputed, not leaned on;
+  (4) Prigogine's own indeterminism at the fork: Andrey takes his physics and leaves his conclusion (17: we lack the
+  information, the pot does not). Three strengths stated: solid (the second law pays for order), Andrey's belief
+  without proof (the mousetrap effect sets the direction; evolution is a wave rising at an obstacle), open.
+- Nobody says the forbidden word; third tick "again". Nobody goes for firewood by the bet ("it'll flow by itself").
+
+**Images and devices used**: the pot, the pinch of millet "for watching", ash on the surface gathering into a net of
+cells "the size of a matchbox"; the spoon in hot tea; Bénard's whale wax; two crowds in one doorway; millet and
+tinned stew; the tsunami and the island; the electricity bill ("large coin, small change"); the Moon; the mousetrap,
+the tap, the switch, the match and the haystack; the beaver; "I shine brighter than the Sun. — Per kilogram"; the
+kettle coil; "a difference has no address"; the whirl in the soup; "For once it isn't gloomy. A whirl, but a fed
+one. — And objective."
+
+**Facts used**: Bénard 1900 (a layer of melted spermaceti about a millimetre thick, hexagonal cells); convection in
+a pot carries heat tens of times faster than conduction (Rayleigh number about 10⁸, Nusselt number of a few tens;
+own estimate); a tsunami in the open ocean is about half a metre high and a hundred kilometres and more long, and
+rises to 10–30 m in shallow water; effective temperatures: the Sun about 5,800 K, the Earth about 255 K; the Earth's
+energy imbalance is a fraction of a percent; Schrödinger, *What Is Life?* (1944); the Sun 3.8·10²⁶ W / 2·10³⁰ kg;
+a body 120 W (27) / 80 kg; a brain 20 W / 1.4 kg; a server with eight graphics processors about 10 kW / 130 kg; a
+GPU crystal: several hundred watts / a gram or two; E. Chaisson's energy rate density; Prigogine (born in Moscow in
+1917, Nobel prize in chemistry 1977, dissipative structures, the theorem of minimum entropy production, *The End of
+Certainty*); maximum entropy production as an unaccepted hypothesis; J. England 2013 (MIT, "Statistical physics of
+self-replication"). **Not checked against primary sources** (written with web search kept to link checks, at the
+keeper's request): all figures above are from the writer's memory and are stated in the text as arithmetic "on the
+knee"; check them before reusing. Not used: Brillouin; the word "diffraction" (the growth of a tsunami in shallow
+water is shoaling); the share of sunlight taken by photosynthesis.
+
+**Figures**: `pot-on-the-fire` (a scheme, not data), `one-photon-for-twenty` (rough arithmetic),
+`watts-per-kilogram` (rough arithmetic, logarithmic scale).
+
+**Left for later**: why there was a hot Sun and a cold sky to begin with, and the second law as the source of cause
+and effect → 59 ("a separate evening, and not one about soup"); how a whirl came to keep a record of itself
+(heredity) → 45; scaling of flows with size → 40 (not touched); least action as laziness and the river that reaches
+its goal → 62 (not touched); oxygen and what life did to the planet → 38 (not touched); Oleg's next question, "What
+is laughter for at all? What use is it to a wolf?" (he promised to bring a joke) → 36.

@@ -263,4 +263,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [26](./26-why-people-stopped-having-children.md), [27](./27-scenario-of-events.md).
 
-[← 33](./33-use-of-sleep.md) · [Оглавление](./README.md)
+[← 33](./33-use-of-sleep.md) · [Оглавление](./README.md) · [35 →](./35-pot-on-the-stove.md)
