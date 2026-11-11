@@ -560,10 +560,10 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 5).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 6).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
-  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37 nobody said it. Andrey has not said it yet.
+  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37 and 38 nobody said it. Andrey has not said it yet.
 
 ## 33. On the Use of Sleep, or Why Spend a Third of Your Life Unconscious
 
@@ -911,3 +911,117 @@ money is "for one that has none to lose" → 47; who gets the dividends for accu
 the crash of AI shares (the mark of 27, one in two before 2031) is only pointed at; Oleg's next topic, "no money at
 all, something clean, about nature: fresh air" (Andrey: "ask me tomorrow where it came from"; "the trees came much
 later"; "off the topic by two billion years and more") → 38.
+
+## 38. Oxygen Was a Poison
+
+**Established**
+- The answer to Oleg's "fresh air comes from the trees" (37). Socratic descent on everyday things: oxygen eats the
+  firewood, rusts the spade, turns butter rancid and a peeled potato brown, and the wife seals the jars against it:
+  "the greediest gas in the air". A warehouse that is raided every day and stays full must be restocked (Lovelock:
+  an atmosphere out of chemical equilibrium is a sign of life; "a bucket with a hole in it, and it is full").
+- The tap is not the trees (first forests about 385 million years ago; oxygen in the air for about 2.4 billion years)
+  but cyanobacteria: the green porridge of the August pond, invisible dust in the sea (about half of the oxygen is
+  made in the ocean). A tree keeps their swallowed descendants in every leaf ("who swallowed whom?" is deferred).
+  Light was eaten before them (hydrogen from hydrogen sulphide, or dissolved iron: life by the springs); they learned
+  to take hydrogen from water, which is everywhere, and oxygen is what is left: **production waste, thrown over the
+  fence**.
+- For the life of that time it was a poison. Witnesses: the botulism bacterium, which lives only without air and
+  moves into a sealed jar ("a small piece of the old planet; sometimes its old tenants move in"), tetanus in a deep
+  wound; peroxide foaming on a scratch (our own guards); the premature babies blinded by pure oxygen. "We learned to
+  keep the fire in a stove." Nobody declared war ("Who declared war on the horse?"): a bacterium ate light and drank
+  water.
+- For a long time nothing seemed to happen: the ocean's iron took the oxygen and rust sank in layers (the Kursk
+  Magnetic Anomaly, Krivoy Rog, Western Australia: most of the world's iron ore; "my axe is made of the first dump on
+  the planet"). About 2.4 billion years ago the sinks were full and oxygen went into the air (dated by rolled pyrite
+  pebbles before and red rocks after). By one account the weather collapsed (methane destroyed, ice to the tropics):
+  the coincidence in time is solid, the causal link a hypothesis. "Nobody was steering."
+- The other column of the ledger: 2 molecules of ATP from a glucose molecule by fermentation, about 30 with oxygen;
+  everything that runs, flies and hunts lives on that difference ("the poison turned out to be the best fuel, for the
+  one who learned to keep it in a stove").
+- The symmetry test, said by Oleg ("that's yesterday again: a view from one bank"): the school book was written by
+  "the grandchildren of the winners"; the losers' book would call this evening a poisoned desert. **"An ecological
+  catastrophe is the losers' word. — The winners call it the atmosphere."**
+- The losers did not die out: marsh gas from the pond bottom, swamps, deep rocks, a cow's stomach, and about 38
+  trillion bacteria (about 200 grams, nearly all intolerant of oxygen) to a man's 30 trillion own cells: "a walking
+  jar of mushrooms, with the lid on". The row **"a niche"** for the table of fates (52): they kept everything as it
+  was and paid with the surface of the planet "and with the right to say what the air will be".
+- Oleg brings the mountain in himself (after the middle): "we are today's blue-greens". Andrey: "Who is we? Count the
+  breath." All people breathe out about 3 billion tonnes of carbon dioxide a year, and that carbon was taken from the
+  air by last year's harvest; chimneys and exhausts gave about 37 billion tonnes in 2024, from under the ground. Oleg:
+  "it is not we who breathe; I see whose lungs these are: your technosphere's". It breathes in too (oxygen falls by
+  about four molecules per million a year, measured since 1989; a hundredth of the stock in five centuries).
+- **Andrey corrects article 13** (and the comment under 14): "the oxygen will vanish very quickly" and the boiling
+  oceans are taken back. Arithmetic: about 1.2 million billion tonnes of oxygen in the air; burning everything alive
+  takes about a thousandth, all extractable coal, oil and gas a percent or two; with nothing green the stock lasts
+  millions of years. Kept: "none of the new ones needs this stock, so none of them will guard it".
+- The debt of 07 is paid (the reader under 07: nature is the only thing truly exploited; the promised link of the
+  economy to ecology): **the economy is the metabolism of the technosphere; ecology is what that metabolism does to
+  the environment of the form of life before it; one flow counted from two banks.** "Which nature do we defend?":
+  21% oxygen, fifteen degrees, fresh water, "our list"; nobody defends the swamp bacteria ("we boil the jars").
+  Andrey does not call on anyone to stop: every form of life defends its environment; "the planet does not need
+  saving; it has seen worse, and afterwards the worse was called progress".
+- What the technosphere breathes: chips are born in rooms about a thousand times cleaner than an operating theatre,
+  protected from people, the finest steps in a vacuum or nitrogen; the sealed cylinder of servers in dry nitrogen on
+  the sea bottom failed eight times less often than on land (no oxygen, no damp, no people: "a jar of mushrooms the
+  other way round"); a data centre near the Arctic Circle; what it breathes out is heat. It needs energy and cold.
+  The author's image of the cosmonaut (70 kg of meat and bones and several hundred tonnes of life support) is used:
+  "a piece of the old air, as a spore carries its shell". The author's 2012 forecast (techno-life will adapt the
+  environment to itself more actively than man did, not out of malice; the unneeded is "junk") is quoted and marked
+  "my forecast, not a fact".
+- Oleg's objections and what Andrey concedes: (1) it took the bacteria a billion years: the pace was set by the
+  makers of the waste and by the sinks; carbon dioxide went from 315 to over 425 parts per million in one lifetime;
+  "a factory does not wait for a mutation, it is copied" (the term "two clocks" of 32 is not used). (2) We understand
+  and can agree (the ozone hole): accepted as the best case, with the reason it worked (a substitute at hand, a few
+  plants, "no want was cut"; the shield itself is "made of the dump"); where a want must be cut, emissions grew by
+  more than half since the 1992 treaty; a firm's net-zero pledge "moved after the arithmetic; nobody lied".
+  "Pull the plug" is deferred to its own evening (51). (3) Let it go to space (a reader under 11): it will (29), but
+  "childhood is spent where you were born". (4) The anaerobes are alive, so where is the gloom: "'they live in
+  niches' is not a consolation, it is the forecast". (5) Who counted the dead: nobody; no grave has been found; the
+  dying is deduced from what oxygen does today to those without guards.
+- Strengths stated: solid (the rust, the 2 and the 30, the gut bacteria, the carbon dioxide record, the cylinder); a
+  hypothesis that is not Andrey's (oxygen brought the ice); Andrey's without proof (chimneys and data centres are the
+  breath of a new form of life and not simply our dirt; the unneeded will not be guarded); open (what happens to
+  those in the way: "more than one road, and the niche is only the first").
+- Nobody says the forbidden word; sixth tick "again".
+
+**Images and devices used**: the jar of pickled mushrooms (the swollen lid, the vinegar, "a flat lid proves nothing",
+"I'll boil them, to spite the old tenants"); "Breathe, breathe. It is waste"; the stock-keeper and the full warehouse;
+the bucket with a hole; the August pond; the factory that throws waste over the fence; fire kept in a stove; the axe
+made of the first dump; the ledger's other column and "the same loaf"; the school book by the grandchildren of the
+winners; the stick poked into the pond bottom; the walking jar of mushrooms; the pencil pointed at the smoke; "whose
+lungs"; the nursery of chips; the jar the other way round; the cosmonaut as a spore; the shield made of the dump;
+"Gloomy. I came to breathe. — Then breathe. There is enough for millions of years, I've counted. — Is that
+objective? — To a thousandth."
+
+**Facts used**: all from the writer's memory, with web search kept to link checks and one figure (at the keeper's
+request); **check before reusing**. Lovelock (asked by NASA in the 1960s how to detect life on Mars; the atmosphere
+as the sign); first forests about 385 million years ago; the Great Oxidation Event about 2.4 billion years ago;
+about half of oxygen production in the ocean, the commonest marine cyanobacterium (Prochlorococcus) described in the
+1980s; chloroplasts as swallowed cyanobacteria; anoxygenic photosynthesis on hydrogen sulphide and iron;
+*Clostridium botulinum* and *C. tetani* as obligate anaerobes; catalase; retinopathy of prematurity (about 10,000
+babies blinded in the 1940s and early 1950s); banded iron formations as the source of most iron ore, and the dispute
+over how much of them free oxygen made; detrital pyrite before and red beds after; the Huronian glaciations and the
+methane hypothesis (Kopp et al. 2005); 2 and about 30 molecules of ATP per glucose (textbooks: 30–32, older 36–38);
+the brain: 2% of body weight, 20% of oxygen; Sender, Fuchs & Milo 2016 (3.0·10¹³ human cells, 3.8·10¹³ bacteria,
+about 0.2 kg); about a kilogram of carbon dioxide breathed out per person a day (8.2 billion people: about 3 billion
+tonnes a year); Global Carbon Budget 2024 (37.4 billion tonnes from fossil fuels and cement; about 22.7 in 1990);
+the Scripps oxygen record since 1989 (about 4 ppm a year); the mass of atmospheric oxygen (1.2·10¹⁸ kg); the carbon
+of all biomass (about 550 billion tonnes: Bar-On, Phillips & Milo 2018); Mauna Loa (315 ppm in 1958, above 425 now);
+the Montreal Protocol (1987, ratified by every country; recovery by about 2040, over the Antarctic by about 2066:
+WMO 2022); the UN climate convention (1992); Google (net zero by 2030 pledged in 2020; emissions up 48% from 2019 to
+2023, report of 2024); clean rooms; Project Natick (checked against Wikipedia: 864 servers, deployed off Orkney on 1
+June 2018, two years under water, inactive by 2024; from memory: dry nitrogen, one eighth of the failure rate on
+land); the data centre in Luleå (2013); the ISS as "several hundred tonnes". The author's sources: the comment under
+07 (ecology), the SETI-talk comments of 2012 (techno-life and "junk"; 70 kg of meat and bones), article 13 (methane
+and vanishing oxygen), the comment under 14, the reader under 11 (it has no reason to stay on the Earth). Not used:
+Margulis's phrase "oxygen holocaust"; the Carboniferous oxygen peak; sulphur isotopes; the water use of data
+centres; the "boring billion" by name.
+
+**Figures**: `oxygen-two-steps` (a scheme, not data), `two-and-thirty` (rounded textbook figures), `whose-breath`
+(rough arithmetic and the Global Carbon Budget 2024).
+
+**Left for later**: who swallowed whom (chloroplasts, mitochondria) → 42; the other fates of former masters and the
+table → 48, 52 (38 gives the row "a niche"); "pull the plug: count who hangs on that cord" → 51; the technosphere
+leaving for space was only pointed at (29); what the heir will do with the environment it does not need was left as
+Andrey's forecast, without dates; Oleg's next topic, page three of the notebook, "why dreams come true" ("Has one
+come true for you? — Not for me. My grandmother's did, all the time. — Then sleep attentively tonight") → 39.

@@ -2358,6 +2358,133 @@ def built_and_sold(lang):
     return f
 
 
+# --- 38. Oxygen Was a Poison -----------------------------------------------------------------------
+
+@figure("oxygen-two-steps")
+def oxygen_two_steps(lang):
+    t = {
+        "en": dict(title="Oxygen came into the air in two steps",
+                   sub="Free oxygen in the air over the life of the Earth. The trees are at the very end.",
+                   levels=["today:\n21% of the air", "low", "none"],
+                   events=["≈ 2.4: oxygen reaches the air", "≈ 0.6: animals", "0.385: forests"],
+                   iron="what is made is taken by the ocean's iron",
+                   ice="ice reaches\nthe tropics", low="how low is argued", axis="billion years ago",
+                   src="A scheme, not data: the dates are rounded, and estimates of the level between the two "
+                       "steps differ hundreds of times."),
+        "ru": dict(title="Кислород пришёл в воздух в две ступени",
+                   sub="Свободный кислород в воздухе за время жизни Земли. Деревья в самом конце.",
+                   levels=["сегодня:\n21% воздуха", "мало", "нет"],
+                   events=["≈ 2,4: кислород выходит в воздух", "≈ 0,6: животные", "0,385: леса"],
+                   iron="сделанное забирает железо океана",
+                   ice="лёд доходит\nдо тропиков", low="насколько мало — спорят", axis="миллиардов лет назад",
+                   src="Схема, а не данные: даты округлены, а оценки уровня между двумя ступенями "
+                       "расходятся в сотни раз."),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yb, yt = 118, 716, 290, 124
+    ylow = yb - 0.22 * (yb - yt)
+
+    def X(ga):
+        return x0 + (4.5 - ga) / 4.5 * (x1 - x0)
+
+    # the ice of 2.4–2.1 billion years ago
+    f.rect(X(2.4), yt, X(2.1) - X(2.4), yb - yt, fill=BLUE, r=0, opacity=0.12)
+    f.text(X(2.1) + 8, 168, t["ice"], size=12, color=BLUE)
+    # levels
+    for y, label in zip((yt, ylow, yb), t["levels"]):
+        f.line(x0, y, x1, y, color=INK2 if y == yb else GRID, width=1.2 if y == yb else 1)
+        lines = label.count("\n") + 1
+        f.text(x0 - 10, y + (4 if lines == 1 else -4), label, size=11.5, color=INK2, anchor="end")
+    for ga in (4, 3, 2, 1, 0):
+        f.line(X(ga), yb, X(ga), yb + 5, color=INK2, width=1.2)
+        f.text(X(ga), yb + 20, str(ga), size=11.5, color=INK2, anchor="middle")
+    f.text(x1, yb + 40, t["axis"], size=11.5, color=INK2, anchor="end")
+    # events
+    for ga, label, anchor, dx in zip((2.4, 0.6, 0.385), t["events"], ("middle", "end", "start"), (0, 4, -5)):
+        f.line(X(ga), yt - 12, X(ga), yb, color=MUTED, width=1, dash="3 3")
+        f.text(X(ga) + dx, yt - 18, label, size=11.5, color=ORANGE, anchor=anchor, weight="600")
+    # the curve
+    d = (f"M{X(4.5):.1f},{yb - 2:.1f} L{X(2.46):.1f},{yb - 2:.1f} "
+         f"C{X(2.39):.1f},{yb - 2:.1f} {X(2.38):.1f},{ylow:.1f} {X(2.3):.1f},{ylow:.1f} "
+         f"L{X(0.86):.1f},{ylow:.1f} "
+         f"C{X(0.6):.1f},{ylow:.1f} {X(0.62):.1f},{yt:.1f} {X(0.4):.1f},{yt:.1f} L{X(0):.1f},{yt:.1f}")
+    f.path(d + f" L{X(0):.1f},{yb:.1f} L{X(4.5):.1f},{yb:.1f} Z", color="none", width=0, fill=BLUE, opacity=0.08)
+    f.path(d, color=BLUE, width=2.5)
+    f.text(x0 + 12, yb - 14, t["iron"], size=12, color=INK2, italic=True)
+    f.text((X(2.1) + X(0.86)) / 2 + 10, ylow - 10, t["low"], size=12, color=INK2, italic=True, anchor="middle")
+    f.text(28, 360, t["src"], size=11, color=MUTED)
+    return f
+
+
+def two_bars(f, rows, vmax, colors, x0=216, x1=716, y0=96, row=66):
+    """Two horizontal bars on a linear scale; the label goes inside a long bar and beside a short one."""
+    for i, (name, value, shown) in enumerate(rows):
+        y = y0 + i * row
+        f.text(x0 - 14, y + 22, name, size=13, color=INK, anchor="end")
+        wbar = max(value / vmax * (x1 - x0), 3)
+        f.rect(x0, y + 8, wbar, 30, fill=colors[i], r=2, opacity=0.85)
+        if wbar > 300:
+            f.text(x0 + 14, y + 28, shown, size=13.5, color="#ffffff", weight="600")
+        else:
+            f.text(x0 + wbar + 10, y + 28, shown, size=13.5, color=INK, weight="600")
+    f.line(x0, y0 - 2, x0, y0 + 2 * row - 12, color=INK2, width=1.5)
+
+
+@figure("two-and-thirty")
+def two_and_thirty(lang):
+    t = {
+        "en": dict(title="The same sugar, two ways to live on it",
+                   sub="What a cell gets from one molecule of glucose, in molecules of ATP. The scale is linear.",
+                   rows=[("fermentation,\nwithout oxygen", 2, "2"),
+                         ("respiration,\nwith oxygen", 30, "about 30: fifteen times more")],
+                   note="The poison turned out to be the best fuel there is,\n"
+                        "for whoever learned to keep it in a stove.",
+                   src="Rounded figures: today's textbooks give 30–32 for respiration, older ones 36–38."),
+        "ru": dict(title="Тот же сахар, два способа на нём жить",
+                   sub="Что клетка получает из одной молекулы глюкозы, в молекулах АТФ. Шкала линейная.",
+                   rows=[("брожение,\nбез кислорода", 2, "2"),
+                         ("дыхание,\nс кислородом", 30, "около 30: в пятнадцать раз больше")],
+                   note="Яд оказался лучшим топливом из всех,\n"
+                        "для того, кто научился держать его в печке.",
+                   src="Цифры округлены: в нынешних учебниках для дыхания 30–32, в старых 36–38."),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+    two_bars(f, t["rows"], 30, [MUTED, ORANGE])
+    f.text(28, 252, t["note"], size=12.5, color=INK)
+    f.text(28, 310, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("whose-breath")
+def whose_breath(lang):
+    t = {
+        "en": dict(title="Who breathes out on this planet",
+                   sub="Carbon dioxide given out in a year, billion tonnes. The scale is linear.",
+                   rows=[("all people,\n8.2 billion", 3, "about 3"),
+                         ("chimneys and\nexhaust pipes", 37, "about 37 (2024): twelve times more")],
+                   note="The carbon in our breath was taken from the air by last year's harvest: a circle.\n"
+                        "The carbon from the chimneys is from under the ground.",
+                   src="Arithmetic on the knee: about a kilogram of carbon dioxide per person a day. "
+                       "Fuel and cement: Global Carbon Budget 2024."),
+        "ru": dict(title="Кто выдыхает на этой планете",
+                   sub="Углекислый газ, отданный за год, миллиардов тонн. Шкала линейная.",
+                   rows=[("все люди,\n8,2 миллиарда", 3, "около 3"),
+                         ("трубы и\nвыхлопы", 37, "около 37 (2024): в двенадцать раз больше")],
+                   note="Углерод нашего выдоха взят из воздуха прошлогодним урожаем: круг.\n"
+                        "Углерод из труб взят из-под земли.",
+                   src="Арифметика на коленке: около килограмма углекислого газа на человека в сутки. "
+                       "Топливо и цемент: Global Carbon Budget 2024."),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+    two_bars(f, t["rows"], 37, [AQUA, RED])
+    f.text(28, 252, t["note"], size=12.5, color=INK)
+    f.text(28, 310, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

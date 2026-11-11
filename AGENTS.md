@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–37 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `38`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–38 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `39`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–37.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–38.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -254,6 +254,10 @@ articles as closely as possible. In practice:
 | целое (синергетический эффект) | the union (synergy effect) | what people and machines put together make beyond the sum of their parts; profit or loss is what is left of that difference in the owner's line; for the author, the biggest thing Marx left out (37) |
 | прикормленное место | baited spot | customers fed below cost until the habit stays; it remains baited whoever sits on the bank next (37) |
 | созидательное разрушение | creative destruction | Schumpeter's term (1942): the new firm kills the old one; in the series, the same river described from the people's bank (37) |
+| кислородная катастрофа | Great Oxidation Event (oxygen catastrophe) | about 2.4 billion years ago free oxygen, the production waste of bacteria that split water, came into the air; in the series, the precedent of a new form of life that changes the environment without fighting anyone (38) |
+| анаэроб | anaerobe | a living thing that does without oxygen and often dies of it; the former masters of the planet, now in niches: silt, the gut, a sealed jar (38) |
+| ниша | niche | the first of the fates of former masters: everything is kept as it was, at the price of the planet's surface and of the say in what the environment will be (38) |
+| обмен веществ (техносферы) | metabolism (of the technosphere) | what a form of life eats, builds itself from and throws out; the economy is the technosphere's metabolism, and ecology is what that metabolism does to the environment of the form of life before it (38) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

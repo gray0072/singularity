@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Тот же сахар, два способа на нём жить</title>
+
+<rect x="0.5" y="0.5" width="759" height="329" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Тот же сахар, два способа на нём жить</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Что клетка получает из одной молекулы глюкозы, в молекулах АТФ. Шкала линейная.</text>
+<text x="202.0" y="118.0" font-size="13" fill="#0b0b0b" text-anchor="end"><tspan x="202.0" dy="0.0">брожение,</tspan><tspan x="202.0" dy="16.2">без кислорода</tspan></text>
+<rect x="216.0" y="104.0" width="33.3" height="30.0" rx="2" fill="#8a8985" fill-opacity="0.85"/>
+<text x="259.3" y="124.0" font-size="13.5" fill="#0b0b0b" font-weight="600">2</text>
+<text x="202.0" y="184.0" font-size="13" fill="#0b0b0b" text-anchor="end"><tspan x="202.0" dy="0.0">дыхание,</tspan><tspan x="202.0" dy="16.2">с кислородом</tspan></text>
+<rect x="216.0" y="170.0" width="500.0" height="30.0" rx="2" fill="#eb6834" fill-opacity="0.85"/>
+<text x="230.0" y="190.0" font-size="13.5" fill="#ffffff" font-weight="600">около 30: в пятнадцать раз больше</text>
+<line x1="216.0" y1="94.0" x2="216.0" y2="216.0" stroke="#52514e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="28.0" y="252.0" font-size="12.5" fill="#0b0b0b"><tspan x="28.0" dy="0.0">Яд оказался лучшим топливом из всех,</tspan><tspan x="28.0" dy="15.6">для того, кто научился держать его в печке.</tspan></text>
+<text x="28.0" y="310.0" font-size="11.5" fill="#8a8985">Цифры округлены: в нынешних учебниках для дыхания 30–32, в старых 36–38.</text>
+</svg>

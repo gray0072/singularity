@@ -83,9 +83,10 @@ forbids the word itself. English is the original; Russian is a translation.
 35. [A Pot on the Stove, or Where Complexity Comes From](35-pot-on-the-stove.md) — *continuation*
 36. [What the Rat Laughs At](36-what-the-rat-laughs-at.md) — *continuation*
 37. [Who Exploits Whom When a Business Loses Money](37-who-exploits-whom.md) — *continuation*
+38. [Oxygen Was a Poison](38-oxygen-was-a-poison.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–37 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–38 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–37 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 38. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–38 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 39. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)

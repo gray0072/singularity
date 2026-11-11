@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Oxygen came into the air in two steps</title>
+
+<rect x="0.5" y="0.5" width="759" height="379" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Oxygen came into the air in two steps</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Free oxygen in the air over the life of the Earth. The trees are at the very end.</text>
+<rect x="397.1" y="124.0" width="39.9" height="166.0" rx="0" fill="#2a78d6" fill-opacity="0.12"/>
+<text x="444.9" y="168.0" font-size="12" fill="#2a78d6"><tspan x="444.9" dy="0.0">ice reaches</tspan><tspan x="444.9" dy="15.0">the tropics</tspan></text>
+<line x1="118.0" y1="124.0" x2="716.0" y2="124.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="108.0" y="120.0" font-size="11.5" fill="#52514e" text-anchor="end"><tspan x="108.0" dy="0.0">today:</tspan><tspan x="108.0" dy="14.4">21% of the air</tspan></text>
+<line x1="118.0" y1="253.5" x2="716.0" y2="253.5" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="108.0" y="257.5" font-size="11.5" fill="#52514e" text-anchor="end">low</text>
+<line x1="118.0" y1="290.0" x2="716.0" y2="290.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="108.0" y="294.0" font-size="11.5" fill="#52514e" text-anchor="end">none</text>
+<line x1="184.4" y1="290.0" x2="184.4" y2="295.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="184.4" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">4</text>
+<line x1="317.3" y1="290.0" x2="317.3" y2="295.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="317.3" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">3</text>
+<line x1="450.2" y1="290.0" x2="450.2" y2="295.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="450.2" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">2</text>
+<line x1="583.1" y1="290.0" x2="583.1" y2="295.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="583.1" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">1</text>
+<line x1="716.0" y1="290.0" x2="716.0" y2="295.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="716.0" y="310.0" font-size="11.5" fill="#52514e" text-anchor="middle">0</text>
+<text x="716.0" y="330.0" font-size="11.5" fill="#52514e" text-anchor="end">billion years ago</text>
+<line x1="397.1" y1="112.0" x2="397.1" y2="290.0" stroke="#8a8985" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="397.1" y="106.0" font-size="11.5" fill="#eb6834" text-anchor="middle" font-weight="600">≈ 2.4: oxygen reaches the air</text>
+<line x1="636.3" y1="112.0" x2="636.3" y2="290.0" stroke="#8a8985" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="640.3" y="106.0" font-size="11.5" fill="#eb6834" text-anchor="end" font-weight="600">≈ 0.6: animals</text>
+<line x1="664.8" y1="112.0" x2="664.8" y2="290.0" stroke="#8a8985" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="659.8" y="106.0" font-size="11.5" fill="#eb6834" font-weight="600">0.385: forests</text>
+<path d="M118.0,288.0 L389.1,288.0 C398.4,288.0 399.7,253.5 410.4,253.5 L601.7,253.5 C636.3,253.5 633.6,124.0 662.8,124.0 L716.0,124.0 L716.0,290.0 L118.0,290.0 Z" stroke="none" stroke-width="0" fill="#2a78d6" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.08"/>
+<path d="M118.0,288.0 L389.1,288.0 C398.4,288.0 399.7,253.5 410.4,253.5 L601.7,253.5 C636.3,253.5 633.6,124.0 662.8,124.0 L716.0,124.0" stroke="#2a78d6" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="130.0" y="276.0" font-size="12" fill="#52514e" font-style="italic">what is made is taken by the ocean's iron</text>
+<text x="529.3" y="243.5" font-size="12" fill="#52514e" text-anchor="middle" font-style="italic">how low is argued</text>
+<text x="28.0" y="360.0" font-size="11" fill="#8a8985">A scheme, not data: the dates are rounded, and estimates of the level between the two steps differ hundreds of times.</text>
+</svg>
