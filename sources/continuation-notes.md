@@ -560,13 +560,13 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 8).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 9).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
   Oleg, not believing that the word stands in a paper about petrol stations, read it aloud from his phone ("...so the
   singularity is never reached") and went for firewood the second time ("That was a quotation. — In your voice"). Andrey has not
-  said it yet ("I read with my mouth shut").
+  said it yet ("I read with my mouth shut"); in 41 nobody said it.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -1296,3 +1296,162 @@ when the road to the edge of knowledge grows longer, and the growing number of h
 separate evening, and a serious one"; not developed); why what multiplies concentrates, and the sizes of cities → 49
 (not touched); no row is given for the table of 46 (the facet is "law"); Oleg's next question, prompted by Genka's
 reunion in the House of Culture: "Bring the seven-string tomorrow. What is it for at all?" → 41.
+
+## 41. Cheesecake for the Ears
+
+**Established**
+- The answer to Oleg's "What is it for at all?" (40). Andrey brings the seven-string, plays an old waltz and fluffs
+  one note. Oleg's question in the terms of the cycle: "evolution the miser" (33, 36) pays pleasure only against
+  goods; "I am no fuller and no warmer, and a wolf could have walked up behind me. What was I paid for?" Darwin's
+  "most mysterious" is given in one sentence; Pinker's "cheesecake for the ear" (1997) is given fairly, and Andrey
+  agrees "by half": the buttons were made for something else, but Pinker "was in no hurry to ask which of them is the
+  main one".
+- The descent, on the guitar: seven notes of a scale and a stop ("it is like a sneeze that won't come"; "Who told
+  you there was one more? — Nobody. It was owed"); the fir-tree song with the last note taken up ("Wrong", though "a
+  bear trod on my ear"); the fluff in the unknown waltz that Oleg took for intended (a weak forecast, a cheap miss);
+  a new song is noise the first time, hummed "to my shame" the fifth, and "a dripping tap" the five hundredth.
+  **Guess nothing: noise; guess everything: a dripping tap; between is the good part.** Oleg: "I sit there and guess,
+  all the time, without noticing."
+- The lock with 03: mind acts ahead of events; "a hunter throws his spear at the place where the hare will be"; the
+  miser should pay for a forecast that came true.
+- The measurement: music is paid for in dopamine, "the same coin as for food" (the monkey and the juice of 18 is
+  recalled, not retold); there are two payments, one at the favourite place and one before it, in the seconds of
+  waiting, "from another drawer of the same till". **Stated precisely**: the gooseflesh itself falls on the place;
+  the paying begins earlier. Gooseflesh is the reflex that raised an animal's fur ("Lofty. With the hackles up").
+  The pill experiment shows that the dopamine is a cause and not a bystander.
+- Oleg's objection from 36 ("there the head pays for a wrong guess caught, here for a right one; a cashier who pays
+  for hits and misses alike pays for everything") is answered through the monkey: a forecast that cannot fail earns
+  nothing, a miss from which nothing is learned earns nothing; what is paid is **a forecast that has just become
+  better**. A joke trips once at the end; a tune trips gently a hundred times and brings home each time ("the
+  confectioner of that evening sells one sweet; this one keeps a shop"). The chords are measured (sure and deceived,
+  or unsure and given the likeliest); **that the pay is for a forecast getting better is said to be a hypothesis**
+  ("I like it, which is not an argument"), as is Huron's reading that we pass the thanks for our own guess on to the
+  sound.
+- "A training machine: there is no hare, the pay is real, nothing is at risk" (a simulator, as play in 36 is the
+  place where mistakes are cheap). **Whether it trains anything but the guessing of music is not claimed**: the
+  Mozart effect did not survive repetition. "Pinker keeps his half: a sweet. I only say which button it presses. Not
+  a side one, for sounds. The main one."
+- The flutes: three times older than bread, and the ivory ones cost "days and days of a man's work in the Ice Age,
+  on a thing that fills nobody's stomach" ("So somebody was paying even then. — Remember that too").
+- Oleg's strongest objection: not cake but glue (the grandmother's lullaby, forty at a wedding table, a march, a
+  choir, the barge haulers' "Yo, heave-ho"). Accepted as "stronger than the cake", with the measurements. Then the
+  glue is taken apart: the song gives the haulers the moment, each knows it from the beat, that is, forecasts it.
+  **A beat is a forecast made common: a hundred heads forecast the same instant and a hundred backs pull as one.**
+  "Your glue is boiled from my button. — So we are both right. — The button is one, the uses are two." Not ours
+  alone: the cockatoo.
+- Where the glue went: Oleg remembers one verse of the table song, his granddaughter none; "thirty people in a bus,
+  thirty pairs of earphones, thirty songs"; three guitars in the class and now none. "Who hauls barges now? — A tug.
+  — Who sings on a tug? — The diesel." The song lived while a barge needed a hundred men. The author's 2017 forum
+  posts are used in Andrey's mouth: the pit that needed a hundred diggers, the till with no cashier, **loneliness in
+  a crowd**, and "the thought is not mine; I read it in Bill Joy". Sousa's 1906 fear of the phonograph. "The road
+  from the choir to the earphones took a hundred and twenty years, and every step of it was a convenience. Nobody
+  took the song away. We needed each other a little less each time." Oleg: "The cake is still there, and the glue
+  has dried."
+- The machine is brought in by Oleg, after the middle: Genka sent a song about their class (the names, the form
+  mistress's nickname, the bench behind the boiler house), made by a program from three typed lines; Oleg had
+  gooseflesh at the second verse and then felt he "had been handed a banknote and it turned out to be drawn". "But
+  the hackles were real. — That is the annoying part."
+- The author's 2009 line (machines will learn the laws of harmony and compose music better than people) and a
+  reader's answer (good tools and laboratory mice, they will hardly write anything themselves), paraphrased without a
+  name. **"Better" is not claimed**: nobody has measured it. What is given: the band that did not exist, the share
+  of machine-made deliveries, their one to three plays in a hundred ("Machines sing, machines listen. Your lights-out
+  production, only of songs"), and the blind test, with its caveat (ordered by a service that sells a detector).
+- The shield "made by a human" (24) is not in the sound: between the second verse and Genka's laugh "not a note"
+  changed; what changed is that "nobody had taken any trouble; there was nobody there". The fluff in the waltz
+  ("fifty years of fingers") against a phone that fluffs ("broken"); the marathon runner and the bus ("nobody claps
+  for a bus"); the granddaughter's card and the card with roses in gold. The author's 2025 line (a value is measured
+  by the price people are ready to pay for it) is quoted as said "about quite other things" and extended "to small
+  change": **in a song we value not only the sound but the price somebody paid for it.** The glue is of the same
+  stuff: a lullaby and a choir are **receipts** (credible signalling; the dispute with the bonding camp is named);
+  Darwin's peacock's tail in one line ("It was a seven-string tail. Few could appreciate it"). "A receipt that
+  anybody can print is not a receipt."
+- Oleg's second objection, in two parts, both accepted. (1) The gooseflesh came before he knew anything, so the
+  sound works with no price, and the "price" is a label that can be dropped or faked. (2) The program's crack in the
+  voice comes from ten thousand singers who paid in full. Andrey: (2) the price was paid once, by others, and is now
+  copied for nothing (the lock with 21), which is why the song is no receipt, "a receipt is for what was paid now,
+  by this one, for you"; (1) **there are two payments that used to come in one envelope**: for the sound (works
+  whoever made it) and for the price (works only when one knows who paid). The first the machine makes no worse and
+  will make better, measuring the dose "for one particular ear" (reward hacking, 22: "now it is not a confectioner
+  who holds the button"). The second it cannot make, "and not for want of skill. It has nothing to pay with". What
+  will be dear to the machine: **not known**; proof-of-work money is mentioned in one sentence and deferred (47).
+- The shield stands "on two legs, and both are ours": one has to know who paid, and one has to need the person who
+  paid; Oleg adds the third from 24 (the musician's listener has to earn). **Not claimed** that it will dry up
+  altogether (full halls, people still pay to watch people play chess): "I am only saying what the shield is made
+  of. — Of the same glue. — Of the same need."
+- Anthropocentrism exposed ("music is the soul, a machine has none"): the task was named after our way, as with
+  sleep and laughter. In training the machine does nothing but forecast what comes next, with notes as with words,
+  "with no bonus: there is nobody to bribe" (36); whether anything is felt is the axiom of 20; whether it will have a
+  beat to act as one or a receipt for a price depends on whether it has a pack and anything to pay with: **not
+  known**. "What we called the soul of music turned out to be a button and a receipt. — And I had hackles. — The
+  hackles were honest."
+- Strengths stated: solid (the coin, the two payments, the pill; the chords; the flutes; people who kept time
+  together share more); one survey by an interested party (the 97 in a hundred); argued about (cake, glue, tail or
+  receipt: "I have taken a piece from each, which ought to put you on your guard"); a hypothesis (the pay is for a
+  forecast getting better); Andrey's (the two payments are parting, and the second stands on our need of each other).
+- Nobody says the forbidden word; ninth tick "again": "Came with a guitar. Came out at Genka's program, and brought
+  it in myself."
+
+**Images and devices used**: the seven-string bought because "seven is more than six" (the grandfather's
+teach-yourself book, the mother's "now you can do what few can", the open strings that give a major chord); the
+second entry in the notebook of dreams (an exam in strength of materials, in slippers; nobody rang); the scale that
+stops on the seventh note; the sneeze that won't come; "It was owed"; the fir-tree song; a bear on the ear; noise and
+a dripping tap; the hunter's spear; the till with two drawers; hackles; a pill for liking music; one sweet and a
+shop; the muscle grown on the training machine; the split tusk; the wedding table of forty; "Yo, heave-ho"; "A parrot
+in the choir"; "Oh frost, frost"; thirty pairs of earphones; the tug and the diesel; the tape recorder on the
+windowsill; a drawn banknote; the bus nobody claps for; the sun with whiskers and the roses in gold; the receipt; the
+seven-string tail; the envelope with two payments; two legs and a third; "a button and a receipt"; the closing
+exchange, which is the plan's opening replica turned round ("Play something for the road. — What for? It won't fill
+your stomach. — And why do you play? — You asked. — Is that the receipt? — The whole of it"), and the waltz played
+again "with the same fluff".
+
+**Facts used**: from the writer's memory, with web checks kept to two searches and to the links (at the keeper's
+request); **check before reusing**. Checked on the day of writing: the titles, journals and years of the cited
+papers, against Crossref (Salimpoor, Benovoy, Larcher, Dagher & Zatorre 2011, Nature Neuroscience,
+10.1038/nn.2726; Ferreri et al. 2019, PNAS, 10.1073/pnas.1811878116; Cheung et al. 2019, Current Biology,
+10.1016/j.cub.2019.09.067; Conard, Malina & Münzel 2009, Nature, 10.1038/nature08169; Mehr et al. 2019, Science,
+10.1126/science.aax0868; Wiltermuth & Heath 2009, Psychological Science; Cohen, Ejsmond-Frey, Knight & Dunbar,
+Biology Letters, online 2009; Patel, Iversen, Bregman & Schulz 2009, Current Biology; Rauscher, Shaw & Ky 1993,
+Nature; Pietschnig, Voracek & Formann 2010, Intelligence; Mehr, Krasnow, Bryant & Hagen and Savage et al., Behavioral
+and Brain Sciences, online 2020); Deezer's announcements (fully machine-made tracks about 10% of daily deliveries in
+January 2025, 44% and 75,000 a day in April 2026, more than half at the June 2026 peak, about 90,000 a day; 1–3% of
+streams; up to 85% of those streams fraudulent in 2025); the Deezer–Ipsos survey (about 9,000 people in eight
+countries, 6–10 October 2025; three tracks, two machine-made and one human; 97% wrong); The Velvet Sundown (past a
+million monthly listeners on Spotify in the summer of 2025; first denied, then admitted). **From memory, not
+checked**: the content of those papers beyond their titles (the PET and fMRI design and the caudate / nucleus
+accumbens dissociation of 2011; levodopa, risperidone and a placebo, and the willingness to pay, in Barcelona; 745
+Billboard hits and 80,000 chords in Leipzig, pleasure at low uncertainty with high surprise or high uncertainty with
+low surprise; the griffon vulture radius of about 22 cm with five holes from Hohle Fels, "at least 35,000 years",
+the Geissenklösterle flutes at 42–43 thousand, the ivory flute split, hollowed and glued; 315 societies and the four
+kinds of song, and listeners telling a lullaby from a dance song in the same group's 2018 paper; the Oxford rowers
+alone and as a crew; walking in step and singing in unison at Stanford; Snowball slowing down with the record; ten
+minutes of a Mozart sonata and an effect of about a quarter of an hour; Governor Zell Miller of Georgia, 1998; "about
+forty" studies in the Vienna meta-analysis); the Deezer points of April, September and November 2025 (18%, 28%, 34%)
+in the figure; Darwin's sentence (The Descent of Man, 1871); Pinker's wording (*How the Mind Works*, 1997: "auditory
+cheesecake", the buttons, "music could vanish from our species"); Huron, *Sweet Anticipation* (2006); Sousa, "The
+Menace of Mechanical Music" (1906), with the baby put to sleep by machinery; the pocket player (1979); the marathon
+record of "two hours and a bit"; the open-G tuning of the Russian seven-string guitar; the two albums and the
+wording of the band's later bio. The author's own: the seven-string story (the novella, ch. 7: five years of piano,
+the grandfather's book, "seven is more than six", the mother's words; the friend with six strings is not named); the
+2009 scenario line and the reader's answer (the forum thread); the 2017 posts on desocialisation (the pit, the till,
+loneliness in a crowd, "this is not me, this is Bill Joy"); "a value is determined by the price one is ready to pay
+for it" (the essay of 15 August 2025, where it is said of values worth one's life). Links: the Russian Wikipedia has
+no pages for *How the Mind Works* and David Huron (the English ones are used). Invented for the frame (Oleg's side):
+the granddaughter and her songs in the car, the table song, Genka's song and its details, the birthday card, the
+great-nephew who says "we shall merge with them"; Andrey's "fifty years of fingers" and "not out of a love of
+acoustics" are the continuation's, not the novella's. Not used: Blood & Zatorre 2001; Meyer 1956; musical anhedonia
+(Mas-Herrero and others); Fisher's runaway selection and Miller 2000 (Darwin's tail is given in one line); Dunbar's
+endorphins beyond the rowers; McNeill's *Keeping Together in Time*; the cinema pianists and the "canned music"
+campaign of 1930; the machine-made songs on the sales charts of late 2025; Suno and Udio by name.
+
+**Figures**: `between-noise-and-a-dripping-tap` (a scheme of the hump, not data), `paid-for-the-waiting` (a scheme of
+the 2011 measurement; the shapes are not measured), `machine-made-uploads` (the service's own figures).
+
+**Left for later**: the row "music" of the table of 46 (41 gives it: to reward a forecast that came true, and to
+make one forecast common to a pack / a sweet for that reward, a song, a receipt for a price); what money is, and the
+money whose value is burnt electricity → 47 ("a separate evening"); what will be dear to the heir and whether it will
+have a pack → the evenings on the heir's social order; a dose measured "for one particular ear" (the personal
+confectioner) was named and not developed → 62; the gap between the blog's logic and the late prose on values, touched
+by the price quotation → 65; Oleg's next question: the band had a man inside who typed the request, "not thrown out,
+swallowed, like the tool room of my plant; perhaps that is our road: not out but in" (his great-nephew: "we shall
+merge with them"); Andrey: "There is a precedent. About two billion years old, and it sits in every cell of yours.
+A precedent is not a proof. But this one is worth asking what became of the swallowed" → 42.

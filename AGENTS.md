@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–40 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `41`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–41 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `42`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–40.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–41.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -267,6 +267,12 @@ articles as closely as possible. In practice:
 | рост медленнее / быстрее собственного размера | growth slower / faster than its own size | the two kinds of 40: where the gain lags behind the size (an animal, a firm) growth bends to a ceiling; where the gain runs ahead of the size (the network of meetings over a town's pipes) growth has to speed up (40) |
 | сингулярность за конечное время | finite-time singularity | the physicists' ordinary term for the point where a formula goes to infinity on a finite date; in the 2007 paper on cities it marks the wall that growth faster than size runs into unless an invention moves it, each one sooner than the last (40) |
 | период полураспада фирмы | half-life of a firm | about ten years for publicly traded companies, whatever the trade and whatever the age: a firm does not age, "it dies like a glass in the kitchen", and mostly by being bought or merged (40) |
+| чизкейк для ушей | cheesecake for the ear | Pinker's phrase (1997) for music: a sweet that presses buttons made for other work; the series agrees by half and asks which button: the main one, "the forecast came true" (41) |
+| отмеренная доза обмана | measured dose of deceit | what stands between noise (nothing is guessed) and a dripping tap (everything is guessed): a tune mostly comes true and trips the listener gently; beauty as predictability with that dose (41) |
+| прогноз, сделанный общим | a forecast made common | a beat: a hundred heads forecast the same instant and a hundred backs pull as one; the glue of song is boiled from the same button as its sweetness (41) |
+| две выплаты (за звук и за цену) | two payments (for the sound and for the price) | what we value in a song: the sound, which works whoever made it, and the price somebody paid for it, which works only when one knows who paid; they used to come in one envelope (41) |
+| расписка | receipt | a song as proof of a price paid now, by this person, for you: the mother at the cradle, the choir that has spent many evenings together; "a receipt that anybody can print is not a receipt" (41) |
+| десоциализация, одиночество в толпе | desocialisation, loneliness in a crowd | the author's 2017 terms (after Bill Joy): progress removes people's need for one another; in 41, the road from the choir to the earphones |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

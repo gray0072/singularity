@@ -2814,6 +2814,167 @@ def three_kinds_of_growth(lang):
     return f
 
 
+# --- 41. Cheesecake for the Ears ------------------------------------------------------------------
+
+@figure("between-noise-and-a-dripping-tap")
+def between_noise_and_a_dripping_tap(lang):
+    t = {
+        "en": dict(title="Between noise and a dripping tap",
+                   sub="How pleasant a tune is, against how much of it the ear guesses in advance.",
+                   y="how pleasant", x0="nothing is guessed", x1="everything is guessed",
+                   first="the first hearing:\nnoise", fifth="the fifth:\nhumming it, to one's shame",
+                   last="the five hundredth:\na dripping tap",
+                   top="almost everything comes true,\nwith a measured dose of deceit",
+                   move="every hearing moves a song this way",
+                   src="A scheme, not data. Psychologists know the hump as the Wundt curve (Berlyne, 1971); "
+                       "for chords it was counted by Cheung and others (2019)."),
+        "ru": dict(title="Между шумом и капающим краном",
+                   sub="Насколько приятен мотив в зависимости от того, какую его часть ухо угадывает заранее.",
+                   y="насколько приятно", x0="не угадано ничего", x1="угадано всё",
+                   first="первый раз:\nшум", fifth="пятый:\nнапеваю, к своему стыду",
+                   last="пятисотый:\nкапающий кран",
+                   top="почти всё сбывается,\nс отмеренной дозой обмана",
+                   move="каждое прослушивание сдвигает песню сюда",
+                   src="Схема, а не данные. Психологи знают этот горб как кривую Вундта (Берлайн, 1971); "
+                       "для аккордов его посчитали Чён и др. (2019)."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yb, yt = 84, 716, 300, 112
+
+    def X(u):
+        return x0 + u * (x1 - x0)
+
+    def Y(u):
+        return yb - (yb - yt) * math.sin(math.pi * u) ** 1.6
+
+    f.line(x0, yb, x1 + 8, yb, color=INK2, width=1.5, arrow=True)
+    f.line(x0, yb, x0, yt - 14, color=INK2, width=1.5, arrow=True)
+    f.text(x0 - 8, yt - 22, t["y"], size=11.5, color=INK2)
+    f.text(x0, yb + 20, t["x0"], size=11.5, color=INK2)
+    f.text(x1, yb + 20, t["x1"], size=11.5, color=INK2, anchor="end")
+    us = [i / 200 for i in range(201)]
+    f.path("M" + " L".join(f"{X(u):.1f},{Y(u):.1f}" for u in us), color=BLUE, width=2.8)
+    f.circle(X(0.07), Y(0.07), 5.5, fill=MUTED)
+    f.text(x0 + 10, yb - 100, t["first"], size=12.5, color=INK2)
+    f.circle(X(0.56), Y(0.56), 6.5, fill=ORANGE)
+    f.text(X(0.56), Y(0.56) + 30, t["fifth"], size=12.5, color=INK, anchor="middle", weight="600")
+    f.circle(X(0.94), Y(0.94), 5.5, fill=MUTED)
+    f.text(x1 - 6, yb - 100, t["last"], size=12.5, color=INK2, anchor="end")
+    f.text(X(0.5), yt - 30, t["top"], size=13, color=BLUE, anchor="middle", weight="600")
+    f.line(X(0.30), yb + 44, X(0.70), yb + 44, color=ORANGE, width=1.8, arrow=True)
+    f.text(X(0.5), yb + 62, t["move"], size=12, color=INK2, anchor="middle", italic=True)
+    f.text(28, 384, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("paid-for-the-waiting")
+def paid_for_the_waiting(lang):
+    t = {
+        "en": dict(title="Paid twice: for the waiting and for the place",
+                   sub="Dopamine while a person listens to the record that gives him gooseflesh. Montreal, 2011.",
+                   wait="the first payment: for the waiting\n(the caudate nucleus)",
+                   peak="the second payment:\nat the place itself\n(the nucleus accumbens)",
+                   place="the favourite place:\ngooseflesh",
+                   before="the seconds before the place", time="time",
+                   src="A scheme after Salimpoor, Benovoy, Larcher, Dagher and Zatorre (2011). "
+                       "The two payments and their order were measured;\nthe shapes of the curves are drawn "
+                       "for clarity."),
+        "ru": dict(title="Платят дважды: за ожидание и за само место",
+                   sub="Дофамин, пока человек слушает запись, от которой у него мурашки. Монреаль, 2011 год.",
+                   wait="первая выплата: за ожидание\n(хвостатое ядро)",
+                   peak="вторая выплата:\nв самом месте\n(прилежащее ядро)",
+                   place="любимое место:\nмурашки",
+                   before="секунды перед местом", time="время",
+                   src="Схема по работе Салимпур, Беновой, Ларшера, Дагера и Заторре (2011). "
+                       "Две выплаты и их порядок измерены;\nформа кривых нарисована для наглядности."),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yb, yt = 60, 716, 292, 120
+    xp = 500.0                                   # the favourite place
+
+    def X(s):
+        return xp + s * 20                       # s in conventional seconds
+
+    def hump(s, centre, width, height):
+        return height * math.exp(-((s - centre) / width) ** 2)
+
+    def curve(centre, width, height):
+        pts = [(-22 + i * 0.1) for i in range(0, 328)]
+        return "M" + " L".join(f"{X(s):.1f},{yb - hump(s, centre, width, height):.1f}" for s in pts)
+
+    f.line(x0, yb, x1 + 8, yb, color=INK2, width=1.5, arrow=True)
+    f.text(x1 + 8, yb + 20, t["time"], size=11.5, color=INK2, anchor="end")
+    f.path(curve(-6.5, 5.5, 104) + f" L{X(10.7):.1f},{yb} L{X(-22):.1f},{yb} Z", color=BLUE, width=2.5,
+           fill=BLUE, opacity=0.10)
+    f.path(curve(1.2, 2.6, 150) + f" L{X(10.7):.1f},{yb} L{X(-22):.1f},{yb} Z", color=ORANGE, width=2.5,
+           fill=ORANGE, opacity=0.12)
+    f.line(xp, yt - 28, xp, yb + 6, color=INK, width=1.3, dash="5 5")
+    f.text(xp - 10, yt - 22, t["place"], size=12.5, color=INK, anchor="end", weight="600")
+    f.text(X(-16.5), yb - 124, t["wait"], size=12.5, color=BLUE, weight="600")
+    f.text(X(4.6), yb - 124, t["peak"], size=12.5, color=ORANGE, weight="600")
+    f.line(X(-14), yb + 16, xp - 6, yb + 16, color=INK2, width=1.2, arrow=True)
+    f.text(X(-7), yb + 34, t["before"], size=11.5, color=INK2, anchor="middle")
+    f.text(28, 350, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("machine-made-uploads")
+def machine_made_uploads(lang):
+    t = {
+        "en": dict(title="Every second new song",
+                   sub="The share of tracks made wholly by a machine among those delivered to Deezer every day.",
+                   months=["Jan", "Apr", "Jul", "Oct", "Jan", "Apr", "Jul"], years=["2025", "2026"],
+                   first="10%: about ten thousand tracks a day",
+                   last="more than 50%:\nabout ninety thousand a day",
+                   half="half",
+                   plays="And of all the plays these tracks get one to three in a hundred.",
+                   src="The service's own announcements, January 2025 – July 2026; "
+                       "the last point is the peak of June 2026."),
+        "ru": dict(title="Каждая вторая новая песня",
+                   sub="Доля треков, целиком сделанных машиной, среди тех, что каждый день поступают на Deezer.",
+                   months=["янв", "апр", "июл", "окт", "янв", "апр", "июл"], years=["2025", "2026"],
+                   first="10%: около десяти тысяч треков в день",
+                   last="больше 50%:\nоколо девяноста тысяч в день",
+                   half="половина",
+                   plays="А из всех прослушиваний на эти треки приходится одно-три из ста.",
+                   src="Собственные сообщения сервиса, январь 2025 – июль 2026; "
+                       "последняя точка — пик июня 2026 года."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yb, yt = 84, 700, 300, 100
+    points = [(0, 10), (3, 18), (8, 28), (10, 34), (15, 44), (17, 51)]     # months since January 2025
+
+    def X(m):
+        return x0 + m / 18 * (x1 - x0)
+
+    def Y(p):
+        return yb - p / 60 * (yb - yt)
+
+    for p in (0, 20, 40):
+        f.line(x0, Y(p), x1, Y(p), color=INK2 if p == 0 else GRID, width=1.2 if p == 0 else 1)
+        f.text(x0 - 10, Y(p) + 4, f"{p}%", size=11.5, color=INK2, anchor="end")
+    f.line(x0, Y(50), x1, Y(50), color=RED, width=1.2, dash="5 5")
+    f.text(x0 + 6, Y(50) - 7, t["half"], size=11.5, color=RED)
+    for k, label in enumerate(t["months"]):
+        f.line(X(k * 3), yb, X(k * 3), yb + 5, color=INK2, width=1.2)
+        f.text(X(k * 3), yb + 20, label, size=11.5, color=INK2, anchor="middle")
+    f.text(X(0), yb + 38, t["years"][0], size=11.5, color=MUTED, anchor="middle")
+    f.text(X(12), yb + 38, t["years"][1], size=11.5, color=MUTED, anchor="middle")
+    f.path("M" + " L".join(f"{X(m):.1f},{Y(p):.1f}" for m, p in points), color=ORANGE, width=2.8)
+    for m, p in points:
+        f.circle(X(m), Y(p), 4.8, fill=ORANGE)
+    for m, p in points[1:-1]:
+        f.text(X(m) - 8, Y(p) - 10, f"{p}%", size=12.5, color=INK, anchor="end", weight="600")
+    f.text(X(0) + 12, Y(10) + 20, t["first"], size=12.5, color=INK, weight="600")
+    f.text(X(17) - 12, Y(51) - 26, t["last"], size=12.5, color=INK, anchor="end", weight="600")
+    f.text(28, 358, t["plays"], size=12.5, color=INK, italic=True)
+    f.text(28, 384, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

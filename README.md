@@ -121,8 +121,9 @@ Claude Opus 5.5, which wrote 16–32.
 | 38 | Oxygen Was a Poison | [en](en/38-oxygen-was-a-poison.md) | [ru](ru/38-oxygen-was-a-poison.md) |
 | 39 | Oleg's Prophetic Dream and the Price of a False Alarm | [en](en/39-price-of-a-false-alarm.md) | [ru](ru/39-price-of-a-false-alarm.md) |
 | 40 | Why Firms Die and Cities Do Not | [en](en/40-firms-die-cities-do-not.md) | [ru](ru/40-firms-die-cities-do-not.md) |
+| 41 | Cheesecake for the Ears | [en](en/41-cheesecake-for-the-ears.md) | [ru](ru/41-cheesecake-for-the-ears.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–40 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 41. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–41 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 42. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 
