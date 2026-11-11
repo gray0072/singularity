@@ -560,10 +560,13 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 7).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 8).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
-  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it. Andrey has not said it yet.
+  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
+  Oleg, not believing that the word stands in a paper about petrol stations, read it aloud from his phone ("...so the
+  singularity is never reached") and went for firewood the second time ("That was a quotation. — In your voice"). Andrey has not
+  said it yet ("I read with my mouth shut").
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -1149,3 +1152,147 @@ who will examine the machine "when we no longer can" → the evenings on the hei
 "superstition" of the table → 46; Oleg's notebook of dreams, to be counted in a year (a prop for the evenings of
 2028); Oleg's next question, from Genka's news: "the plant is closed and the town stands; how is that?" (Andrey:
 "count for tomorrow how many times a mouse's heart beats in its life, and an elephant's") → 40.
+
+## 40. Why Firms Die and Cities Do Not
+
+**Established**
+- The answer to Oleg's question of 39 ("the plant is closed and the town stands; how is that?") and to the homework:
+  by Oleg's count a mouse (25 g, 600 beats a minute, two and a half years) gets about 0.8 billion heartbeats and an
+  elephant (5 t, 30 a minute, 65 years) about a billion; Oleg himself (70 a minute, 62 years old) has spent 2.3
+  billion and "by the mouse's reckoning ran out at twenty-seven" ("thirty-five years on credit. — Nobody has asked
+  for it back so far"). People and bats are named as exceptions; the rule holds "give or take a factor of two".
+- The descent goes through the firewood: kindling burns faster than a log of the same weight because it has more
+  surface per kilogram; "the mouse is kindling, the elephant is a log" (Rubner's surface law, 1883). The catch is in
+  the numbers: by the skin an elephant should need about 3,500 times more food than a mouse, and it needs about
+  10,000 (Kleiber's line: ten thousand times heavier, a thousand times more energy, not five hundred). A gram of
+  elephant spends twenty times less than a gram of mouse and lives twenty times more slowly: "one clock run at
+  different speeds; an elephant is a mouse played back slowly". The watts per kilogram of 35 are continued (a mouse
+  about 8, an elephant under 0.5).
+- West, Brown and Enquist: an animal is "not a bag" but a network of pipes whose last pipes (capillaries) are the same
+  in a mouse and an elephant ("the same tap; the riser is different"). **Stated as argued about**: whether it is
+  exactly three quarters and whether the pipes are the cause.
+- Growth stops from inside: income comes through the pipes and lags behind the weight, upkeep does not; where they
+  meet, growth ends. Oleg recognises the life-cycle curve of 10. Andrey adds to his own article: in 2011 he named
+  ceilings that come from outside (the market, the food, the height to which blood can be lifted); this ceiling grows
+  from inside, "the profit per turnover shrinks with every kilogram gained". First phrase to remember: **what grows
+  more slowly than its own size**.
+- "Of which system?": a town is not its people (half have left or died, new ones came), not its houses and not its
+  plant, but what stays while they flow through it, "as water through the cells in the pot" (35) and atoms through a
+  body. "A town is what remains when the people change. — And when the plants change." Oleg's town is three hundred
+  years old and the plant lasted seventy.
+- The Santa Fe count of cities: pipes (petrol stations, cables, roads) grow more slowly than the city (about an
+  eighth less per inhabitant at each doubling), a person's own needs (housing, jobs, water) in step with it, and what
+  happens between people (wages, patents, research jobs, and equally serious crime and new AIDS cases) faster: about
+  15% more per inhabitant at each doubling. The explanation given is pairs (the 435 pairs of 39; sixty people make
+  1,770): twice the people, four times the pairs, held back by streets and the hours of the day. What runs in the
+  second network is the images of 19: "they breed where heads meet". Bigger animal, slower heart; bigger town, faster
+  ("an elephant with a mouse's pulse"); the faster heart belongs to another system, the one that runs over the pipes.
+  Second phrase to remember: **what grows faster than its own size**.
+- Firms: they grow like animals (West's book, weighed as such), and of more than 25,000 traded North American
+  companies half are gone in about ten years whatever the trade; the chance of dying does not depend on age. Andrey
+  **does not stretch it**: a firm does not die of wear like an elephant, "it dies like a glass in the kitchen", and
+  the animal part is only the growth that stops (10: what has stopped growing waits for its turn). "Died" mostly
+  means bought or merged: "not buried but swallowed" (what becomes of the swallowed is deferred to 42). Towns are
+  dropped too (the miners' settlement on one pit, "half a firm", one well); Oleg's town had four wells (the junction,
+  the college, the market, the river). No town is known to have died of age.
+- The mountain is brought in by Oleg, after the middle: Genka told him that the plant's foundry now holds racks of
+  servers ("thick walls, its own substation, the river for cooling; a watchman and two engineers"). The lock with 37:
+  what was built passes to the next owner at a discount; "the town is everything that was built, taken together, and
+  the firms are tenants. — And so are the people." A forum reader's 2016 line is paraphrased without a name: towns
+  are not where people live but the habitat of machines. Oleg: "too sharply; a town was built by people, for people.
+  — Who goes in at the gates of your foundry now? — Electricity."
+- The equation, counted as a column: gain proportional to size gives a geometric progression (13: the rate of profit
+  is the exponent), a doubling every forty years (an example); with 15% more per head at each doubling every next
+  doubling takes an eighth less (40, 35, 30, 26.5, 23…), and the whole infinite column sums to a little over three
+  hundred years ("Achilles and the tortoise"). Panov's epochs of 29 are named as the same kind of column. Nothing real
+  flies to infinity (13): before the wall growth stops and turns down, unless an invention moves the wall, and then
+  the next one is needed sooner than the last ("a squirrel in a wheel, and the wheel speeds up by itself").
+- The forbidden word: Andrey says only that physicists have a word for the point where a formula goes to infinity on
+  a finite date and that it is printed in the paper "as an ordinary term, like boiling point"; Oleg, sure that it is
+  being dragged in by the ears, reads it out and goes for firewood (see the frame).
+- Who makes the inventions "sooner every time"? In the paper, people. Oleg's doubt (he learned for fifteen years, his
+  great-nephew will learn till thirty) is deferred to 53; Oleg himself says what Andrey would say ("some who learn in
+  a month and are copied in a minute; they are sitting in my foundry").
+- Von Foerster's 1960 "Doomsday: Friday, 13 November, A.D. 2026" (the same kind of line for the number of people over
+  two thousand years; a line of the author's 2011 table in 13). The date "was last autumn", and nothing happened:
+  the line left that road long before (the largest yearly addition, 93 million, came in 1989, as in 26). "Infinity
+  was called off; it always is." What was not called off is the fork: inventions sooner each time, or growth stops;
+  "the number of heads has made its choice". World output grows by about three percent a year, an even geometric
+  progression, "no speeding wheel" (conceded to Oleg): each step was paid for by putting more heads to inventing
+  (deferred to 53); when the heads run out, either the steady trot ends too or somebody other than the heads makes
+  the next steps. **Andrey's belief, stated as unproved**: the tenants of the foundry.
+- Oleg's strongest objection is conceded in three parts: (1) the fifteen percent depends on where the edge of a town
+  is drawn (England and Wales, thousands of boundaries: most measures proportional, the exponent "jumped about with
+  the edge"; "in England, no steady one"); (2) perhaps the nimble simply move to big cities (Sweden: about half of the
+  excess); (3) the line is a photograph across many towns in one year, not a film of one town, and the authors read
+  their equation as a warning, not as a sentence (Andrey's gloss of "to sustain growth and avoid stagnation or
+  collapse"). What is left: the sign (the animal slows with size, the town speeds up);
+  that anything above "proportional" gives a finite sum (with a twentieth instead of an eighth, 800 years); and that
+  the drawing of 13 (a wall on a finite date, and before it a stop or a change of law) was reached "from a mouse, a
+  petrol station and a stopwatch on a pavement". "Two bell towers, one view. — Or two pigeons at one feeder" (the
+  question of 39, already on the last page).
+- Strengths stated: solid (a gram of elephant lives many times more slowly; half of the traded firms gone in ten
+  years; large towns richer per head and faster on foot wherever a country was measured in one year); argued about
+  (three quarters and the pipes; the fifteen percent, the edge, the newcomers); a hypothesis of its authors (the
+  equation with the wall and the wheel); Andrey's (the technosphere is of the second kind, and the next jumps will
+  not be made by heads).
+- Eighth tick "again": "Came with a closed plant. Came out at the servers in its foundry, brought them in myself, and
+  went for firewood on top of it."
+
+**Images and devices used**: the log split into kindling (a handful thrown into the fire flares up); the first entry
+in the notebook of dreams (a tram, somebody's dog, the late foreman and the quarterly report; nobody rang); "I
+thought I had dropped a nought"; living on credit; the mouse as kindling and the elephant as a log; "a mouse played
+back slowly"; the tap and the riser; the puppy's income and expenses; the guppy, the hen and the cow on one curve;
+the town's streets, station, market "on the same square as in my grandmother's day", the bridge; running up a moving
+escalator; "an elephant with a mouse's pulse"; wages, patents and burglaries in one basket; news, a rumour, a thought,
+a cold; gearboxes "in forty sizes" and papers carried from floor to floor; the glass in the kitchen; wells (the
+potential well of 10); "not buried but swallowed"; the foundry with servers; tenants; "Electricity"; the column of
+doublings; Achilles and the tortoise; the wall; the squirrel in a wheel; "That was a quotation. — In your voice"; the
+old apple tree sawn up on doomsday; the steady trot; Genka's brother "who could sell snow in winter"; a photograph,
+not a film; two bell towers; "To within the edge of the town."
+
+**Facts used**: from the writer's memory, with web checks kept to the links and to the abstracts of five papers (at
+the keeper's request); **check before reusing**. Checked on the day of writing (Crossref abstracts, Wikipedia):
+Kleiber 1932 (Hilgardia 6: 315–353; the 3/4 power; BMR ≈ 3.4·w^0.75 W); Rubner 1883 (the surface law, respiration
+trials on dogs); Bettencourt, Lobo, Helbing, Kühnert & West 2007 (PNAS 104: 7301; exponents of about 1.2 for wealth
+creation and innovation and about 0.8 for infrastructure; the pace of social life increases with size; innovation
+cycles "must be generated at a continually accelerating rate to sustain growth and avoid stagnation or collapse";
+in the full text on PubMed Central: gasoline stations 0.77, length of electrical cables 0.87, total housing 1.00,
+household water 1.01, serious crimes 1.16, new AIDS cases 1.23; walking speed rising with size; "an infinite
+population in a finite amount of time", "the singularity is never reached", which Oleg reads out, and "finite-time
+singularity" in Table 2; successive cycles that "reset the singularity", New York City as the example);
+Daepp, Hamilton, West & Bettencourt 2015 (J. R. Soc. Interface: more than 25,000 publicly traded North American
+companies, 1950–2009, an approximately constant hazard rate, a half-life of about a decade regardless of sector);
+Arcaute et al. 2015 (J. R. Soc. Interface: England and Wales, thousands of boundary definitions, most indicators
+linear, the exponent "fluctuates considerably"); Keuschnigg, Mutgan & Hedström 2019 (Science Advances: population
+characteristics and selective migration explain around half of the superlinear scaling; that the data are Swedish
+registers is from memory); von Foerster, Mora & Amiot 1960 (Science 132: 1291–1295, the title with the date; 13
+November 2026 is a Friday). From memory, not checked: the pulse and lifespan figures (mouse 600 a minute and 2–3
+years, elephant 30 and 60–70 years; "about a billion heartbeats" for most mammals; bats of mouse weight living thirty
+years and more); Kleiber's animals "from a dove and a rat to a steer", his post at Davis, and the mouse and the
+elephant added by others (Benedict, Brody); the arithmetic 200,000^(2/3) ≈ 3,400 and 200,000^(3/4) ≈ 9,500; West,
+Brown & Enquist 1997 (Science 276: 122; the three assumptions) and 2001 (Nature 413: 628; one growth curve, the
+guppy, the hen and the cow); the disputes over 2/3 and 3/4; Bornstein & Bornstein 1976 (Nature 259: 557; fifteen
+towns, walking speed over a measured stretch); the exponents of the 2007 paper for road surface, jobs, wages, patents and research
+employment, and "the United States, Germany and China"; "most of the dead companies were bought or merged, few went bankrupt" (the 2015
+paper and West's *Scale*, 2017, which is also the only source for firms growing like animals); Rome's age; von
+Foerster born in Vienna and working at Illinois, the fit holding for about another decade; world output growing by
+about three percent a year; the largest yearly addition of 1989 (from 26). The column: with an exponent of 1.2 each
+doubling takes 2^(−0.2) = 0.87 of the previous one, the sum is 40 / 0.129 ≈ 310 years; with 1.07 it is about 840
+("eight hundred"). Links: the Russian Wikipedia has no pages for Kleiber and West (the English ones are used); the
+English page "Luís Bettencourt" is a musician, the physicist is "Luís M. A. Bettencourt". Invented for the frame
+(Oleg's side): the town of three hundred years, the plant built before the war and shut in 2007 that made gearboxes,
+its shops now (a warehouse, a small firm of twenty, servers in the foundry), the miners' settlement, the junction,
+the college and the market, Genka's brother, the House of Culture, Oleg's age of 62 (he left school in 1982). The
+forum line about towns as the habitat of machines is a reader's (2016), paraphrased. Not used: Bettencourt 2013 (the
+derivation of urban scaling); Kremer 1993; Jones 2022 on growth with a falling population (the argument is given in
+Andrey's words; it belongs to 53); Detroit; the Fortune 500 turnover; Kapitsa.
+
+**Figures**: `same-billion-heartbeats` (Oleg's count, round figures), `city-twice-as-large` (computed from the rounded
+exponents), `three-kinds-of-growth` (a scheme of the growth equation on a logarithmic scale, example parameters).
+
+**Left for later**: what becomes of the swallowed → 42 ("a separate evening"); whether inventions can come sooner
+when the road to the edge of knowledge grows longer, and the growing number of heads put to inventing → 53 ("a
+separate evening, and a serious one"; not developed); why what multiplies concentrates, and the sizes of cities → 49
+(not touched); no row is given for the table of 46 (the facet is "law"); Oleg's next question, prompted by Genka's
+reunion in the House of Culture: "Bring the seven-string tomorrow. What is it for at all?" → 41.

@@ -479,4 +479,4 @@ Andrey put the pan back on the coals and stirred the potatoes.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [08](./08-human-psyche.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [19](./19-struggle-of-images.md), [22](./22-who-sets-the-tasks.md), [33](./33-use-of-sleep.md), [34](./34-where-the-horses-went.md), [36](./36-what-the-rat-laughs-at.md).
 
-[← 38](./38-oxygen-was-a-poison.md) · [Contents](./README.md)
+[← 38](./38-oxygen-was-a-poison.md) · [Contents](./README.md) · [40 →](./40-firms-die-cities-do-not.md)

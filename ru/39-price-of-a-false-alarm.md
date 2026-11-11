@@ -479,4 +479,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [08](./08-human-psyche.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [19](./19-struggle-of-images.md), [22](./22-who-sets-the-tasks.md), [33](./33-use-of-sleep.md), [34](./34-where-the-horses-went.md), [36](./36-what-the-rat-laughs-at.md).
 
-[← 38](./38-oxygen-was-a-poison.md) · [Оглавление](./README.md)
+[← 38](./38-oxygen-was-a-poison.md) · [Оглавление](./README.md) · [40 →](./40-firms-die-cities-do-not.md)

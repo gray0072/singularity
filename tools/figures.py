@@ -2631,6 +2631,189 @@ def price_of_two_mistakes(lang):
     return f
 
 
+# --- 40. Why Firms Die and Cities Do Not ----------------------------------------------------------
+
+@figure("same-billion-heartbeats")
+def same_billion_heartbeats(lang):
+    t = {
+        "en": dict(title="The same billion",
+                   sub="Heartbeats in a lifetime: beats a minute multiplied by the minutes of a life. Oleg's count.",
+                   rows=[("a mouse, 25 grams", "600 a minute × 2.5 years", 0.79, "about 0.8 billion"),
+                         ("an elephant, 5 tonnes", "30 a minute × 65 years", 1.02, "about 1 billion"),
+                         ("Oleg, 62 years old", "70 a minute × 62 years", 2.28, "about 2.3 billion, still counting")],
+                   ticks=["0", "1 billion", "2 billion"],
+                   src="Round figures for the pulse and the lifespan; they give the order and no more. "
+                       "People and bats live longer than their weight allots."),
+        "ru": dict(title="Тот же миллиард",
+                   sub="Удары сердца за жизнь: удары в минуту, умноженные на минуты жизни. Счёт Олега.",
+                   rows=[("мышь, 25 граммов", "600 в минуту × 2,5 года", 0.79, "около 0,8 миллиарда"),
+                         ("слон, 5 тонн", "30 в минуту × 65 лет", 1.02, "около 1 миллиарда"),
+                         ("Олег, 62 года", "70 в минуту × 62 года", 2.28, "около 2,3 миллиарда, счёт идёт")],
+                   ticks=["0", "1 миллиард", "2 миллиарда"],
+                   src="Круглые цифры пульса и срока жизни; они дают порядок, не больше. "
+                       "Люди и летучие мыши живут дольше, чем положено по весу."),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, vmax = 232, 560, 2.5
+    y0, row = 92, 58
+    ybase = y0 + row * len(t["rows"])
+
+    def X(v):
+        return x0 + v / vmax * (x1 - x0)
+
+    for k, label in enumerate(t["ticks"]):
+        f.line(X(k), y0 - 4, X(k), ybase, color=INK2 if k == 0 else GRID, width=1.5 if k == 0 else 1,
+               dash="4 4" if k == 1 else None)
+        f.text(X(k), ybase + 18, label, size=11.5, color=MUTED, anchor="middle")
+    colors = [AQUA, AQUA, ORANGE]
+    for i, (name, how, value, shown) in enumerate(t["rows"]):
+        y = y0 + i * row
+        f.text(x0 - 14, y + 22, name, size=13.5, color=INK, anchor="end", weight="600")
+        f.text(x0 - 14, y + 40, how, size=12, color=INK2, anchor="end")
+        f.rect(x0, y + 12, X(value) - x0, 26, fill=colors[i], r=3, opacity=0.85)
+        f.text(X(value) + 8, y + 30, shown, size=13, color=INK, weight="600")
+    f.text(28, 312, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("city-twice-as-large")
+def city_twice_as_large(lang):
+    t = {
+        "en": dict(title="A city twice as large",
+                   sub="What changes per inhabitant at every doubling, by the rounded exponents of the 2007 count.",
+                   rows=[("the pipes", "petrol stations, cables, roads", -13, "about 13% less", "exponent ≈ 0.8"),
+                         ("a person's own needs", "housing, jobs, water at home", 0, "the same", "exponent ≈ 1"),
+                         ("what happens between people", "wages, patents, serious crime", 15, "about 15% more",
+                          "exponent ≈ 1.2")],
+                   axis="per inhabitant",
+                   src="Bettencourt, Lobo, Helbing, Kühnert, West (2007): 2^(0.8 − 1) = 0.87, 2^(1.2 − 1) = 1.15. "
+                       "The exponents differ from measure\nto measure and move with the edge of the city "
+                       "(Arcaute and others, 2015)."),
+        "ru": dict(title="Город вдвое больше",
+                   sub="Что меняется в расчёте на жителя при каждом удвоении, по округлённым показателям подсчёта 2007 года.",
+                   rows=[("трубы", "заправки, кабели, дороги", -13, "примерно на 13% меньше", "показатель ≈ 0,8"),
+                         ("собственные нужды человека", "жильё, рабочие места, вода в квартире", 0, "столько же",
+                          "показатель ≈ 1"),
+                         ("то, что происходит между людьми", "зарплаты, патенты, тяжкие преступления", 15,
+                          "примерно на 15% больше", "показатель ≈ 1,2")],
+                   axis="на жителя",
+                   src="Беттенкур, Лобо, Хелбинг, Кюнерт, Уэст (2007): 2^(0,8 − 1) = 0,87, 2^(1,2 − 1) = 1,15. "
+                       "Показатели разные у разных величин\nи сдвигаются вместе с границей города "
+                       "(Аркауте и др., 2015)."),
+    }[lang]
+    f = Fig(760, 350, t["title"])
+    heading(f, t["title"], t["sub"])
+    xc, scale = 470, 7.0          # pixels per percent
+    y0, row = 92, 62
+    ybase = y0 + row * len(t["rows"])
+    for pct in (-20, -10, 10, 20):
+        x = xc + pct * scale
+        f.line(x, y0 - 4, x, ybase, color=GRID, width=1)
+        f.text(x, ybase + 18, f"{'+' if pct > 0 else '−'}{abs(pct)}%", size=11.5, color=MUTED, anchor="middle")
+    f.text(xc, ybase + 18, "0", size=11.5, color=MUTED, anchor="middle")
+    f.text(xc + 20 * scale + 34, ybase + 18, t["axis"], size=11.5, color=MUTED)
+    colors = [AQUA, MUTED, ORANGE]
+    for i, (name, what, pct, shown, expo) in enumerate(t["rows"]):
+        y = y0 + i * row
+        f.text(28, y + 24, name, size=13.5, color=INK, weight="600")
+        f.text(28, y + 42, what, size=12, color=INK2)
+        if pct:
+            x = xc + pct * scale
+            f.rect(min(x, xc), y + 12, abs(x - xc), 26, fill=colors[i], r=3, opacity=0.85)
+            if pct > 0:
+                f.text(x + 8, y + 24, shown, size=13, color=INK, weight="600")
+                f.text(x + 8, y + 41, expo, size=11.5, color=INK2)
+            else:
+                f.text(xc + 10, y + 24, shown, size=13, color=INK, weight="600")
+                f.text(xc + 10, y + 41, expo, size=11.5, color=INK2)
+        else:
+            f.rect(xc - 2, y + 12, 4, 26, fill=colors[i], r=1)
+            f.text(xc + 10, y + 24, shown, size=13, color=INK, weight="600")
+            f.text(xc + 10, y + 41, expo, size=11.5, color=INK2)
+    f.line(xc, y0 - 4, xc, ybase, color=INK2, width=1.5)
+    f.text(28, 322, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("three-kinds-of-growth")
+def three_kinds_of_growth(lang):
+    t = {
+        "en": dict(title="Three kinds of growth",
+                   sub="The scale is logarithmic: an even geometric progression is a straight line. Each dot is a doubling.",
+                   slow="slower than its own size:\na ceiling (an animal, a firm)",
+                   even="in step with its size: a doubling\nevery 40 years, for ever",
+                   fast="faster than its own size:\n40 years, 35, 30, 26…",
+                   wall="on paper, infinity\nin about 310 years",
+                   x="years", y="size",
+                   ticks=["1", "100", "10,000", "1,000,000"],
+                   src="A scheme. The gain goes as the size to the power 0.75, 1 and 1.2; with 1.2 each doubling "
+                       "takes an eighth less time than the last,\nand the sum of all of them is finite. "
+                       "The equation is from Bettencourt and others (2007); the 40 years are an example."),
+        "ru": dict(title="Три вида роста",
+                   sub="Масштаб логарифмический: ровная геометрическая прогрессия — прямая. Каждая точка — удвоение.",
+                   slow="медленнее собственного размера:\nпотолок (животное, фирма)",
+                   even="вровень с размером: удвоение\nкаждые 40 лет, без конца",
+                   fast="быстрее собственного размера:\n40 лет, 35, 30, 26…",
+                   wall="на бумаге бесконечность\nпримерно через 310 лет",
+                   x="годы", y="размер",
+                   ticks=["1", "100", "10 000", "1 000 000"],
+                   src="Схема. Прирост идёт как размер в степени 0,75, 1 и 1,2; при 1,2 каждое удвоение занимает "
+                       "на восьмую часть меньше времени,\nчем предыдущее, и сумма их всех конечна. "
+                       "Уравнение — из Беттенкура и др. (2007); 40 лет взяты для примера."),
+    }[lang]
+    f = Fig(760, 440, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yb, yt = 84, 716, 352, 92
+    tmax, decades = 340.0, 6.0
+    tc = 40 / (1 - 2 ** -0.2)          # about 309 years
+
+    def X(year):
+        return x0 + year / tmax * (x1 - x0)
+
+    def Y(n):
+        return yb - min(math.log10(n), decades) / decades * (yb - yt)
+
+    def slow(year):                    # West's growth curve: income as size^0.75, upkeep as size
+        return 30 * (1 - (1 - 30 ** -0.25) * math.exp(-year / 95)) ** 4
+
+    def even(year):
+        return 2 ** (year / 40)
+
+    def fast(year):
+        return (1 - year / tc) ** -5
+
+    for k, label in enumerate(t["ticks"]):
+        y = yb - k * 2 / decades * (yb - yt)
+        f.line(x0, y, x1, y, color=INK2 if k == 0 else GRID, width=1.2 if k == 0 else 1)
+        f.text(x0 - 10, y + 4, label, size=11.5, color=INK2, anchor="end")
+    f.text(x0 - 10, yt - 14, t["y"], size=11.5, color=INK2, anchor="end")
+    for year in range(0, 341, 50):
+        f.line(X(year), yb, X(year), yb + 5, color=INK2, width=1.2)
+        f.text(X(year), yb + 20, str(year), size=11.5, color=INK2, anchor="middle")
+    f.text(x1, yb + 40, t["x"], size=11.5, color=INK2, anchor="end")
+    f.line(X(tc), yt - 6, X(tc), yb, color=RED, width=1.5, dash="5 5")
+    f.text(X(262), Y(10 ** 5.5), t["wall"], size=12.5, color=RED, anchor="end", weight="600")
+
+    years = [i * 0.5 for i in range(0, 681)]
+    f.path("M" + " L".join(f"{X(y):.1f},{Y(slow(y)):.1f}" for y in years), color=AQUA, width=2.5)
+    f.path("M" + " L".join(f"{X(y):.1f},{Y(even(y)):.1f}" for y in years), color=BLUE, width=2.5)
+    last = tc * (1 - 10 ** (-decades / 5))
+    steps = [last * i / 400 for i in range(401)]
+    f.path("M" + " L".join(f"{X(y):.1f},{Y(fast(y)):.1f}" for y in steps), color=ORANGE, width=2.5)
+    for k in range(1, 9):
+        f.circle(X(40 * k), Y(even(40 * k)), 3.6, fill=BLUE)
+    for k in range(1, 20):
+        year = tc * (1 - 2 ** (-0.2 * k))
+        f.circle(X(year), Y(2.0 ** k), 3.6, fill=ORANGE)
+    for i, (key, color) in enumerate((("fast", ORANGE), ("even", BLUE), ("slow", AQUA))):
+        y = yt + 22 + i * 42
+        f.line(x0 + 14, y - 4, x0 + 38, y - 4, color=color, width=2.5)
+        f.text(x0 + 48, y, t[key], size=12.5, color=color, weight="600")
+    f.text(28, 414, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
