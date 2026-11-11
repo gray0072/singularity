@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–35 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `36`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–36 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `37`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–35.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–36.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -248,6 +248,8 @@ articles as closely as possible. In practice:
 | диссипативная структура | dissipative structure | Prigogine's term: an order that exists only while a flow passes through it; the cells in a heated pot, a flame, a living body (35) |
 | препятствие (для потока) | obstacle (to a flow) | what stands in the way of a flow from hot to cold and makes it organise; the Earth is a "high-class obstacle" between the Sun and the cold sky; where obstacles come from is left open (35) |
 | эффект мышеловки (транзистора) | mousetrap (transistor) effect | a small outlay of energy turns a larger flow; for the author, the condition under which evolution goes on (35) |
+| метка игры (игровой сигнал) | play label (play signal) | what marks a move as play: the wolf's bow, the rat's chirp, the ape's panting, our laughter; it tells the pack that mistakes are cheap here (36) |
+| премия за найденную ошибку | bonus for a mistake found | mirth, in the hypothesis of Hurley, Dennett and Adams: what the brain pays itself for a wrong guess caught in its own picture of the world while it is still cheap; a joke is a sweet made for that bonus (36) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

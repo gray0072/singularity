@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Одна дешёвая ошибка на трёх этажах</title>
+
+<rect x="0.5" y="0.5" width="759" height="399" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Одна дешёвая ошибка на трёх этажах</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Догадка Андрея, а не принятая теория: что отмечает смех в игре, в щекотке и в анекдоте.</text>
+<rect x="478.0" y="86.0" width="130.0" height="266.0" rx="0" fill="#1baf7a" fill-opacity="0.1"/>
+<rect x="608.0" y="86.0" width="128.0" height="266.0" rx="0" fill="#e34948" fill-opacity="0.09"/>
+<text x="257.0" y="113.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">прогноз говорил</text>
+<text x="407.0" y="113.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">что пришло</text>
+<text x="543.0" y="113.0" font-size="12.5" fill="#1baf7a" text-anchor="middle" font-weight="600">ошибка дешёвая</text>
+<text x="672.0" y="105.0" font-size="12.5" fill="#e34948" text-anchor="middle" font-weight="600"><tspan x="672.0" dy="0.0">та же ошибка,</tspan><tspan x="672.0" dy="15.6">дорогая</tspan></text>
+<line x1="28.0" y1="130.0" x2="736.0" y2="130.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="160.0" font-size="15" fill="#0b0b0b" font-weight="600">игра</text>
+<text x="28.0" y="178.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">крысы, волки,</tspan><tspan x="28.0" dy="14.4">обезьяны, мы</tspan></text>
+<text x="257.0" y="172.0" font-size="13" fill="#0b0b0b" text-anchor="middle">укус</text>
+<text x="407.0" y="164.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="407.0" dy="0.0">укус, который</tspan><tspan x="407.0" dy="16.2">не укус</tspan></text>
+<text x="543.0" y="164.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="543.0" dy="0.0">писк, поклон,</tspan><tspan x="543.0" dy="16.2">пыхтение</tspan></text>
+<text x="672.0" y="172.0" font-size="13" fill="#0b0b0b" text-anchor="middle">драка</text>
+<line x1="28.0" y1="204.0" x2="736.0" y2="204.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="234.0" font-size="15" fill="#0b0b0b" font-weight="600">щекотка</text>
+<text x="28.0" y="252.0" font-size="11.5" fill="#8a8985">крысы, обезьяны, мы</text>
+<text x="257.0" y="238.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="257.0" dy="0.0">нападение на шею</tspan><tspan x="257.0" dy="16.2">и живот</tspan></text>
+<text x="407.0" y="238.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="407.0" dy="0.0">свой,</tspan><tspan x="407.0" dy="16.2">и вреда нет</tspan></text>
+<text x="543.0" y="246.0" font-size="13" fill="#0b0b0b" text-anchor="middle">смех</text>
+<text x="672.0" y="238.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="672.0" dy="0.0">хищник:</tspan><tspan x="672.0" dy="16.2">страх</tspan></text>
+<line x1="28.0" y1="278.0" x2="736.0" y2="278.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="308.0" font-size="15" fill="#0b0b0b" font-weight="600">анекдот</text>
+<text x="28.0" y="326.0" font-size="11.5" fill="#8a8985">мы</text>
+<text x="257.0" y="320.0" font-size="13" fill="#0b0b0b" text-anchor="middle">один смысл слов</text>
+<text x="407.0" y="320.0" font-size="13" fill="#0b0b0b" text-anchor="middle">другой смысл</text>
+<text x="543.0" y="312.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="543.0" dy="0.0">веселье:</tspan><tspan x="543.0" dy="16.2">премия</tspan></text>
+<text x="672.0" y="312.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="672.0" dy="0.0">тяжёлый образ:</tspan><tspan x="672.0" dy="16.2">обида</tspan></text>
+<line x1="28.0" y1="352.0" x2="736.0" y2="352.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="384.0" font-size="11.5" fill="#8a8985">Схема, а не измеренные данные. Премия за найденную ошибку: Хёрли, Деннет и Адамс (2011).</text>
+</svg>

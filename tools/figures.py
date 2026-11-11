@@ -2074,6 +2074,154 @@ def watts_per_kilogram(lang):
     return f
 
 
+# --- 36. What the Rat Laughs At -------------------------------------------------------------------
+
+@figure("laughter-out-of-hearing")
+def laughter_out_of_hearing(lang):
+    t = {
+        "en": dict(title="The chirp we cannot hear",
+                   sub="Sound frequency on a logarithmic scale. Our hearing ends at about 20 kilohertz.",
+                   rows=["human hearing", "human laughter,\nthe main tone", "rat hearing", "a rat's alarm call",
+                         "a rat's chirp in play\nand under tickling"],
+                   vals=["20 Hz – 20 kHz", "a few hundred hertz", "about 250 Hz – 80 kHz", "about 22 kHz",
+                         "about 50 kHz"],
+                   edge="our hearing ends here",
+                   ticks=["20 Hz", "100 Hz", "1 kHz", "10 kHz", "100 kHz"],
+                   src="Rounded figures; the hearing ranges are approximate. "
+                       "The calls of rats: Panksepp & Burgdorf (2003)."),
+        "ru": dict(title="Писк, которого мы не слышим",
+                   sub="Частота звука, шкала логарифмическая. Наш слух кончается примерно на 20 килогерцах.",
+                   rows=["слух человека", "смех человека,\nосновной тон", "слух крысы", "тревожный крик крысы",
+                         "писк крысы в игре\nи при щекотке"],
+                   vals=["20 Гц – 20 кГц", "несколько сотен герц", "примерно 250 Гц – 80 кГц", "около 22 кГц",
+                         "около 50 кГц"],
+                   edge="здесь кончается наш слух",
+                   ticks=["20 Гц", "100 Гц", "1 кГц", "10 кГц", "100 кГц"],
+                   src="Цифры округлены; границы слуха приблизительны. "
+                       "Звуки крыс: Панксепп и Бургдорф (2003)."),
+    }[lang]
+    f = Fig(760, 390, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, lo, hi = 200, 720, 20, 100000
+    y0, row = 104, 44
+    ybase = y0 + row * 5
+
+    def X(v):
+        return log_x(v, lo, hi, x0, x1)
+
+    for v, label in zip((20, 100, 1000, 10000, 100000), t["ticks"]):
+        f.line(X(v), y0 - 4, X(v), ybase, color=GRID, width=1)
+        f.text(X(v), ybase + 18, label, size=11.5, color=MUTED, anchor="middle")
+    f.line(X(20000), y0 - 14, X(20000), ybase, color=RED, width=1.3, dash="5 4")
+    f.text(X(20000) - 8, y0 - 8, t["edge"], size=12, color=RED, anchor="end")
+    for i, name in enumerate(t["rows"]):
+        y = y0 + i * row
+        lines = name.count("\n") + 1
+        f.text(x0 - 14, y + (27 if lines == 1 else 19), name, size=13, color=INK, anchor="end")
+    mid = [y0 + i * row + 22 for i in range(5)]
+    f.rect(X(20), mid[0] - 11, X(20000) - X(20), 22, fill=AQUA, r=3, opacity=0.85)
+    f.text(X(20000) + 10, mid[0] + 4.5, t["vals"][0], size=12.5, color=INK, weight="600")
+    f.rect(X(250), mid[1] - 11, X(500) - X(250), 22, fill=AQUA, r=3, opacity=0.85)
+    f.text(X(500) + 10, mid[1] + 4.5, t["vals"][1], size=12.5, color=INK, weight="600")
+    f.rect(X(250), mid[2] - 11, X(80000) - X(250), 22, fill=BLUE, r=3, opacity=0.85)
+    f.text(X(250) + 12, mid[2] + 4.5, t["vals"][2], size=12.5, color="#ffffff", weight="600")
+    for i, v in ((3, 22000), (4, 50000)):
+        f.circle(X(v), mid[i], 7, fill=BLUE, stroke=SURFACE, width=2)
+        f.text(X(v) - 14, mid[i] + 4.5, t["vals"][i], size=12.5, color=INK, weight="600", anchor="end")
+    f.line(x0, y0 - 4, x0, ybase, color=INK2, width=1.5)
+    f.text(28, 374, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("tickle-with-a-delay")
+def tickle_with_a_delay(lang):
+    t = {
+        "en": dict(title="Why you cannot tickle yourself",
+                   sub="The head forecasts the touch of its own hand and subtracts it. Delay the touch, and it tickles.",
+                   y="how ticklish it feels",
+                   bars=["your own hand", "the robot lags\nby 0.1 s", "by 0.2 s", "by 0.3 s",
+                         "someone\nelse's hand"],
+                   left="the forecast matches:\nhardly felt", right="the forecast misses:\nfelt in full",
+                   src="A scheme, not measured data. After Blakemore, Wolpert & Frith (1998) "
+                       "and Blakemore, Frith & Wolpert (1999)."),
+        "ru": dict(title="Почему нельзя пощекотать себя",
+                   sub="Голова предсказывает касание своей руки и вычитает его. Задержи касание, и станет щекотно.",
+                   y="насколько щекотно",
+                   bars=["своя рука", "робот опаздывает\nна 0,1 с", "на 0,2 с", "на 0,3 с", "чужая рука"],
+                   left="прогноз совпал:\nпочти не чувствуется", right="прогноз промахнулся:\nчувствуется целиком",
+                   src="Схема, а не измеренные данные. По Блейкмор, Вольперту и Фриту (1998) "
+                       "и Блейкмор, Фриту и Вольперту (1999)."),
+    }[lang]
+    f = Fig(760, 410, t["title"])
+    heading(f, t["title"], t["sub"])
+    base, x0 = 310, 96
+    f.line(x0, base, 724, base, color=INK2, width=1.5)
+    f.line(x0, base, x0, 104, color=INK2, width=1.5, arrow=True)
+    f.text(56, (base + 104) / 2, t["y"], size=12.5, color=INK2, anchor="middle", rotate=-90)
+    heights = [34, 78, 112, 146, 184]
+    colors = [AQUA, BLUE, BLUE, BLUE, ORANGE]
+    for i, (label, h) in enumerate(zip(t["bars"], heights)):
+        cx = 170 + i * 122
+        f.rect(cx - 36, base - h, 72, h, fill=colors[i], r=3, opacity=0.85)
+        f.text(cx, base + 20, label, size=12.5, color=INK, anchor="middle")
+    f.text(170, base - 34 - 34, t["left"], size=12.5, color=AQUA, anchor="middle", weight="600")
+    f.text(536, 108, t["right"], size=12.5, color=ORANGE, anchor="middle", weight="600")
+    f.text(28, 394, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("cheap-mistake-three-floors")
+def cheap_mistake_three_floors(lang):
+    t = {
+        "en": dict(title="One cheap mistake on three floors",
+                   sub="Andrey's guess, not an accepted theory: what laughter marks in play, in tickling and in a joke.",
+                   head=["the forecast said", "what came", "the mistake is cheap", "the same mistake,\nexpensive"],
+                   rows=[("play", "rats, wolves,\napes, us",
+                          ["a bite", "a bite that\nis not a bite", "a chirp, a bow,\npanting", "a fight"]),
+                         ("tickling", "rats, apes, us",
+                          ["an attack on the neck\nand the belly", "one of your own,\nand no harm", "laughter",
+                           "a predator:\nfear"]),
+                         ("a joke", "us",
+                          ["one meaning\nof the words", "another meaning", "mirth:\nthe bonus",
+                           "a heavy image:\nan offence"])],
+                   src="A scheme, not measured data. The bonus for a mistake found: Hurley, Dennett & Adams (2011)."),
+        "ru": dict(title="Одна дешёвая ошибка на трёх этажах",
+                   sub="Догадка Андрея, а не принятая теория: что отмечает смех в игре, в щекотке и в анекдоте.",
+                   head=["прогноз говорил", "что пришло", "ошибка дешёвая", "та же ошибка,\nдорогая"],
+                   rows=[("игра", "крысы, волки,\nобезьяны, мы",
+                          ["укус", "укус, который\nне укус", "писк, поклон,\nпыхтение", "драка"]),
+                         ("щекотка", "крысы, обезьяны, мы",
+                          ["нападение на шею\nи живот", "свой,\nи вреда нет", "смех", "хищник:\nстрах"]),
+                         ("анекдот", "мы",
+                          ["один смысл слов", "другой смысл", "веселье:\nпремия", "тяжёлый образ:\nобида"])],
+                   src="Схема, а не измеренные данные. Премия за найденную ошибку: Хёрли, Деннет и Адамс (2011)."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [178, 336, 478, 608, 736]
+    top, head_h, row_h = 86, 44, 74
+    bottom = top + head_h + row_h * 3
+    f.rect(cols[2], top, cols[3] - cols[2], bottom - top, fill=AQUA, r=0, opacity=0.10)
+    f.rect(cols[3], top, cols[4] - cols[3], bottom - top, fill=RED, r=0, opacity=0.09)
+    head_colors = [INK2, INK2, AQUA, RED]
+    for k, label in enumerate(t["head"]):
+        lines = label.count("\n") + 1
+        f.text((cols[k] + cols[k + 1]) / 2, top + (27 if lines == 1 else 19), label, size=12.5,
+               color=head_colors[k], anchor="middle", weight="600")
+    for i, (name, who, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(28, y, cols[4], y, color=GRID, width=1.2)
+        f.text(28, y + 30, name, size=15, color=INK, weight="600")
+        f.text(28, y + 48, who, size=11.5, color=MUTED)
+        for k, cell in enumerate(cells):
+            lines = cell.count("\n") + 1
+            f.text((cols[k] + cols[k + 1]) / 2, y + (42 if lines == 1 else 34), cell, size=13, color=INK,
+                   anchor="middle")
+    f.line(28, bottom, cols[4], bottom, color=GRID, width=1.2)
+    f.text(28, 384, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

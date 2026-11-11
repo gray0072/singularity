@@ -293,4 +293,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [04](./04-source-of-initiative.md), [10](./10-life-cycle-and-death.md), [17](./17-global-determinism.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md), [34](./34-where-the-horses-went.md).
 
-[← 34](./34-where-the-horses-went.md) · [Оглавление](./README.md)
+[← 34](./34-where-the-horses-went.md) · [Оглавление](./README.md) · [36 →](./36-what-the-rat-laughs-at.md)

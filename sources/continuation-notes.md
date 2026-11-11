@@ -560,9 +560,10 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 3).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 4).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
-  count; the tick does"), nobody went; in 35 nobody said it. Andrey has not said it yet.
+  count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
+  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went. Andrey has not said it yet.
 
 ## 33. On the Use of Sleep, or Why Spend a Third of Your Life Unconscious
 
@@ -738,3 +739,93 @@ and effect → 59 ("a separate evening, and not one about soup"); how a whirl ca
 (heredity) → 45; scaling of flows with size → 40 (not touched); least action as laziness and the river that reaches
 its goal → 62 (not touched); oxygen and what life did to the planet → 38 (not touched); Oleg's next question, "What
 is laughter for at all? What use is it to a wolf?" (he promised to bring a joke) → 36.
+
+## 36. What the Rat Laughs At
+
+**Established**
+- The answer to Oleg's "What is laughter for? What use is it to a wolf?" (35). "Evolution the miser" (33) pays
+  pleasure only against goods, so the pleasure of laughing must buy something. The sound is older than the joke,
+  speech and man: rat pups chirp at about 50 kHz in play and under tickling, run after the hand and stop chirping
+  when frightened; tickled young great apes and human babies give a tree of sounds that matches the tree of genes.
+  Whether a rat finds anything funny is **not claimed** (Panksepp's own quotation marks and question mark).
+- Lower floor: a label for the pack, "this is play, mistakes are cheap here" (the wolf's play bow, "a footnote:
+  that was not a bite"; the rat's chirp; the ape's panting). Play is the place where mistakes are cheap.
+- Tickling: a touch the forecast missed, in a dangerous place (where a wolf's teeth go), from one of your own, in a
+  good mood; take any one away and there is no laughter. You cannot tickle yourself because the head subtracts its
+  own forecast; delay the touch through a robot and it tickles. Peekaboo is the same false alarm.
+- Upper floor (a hypothesis, said to be one): mirth is a bonus the brain pays itself for a wrong guess caught in its
+  own picture of the world while still cheap (Hurley, Dennett, Adams). The head makes silent guesses by the hundred
+  and builds on them; the wrong ones lie "like a rake in the grass". The miser will not pay for checking what
+  already works, so the check is bribed. In the series' terms: a watchdog (18) at the correlator (19, 33), fed for
+  every catch. A joke is a mistake made on purpose to be found: the comedian is a confectioner (sugar, 18); Oleg
+  himself calls it our own reward hacking (22).
+- Oleg's strongest objection (Provine): most laughter follows no joke, the speaker laughs more than the listener,
+  30 times more laughter in company; "your theory explains the joke, not the roar". Accepted: two floors, and the
+  roar is the older. **Andrey's guess, marked as a guess**: both floors say "a mistake, and a cheap one" (the friend
+  who slips on the ice and gets up; "a new tenant in the old shed"). Which floor carries a given laugh is unmeasured.
+- Anthropocentrism exposed: "only man laughs" (Aristotle) and "humour is the height of the human spirit" name a
+  task after our way of doing it, as with sleep. The task (to catch one's wrong guesses while they are cheap) stands
+  before anything that learns; the pleasure and the roar are a way, and not ours alone.
+- Second conclusion: a joke whose rake lies in a heavy image (19) brings no bonus but the watchdog that defends a
+  decision already made (18): "an offence is a joke for which the bill came instead of the bonus". A sense of humour
+  measures the readiness to have one's images corrected. Oleg names the mountain himself (the spade): shovel-centrism
+  made him grin in the first autumn and not once last autumn, "only the handle had grown"; Twain's Eiffel Tower is
+  funny because it is "about the neighbour". Anthropocentrism is funny from a distance and not close up. Andrey: on
+  the blog the spade joke got anger and no laughter, "I lost the hall".
+- Oleg's objection to that (the joke may be bad; Andrey may be wrong; sad things are not funny): all three accepted.
+  A silent hall proves nothing; "the truth is not settled by laughter"; the ruler works only on oneself. Tried on
+  Andrey: he laughs at once at Zeno's slave (it is on his side: determinism vs fatalism, 17), has learned to laugh at
+  "human-level AI by the end of 2018" (16), and does **not** laugh at his own marks of 27–30 ("that is where my
+  heavy image lies; ask again when the needles move"). Oleg writes it into the notebook.
+- The machine (brought in by Oleg, who had asked a chatbot for a joke and got the scarecrow twice): it repeats our
+  jokes (2023) and is rated no worse than laypeople and level with professional headline writers (2024). "Does it
+  laugh?" is badly posed: the task and our way. In training a language model does nothing but catch its own misses
+  (21), and no bonus is needed where the check cannot be skipped ("nobody to bribe"); whether anything is felt is the
+  axiom of 20, not a proof; in conversation it does not learn (33) and lays out our rakes: "a confectioner without a
+  tongue". What the heir will have in place of laughter: **not known**; whether it needs a play label depends on
+  whether it has a pack.
+- Fourth tick "again". Nobody says the forbidden word.
+
+**Images and devices used**: the hunters joke told by Oleg and Andrey's two-second delay ("a captain laughs last, he
+is watching the hall"); "explain a joke and you kill it. — But the post-mortem will show what it lived on", and the
+callback "Are you sure? — I've made sure"; the bat detector; "blind, deaf and tasty. — And loud"; the play bow as a
+footnote; the elk's hoof; the stranger on the bus; peekaboo; the rake in the grass and the measured handle; weeding
+"when my wife is watching"; the confectioner with a sweet tooth; the deputy head who fell off her chair (the
+author's school comedy team, from his prose); the friend on the ice; "a pack in a tin"; "a subsidy for
+stocktaking"; the young colleague's joke about old engineers ("forty years of how I worked"); the spade; the trap
+with the name of the blog; "Gloomy. Even my laugh turns out to be an accountant's. — An accountant's, but yours. And
+the rat's."
+
+**Facts used** (checked against PubMed or arXiv abstracts unless marked): Panksepp & Burgdorf 2003, Physiology &
+Behavior 79 (play- and tickle-induced chirps of about 50 kHz; Bowling Green, Ohio); Ishiyama & Brecht 2016, Science
+354 (anxiogenic conditions suppress tickling-evoked calls); Davila-Ross, Owren & Zimmermann 2009, Current Biology 19
+(tickled young orangutans, gorillas, chimpanzees, bonobos and human infants; the acoustic tree matches the genetic
+one; human laughter is egressive); Blakemore, Wolpert & Frith 1998, Nature Neuroscience 1 (self-produced touch is
+less ticklish; the cerebellum predicts it); Mobbs et al. 2003, Neuron 40 (funny cartoons engage the nucleus
+accumbens, in proportion to funniness); Jentzsch & Kersting 2023, arXiv 2306.04563 (over 90% of 1,008 jokes were the
+same 25); Gorenz & Schwarz 2024, PLOS ONE 19(7) (ChatGPT 3.5 jokes rated as funny as or funnier than laypeople's;
+headlines level with The Onion's). **From the writer's memory, not checked** (web search kept to these abstracts and
+to link checks, at the keeper's request): the robot with delays of 0.1–0.3 s (Blakemore, Frith & Wolpert 1999); the
+rat details (tickling twice as loud as play, the tickling hand preferred to the stroking one, pups keeping to adults
+that chirp more, the 22 kHz alarm call); the scarecrow as the chatbot's most frequent joke; rat hearing to about 80 kHz; the
+common ancestor "more than ten million years back"; Bekoff's play bows before and after bites with a head shake;
+Darwin 1872 (a child tickled by a stranger screams; a joke as "tickling of the mind"); laughter in children born
+deaf and blind (Eibl-Eibesfeldt); Hurley, Dennett & Adams, *Inside Jokes* (2011); Hobbes, Freud, Kant; Provine
+(about 1,200 laugh episodes, under 20% after anything like a joke, speakers laugh 46% more; 30 times more laughter
+in company: Provine & Fischer 1989); the laugh track since 1950; Wiseman's LaughLab 2001–2002 (about 40,000 jokes,
+over a million ratings, the hunters joke first); Twain, "Was the World Made for Man?" (1903, in *Letters from the
+Earth*); Zeno and the slave (Diogenes Laertius); Aristotle on man as the only animal that laughs. Check them before
+reusing. Not used: the dog's "play pant" (Simonet), the rats that play hide-and-seek (2019), benign violation
+theory, the New Yorker caption studies.
+
+**Figures**: `laughter-out-of-hearing` (rounded figures), `tickle-with-a-delay` (a scheme, not data),
+`cheap-mistake-three-floors` (a scheme of Andrey's guess).
+
+**Left for later**: the row "laughter" of the table "task of any mind / our way" → 46 (36 gives the row: to reward a
+mistake found / a roar, a signal to the pack); whether the heir will have a pack and need a play label ("a separate
+evening") → the evenings on the heir's social order; music as a reward for a true forecast and its hacking → 41 (not
+touched); the comedian's trade under the shield "made by a human" (24) was not developed; Andrey's own heavy image
+(the marks of 27–30) → the check of the marks, about 2028; Oleg's next question, "the scarecrow cost me nothing, and
+the firms that make these programs lose billions a year and are valued at hundreds of billions: who is laughing at
+whom? What would Marx say?" (Andrey: "a problem for the second grade, about Petya, Vasya and Kolya; bring a
+pencil") → 37.
