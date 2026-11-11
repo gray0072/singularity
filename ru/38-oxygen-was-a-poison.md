@@ -403,4 +403,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [27](./27-scenario-of-events.md), [29](./29-silence-of-the-universe.md), [35](./35-pot-on-the-stove.md), [37](./37-who-exploits-whom.md).
 
-[← 37](./37-who-exploits-whom.md) · [Оглавление](./README.md)
+[← 37](./37-who-exploits-whom.md) · [Оглавление](./README.md) · [39 →](./39-price-of-a-false-alarm.md)

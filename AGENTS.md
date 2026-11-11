@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–38 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `39`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–39 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `40`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–38.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–39.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -258,6 +258,11 @@ articles as closely as possible. In practice:
 | анаэроб | anaerobe | a living thing that does without oxygen and often dies of it; the former masters of the planet, now in niches: silt, the gut, a sealed jar (38) |
 | ниша | niche | the first of the fates of former masters: everything is kept as it was, at the price of the planet's surface and of the say in what the environment will be (38) |
 | обмен веществ (техносферы) | metabolism (of the technosphere) | what a form of life eats, builds itself from and throws out; the economy is the technosphere's metabolism, and ecology is what that metabolism does to the environment of the form of life before it (38) |
+| ложная тревога и пропуск | false alarm and miss | the two mistakes of anything that decides on incomplete data; one screw sets both: fewer of the one means more of the other, and the prices decide where it stands (39) |
+| принцип дымового датчика | smoke detector principle | Nesse's term: a defence that mostly goes off for nothing may be tuned exactly right, because a miss costs far more than a false alarm; in the series, why the correlator is tuned for false alarms (39) |
+| суеверие | superstition | a link invented by a learner that links what came together before it knows why; the price of the ability to learn, paid by the pigeon, by us and by the machine (39) |
+| общая причина | common cause | two events that go together with no road from one to the other, because both follow from a third: the round date behind the dream and the call; "two cocks crow at dawn, and neither woke the other" (39) |
+| эффект Умного Ганса | Clever Hans effect | the right answer for the wrong reason: the horse that read its questioner, the program that learned the stamp in the corner of the photographs (39) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

@@ -560,10 +560,12 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 6).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 7).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
-  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37 and 38 nobody said it. Andrey has not said it yet.
+  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it. Andrey has not said it yet.
+  A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
+  promises none, Andrey goes for firewood "without having said the word".
 
 ## 33. On the Use of Sleep, or Why Spend a Third of Your Life Unconscious
 
@@ -1025,3 +1027,125 @@ table → 48, 52 (38 gives the row "a niche"); "pull the plug: count who hangs o
 leaving for space was only pointed at (29); what the heir will do with the environment it does not need was left as
 Andrey's forecast, without dates; Oleg's next topic, page three of the notebook, "why dreams come true" ("Has one
 come true for you? — Not for me. My grandmother's did, all the time. — Then sleep attentively tonight") → 39.
+
+## 39. Oleg's Prophetic Dream and the Price of a False Alarm
+
+**Established**
+- The answer to "why dreams come true" (33, 38). Oleg slept "attentively", dreamt of Genka, a classmate unseen for
+  thirty years, and Genka phoned at nine in the morning: "Explain that, determinist." Andrey's first question: "And if
+  he had not called, would you have told me this dream?"
+- The arithmetic, on Oleg's own figures "taken from the ceiling": about 11,000 nights in thirty years; about 300
+  people known once and lost; one of them turns up about five times a year (one day in seventy); a dream of one of
+  them is remembered once a month (360 dreams). One dream: 1/70 × 1/300 = one in 21,000; 360 dreams: **about one
+  chance in sixty** in thirty years. Oleg takes it as a win ("I wouldn't put money on such a horse"), and Andrey
+  agrees that it is rare. Three widenings: the window is really a week (one in eight); the story would have been
+  brought if it had happened to any of some forty people (about five stories in thirty years, and Oleg counts about
+  that many); and the strict version across more than a hundred million adults gives **about 150 people every
+  morning**. Littlewood's law is given in one sentence. The figures "give the order and no more".
+- The dreams that did not come true cannot be named: they were written off in the stocktaking of 33, and the one that
+  matched got a weight for life (the significance coefficient of 19, not named). "Your ledger has an income column
+  and no expense column. Not because you are a dishonest bookkeeper. The warehouse is built that way."
+- The birthday problem (Oleg's class of thirty: he says "under a tenth", it is seven in ten; 435 pairs; 23 people
+  are enough for more likely than not). Anthropocentrism exposed in the small: "I counted from myself"; the first
+  number is about you, the second about the world, "the marvel lives in the gap between them". Oleg: "anthropocentrism
+  in a pocket edition".
+- The determinist's answer (17): Genka is gathering the class for forty-five years since school; the round date has
+  sat in two heads since the winter: **a common cause** ("two cocks crow at dawn together, and neither has woken the
+  other"). Oleg had gone to bed waiting for a dream, or he would not have remembered it. "Chance or not?" is badly
+  posed: for Andrey nothing is by chance, "chance" names the causes he cannot trace; the real question is whether
+  there is a short road from the dream to the call or only the long one through the common past. One short road was
+  found (the date); a road straight from the dream to the call Andrey does not see, "a fact about me, not about the
+  road". Whether tomorrow can be remembered is deferred (59).
+- The grandmother's dream book (raw meat, a tooth with blood, fish; a family of forty; no term; "prayed it away"): a
+  forecast with no date and no refuting outcome "can't help coming true". Andrey's dated marks of 27–30 are named as
+  the opposite, "for that very reason".
+- Why we are built so. The kitchen smoke detector that screams at every cutlet: two mistakes, **a false alarm and a
+  miss**, and one screw between them; it is set by the prices. The four squares in the ash (wind or snake, jumped or
+  stayed): if a life is worth 100,000 minutes, it pays to jump when one rustle in 10,000 is a snake. Nesse's smoke
+  detector principle; Foster and Kokko's formula. "We descend from those who jumped at the wind. Those who waited for
+  proof were right more often, and left fewer children." The scream before the proof is the watchdog of 18, "barking
+  before the scales have even been brought".
+- Omens are the same screw with a lesson at stake: Oleg's tinned sprats of 1985 and the rat's taste aversion. **To
+  learn is to link what came together before you know why**; whoever links at the first coincidence learns fast and
+  sometimes knocks on wood. Skinner's eight pigeons (six with rituals) and the niece's "Freebie, come!" with the
+  record book out of the window ("those who failed shouted badly"). The 1971 dispute over Skinner's reading is given.
+- Oleg's strongest objection ("practice stands above theory; this happened to me; your probabilities are an excuse
+  that can't be checked") is **not argued with**: the arithmetic proves only that a coincidence is enough, so the
+  dream proves nothing in either direction. Andrey tells his own case from the author's novella (ch. 13): guessing
+  cards with a friend, an apprentice electrician (up to nine in ten eye to eye, six in ten from the next room,
+  nothing with two other friends), then the test with Zener cards and the long black shadow that slid from the
+  window, crossed the floor and went under the door, tested with a frying pan (it had to be held against the wall
+  inside the room; its shadow was pale and blurred; a shadow climbs up a door and does not go under it; about four
+  metres long, "a skittle moving knob first"). "And what was it? — I don't know."
+- **The probabilities are the continuation's, not the novella's**: for the cards, seven in ten on "the horse and the
+  two cocks" (Clever Hans cues eye to eye; alike habits of choice if the card was not drawn by lot, "I wouldn't
+  swear to it now"; the count kept by the two who wanted it to work), two on a generous count, one for what he cannot
+  name; for the shadow, one in twenty that it was a shadow of something outside, and beyond that "my list of
+  candidates is empty". No label is hung on it, "neither miracle nor nonsense". "Practice is what can be repeated, or
+  at least was written down before the outcome. One case told afterwards is a recollection. Mine too."
+- The method: the notebook by the bed, "Dreams. Before the phone", counted in a year. "Is this the whole of science?
+  A notebook where the dreams that didn't come true are kept? — The greater part of it. Written before, checked
+  after, counted all."
+- The machine is brought in by Oleg after the middle (the chatbot gave him the same arithmetic "without a shiver": "a
+  mind without a grandmother"). Andrey: the horse classifier that learned the archive's stamp ("its black cat"; "a
+  horse again"), the flu forecast fitted from fifty million phrases to about a thousand points ("my three hundred
+  classmates and eleven thousand nights, only without a conscience"). Whether the machine fears anything is **not
+  claimed**; it has prices: a false link that fits the exercise book is paid like a true one, and at the exams "I
+  don't know" gets nought while a guess sometimes gets a point ("the snake and the minute"; Oleg's invented book of
+  33). "This time the prices were set by us, not by the grass" (22). The row for the table of 46: the task (on
+  incomplete data, to choose which mistake to make more often) / our way (fear, the dream book, knocking on wood).
+  What the heir's way will be is not known; it can keep all 360 dreams and count them, so it will be less
+  superstitious where somebody examines it in a new place and more where nobody does. "Who will examine it when we
+  no longer can?" is deferred.
+- Oleg turns the weapon on Andrey: "One feeder, seven dances. How are you better than the pigeon?" Andrey: "the best
+  question of this spring. I may be no better"; the pigeon does not write down the times the food did not come, and
+  the marks lie in Oleg's notebook, written before the outcome; "whether that is enough we shall see". The question
+  goes on the last page of the notebook → 66.
+- Strengths stated: solid (the birthday pairs, the detector's screw, the stamp, the flu counted twice over); argued
+  about (what the pigeon links); Oleg's (the three hundred, the one in seventy, the 150 every morning); Andrey's
+  without proof (our omens and the machine's stamps are one and the same tilt); open (the shadow, and Genka "until
+  the notebook is full"). "I had one miracle, and you divided it by sixty. — I left it to you. One in sixty is a rare
+  thing. I only said that it isn't a message."
+- Nobody says the forbidden word; seventh tick "again".
+
+**Images and devices used**: the frying pan with potatoes (put on the coals, held up between the fire and the spruce
+to cast a shadow that "climbs the trunk", put back at the end); Genka, the corridor and the ruler; "I wouldn't put
+money on such a horse"; the wife's aunt and the telegram, the neighbour's burnt bathhouse; the other fires; "a
+miracle a month, on schedule"; the ledger with no expense column; Lyuda and Vovka, 12 April; 435 tickets; "the marvel
+lives in the gap"; two cocks at dawn; the short road and the long road; "till Thursday", "prayed it away"; "Freebie,
+come!"; the cutlet and the towel; knuckles raised over the log; the four squares in the ash; "no more entries in the
+ledger"; sprats in tomato sauce; "a superstition of the stomach"; "a pigeon, a rat and my grandmother"; the list with
+an empty line; "Dreams. Before the phone"; "a mind without a grandmother"; the black cat in the corner of a
+photograph; the exercise book and the exam; "one feeder, seven dances"; "To within the ceiling the numbers were taken
+from."
+
+**Facts used**: from the writer's memory, with web checks kept to the links and to four pages (at the keeper's
+request); **check before reusing**. Checked on the day of writing: Littlewood's law as retold by F. Dyson (one event a
+second for eight hours a day, about a million a month); the Hans Commission of thirteen (Stumpf; a circus manager,
+the zoo director); Skinner 1948 (the rituals as listed); Lapuschkin et al. 2019, Nature Communications 10:1096 (a
+Fisher-vector classifier on PASCAL VOC 2007 relied on a source tag present in about a fifth of the horse images;
+removing it removed the "horse", pasting it on a car made a horse); Google Flu Trends (twice the CDC's doctor visits
+in the 2012–13 season); Kalai, Nachum, Vempala and Zhang, "Why Language Models Hallucinate" (arXiv 2509.04664,
+September 2025). From memory: the birthday figures are computed exactly in `tools/figures.py` (50.7% at 23, 70.6% at
+30, 99% at 57; 7.6% for one's own birthday at 30); Nesse's smoke detector principle (2001, 2005); Foster & Kokko
+2009 (Proc. R. Soc. B 276); Garcia's taste aversion in rats (1955, 1966: long delays, X-rays); Skinner's eight
+pigeons at 15-second intervals, six with rituals; Staddon & Simmelhag 1971; Pfungst 1907 (Hans right about 89% of
+the time when the questioner knew the answer and about 6% when not: given as "about nine in ten" and "hardly ever";
+**the 89% and 6% were not found on the Wikipedia page, check**); Vasiliev (Leningrad physiologist, books on
+telepathy); the five Zener symbols; Google Flu Trends (2008; 50 million search terms against 1,152 data points;
+school basketball terms weeded out by hand: Lazer et al., Science 2014). The author's case: the novella
+*Podpolshchiki*, ch. 13 (the cards: up to 90% eye to eye, 60% from the next room, no link with two other friends;
+the shadow and the frying pan); the friend is not named. Invented for the frame (Oleg's side, not the author's):
+Genka, the forty-five years since school, the niece's ritual, the sprats, the grandmother's dream book. Not used:
+the voices of ch. 11 and the 95% / 70% estimate; the pneumonia X-ray network that learned the hospital (Zech et al.
+2018; drafted and cut); the husky and the snow; pareidolia; the hot hand; Heider and Simmel (it belongs to 50).
+
+**Figures**: `dreams-and-one-call` (a scheme of Oleg's count), `shared-birthday` (an exact count),
+`price-of-two-mistakes` (a scheme).
+
+**Left for later**: why we see a somebody behind every movement → 50 (not touched); whether tomorrow can be
+remembered → 59 ("a separate evening"); "how are you better than the pigeon", on the last page of the notebook → 66;
+who will examine the machine "when we no longer can" → the evenings on the heir's knowledge (60); the row
+"superstition" of the table → 46; Oleg's notebook of dreams, to be counted in a year (a prop for the evenings of
+2028); Oleg's next question, from Genka's news: "the plant is closed and the town stands; how is that?" (Andrey:
+"count for tomorrow how many times a mouse's heart beats in its life, and an elephant's") → 40.

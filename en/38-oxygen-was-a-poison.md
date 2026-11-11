@@ -403,4 +403,4 @@ Oleg got up, took the jar and looked at the lid against the fire.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [13](./13-singularity-as-process.md), [14](./14-apoptosis-of-humanity.md), [27](./27-scenario-of-events.md), [29](./29-silence-of-the-universe.md), [35](./35-pot-on-the-stove.md), [37](./37-who-exploits-whom.md).
 
-[← 37](./37-who-exploits-whom.md) · [Contents](./README.md)
+[← 37](./37-who-exploits-whom.md) · [Contents](./README.md) · [39 →](./39-price-of-a-false-alarm.md)

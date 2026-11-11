@@ -2485,6 +2485,152 @@ def whose_breath(lang):
     return f
 
 
+# --- 39. Oleg's Prophetic Dream and the Price of a False Alarm --------------------------------------
+
+@figure("dreams-and-one-call")
+def dreams_and_one_call(lang):
+    t = {
+        "en": dict(title="Three hundred and sixty dreams, one phone call",
+                   sub="Oleg's count: once a month for thirty years he woke remembering an old acquaintance in a dream.",
+                   years="thirty years, twelve dreams a year",
+                   grey="the phone did not ring: written off, and not one of them can be named",
+                   hit="the phone rang in the morning: remembered for life",
+                   note="The ledger of memory has an income column and no expense column.",
+                   src="A scheme of Oleg's rough figures, not data."),
+        "ru": dict(title="Триста шестьдесят снов и один звонок",
+                   sub="Счёт Олега: раз в месяц тридцать лет подряд он просыпался и помнил, что снился кто-то из давних знакомых.",
+                   years="тридцать лет, двенадцать снов в год",
+                   grey="телефон не зазвонил: списаны, и ни одного не назвать",
+                   hit="утром зазвонил телефон: запомнен на всю жизнь",
+                   note="В бухгалтерии памяти есть графа «приход» и нет графы «расход».",
+                   src="Схема прикидок Олега, а не данные."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, y0, dx, dy = 46, 96, 23, 15
+    for c in range(30):
+        for r in range(12):
+            hit = c == 29 and r == 4
+            f.circle(x0 + c * dx, y0 + r * dy, 6.5 if hit else 3.8, fill=ORANGE if hit else MUTED,
+                     opacity=1 if hit else 0.5)
+    yb = y0 + 11 * dy + 22
+    f.line(x0 - 4, yb, x0 + 29 * dx + 4, yb, color=INK2, width=1.2, arrow=True)
+    f.text(x0 - 4, yb + 18, t["years"], size=12, color=INK2)
+    f.circle(50, 322, 3.8, fill=MUTED, opacity=0.5)
+    f.text(64, 326, t["grey"], size=13, color=INK2)
+    f.circle(50, 344, 6.5, fill=ORANGE)
+    f.text(64, 348, t["hit"], size=13, color=INK, weight="600")
+    f.text(732, yb + 18, t["note"], size=12.5, color=INK, italic=True, anchor="end")
+    f.text(28, 384, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("shared-birthday")
+def shared_birthday(lang):
+    t = {
+        "en": dict(title="Two people with the same birthday",
+                   sub="The chance that at least two people in a group share a birthday: any two, not you and somebody.",
+                   x="people in the group", any="any two",
+                   marks={23: "23 people: 50.7%\n253 pairs", 30: "30 people: 70.6%\n435 pairs",
+                          57: "57 people: 99%"},
+                   me="somebody shares your own birthday:\n7.6% in a group of 30",
+                   src="An exact count for 365 equally likely days."),
+        "ru": dict(title="Двое с общим днём рождения",
+                   sub="Шанс, что хотя бы у двоих в компании день рождения совпадёт: у любых двоих, а не у тебя с кем-то.",
+                   x="человек в компании", any="любые двое",
+                   marks={23: "23 человека: 50,7%\n253 пары", 30: "30 человек: 70,6%\n435 пар",
+                          57: "57 человек: 99%"},
+                   me="у кого-то день рождения как у тебя:\n7,6% в компании из 30",
+                   src="Точный счёт для 365 равновероятных дней."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yb, yt = 84, 716, 312, 104
+
+    def X(n):
+        return x0 + n / 60 * (x1 - x0)
+
+    def Y(p):
+        return yb - p * (yb - yt)
+
+    def any_two(n):
+        q = 1.0
+        for k in range(n):
+            q *= (365 - k) / 365
+        return 1 - q
+
+    def with_me(n):
+        return 1 - (364 / 365) ** (n - 1)
+
+    for p, label in ((0, "0"), (0.5, "50%"), (1, "100%")):
+        f.line(x0, Y(p), x1, Y(p), color=INK2 if p == 0 else GRID, width=1.2 if p == 0 else 1,
+               dash="4 4" if p == 0.5 else None)
+        f.text(x0 - 10, Y(p) + 4, label, size=11.5, color=INK2, anchor="end")
+    for n in (10, 20, 30, 40, 50, 60):
+        f.line(X(n), yb, X(n), yb + 5, color=INK2, width=1.2)
+        f.text(X(n), yb + 20, str(n), size=11.5, color=INK2, anchor="middle")
+    f.text(x1, yb + 40, t["x"], size=11.5, color=INK2, anchor="end")
+    for fn, color, width in ((with_me, MUTED, 2), (any_two, BLUE, 2.5)):
+        d = "M" + " L".join(f"{X(n):.1f},{Y(fn(n)):.1f}" for n in range(1, 61))
+        f.path(d, color=color, width=width)
+    f.text(X(12), Y(any_two(12)) - 16, t["any"], size=12.5, color=BLUE, anchor="end", weight="600")
+    for n, label in t["marks"].items():
+        f.circle(X(n), Y(any_two(n)), 4.5, fill=ORANGE)
+        if n == 57:
+            f.text(X(n) - 8, Y(any_two(n)) + 24, label, size=12.5, color=INK, anchor="end", weight="600")
+        else:
+            f.text(X(n) + 12, Y(any_two(n)) + 16, label, size=12.5, color=INK, weight="600")
+    f.circle(X(30), Y(with_me(30)), 4, fill=MUTED)
+    f.text(X(33), Y(with_me(30)) - 28, t["me"], size=12, color=INK2)
+    f.text(28, 384, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("price-of-two-mistakes")
+def price_of_two_mistakes(lang):
+    t = {
+        "en": dict(title="Two mistakes and their prices",
+                   sub="Something rustles in the grass. The four squares Andrey drew in the ash.",
+                   cols=["it was the wind", "it was a snake"], rows=["jumped away", "stayed"],
+                   cells=[[("a false alarm", "a minute lost"), ("right", "alive")],
+                          [("right", "nothing lost"), ("a miss", "a life lost")]],
+                   note="If a life is worth 100,000 such minutes, it pays to jump\n"
+                        "even when only one rustle in 10,000 is a snake.",
+                   src="A scheme. The smoke detector principle: Nesse (2001). "
+                       "Selection for links that are not there: Foster & Kokko (2009)."),
+        "ru": dict(title="Две ошибки и их цены",
+                   sub="В траве что-то шуршит. Четыре клетки, которые Андрей начертил на золе.",
+                   cols=["это был ветер", "это была змея"], rows=["отскочил", "остался"],
+                   cells=[[("ложная тревога", "потеряна минута"), ("верно", "жив")],
+                          [("верно", "ничего не потеряно"), ("пропуск", "потеряна жизнь")]],
+                   note="Если жизнь стоит 100 000 таких минут, отскакивать выгодно,\n"
+                        "даже когда змея — только один шорох из 10 000.",
+                   src="Схема. Принцип дымового датчика: Нессе (2001). "
+                       "Отбор на связи, которых нет: Фостер и Кокко (2009)."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    xs, top, head_h, row_h = [196, 462, 728], 88, 36, 84
+    fills = [[ORANGE, AQUA], [AQUA, RED]]
+    for k, label in enumerate(t["cols"]):
+        f.text((xs[k] + xs[k + 1]) / 2, top + 23, label, size=13.5, color=INK2, anchor="middle", weight="600")
+    for i, name in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.text(xs[0] - 16, y + row_h / 2 + 5, name, size=13.5, color=INK2, anchor="end", weight="600")
+        for k, (what, cost) in enumerate(t["cells"][i]):
+            color = fills[i][k]
+            mistake = color != AQUA
+            f.rect(xs[k] + 5, y + 5, xs[k + 1] - xs[k] - 10, row_h - 10, fill=color, stroke=color, width=1.2, r=8,
+                   opacity=0.14 if mistake else 0.07)
+            cx = (xs[k] + xs[k + 1]) / 2
+            f.text(cx, y + 37, what, size=15.5 if mistake else 13, color=color if mistake else INK2,
+                   anchor="middle", weight="700" if mistake else "normal")
+            f.text(cx, y + 59, cost, size=13.5, color=INK, anchor="middle", weight="600" if mistake else "normal")
+    f.text(28, 326, t["note"], size=13, color=INK, weight="600")
+    f.text(28, 384, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
