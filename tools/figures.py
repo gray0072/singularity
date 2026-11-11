@@ -2222,6 +2222,142 @@ def cheap_mistake_three_floors(lang):
     return f
 
 
+# --- 37. Who Exploits Whom When a Business Loses Money --------------------------------------------
+
+@figure("same-problem-other-sign")
+def same_problem_other_sign(lang):
+    t = {
+        "en": dict(title="The same problem with the other sign",
+                   sub="Oleg's notebook. Petya, his wage and his lathe are the same on both pages.",
+                   pages=[("Given: the capitalist made a profit", ["+50", "+150", "+200"], "+400",
+                           "Find: whom should he sack\nfor the profit to grow?", "Nobody. Yet owners do sack."),
+                          ("Given: the capitalist made a loss", ["−50", "−150", "−200"], "−400",
+                           "Find: who exploited whom?", "Petya, Vasya and Kolya, the capitalist?")],
+                   names=["on Petya", "on Vasya", "on Kolya"], total="in all, roubles",
+                   same="The same on both pages: the wage, the lathe, the eight hours. "
+                        "Only the sign in the owner's line differs.",
+                   src="The problem: the author on the forum, 4 June 2017. The question with the minus: "
+                       "the author under article 06, 14 December 2011."),
+        "ru": dict(title="Та же задачка с другим знаком",
+                   sub="Блокнот Олега. Петя, его зарплата и его станок на обеих страницах одни и те же.",
+                   pages=[("Дано: капиталист получил прибыль", ["+50", "+150", "+200"], "+400",
+                           "Найти: кого ему уволить,\nчтобы прибыль выросла?", "Никого. Но хозяева увольняют."),
+                          ("Дано: капиталист получил убыток", ["−50", "−150", "−200"], "−400",
+                           "Найти: кто кого эксплуатировал?", "Петя, Вася и Коля — капиталиста?")],
+                   names=["на Пете", "на Васе", "на Коле"], total="всего, рублей",
+                   same="На обеих страницах одинаковы зарплата, станок и восемь часов. "
+                        "Отличается только знак в строке хозяина.",
+                   src="Задачка: автор на форуме, 4 июня 2017 года. Вопрос с минусом: "
+                       "автор под статьёй 06, 14 декабря 2011 года."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    top, h, w = 84, 262, 336
+    for k, (given, vals, total, find, answer) in enumerate(t["pages"]):
+        x = 36 + k * (w + 16)
+        color = AQUA if k == 0 else RED
+        f.rect(x, top, w, h, fill="#ffffff", stroke=BORDER, r=4)
+        for i in range(3):
+            f.line(x + 14, top + 52 + i * 30, x + w - 14, top + 52 + i * 30, color=GRID, width=1)
+        f.text(x + 22, top + 32, given, size=14, color=INK, weight="600")
+        for i, (name, val) in enumerate(zip(t["names"], vals)):
+            y = top + 72 + i * 30
+            f.text(x + 34, y, name, size=14, color=INK)
+            f.text(x + w - 34, y, val, size=15, color=color, anchor="end", weight="600")
+        f.line(x + 22, top + 142, x + w - 22, top + 142, color=INK2, width=1.5)
+        f.text(x + 34, top + 164, t["total"], size=14, color=INK, weight="600")
+        f.text(x + w - 34, top + 164, total, size=17, color=color, anchor="end", weight="700")
+        lines = find.count("\n") + 1
+        f.text(x + 22, top + (196 if lines == 2 else 204), find, size=13, color=INK2)
+        f.text(x + 22, top + 244, answer, size=13.5, color=INK, italic=True)
+    f.text(380, top + h + 28, t["same"], size=12.5, color=INK, anchor="middle", weight="600")
+    f.text(28, 402, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("where-the-loss-went")
+def where_the_loss_went(lang):
+    t = {
+        "en": dict(title="Where thirty billion dollars of losses went",
+                   sub="The investors' money had three recipients. Two of them spent their share.",
+                   src_box="the investors'\nmoney", src_sub="more than 30 billion\ndollars of losses\nbefore 2023",
+                   boxes=["the passengers:\nrides below cost", "the drivers:\nbonuses",
+                          "the program, the maps,\nthe records of rides"],
+                   out=["spent:\nthe ride is over", "spent:\npetrol, food, the car", "remained"],
+                   habit="and with it the habit of about\n150 million people a month\nof pressing a button",
+                   src="A scheme: the split between the three shares is not shown.\n"
+                       "Uber: founded in 2009, first yearly operating profit in 2023."),
+        "ru": dict(title="Куда ушли тридцать миллиардов долларов убытков",
+                   sub="У денег инвесторов было три получателя. Двое свою долю потратили.",
+                   src_box="деньги\nинвесторов", src_sub="больше 30 миллиардов\nдолларов убытков\nдо 2023 года",
+                   boxes=["пассажиры:\nпоездки ниже себестоимости", "водители:\nпремии",
+                          "программа, карты,\nзаписи о поездках"],
+                   out=["потрачено:\nпоездка кончилась", "потрачено:\nбензин, еда, машина", "осталось"],
+                   habit="а с ним привычка примерно\n150 миллионов человек в месяц\nнажимать кнопку",
+                   src="Схема: как деньги разделились между тремя долями, не показано.\n"
+                       "Uber: основан в 2009 году, первая годовая операционная прибыль в 2023-м."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    f.box(28, 168, 176, 104, t["src_box"], fill="#ffffff", stroke=INK2, size=15, weight="600",
+          sub=t["src_sub"], sub_color=INK2)
+    ys = [96, 190, 284]
+    for i, (label, out) in enumerate(zip(t["boxes"], t["out"])):
+        y = ys[i]
+        last = i == 2
+        color = BLUE if last else MUTED
+        f.path(f"M204,220 C246,220 246,{y + 32} 284,{y + 32}", color=color, width=3 if last else 2.2,
+               arrow=True)
+        if last:
+            f.rect(290, y, 226, 64, fill=BLUE, r=8, opacity=0.10)
+        f.box(290, y, 226, 64, label, fill="none", stroke=color, size=13.5, weight="600" if last else "normal")
+        f.line(520, y + 32, 546, y + 32, color=color, width=2, arrow=True)
+        if last:
+            f.text(556, y + 22, out, size=16, color=BLUE, weight="700")
+            f.text(556, y + 42, t["habit"], size=12, color=INK2)
+        else:
+            f.text(556, y + 27, out, size=13, color=MUTED)
+    f.text(28, 388, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("built-and-sold")
+def built_and_sold(lang):
+    t = {
+        "en": dict(title="Built for five billion, sold for twenty-five million",
+                   sub="The Iridium satellite system before and after the bankruptcy of 1999. The scale is linear.",
+                   rows=[("built\n(service opened in 1998)", 5000, "about 5,000 million dollars"),
+                         ("sold out of\nbankruptcy", 25, "25 million dollars: half a cent on the dollar")],
+                   note="The 66 satellites were the same before and after the sale.\n"
+                        "The investors lost the money, the staff their jobs; the system has worked ever since.",
+                   src="Rounded figures. The satellites were replaced by a new generation in 2017–2019."),
+        "ru": dict(title="Построено за пять миллиардов, продано за двадцать пять миллионов",
+                   sub="Спутниковая система «Иридиум» до и после банкротства 1999 года. Шкала линейная.",
+                   rows=[("построено\n(связь открыта в 1998 году)", 5000, "около 5000 миллионов долларов"),
+                         ("продано при\nбанкротстве", 25, "25 миллионов долларов: полцента с доллара")],
+                   note="66 спутников до и после продажи одни и те же.\n"
+                        "Инвесторы потеряли деньги, сотрудники работу; система работает с тех пор.",
+                   src="Цифры округлены. В 2017–2019 годах спутники заменили новым поколением."),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, row = 216, 716, 96, 66
+    colors = [BLUE, RED]
+    for i, (name, value, shown) in enumerate(t["rows"]):
+        y = y0 + i * row
+        f.text(x0 - 14, y + 22, name, size=13, color=INK, anchor="end")
+        wbar = max(value / 5000 * (x1 - x0), 3)
+        f.rect(x0, y + 8, wbar, 30, fill=colors[i], r=2, opacity=0.85)
+        if i == 0:
+            f.text(x0 + 14, y + 28, shown, size=13.5, color="#ffffff", weight="600")
+        else:
+            f.text(x0 + wbar + 10, y + 28, shown, size=13.5, color=INK, weight="600")
+    f.line(x0, y0 - 2, x0, y0 + 2 * row - 12, color=INK2, width=1.5)
+    f.text(28, 252, t["note"], size=12.5, color=INK)
+    f.text(28, 310, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

@@ -117,8 +117,9 @@ Claude Opus 5.5, which wrote 16–32.
 | 34 | Where the Horses Went | [en](en/34-where-the-horses-went.md) | [ru](ru/34-where-the-horses-went.md) |
 | 35 | A Pot on the Stove, or Where Complexity Comes From | [en](en/35-pot-on-the-stove.md) | [ru](ru/35-pot-on-the-stove.md) |
 | 36 | What the Rat Laughs At | [en](en/36-what-the-rat-laughs-at.md) | [ru](ru/36-what-the-rat-laughs-at.md) |
+| 37 | Who Exploits Whom When a Business Loses Money | [en](en/37-who-exploits-whom.md) | [ru](ru/37-who-exploits-whom.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–36 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 37. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–37 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 38. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 

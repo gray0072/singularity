@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Built for five billion, sold for twenty-five million</title>
+
+<rect x="0.5" y="0.5" width="759" height="329" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Built for five billion, sold for twenty-five million</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">The Iridium satellite system before and after the bankruptcy of 1999. The scale is linear.</text>
+<text x="202.0" y="118.0" font-size="13" fill="#0b0b0b" text-anchor="end"><tspan x="202.0" dy="0.0">built</tspan><tspan x="202.0" dy="16.2">(service opened in 1998)</tspan></text>
+<rect x="216.0" y="104.0" width="500.0" height="30.0" rx="2" fill="#2a78d6" fill-opacity="0.85"/>
+<text x="230.0" y="124.0" font-size="13.5" fill="#ffffff" font-weight="600">about 5,000 million dollars</text>
+<text x="202.0" y="184.0" font-size="13" fill="#0b0b0b" text-anchor="end"><tspan x="202.0" dy="0.0">sold out of</tspan><tspan x="202.0" dy="16.2">bankruptcy</tspan></text>
+<rect x="216.0" y="170.0" width="3.0" height="30.0" rx="2" fill="#e34948" fill-opacity="0.85"/>
+<text x="229.0" y="190.0" font-size="13.5" fill="#0b0b0b" font-weight="600">25 million dollars: half a cent on the dollar</text>
+<line x1="216.0" y1="94.0" x2="216.0" y2="216.0" stroke="#52514e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="28.0" y="252.0" font-size="12.5" fill="#0b0b0b"><tspan x="28.0" dy="0.0">The 66 satellites were the same before and after the sale.</tspan><tspan x="28.0" dy="15.6">The investors lost the money, the staff their jobs; the system has worked ever since.</tspan></text>
+<text x="28.0" y="310.0" font-size="11.5" fill="#8a8985">Rounded figures. The satellites were replaced by a new generation in 2017–2019.</text>
+</svg>

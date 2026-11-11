@@ -560,10 +560,10 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 4).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 5).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
-  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went. Andrey has not said it yet.
+  Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37 nobody said it. Andrey has not said it yet.
 
 ## 33. On the Use of Sleep, or Why Spend a Third of Your Life Unconscious
 
@@ -829,3 +829,85 @@ touched); the comedian's trade under the shield "made by a human" (24) was not d
 the firms that make these programs lose billions a year and are valued at hundreds of billions: who is laughing at
 whom? What would Marx say?" (Andrey: "a problem for the second grade, about Petya, Vasya and Kolya; bring a
 pencil") → 37.
+
+## 37. Who Exploits Whom When a Business Loses Money
+
+**Established**
+- The author's "problem for the second grade" (forum, 4 June 2017) is solved aloud: if the capitalist's profit is 50
+  roubles from exploiting Petya, 150 from Vasya and 200 from Kolya, nobody should be sacked; yet owners sack and buy
+  a machine (06). Oleg's Marxist reply (profit is not pinned to each worker; the first to mechanise skims the surplus
+  of the neighbours' workers, then the rate of profit falls) is accepted by half: the author's "wave of extra
+  profit". Followed to the end (all factories lights-out) it gives "no profit anywhere" by Marx and "the buyers run
+  out first" by Andrey (07): "the same cliff by different roads".
+- The same problem with a minus (the author's unanswered question under 06, 14 December 2011: are the proletarians
+  the exploiters when surplus value has a minus sign?). Petya's wage, lathe and eight hours are the same on both
+  pages; only the sign in the owner's line differs, so "the word is not about Petya". The strongest reply (capital is
+  yesterday's unpaid labour, so a loss only returns what was taken) is tested on the author's relative (borrowed from
+  the whole family and a bank, hired three, lived half-starved while each of the three took home several times more):
+  the capital was other workers' savings, so "workers exploited workers", sillier still. The question is badly posed.
+- Where the 400 comes from: the union (the three and the lathe together make more than apart; the author's 2017
+  synergy, "the biggest thing Marx left out"). The owner's line is what is left of the difference; a union can come
+  out worse than its parts, and then the same line holds a minus.
+- Uber: more than 30 billion dollars of losses before its first yearly operating profit (2023). The money had three
+  recipients: passengers (rides below cost) and drivers (bonuses) spent their shares; the program, the maps, the
+  records of rides and the habit of about 150 million people a month remained (a heavy image, 19). Four banks, four
+  answers (investor, driver, passenger, the old taxi rank), one river: **exploitation is a view of the flow from one
+  bank**. Oleg's objection that the investors were baiting the spot to raise prices later is accepted: the sign then
+  flips, the program is the same, and the answer depends on the year in which the books are closed.
+- Oleg himself names the mountain (after the middle): at the makers of chatbots the driver's place is taken by a rack
+  of chips, the second recipient has gone, the first is fed like the roach, the third gets nearly everything ("the
+  technosphere; that isn't the forbidden word"). Andrey adds the firms in profit: under a plus the owner puts profit
+  back, under a minus the investor pays in; the receiving end is the same. The author's 2013 definition of capital
+  ("people's investment in the technosphere, which creates value and so returns the investment") is amended: it does
+  not always return it, and not always to those who invested. **A loss is an investment too, only its recipient is
+  not listed among the founders.**
+- Bankruptcy seen from the receiving end (Iridium): people on both sides of the till lose, what was built passes to
+  the next owner at a discount and works on. Limits conceded by Andrey: what was eaten is eaten (only the third share
+  counts); not everything built survives (the scrapped electric bicycles; "a branch that leads nowhere dries up";
+  the search is paid for by those who invest, as nature's is by those who die); a misinvestment is worse for the
+  technosphere too, so the claim is narrowed to "the only participant that does not lose what it has already
+  received". "Pays", "tries", "needs" are a manner of speaking (the water that "wanted" down, 35).
+- Schumpeter's creative destruction is accepted in full and recognised as the freebie of 25 (the cheap ride and the
+  free joke are paid for by an investor; Oleg is "the baited spot"). The two descriptions (people break and build for
+  people / the new displaces the old and people are fed for carrying the bricks) fit the same facts and differ in one
+  forecast: what happens when the bricks are carried without people. Which bank to stand on "can't be proved": it is
+  Andrey's choice, not a theorem.
+- Nobody says the forbidden word; fifth tick "again".
+
+**Images and devices used**: Oleg back from the pond with a rod, an empty keep-net and a pencil behind his ear (1,600
+roubles of groundbait, maggots, a lost float and petrol against three roach for the cat); the notebook spread with the
+plus page and the minus page; the number pinned to a coat in a cloakroom; "the same cliff by different roads"; the
+aunt's savings; "a big fish"; four banks and one river; the free canteen that opened at six; the baited spot; the
+bookshop and its warehouses; the rack in the driver's place; "nobody is flying anywhere"; both sides of the till;
+half a cent on the dollar; the factory with birches through the roof; the pike's eggs; the shopkeeper with no purse;
+carrying the bricks; "This morning I thought I had been robbed. It turns out I invested. — In the tackle shop" (the
+carbon rod, the grandfather's hazel one, the roach that has not changed); "Gloomy for the fisherman. — But objective.
+And the cat is fed."
+
+**Facts used**: the author's problem (forum thread, 4 June 2017), his question about the minus (comments under 06, 14
+December 2011), his relative, his definition of capital (forum, 7 November 2013); Marx's tendency of the rate of
+profit to fall; Uber (founded 2009; first yearly operating profit in 2023 after more than 30 billion dollars of
+losses, as the Financial Times put it, 31.5 billion; investors: SoftBank, the Saudi state fund, funds; H. Horan's
+count that in 2015 passengers paid about 41% of the cost of a ride; about 150 million monthly users at the end of
+2023; Jump electric bicycles scrapped in 2020); Amazon (opened 1995, first yearly profit 2003, about 3 billion
+dollars of accumulated losses by the end of 2002); OpenAI (operating loss 8.78 billion dollars in 2024 on 3.7 billion
+of revenue and 20.92 billion in 2025, from statements reported in June 2026; a funding round at 852 billion in March
+2026); the capital spending of Amazon, Microsoft, Alphabet and Meta, about 400 billion dollars in 2025; Apollo (about
+25 billion dollars of the time over 1960–1973, 200–300 billion today depending on the index); Iridium (66 satellites,
+about 5 billion dollars, service from 1 November 1998, Chapter 11 on 13 August 1999, Motorola's plan to de-orbit in
+2000, sold for 25 million, new satellites in 2017–2019, an agreement in 2026 to be bought by Rocket Lab at about 8
+billion dollars of enterprise value); Schumpeter, *Capitalism, Socialism and Democracy* (1942: creative destruction;
+silk stockings for queens and for factory girls). Checked only against the text of Wikipedia articles on the day of
+writing (Uber, OpenAI, Iridium, Apollo); the rest is from the writer's memory (web search kept to a minimum at the
+keeper's request). Check before reusing: Horan's 41%, Amazon's 3 billion, the 400 billion, the 150 million, the Jump
+bicycles. Not used: the railway mania (it is in 27); Böhm-Bawerk; the take rate of Uber.
+
+**Figures**: `same-problem-other-sign` (the author's problem on two pages), `where-the-loss-went` (a scheme, the
+split is not shown), `built-and-sold` (rounded figures, linear scale).
+
+**Left for later**: where the money comes from that can be lost fourteen years running and why it gathers with those
+who can afford that → 49 ("why money goes to money", already in the notebook); who owns the machines → 55; what
+money is "for one that has none to lose" → 47; who gets the dividends for accumulated knowledge → 57 (not touched);
+the crash of AI shares (the mark of 27, one in two before 2031) is only pointed at; Oleg's next topic, "no money at
+all, something clean, about nature: fresh air" (Andrey: "ask me tomorrow where it came from"; "the trees came much
+later"; "off the topic by two billion years and more") → 38.

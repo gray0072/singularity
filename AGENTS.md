@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–36 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `37`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–37 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `38`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–36.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–37.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -250,6 +250,10 @@ articles as closely as possible. In practice:
 | эффект мышеловки (транзистора) | mousetrap (transistor) effect | a small outlay of energy turns a larger flow; for the author, the condition under which evolution goes on (35) |
 | метка игры (игровой сигнал) | play label (play signal) | what marks a move as play: the wolf's bow, the rat's chirp, the ape's panting, our laughter; it tells the pack that mistakes are cheap here (36) |
 | премия за найденную ошибку | bonus for a mistake found | mirth, in the hypothesis of Hurley, Dennett and Adams: what the brain pays itself for a wrong guess caught in its own picture of the world while it is still cheap; a joke is a sweet made for that bonus (36) |
+| волна сверхприбыли | wave of extra profit | the temporary gain of the first owner who replaces human labour with a machine, until the market catches up; the author's answer to Ricardo, "right globally, wrong locally" (the comments under 06; 37) |
+| целое (синергетический эффект) | the union (synergy effect) | what people and machines put together make beyond the sum of their parts; profit or loss is what is left of that difference in the owner's line; for the author, the biggest thing Marx left out (37) |
+| прикормленное место | baited spot | customers fed below cost until the habit stays; it remains baited whoever sits on the bank next (37) |
+| созидательное разрушение | creative destruction | Schumpeter's term (1942): the new firm kills the old one; in the series, the same river described from the people's bank (37) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

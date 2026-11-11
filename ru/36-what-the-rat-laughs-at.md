@@ -385,4 +385,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [02](./02-anthropocentrism.md), [16](./16-fifteen-years-later.md), [17](./17-global-determinism.md), [18](./18-anatomy-of-wants.md), [19](./19-struggle-of-images.md), [20](./20-what-consciousness-is.md), [21](./21-machines-that-talk.md), [22](./22-who-sets-the-tasks.md), [33](./33-use-of-sleep.md).
 
-[← 35](./35-pot-on-the-stove.md) · [Оглавление](./README.md)
+[← 35](./35-pot-on-the-stove.md) · [Оглавление](./README.md) · [37 →](./37-who-exploits-whom.md)
