@@ -104,7 +104,7 @@ tools/
 - `NN` — two-digit sequence number in the series (`01`…`99`); it defines the reading order. The series is
   meant to be read sequentially: later articles build on conclusions of earlier ones.
   `01`–`15` are the author's originals; `16` onwards is the **continuation** written for this repository
-  (16–32 are written, in five parts; 33 opens Part VI; the next free number is `45`).
+  (16–32 are written, in five parts; 33 opens Part VI; the next free number is `46`).
 - `slug` — short English kebab-case name, **identical in every language** (`ru/02-anthropocentrism.md`
   and `en/02-anthropocentrism.md` are the same article). Slugs never change once published.
 - Numbers are never reused or renumbered.
@@ -284,6 +284,6 @@ Material for writing and translating, not published content of the series.
 4. Redraw the remaining charts (articles 05, 08, 10, 11) as SVG; replace the third-party picture of 09.
 5. Translate 01–15 into English (`en/`).
 6. Write the continuation in five parts: I. Re-examining the foundations (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30, ending with dated forecasts for 2031, 2036 and 2041), V. The new keeper (31: an essay by the model that wrote the continuation; 32: a fantasy set in 2041). Written: 16–32 — **done**; the Russian translations of 16–30 are reviewed, of 31–32 await review.
-7. Part VI, "Just Chatter" (33 onwards), written by Claude Fable 5.2: campfire evenings that start from questions off the topic; the plan is [`sources/next-evenings.md`](sources/next-evenings.md). Written: 33–44; their Russian translations await review.
+7. Part VI, "Just Chatter" (33 onwards), written by Claude Fable 5.2: campfire evenings that start from questions off the topic; the plan is [`sources/next-evenings.md`](sources/next-evenings.md). Written: 33–45; their Russian translations await review.
 8. New evenings (about 2028): check the dated forecasts of 27–30 honestly and add new ones.
 9. Further languages.

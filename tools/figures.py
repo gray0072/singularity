@@ -3485,6 +3485,165 @@ def how_the_old_makes_room(lang):
     return f
 
 
+# --- 45. Lamarck Was Right, but Too Early -------------------------------------------------------
+
+@figure("no-way-back-to-the-drawings")
+def no_way_back_to_the_drawings(lang):
+    t = {
+        "en": dict(title="No way back to the drawings",
+                   sub="Where experience is written, and what the next one gets.",
+                   body_h="a living body", mach_h="a machine",
+                   draw="the drawings", draw_sub="in the germ cells",
+                   body="the body", body_sub="hands, head",
+                   build="build",
+                   hammer="the hammer thickens the palm:\nexperience is written here",
+                   back="no translator, no address",
+                   son="the son", son_sub="gets the drawings only",
+                   weights="the weights", weights_sub="what is learned = what is copied",
+                   copy="a copy", whole="whole, in minutes",
+                   src="A scheme of Weismann's barrier (1880s–1890s) and of copying a trained network. "
+                       "The right half is Andrey's reading."),
+        "ru": dict(title="Обратной дороги к чертежам нет",
+                   sub="Где записан опыт и что достаётся следующему.",
+                   body_h="живое тело", mach_h="машина",
+                   draw="чертежи", draw_sub="в половых клетках",
+                   body="тело", body_sub="руки, голова",
+                   build="строят",
+                   hammer="молот утолщает кожу ладони:\nопыт записан здесь",
+                   back="нет переводчика, нет адреса",
+                   son="сын", son_sub="получает только чертежи",
+                   weights="веса", weights_sub="чему научилась = что копируют",
+                   copy="копия", whole="целиком, за минуты",
+                   src="Схема барьера Вейсмана (1880–1890-е) и копирования обученной сети. "
+                       "Правая половина — как её читает Андрей."),
+    }[lang]
+    f = Fig(760, 440, t["title"])
+    heading(f, t["title"], t["sub"])
+    f.line(410, 92, 410, 388, color=GRID, width=1.5)
+    f.text(214, 104, t["body_h"], size=13, color=INK2, anchor="middle", weight="600")
+    f.text(585, 104, t["mach_h"], size=13, color=INK2, anchor="middle", weight="600")
+    # left: the drawings build the body, and nothing goes back
+    f.box(44, 126, 150, 62, t["draw"], sub=t["draw_sub"], weight="600")
+    f.box(250, 126, 134, 62, t["body"], sub=t["body_sub"], weight="600")
+    f.line(196, 157, 246, 157, color=INK2, width=1.8, arrow=True)
+    f.text(221, 148, t["build"], size=11.5, color=INK2, anchor="middle")
+    f.text(392, 212, t["hammer"], size=12.5, color=ORANGE, anchor="end", weight="600")
+    f.path("M317,240 C317,292 139,292 139,194", color=RED, width=1.8, dash="5 5", arrow=True)
+    f.line(214, 270, 232, 288, color=RED, width=2.6)
+    f.line(232, 270, 214, 288, color=RED, width=2.6)
+    f.text(223, 312, t["back"], size=12.5, color=RED, anchor="middle", weight="600")
+    f.box(236, 332, 160, 56, t["son"], sub=t["son_sub"], size=13)
+    f.path("M70,190 C70,372 140,360 232,360", color=INK2, width=1.8, arrow=True)
+    # right: one box, three copies
+    f.box(450, 126, 270, 62, t["weights"], sub=t["weights_sub"], stroke=BLUE, weight="600")
+    for k in range(3):
+        x = 450 + k * 95
+        f.box(x, 320, 80, 46, t["copy"], stroke=BLUE, size=13)
+        f.line(585 + (k - 1) * 60, 192, x + 40, 314, color=BLUE, width=1.8, arrow=True)
+    f.rect(505, 244, 160, 22, fill=SURFACE, r=3)
+    f.text(585, 260, t["whole"], size=12.5, color=BLUE, anchor="middle", weight="600")
+    f.text(28, 424, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("thirty-nine-bits-a-second")
+def thirty_nine_bits_a_second(lang):
+    t = {
+        "en": dict(title="How wide the road is",
+                   sub="Bits a second, logarithmic scale: every step to the right is a hundred times more.",
+                   rows=[("human speech", "any of 17 languages", 39, "39"),
+                         ("Oleg's first modem", "early 1990s", 2400, "2,400"),
+                         ("a line between machine halls", "today, and more", 1e10, "10 billion")],
+                   note="Forty years of talk at four hours a day come to about 8 billion bits: one gigabyte.\n"
+                        "The line carries that in about a second, and the whole of a large talking machine in minutes.",
+                   src="Speech: Coupé, Oh, Dediu and Pellegrino (2019), an average over 17 languages. "
+                       "The other two rows are round figures."),
+        "ru": dict(title="Какой ширины дорога",
+                   sub="Бит в секунду, логарифмическая шкала: каждый шаг вправо — в сто раз больше.",
+                   rows=[("человеческая речь", "любой из 17 языков", 39, "39"),
+                         ("первый модем Олега", "начало 1990-х", 2400, "2400"),
+                         ("линия между машинными залами", "сегодня, и больше", 1e10, "10 миллиардов")],
+                   note="Сорок лет разговоров по четыре часа в день — около 8 миллиардов бит: один гигабайт.\n"
+                        "Линия переносит его примерно за секунду, а большую говорящую машину целиком — за минуты.",
+                   src="Речь: Купе, О, Дедиу и Пеллегрино (2019), среднее по 17 языкам. "
+                       "Две другие строки — круглые цифры."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, top, row = 290, 620, 104, 62
+
+    def X(v):
+        return x0 + math.log10(v) / 10 * (x1 - x0)
+
+    ticks = {0: "1", 2: "100", 4: "10⁴", 6: "10⁶", 8: "10⁸", 10: "10¹⁰"}
+    for k, label in ticks.items():
+        x = X(10 ** k)
+        f.line(x, top - 8, x, top + row * 3, color=GRID, width=1)
+        f.text(x, top + row * 3 + 18, label, size=11.5, color=INK2, anchor="middle")
+    colors = [ORANGE, INK2, BLUE]
+    for i, (name, sub, value, label) in enumerate(t["rows"]):
+        y = top + i * row
+        f.text(28, y + 24, name, size=14, color=INK, weight="600")
+        f.text(28, y + 42, sub, size=11.5, color=MUTED)
+        f.rect(x0, y + 10, X(value) - x0, 28, fill=colors[i], r=3)
+        f.text(X(value) + 8, y + 29, label, size=13.5, color=INK, weight="600")
+    f.text(28, 336, t["note"], size=12.5, color=INK)
+    f.text(28, 384, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("three-roads-of-heredity")
+def three_roads_of_heredity(lang):
+    t = {
+        "en": dict(title="Three roads of heredity",
+                   sub="What passes to the next one, who writes a correction, and how long it takes.",
+                   head=["what passes", "who writes a correction", "how long it takes"],
+                   rows=[("the drawings", "Darwin",
+                          ["the design", "the deaths of those\nwho lacked it", "many generations"]),
+                         ("speech and school", "Lamarck through a straw",
+                          ["a part of the experience,\n39 bits a second", "the one who learned;\nthe pupil grows it anew",
+                           "twenty years\non every head"]),
+                         ("the copy", "Lamarck whole",
+                          ["all the experience,\nas it is", "the one who learned", "minutes"])],
+                   src="The first two rows: biology and linguistics. The third: engineering, in Andrey's reading;\n"
+                       "it works only between heads of the same structure."),
+        "ru": dict(title="Три дороги наследственности",
+                   sub="Что переходит к следующему, кто вносит поправку и сколько это занимает.",
+                   head=["что переходит", "кто вносит поправку", "сколько это занимает"],
+                   rows=[("чертежи", "Дарвин",
+                          ["устройство", "смерти тех,\nу кого поправки не было", "много поколений"]),
+                         ("речь и школа", "Ламарк через соломинку",
+                          ["часть опыта,\n39 бит в секунду", "тот, кто научился;\nученик растит заново",
+                           "двадцать лет\nна каждую голову"]),
+                         ("копия", "Ламарк целиком",
+                          ["весь опыт,\nкак есть", "тот, кто научился", "минуты"])],
+                   src="Первые две строки — биология и лингвистика. Третья — инженерия, как её читает Андрей;\n"
+                       "работает только между головами одинакового устройства."),
+    }[lang]
+    f = Fig(760, 396, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [226, 396, 580, 736]
+    top, head_h, row_h = 86, 36, 72
+    bottom = top + head_h + row_h * 3
+    f.rect(28, top + head_h + 2 * row_h, cols[3] - 28, row_h, fill=ORANGE, r=0, opacity=0.10)
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 23, label, size=12.5, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        last = i == 2
+        f.line(28, y, cols[3], y, color=GRID, width=1.2)
+        f.text(40, y + 33, name, size=15, color=INK, weight="600")
+        f.text(40, y + 51, who, size=11.5, color=MUTED)
+        for k, cell in enumerate(cells):
+            lines = cell.count("\n") + 1
+            f.text((cols[k] + cols[k + 1]) / 2, y + {1: 41, 2: 33}[lines], cell, size=13,
+                   color=ORANGE if last else INK, anchor="middle", italic=last,
+                   weight="600" if last else "normal")
+    f.line(28, bottom, cols[3], bottom, color=GRID, width=1.2)
+    f.text(28, 364, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

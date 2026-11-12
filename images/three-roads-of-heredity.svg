@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="396" viewBox="0 0 760 396" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Three roads of heredity</title>
+
+<rect x="0.5" y="0.5" width="759" height="395" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Three roads of heredity</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">What passes to the next one, who writes a correction, and how long it takes.</text>
+<rect x="28.0" y="266.0" width="708.0" height="72.0" rx="0" fill="#eb6834" fill-opacity="0.1"/>
+<text x="311.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">what passes</text>
+<text x="488.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">who writes a correction</text>
+<text x="658.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">how long it takes</text>
+<line x1="28.0" y1="122.0" x2="736.0" y2="122.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="155.0" font-size="15" fill="#0b0b0b" font-weight="600">the drawings</text>
+<text x="40.0" y="173.0" font-size="11.5" fill="#8a8985">Darwin</text>
+<text x="311.0" y="163.0" font-size="13" fill="#0b0b0b" text-anchor="middle">the design</text>
+<text x="488.0" y="155.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="488.0" dy="0.0">the deaths of those</tspan><tspan x="488.0" dy="16.2">who lacked it</tspan></text>
+<text x="658.0" y="163.0" font-size="13" fill="#0b0b0b" text-anchor="middle">many generations</text>
+<line x1="28.0" y1="194.0" x2="736.0" y2="194.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="227.0" font-size="15" fill="#0b0b0b" font-weight="600">speech and school</text>
+<text x="40.0" y="245.0" font-size="11.5" fill="#8a8985">Lamarck through a straw</text>
+<text x="311.0" y="227.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="311.0" dy="0.0">a part of the experience,</tspan><tspan x="311.0" dy="16.2">39 bits a second</tspan></text>
+<text x="488.0" y="227.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="488.0" dy="0.0">the one who learned;</tspan><tspan x="488.0" dy="16.2">the pupil grows it anew</tspan></text>
+<text x="658.0" y="227.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="658.0" dy="0.0">twenty years</tspan><tspan x="658.0" dy="16.2">on every head</tspan></text>
+<line x1="28.0" y1="266.0" x2="736.0" y2="266.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="299.0" font-size="15" fill="#0b0b0b" font-weight="600">the copy</text>
+<text x="40.0" y="317.0" font-size="11.5" fill="#8a8985">Lamarck whole</text>
+<text x="311.0" y="299.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic"><tspan x="311.0" dy="0.0">all the experience,</tspan><tspan x="311.0" dy="16.2">as it is</tspan></text>
+<text x="488.0" y="307.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic">the one who learned</text>
+<text x="658.0" y="307.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic">minutes</text>
+<line x1="28.0" y1="338.0" x2="736.0" y2="338.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="364.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">The first two rows: biology and linguistics. The third: engineering, in Andrey's reading;</tspan><tspan x="28.0" dy="14.4">it works only between heads of the same structure.</tspan></text>
+</svg>

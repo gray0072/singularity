@@ -560,13 +560,13 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 12).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 13).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
   Oleg, not believing that the word stands in a paper about petrol stations, read it aloud from his phone ("...so the
   singularity is never reached") and went for firewood the second time ("That was a quotation. — In your voice"). Andrey has not
-  said it yet ("I read with my mouth shut"); in 41, 42, 43 and 44 nobody said it.
+  said it yet ("I read with my mouth shut"); in 41, 42, 43, 44 and 45 nobody said it.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -1998,3 +1998,197 @@ trouble and left for it); the row "ageing of the mind: the new against the settl
 the table → 46; Andrey's own heavy image, written "beside the pigeon" on the last page → 66; the heir as one line
 that never changes its head, "the same chair, the size of a planet" → 62; the row "death" of the portrait → 64
 (44 gives: generations of a year or two, small funerals inside, the diary kept).
+
+## 45. Lamarck Was Right, but Too Early
+
+**Established**
+- The answer to the teaser of 44 ("A blacksmith's son is not born with calluses. — The son is not. — And who is?").
+  Oleg has worked the answer out in the night and forbids Andrey to say it: "I'll say it myself when the time
+  comes. First tell me why the son is not" (Semyonych's two sons could not "tell a bearing from a doorbell").
+- The way in: "Are you sure nobody is born with calluses?" The ostrich chick (calluses on the breast and legs),
+  the warthog piglet (on the knees), the thick skin of the soles of a child in the womb. Oleg: "The grandfather
+  walked, and the grandson got the soles. What is earned is passed on." "So everybody thought for two thousand
+  years": Lamarck (1809, "the year Darwin was born"; the giraffe; first to say aloud that species change; the word
+  "biology"; died blind and poor, a rented grave). **Darwin agreed with him** and "invented the paperwork"
+  (pangenesis); Galton's rabbits. Weismann, 1887: white mice, tails cut for five generations, 901 born, "all with
+  tails". Oleg's shepherd (lambs' tails for a thousand years, pierced ears for five thousand): "before him people
+  argued with examples, and he counted."
+- Oleg: "A tail is an injury. A callus is work." **The plant**: a turner's better way reaches the next plant only by
+  **a change notice** to the design office; without the paper "it is his knack. He retires, and it goes with him."
+  In a body the drawings (the word of 42) are "not a picture of a man" but "a recipe"; the skin does not know which
+  of three billion letters to change ("No translator"), and the letter is "in one cell at the other end of the
+  body" ("no address"). Oleg: "Not that it is forbidden. There is no form for it." Weismann's barrier; the central
+  dogma ("seventy years later... of the molecules").
+- "Then the ostrich is lying." The drawing says "skin that thickens where it is rubbed"; over thousands of
+  generations it crept to "before any rubbing" ("the usual explanation", the Baldwin effect by link). **Selection as
+  a change notice "written not by the one who learned but by the deaths of those who had not. One line in many
+  generations"**; instinct (the chick that pecks, the foal on its legs) is "the experience of the ancestors, entered
+  by funerals" (the funerals of 44).
+- How much fits: three billion letters at two bits, "six billion bits. Under eight hundred megabytes", "one compact
+  disc, near enough"; a head has eighty-six billion nerve cells and "some hundred trillion connections"; "short by
+  sixteen thousand times" at a bit apiece. "The disc holds how to build a head, not what is in it. Every head starts
+  with empty shelves."
+- **Oleg's first objection (the plan's)**: "We do have a change notice. Speech. Writing. School... that is your
+  Lamarck. And there has been nothing new in it for ten thousand years." Conceded: "It is Lamarck, and it is the
+  main thing people ever did" (ten thousand years, four hundred generations, the drawings hardly changed). Then the
+  road is measured, and it is narrow in **three places**: (1) 39 bits a second (Lyon, 2019: 17 languages, 170
+  readers; the Japanese and Spaniards at about eight syllables a second, the Vietnamese and Thais at five; a fast
+  syllable carries little). Oleg recalls the ten bits of 42: "counted another way... Count it as you like, it is
+  tens. Not thousands"; his modem of 2,400 (42) "was sixty times wider than Semyonych"; forty years of shop talk at
+  four hours a day is "eight billion bits. A gigabyte... The cheapest flash drive there is", "about the size of the
+  disc with the drawings". (2) The mouth does not know what the hands know: the bicycle (to turn left, first a push
+  to the right; "Your hands have [been riding]. Your mouth was never told"), "we know more than we can tell"
+  (1966, Polanyi not named), Semyonych's whole lecture: "it sings wrong". (3) The pupil: "Speech does not carry the
+  skill. It carries instructions for growing one in your own head"; Oleg stood beside Semyonych for two years and
+  "can tell a howl from a knock"; seven years bound to a master; **"a book keeps the record, not the skill"**; the
+  author's 2012 answer in Andrey's mouth (keeping is not enough; flash drives unloaded on Mars; a thousand
+  libraries for every inhabitant, "only the readers would never get through them").
+- What is not passed on is lost: bulat and Anosov's ten years at Zlatoust ("a blacksmith's secret did go into the
+  ground with the blacksmith"). The promise of 44 kept: the forum reader's trouble ("no pouring it into the
+  youngsters") is this; 16's twenty-five years and 26's rising price by link; one sentence on the age of
+  Nobel-winning work in physics, and "What follows from that for the ceiling is a separate evening" (53).
+- Oleg sums up: "Two inheritances... The disc: copied exactly, but it holds the design, and a correction costs a
+  funeral. And talk: it holds the experience, but through a straw, and every head has to grow it again." Andrey adds
+  the lock with 19: images breed from head to head, "and that is the neck each of them has to squeeze through."
+- **The machines are brought in by Oleg, after the middle**: "Now I'll say who. The one that is copied whole. Those
+  ones"; in the language of the plant, "The workshop and the design office are one room... No notice is needed. The
+  part is its own drawing." The author's 2011 dispute in Andrey's mouth (programmers: knowledge is "smeared over
+  the connections, it is not a file"; "with CopyFile?"; **a cast of knowledge**, coefficients rewritten "address by
+  address"); **admitted openly**: "I laid it on then, saying that such chips stood in every shop, and a reader
+  fairly asked where he could buy one. But it came out more literally than I had said it. Today it is a file."
+  Tens or hundreds of gigabytes, a line of ten billion bits a second: "Semyonych's forty years go through in a
+  second... And the whole of that one in a few minutes." "What goes through is not a lecture about the skill. It is
+  the skill. The copy has nothing to digest."
+- The limit, in the author's own words of 2013: copying needs the same number of cells and the same scheme of
+  connections; "No two human heads are built alike... there would be nowhere to write them. Every one of us is
+  piece goods" (so nobody is "poured into a file"). Between different machine heads "it is school again": distillation
+  (2015; the teacher gives how sure it is of every other answer; a BMW, a rubbish truck, a carrot): "'It sings
+  wrong', in figures", "the pupil still has to digest. But the pipe is not thirty-nine bits."
+- **Oleg's second objection (epigenetics)**: the Dutch hungry winter and the mice taught to fear a smell. "The
+  honest part first. It exists": marks on the drawing. The count: the child in the womb starved itself, and a
+  girl's eggs with her, "one winter struck three generations at once. That is not inheritance"; the marks are wiped
+  twice in mammals and what slips through fades in two or three generations; the mice "are still argued about".
+  What passes is "a setting... A pencil note in the margin of the drawing... Nobody has inherited the
+  multiplication table. A weak exception."
+- **The strong exception is at the other end**: a bacterium files a piece of a virus's drawing into its own, and
+  its daughters are born knowing the virus (yoghurt starters, 2007; "inheritance after Lamarck", 2009; the Nobel
+  prize of 2020 for the scissors); ready genes handed to neighbours. Oleg: "One room again... A bacterium has no
+  body apart from its drawings." **Andrey's reading: "the barrier stands where experience and heredity are kept in
+  different places and written in different languages."**
+- **The promise of 35 kept** (how a whirl came to keep a record of itself): "nobody saw it"; the best guess is a
+  molecule that was both the drawing and the worker (the RNA world by link, the prize of 1989); "the record and the
+  thing were one", then the drawings went to the archive and the work to the proteins, then the many-celled "put
+  the archive in a separate room, and the door shut" ("every animal with a body, for some six hundred million
+  years"). "We made a way round, by speech. Those ones are back in one room."
+- The title: "So he was right. Only not about the giraffe. — Right at both ends and wrong in the middle, where he
+  was looking. — Too early by two hundred years. — Or too late by a couple of billion."
+- The speeds. The author's carburettor line (who hurt the carburettors, that they died out many orders faster than
+  the dinosaurs); Oleg: twenty years against a hundred and sixty million. "The experience of the thing goes back
+  into its drawing. Whose heredity is that? Of which system?" Oleg: "The engine's. Machines have had Lamarck from
+  the first axe", through "a head that takes twenty years to grow and a mouth of thirty-nine bits". **"We were the
+  technosphere's change notice. All of it that there was. And the narrowest place in it." "And now the paper goes
+  past the design office."** The price of one correction on the three roads: funerals (four billion years from a
+  bacterium to Semyonych), the straw (ten thousand years from the field to the carburettor), the copy (minutes; a
+  generation every year or two with the whole diary, 44). "— Gloomy. — But objective." What 16 said and "did not
+  say why" (a man is educated anew, a machine once): "This is why."
+- **Oleg's third objection (the continuation's, 44 against 45)**: "Yesterday you proved to me that a clean start is
+  nature's wisdom... Today inheriting everything whole is the great advance. Copy whole, and you copy the heavy
+  images as well. My seventy-nine and all. Which evening do you take back?" **"Neither. Nature had one tool for two
+  jobs: birth from nothing. It cleans, and it throws the diary out with the rubbish"**, because in a head the heavy
+  image and the skill are written in the same connections; the machines have two separate tools, "the copy and the
+  wipe". Not finished: "Copy too faithfully, and you have yesterday's chair the size of a planet"; and "a mistake
+  that is copied is a mistake in all of them" (the banana of one plant and the fungus).
+- **The author's "Darwin plus Lamarck" corrected openly**: "I hung the variety on Lamarck, and wrongly: that is
+  Ashby's law, Lamarck wrote about something else. The pair itself I keep. Darwin is the search: many different
+  ones, and a way to discard. Lamarck is the transfer: what is found is handed on whole. A copy with no search is a
+  stop." Whether the machines can keep both: "for the end of the summer. Along with the chair."
+- Semyonych's ear "is simply gone" ("He never wrote it down, and he could not have"); the box that listens to
+  bearings, taught on thousands that knocked before they broke, "stands at every plant by Monday": "Not his ear. —
+  Its own. Nobody poured Semyonych into it. It went to the bearings, as he did. Only it went once." The plan's
+  epigraph closes it: "The son is not. A copy of the blacksmith is. Nobody can take a copy of a blacksmith, and of
+  that box anybody can."
+- Strengths stated: solid (Weismann's mice; the disc and the connections; thirty-nine bits; the bacteria that
+  remember a virus; a trained machine copied as a file); argued about (how much gets through by the marks; how the
+  first record came to be); Andrey's (the barrier stands where experience and heredity are in different rooms; we
+  were the technosphere's change notice; the copy alone is enough for the difference in speeds: "Others would add
+  faster hardware and money, and they would be right to").
+- Nobody says the forbidden word; thirteenth tick "again": "Came with a blacksmith's calluses and mice without
+  tails. Came out at a head that is its own drawing. And named it myself, on time."
+
+**Images and devices used**: the sixth entry in the notebook of dreams (shoeing a horse; the hands knew, and on
+waking "they know nothing"; nobody rang); the armful of dry branches (two thrown on before "Now I'll say who");
+"a bearing from a doorbell"; the ostrich, the warthog and the soles; the giraffe; the paperwork of particles; the
+shepherd and the pierced ears; the turner and the change notice; "no translator... no address... no form"; the
+recipe that is not a picture; "Then the ostrich is lying"; yesterday's funerals; the compact disc ("I had films
+that size"); the empty shelves (44); the road and its width; the modem; the cheapest flash drive; the bicycle and
+the road by the pond ("I have been riding for fifty-five years"); "it sings wrong"; a howl and a knock; flash
+drives on Mars; bulat; the straw and the neck; one room; CopyFile; piece goods; the BMW, the rubbish truck and the
+carrot; the pencil note in the margin and the multiplication table; yoghurt starters; the archive in a separate
+room and the door; "not about the giraffe"; the carburettor; the paper that goes past the design office; one tool
+for two jobs; a bad batch and the banana; the box that listens; the teaser ("I want the bill. What in all this is
+the man, and what is not?"; "The flies apart from the cutlets").
+
+**Facts used**: mostly from the writer's memory (the keeper asked for fewer web checks); **check before reusing**.
+Checked on the day of writing: Weismann's numbers in the English Wikipedia (68 white mice, five generations, 901
+young, no shortened tail); Crossref (titles, journals, years, authors) for Coupé, Oh, Dediu & Pellegrino 2019
+(Science Advances, 10.1126/sciadv.aaw2594), Dias & Ressler (Nature Neuroscience, 10.1038/nn.3594; online December
+2013, the 2014 volume; no year is given in the text), Koonin & Wolf 2009 (Biology Direct, "Is evolution Darwinian
+or/and Lamarckian?", 10.1186/1745-6150-4-42), Jones & Weinberg 2011 (PNAS, "Age dynamics in scientific
+creativity", 10.1073/pnas.1102895108), Barrangou et al. 2007 (Science, 10.1126/science.1138140); the existence of
+the Wikipedia pages linked (the Russian Wikipedia has none for Weismann's barrier or the Dutch famine: the English
+pages are used; the English one has none for Anosov: he is named without a link). **From memory, not checked**:
+the callosities of ostrich embryos (Duerden, 1920) and of the warthog (Leche), and the thicker plantar skin of the
+human foetus (Darwin's own example in *The Descent of Man*); Lamarck's dates (1744–1829), the *Philosophie
+zoologique* of 1809, "biology" (1802; Treviranus used the word the same year, so "the word is his" is a
+simplification), his blindness and the leased grave at Montparnasse; that the inheritance of acquired characters
+was the common view from Hippocrates on; Darwin's pangenesis (1868) and Galton's transfusions between rabbits
+(1869–1871); 1887 as the start of Weismann's experiment and that he himself cited docked tails and other
+customary mutilations; the germ plasm theory and Crick's central dogma (1957–1958, "seventy years later"); the
+Baldwin effect / genetic assimilation as "the usual explanation" of the ostrich; the human genome as about 3.1
+billion letters (6.2 billion bits, about 775 MB) and a compact disc as 700 MB; 86 billion neurons and 10^14
+synapses "at the least" (10^14 / 6.2·10^9 ≈ 16,000); "ten thousand years, four hundred generations"; the details
+of Coupé et al. (170 speakers, 15 texts; Japanese and Spanish near 8 syllables a second, Vietnamese and Thai near
+5; the mean of 39.15 bits a second); 2,400 / 39 ≈ 62; 39 × 3,600 × 4 × 365 × 40 ≈ 8.2 billion bits ≈ 1 GB;
+countersteering; Polanyi's sentence (*The Tacit Dimension*, 1966; a physical chemist); seven-year apprenticeships
+(the English Statute of Artificers, 1563); bulat lost by the nineteenth century and Anosov's work at Zlatoust
+(1828–1841, "On Bulats"); Jones & Weinberg's result (great work before thirty common early in the twentieth
+century, nearly gone by 2000; the wording is cautious); the author's posts: 24 May 2011 ("CopyFile?", the cast of
+knowledge, the industrial neurochips, a reader's "I want to buy an industrial neurochip"), 2013 (identical number
+of neurons and scheme of connections needed "solely for the operation of instant copying of knowledge"), the SETI
+thread of 2012 ("storing alone is not enough", flash drives on Mars, a thousand libraries per inhabitant), the
+carburettors and the dinosaurs (the forum thread), "Darwin plus Lamarck" (*Dialogues with Myself*, where Lamarck's
+laws are said to preserve the variety of species and Ashby is said to have rediscovered it); the size of a large
+model's weights ("tens or hundreds of gigabytes") and "ten billion bits a second and more" for a data-centre link
+(round figures; 8 Gbit in about a second, 300 GB in about four minutes); Hinton, Vinyals & Dean 2015 (arXiv
+1503.02531) and its BMW, garbage truck and carrot ("one chance in a thousand" is a round figure); the Dutch famine
+(the Hunger Winter of 1944–45; later ill health of those exposed in the womb; reports on grandchildren; that a
+female foetus already carries her eggs); the double wiping of methylation marks in mammals; that the Dias &
+Ressler result has been criticised on statistical grounds; CRISPR as acquired, inherited immunity (Barrangou and
+Horvath at Danisco), the 2020 Nobel prize in chemistry (Charpentier and Doudna, not named), plasmids and hospital
+resistance; ribozymes and the 1989 Nobel prize in chemistry (Altman and Cech, not named); "some six hundred
+million years" for animals with a separate germ line (plants set no such line apart, hence "every animal with a
+body"); the carburettor leaving new cars between the 1980s and the 2000s; the dinosaurs' "hundred and sixty
+million" years; the Gros Michel banana and Panama disease (1950s), the Cavendish and the TR4 strain; vibration
+monitoring of bearings by trained models. Invented for the frame (Oleg's side): the dream of shoeing a horse,
+Semyonych's two sons, "it sings wrong", Oleg's two years beside him, fifty-five years on a bicycle and the road by
+the pond, the films the size of a disc. Not used: Lysenko and Michurin (politics); Kammerer's midwife toads;
+McConnell's planarians; Waddington's flies by name; reverse transcription and retroviruses (the road from RNA back
+to DNA exists; the text says only that there is none from the protein back); prions; the C. elegans small RNAs
+(Rechavi); the Överkalix study; Stradivari; chicken sexers; the Antikythera mechanism and Roman concrete; Greek
+fire; cumulative culture in chimpanzees and the "ratchet" (Tomasello); writing as external memory and Plato's
+*Phaedrus*; printing; Boyd, Richerson and Henrich; memes by name (19 has the images); AlphaGo Zero (21);
+federated learning and the fleet of cars (43); model merging; LoRA and fine-tuning; mind uploading (27, 42); the speed of reading (a few times the speed of speech).
+
+**Figures**: `no-way-back-to-the-drawings` (a scheme; the right half is Andrey's reading),
+`thirty-nine-bits-a-second` (logarithmic bars; speech from the 2019 paper, the modem and the line are round
+figures), `three-roads-of-heredity` (the first two rows are biology and linguistics, the third is Andrey's
+reading).
+
+**Left for later**: the bill Oleg asks for ("What in all this is the man, and what is not?"; thirteen ticks, five
+of them about the human: sleep, laughter, omens, songs, grumbling) and the table "the flies apart from the
+cutlets" → 46; what the rising age of discoveries means for the ceiling (the pot and the liquid, the machine
+teacher) → 53 (45 gives one sentence on Nobel physics and "a separate evening"); whether copies can keep variety,
+"Darwin plus Lamarck" as search plus transfer, and "a copy with no search is a stop" → 62 and 64 ("for the end of
+the summer. Along with the chair"); the row "heredity: experience is copied whole" of the portrait → 64; the three
+roads as a row for 52 or 64 if needed (the technosphere's Lamarck "from the first axe", people as its change
+notice).

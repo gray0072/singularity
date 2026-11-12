@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–44 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `45`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–45 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `46`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–44.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–45.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -294,6 +294,15 @@ articles as closely as possible. In practice:
 | потеря пластичности | loss of plasticity | a network taught task after task learns each new one worse, until it learns no better than the simplest network (2024); the other end of the screw from catastrophic forgetting (33) (44) |
 | маленькие похороны | small funerals | the cure for loss of plasticity: at every step the least used units are wiped and started from nothing; what a body does with its cells (44) |
 | дневник (опыта) | diary (of experience) | what is kept when a network is wiped and a new one is raised on it: "the head is changed and the notebook is left"; with people most of it leaves together with the head (44; what passes on is 45) |
+| барьер Вейсмана | Weismann's barrier | the body is built from the line of germ cells and nothing goes back: what a body earns has no road into the drawings, "neither a translator nor an address"; in the series it stands where experience and heredity are kept in different places and written in different languages, so a bacterium and a machine do not have it (45) |
+| извещение об изменении | change notice | the plant's paper by which the experience of the shop gets into the drawing; a body has no such form; selection is a change notice "written by the deaths of those who had not learned"; people were the technosphere's change notice, "and the narrowest place in it" (45) |
+| 39 бит в секунду | 39 bits a second | what human speech carries, about the same in every language measured (2019): fast languages put less into a syllable; the width of the road by which culture passes experience on (45) |
+| соломинка (три узких места) | the straw (three narrow places) | culture as Lamarck's way round the barrier, narrow in three places: the mouth knows only a part of what the hands know, speech carries 39 bits a second, and the pupil has to grow the skill anew; "a book keeps the record, not the skill" (45) |
+| неявное знание | tacit knowledge | "we know more than we can tell" (Polanyi, 1966): the cyclist's hands know the push to the right before a left turn, and "the mouth was never told"; Semyonych's whole lecture on bearings was "it sings wrong" (45) |
+| слепок знаний | a cast of knowledge | the author's 2011 term: the coefficients of a trained network rewritten into another of the same structure, address by address; in 45: the weights are copied as a file, and only into a head of the same structure, which is why no human head can be copied |
+| дистилляция | distillation | a big network teaching a small one by giving not only the answer but how sure it is of every other answer (2015); school between machine heads of different structure: "'it sings wrong', in figures" (45) |
+| три дороги наследственности | three roads of heredity | the drawings (Darwin: the design passes, a correction is paid for with funerals), speech and school (Lamarck through a straw: a part of the experience, twenty years on every head), the copy (Lamarck whole: all the experience, in minutes); the third alone is enough for the difference in speeds (45) |
+| Дарвин плюс Ламарк | Darwin plus Lamarck | the author's 2025 formula; there Lamarck stood for the keeping of variety, which is Ashby's law (corrected openly in 45); kept in another sense: Darwin is the search (many different ones and a way to discard), Lamarck is the transfer (what is found is handed on whole); "a copy with no search is a stop" |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
