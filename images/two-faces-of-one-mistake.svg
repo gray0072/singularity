@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="446" viewBox="0 0 760 446" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>One mistake with two faces</title>
+<defs><marker id="arrow-1baf7a" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#1baf7a"/></marker><marker id="arrow-e34948" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#e34948"/></marker></defs>
+<rect x="0.5" y="0.5" width="759" height="445" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">One mistake with two faces</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">“Only we have this” and “the machine will be an adding machine” are one sentence, said from two ends.</text>
+<rect x="200.0" y="84.0" width="360.0" height="52.0" rx="8" fill="#fcfcfb" stroke="#e34948" stroke-width="1.5"/>
+<text x="380.0" y="106.0" font-size="13.5" fill="#0b0b0b" text-anchor="middle" font-weight="600"><tspan x="380.0" dy="0.0">one mistake:</tspan><tspan x="380.0" dy="16.9">the task is called by the name of our way</tspan></text>
+<line x1="380.0" y1="136.0" x2="197.0" y2="166.0" stroke="#e34948" stroke-width="1.4" stroke-linecap="round" marker-end="url(#arrow-e34948)"/>
+<rect x="28.0" y="168.0" width="338.0" height="110.0" rx="8" fill="#e34948" fill-opacity="0.07"/>
+<text x="197.0" y="194.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">“Only we have this”</text>
+<text x="197.0" y="218.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="197.0" dy="0.0">the way is ours,</tspan><tspan x="197.0" dy="16.2">so the task is ours alone</tspan></text>
+<text x="197.0" y="262.0" font-size="12" fill="#52514e" text-anchor="middle" font-style="italic">“Only man laughs.”</text>
+<line x1="380.0" y1="136.0" x2="563.0" y2="166.0" stroke="#e34948" stroke-width="1.4" stroke-linecap="round" marker-end="url(#arrow-e34948)"/>
+<rect x="394.0" y="168.0" width="338.0" height="110.0" rx="8" fill="#e34948" fill-opacity="0.07"/>
+<text x="563.0" y="194.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">“The machine will be an adding machine”</text>
+<text x="563.0" y="218.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="563.0" dy="0.0">it has not our way,</tspan><tspan x="563.0" dy="16.2">so it has not the task</tspan></text>
+<text x="563.0" y="262.0" font-size="12" fill="#52514e" text-anchor="middle" font-style="italic">“It does not tire, so it needs no sleep.”</text>
+<text x="28.0" y="314.0" font-size="12.5" fill="#1baf7a" font-weight="600">without the mistake</text>
+<rect x="28.0" y="332.0" width="290.0" height="60.0" rx="8" fill="#fcfcfb" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="173.0" y="366.2" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="600">the task belongs to anybody who learns</text>
+<line x1="318.0" y1="362.0" x2="396.0" y2="342.0" stroke="#1baf7a" stroke-width="1.4" stroke-linecap="round" marker-end="url(#arrow-1baf7a)"/>
+<rect x="400.0" y="326.0" width="332.0" height="32.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="566.0" y="346.1" font-size="12.5" fill="#0b0b0b" text-anchor="middle">our way: a third of a life, a roar, a dream book</text>
+<line x1="318.0" y1="362.0" x2="396.0" y2="382.0" stroke="#1baf7a" stroke-width="1.4" stroke-linecap="round" marker-end="url(#arrow-1baf7a)"/>
+<rect x="400.0" y="366.0" width="332.0" height="32.0" rx="8" fill="#fcfcfb" stroke="#1baf7a" stroke-width="1.5"/>
+<text x="566.0" y="386.1" font-size="12.5" fill="#0b0b0b" text-anchor="middle">another way: a dolphin's, a pigeon's, a machine's</text>
+<text x="28.0" y="424.0" font-size="11.5" fill="#8a8985">The first face flatters; the second soothes or frightens. The symmetry is Andrey's reading.</text>
+</svg>

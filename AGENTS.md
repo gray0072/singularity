@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–45 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `46`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–46 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `47`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–45.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–46.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -303,6 +303,15 @@ articles as closely as possible. In practice:
 | дистилляция | distillation | a big network teaching a small one by giving not only the answer but how sure it is of every other answer (2015); school between machine heads of different structure: "'it sings wrong', in figures" (45) |
 | три дороги наследственности | three roads of heredity | the drawings (Darwin: the design passes, a correction is paid for with funerals), speech and school (Lamarck through a straw: a part of the experience, twenty years on every head), the copy (Lamarck whole: all the experience, in minutes); the third alone is enough for the difference in speeds (45) |
 | Дарвин плюс Ламарк | Darwin plus Lamarck | the author's 2025 formula; there Lamarck stood for the keeping of variety, which is Ashby's law (corrected openly in 45); kept in another sense: Darwin is the search (many different ones and a way to discard), Lamarck is the transfer (what is found is handed on whole); "a copy with no search is a stop" |
+| задача и способ | the task and the way | the two questions of the first assembly: what is the task, and whose is it; the task is set by the world (the air sets the wing), the way is each one's own; "from inside, one's own way cannot be told from the task" (46) |
+| заплатка | patch | a way that covers a flaw of our construction in particular: the hole in the eye that the head paints over, switching off for a third of a life; "Solutions. Some of them good ones" (46) |
+| свидетель | witness | somebody far from us who came to the same task by his own road (the wing invented four times, the eye more than once: convergent evolution); the beasts are all kin, the machines are the first witness that is no kin, "the fifth wing" (46) |
+| сохранить, связать, проверить | to keep, to link, to check | the three tasks the six rows come down to: sleep and grumbling, dreams and omens, laughter and songs; together they spell one word, "to learn" (46) |
+| счета за эксплуатацию (разума) | upkeep bills (of a mind) | what a mind that learns pays as long as it works, like the oil, the setting-up and the downtime of a machine tool; "nature did not issue them to man; she issues them to anybody who owns the machine tool" (46) |
+| акцент | accent | what is ours in the human: "everybody speaks, and you speak with an accent; what is said is common, the accent is yours" (46) |
+| два лица антропоцентризма | two faces of anthropocentrism | "only we have this" and "the machine will be an adding machine": one mistake, the task called by the name of our way; the second "comes up on the weeded bed" (46) |
+| холодная машина (арифмометр) | cold machine (adding machine) | the portrait of a thing that does not learn: the calculator, the chess machine of 1997, common sense typed in by hand; it pays no upkeep "because it owns no machine tool"; a frozen copy of a talking machine is "a pupil stopped on the run", not an adding machine (46) |
+| куча «не разобрано» | the heap "not sorted" | love, conscience, shame, tears: tasks of a pack, not of one mind alone with the world; the label says "not sorted", not "ours alone" (46) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

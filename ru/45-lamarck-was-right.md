@@ -309,4 +309,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [05](./05-artificial-intelligence.md), [16](./16-fifteen-years-later.md), [19](./19-struggle-of-images.md), [26](./26-why-people-stopped-having-children.md), [35](./35-pot-on-the-stove.md), [42](./42-swallowed-bacterium.md), [43](./43-why-ants-do-not-strike.md), [44](./44-from-funeral-to-funeral.md).
 
-[← 44](./44-from-funeral-to-funeral.md) · [Оглавление](./README.md)
+[← 44](./44-from-funeral-to-funeral.md) · [Оглавление](./README.md) · [46 →](./46-flies-apart-from-cutlets.md)

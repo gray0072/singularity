@@ -3644,6 +3644,176 @@ def three_roads_of_heredity(lang):
     return f
 
 
+# --- 46. The Flies Apart from the Cutlets ------------------------------------------------------
+
+@figure("six-rows-three-tasks")
+def six_rows_three_tasks(lang):
+    t = {
+        "en": dict(title="Six rows, three tasks, one word",
+                   sub="Six rows of the notebook, the three tasks they come down to, and the one word the tasks spell.",
+                   top="to learn",
+                   tasks=[("to keep", "what has been learned,\nwhile learning the new"),
+                          ("to link", "what comes together,\nbefore knowing why"),
+                          ("to check", "one's own forecasts,\nwhile a mistake is cheap")],
+                   chips=[[("sleep", "by the night"), ("grumbling", "by the lifetime")],
+                          [("dreams", "sensors off"), ("omens", "scant data")],
+                          [("laughter", "a miss caught"), ("songs", "a hit")]],
+                   src="The rows are from evenings 33, 36, 39, 41 and 44. The grouping into three is Andrey's reading."),
+        "ru": dict(title="Шесть строк, три задачи, одно слово",
+                   sub="Шесть строк тетради, три задачи, к которым они сводятся, и одно слово из этих задач.",
+                   top="учиться",
+                   tasks=[("сохранить", "выученное,\nпока учишь новое"),
+                          ("связать", "то, что пришло вместе,\nещё не зная почему"),
+                          ("проверить", "свои прогнозы,\nпока ошибка дёшева")],
+                   chips=[[("сон", "за ночь"), ("ворчание", "за жизнь")],
+                          [("сны", "без датчиков"), ("приметы", "мало данных")],
+                          [("смех", "пойманный промах"), ("песни", "попадание")]],
+                   src="Строки — из вечеров 33, 36, 39, 41 и 44. Группировка по трём задачам — прочтение Андрея."),
+    }[lang]
+    f = Fig(760, 392, t["title"])
+    heading(f, t["title"], t["sub"])
+    f.box(280, 86, 200, 42, t["top"], fill=SURFACE, stroke=INK, size=17, weight="600")
+    colors = [BLUE, AQUA, ORANGE]
+    for i, ((name, sub), chips, c) in enumerate(zip(t["tasks"], t["chips"], colors)):
+        x = 28 + i * 242
+        cx = x + 110
+        f.line(380, 128, cx, 164, color=INK2, width=1.3)
+        f.box(x, 164, 220, 80, name, stroke=c, size=15, weight="600", sub=sub)
+        for k, (chip, note) in enumerate(chips):
+            px = x + k * 114
+            f.line(cx, 244, px + 53, 272, color=c, width=1.3)
+            f.rect(px, 272, 106, 52, fill=c, r=8, opacity=0.10)
+            f.text(px + 53, 294, chip, size=14, color=INK, anchor="middle", weight="600")
+            f.text(px + 53, 312, note, size=11, color=INK2, anchor="middle")
+    f.text(28, 360, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("task-and-way")
+def task_and_way(lang):
+    t = {
+        "en": dict(title="The table in the ash: the task and the way",
+                   sub="Two questions about each property: what is the task, and whose is it?",
+                   head=["property", "the task of anybody who learns", "our way", "those ones, so far"],
+                   rows=[("sleep", "fly, dolphin",
+                          ["to rebuild memory\nwithout wrecking it", "to switch off\nfor a third of a life",
+                           "taught apart from work,\nold lessons mixed in"]),
+                         ("dreams", "rat",
+                          ["to try what links with what,\nwith the sensors off", "a film with a plot",
+                           "the invented book:\na dream with eyes open"]),
+                         ("laughter", "rat pup",
+                          ["to catch one's own wrong\nguess while it is cheap (?)",
+                           "a roar for the pack,\nthe joke about the hunters", "—"]),
+                         ("omens", "pigeon",
+                          ["with scant data, to choose\nthe cheaper mistake", "the dream book,\nknocking on wood",
+                           "the stamp in the corner\nof the photographs"]),
+                         ("songs", "cockatoo",
+                          ["to pay for a forecast\nthat came true", "a seven-string, a waltz,\na choir",
+                           "forecasts the next note\nunpaid; bakes us sweets"]),
+                         ("grumbling", "kitten",
+                          ["to guard what is learned\nfrom what is being learned",
+                           "“in my day”;\ngenerations and funerals",
+                           "names the year it left\nschool; small funerals"])],
+                   src="Under each property is a witness that came to the task by its own road. (?) marks a hypothesis.\n"
+                       "The last column is today's machines, as Oleg filled it in; what the heir's ways will be is not known."),
+        "ru": dict(title="Таблица на золе: задача и способ",
+                   sub="Два вопроса к каждому свойству: какая тут задача и чья она?",
+                   head=["свойство", "задача любого, кто учится", "наш способ", "эти, пока что"],
+                   rows=[("сон", "муха, дельфин",
+                          ["перестроить память,\nне разрушив её", "выключаться\nна треть жизни",
+                           "учат отдельно от работы,\nподмешивая старые уроки"]),
+                         ("сны", "крыса",
+                          ["пробовать, что с чем\nвяжется, без датчиков", "кино с сюжетом",
+                           "выдуманная книга:\nсон с открытыми глазами"]),
+                         ("смех", "крысёнок",
+                          ["поймать свою неверную\nдогадку, пока дёшево (?)",
+                           "хохот на всю стаю,\nанекдот про охотников", "—"]),
+                         ("приметы", "голубь",
+                          ["при скудных данных выбрать\nошибку подешевле", "сонник,\nстук по дереву",
+                           "штамп в углу\nфотографий"]),
+                         ("песни", "какаду",
+                          ["заплатить за прогноз,\nкоторый сбылся", "семиструнка, вальс,\nхор",
+                           "прогнозирует ноту\nбесплатно; печёт сладкое"]),
+                         ("ворчание", "котёнок",
+                          ["беречь выученное\nот того, что учат сейчас",
+                           "«в моё время»;\nпоколения и похороны",
+                           "называет год выпуска;\nмаленькие похороны"])],
+                   src="Под каждым свойством — свидетель, пришедший к задаче своей дорогой. (?) — гипотеза.\n"
+                       "Последний столбец — сегодняшние машины, как его заполнил Олег; какими будут способы наследника, неизвестно."),
+    }[lang]
+    f = Fig(760, 552, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [28, 140, 348, 540, 736]
+    top, head_h, row_h = 86, 36, 62
+    bottom = top + head_h + row_h * 6
+    f.rect(cols[3], top, cols[4] - cols[3], bottom - top, fill=ORANGE, r=0, opacity=0.08)
+    for k, label in enumerate(t["head"]):
+        f.text(cols[k] + 10, top + 23, label, size=12.5, color=ORANGE if k == 3 else INK2, weight="600")
+    for i, (name, witness, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(28, y, cols[4], y, color=GRID, width=1.2)
+        f.text(cols[0] + 10, y + 29, name, size=14.5, color=INK, weight="600")
+        f.text(cols[0] + 10, y + 46, witness, size=11, color=MUTED)
+        for k, cell in enumerate(cells):
+            lines = cell.count("\n") + 1
+            dash = cell == "—"
+            f.text(cols[k + 1] + 10, y + {1: 36, 2: 28}[lines], cell, size=16 if dash else 12.5,
+                   color=INK2 if k == 0 else INK, italic=(k == 2 and not dash))
+    f.line(28, bottom, cols[4], bottom, color=GRID, width=1.2)
+    for x in cols[1:4]:
+        f.line(x, top + 6, x, bottom, color=GRID, width=1)
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("two-faces-of-one-mistake")
+def two_faces_of_one_mistake(lang):
+    t = {
+        "en": dict(title="One mistake with two faces",
+                   sub="“Only we have this” and “the machine will be an adding machine” are one sentence, said from two ends.",
+                   top="one mistake:\nthe task is called by the name of our way",
+                   faces=[("“Only we have this”", "the way is ours,\nso the task is ours alone", "“Only man laughs.”"),
+                          ("“The machine will be an adding machine”", "it has not our way,\nso it has not the task",
+                           "“It does not tire, so it needs no sleep.”")],
+                   without="without the mistake",
+                   task="the task belongs to anybody who learns",
+                   ways=["our way: a third of a life, a roar, a dream book",
+                         "another way: a dolphin's, a pigeon's, a machine's"],
+                   src="The first face flatters; the second soothes or frightens. The symmetry is Andrey's reading."),
+        "ru": dict(title="Одна ошибка с двумя лицами",
+                   sub="«Такое есть только у нас» и «машина будет арифмометром» — одна фраза, сказанная с двух концов.",
+                   top="одна ошибка:\nзадачу назвали именем нашего способа",
+                   faces=[("«Такое есть только у нас»", "способ наш —\nзначит, и задача только наша",
+                           "«Смеётся только человек».") ,
+                          ("«Машина будет арифмометром»", "нашего способа у неё нет —\nзначит, нет и задачи",
+                           "«Она не устаёт — значит, сон ей не нужен».")],
+                   without="без ошибки",
+                   task="задача — любого, кто учится",
+                   ways=["наш способ: треть жизни, хохот, сонник",
+                         "другой способ: дельфина, голубя, машины"],
+                   src="Первое лицо льстит, второе успокаивает или пугает. Симметрия — прочтение Андрея."),
+    }[lang]
+    f = Fig(760, 446, t["title"])
+    heading(f, t["title"], t["sub"])
+    f.box(200, 84, 360, 52, t["top"], stroke=RED, size=13.5, weight="600")
+    for i, (name, body, example) in enumerate(t["faces"]):
+        x = 28 + i * 366
+        cx = x + 169
+        f.line(380, 136, cx, 166, color=RED, width=1.4, arrow=True)
+        f.rect(x, 168, 338, 110, fill=RED, r=8, opacity=0.07)
+        f.text(cx, 194, name, size=14, color=INK, anchor="middle", weight="600")
+        f.text(cx, 218, body, size=13, color=INK, anchor="middle")
+        f.text(cx, 262, example, size=12, color=INK2, anchor="middle", italic=True)
+    f.text(28, 314, t["without"], size=12.5, color=AQUA, weight="600")
+    f.box(28, 332, 290, 60, t["task"], stroke=AQUA, size=13, weight="600")
+    for k, way in enumerate(t["ways"]):
+        y = 326 + k * 40
+        f.line(318, 362, 396, y + 16, color=AQUA, width=1.4, arrow=True)
+        f.box(400, y, 332, 32, way, stroke=AQUA if k else INK2, size=12.5)
+    f.text(28, 424, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

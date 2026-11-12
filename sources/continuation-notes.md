@@ -560,13 +560,15 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 13).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 14).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
   Oleg, not believing that the word stands in a paper about petrol stations, read it aloud from his phone ("...so the
   singularity is never reached") and went for firewood the second time ("That was a quotation. — In your voice"). Andrey has not
-  said it yet ("I read with my mouth shut"); in 41, 42, 43, 44 and 45 nobody said it.
+  said it yet ("I read with my mouth shut"); in 41, 42, 43, 44, 45 and 46 nobody said it
+  (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
+  has bought a trailer of birch from a neighbour).
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -2192,3 +2194,161 @@ teacher) → 53 (45 gives one sentence on Nobel physics and "a separate evening"
 the summer. Along with the chair"); the row "heredity: experience is copied whole" of the portrait → 64; the three
 roads as a row for 52 or 64 if needed (the technosphere's Lamarck "from the first axe", people as its change
 notice).
+
+## 46. The Flies Apart from the Cutlets (the first assembly)
+
+**Established**
+- The answer to the teaser of 45 ("I want the bill. What in all this is the man, and what is not?"). Oleg comes
+  "the way people sit down to a stocktaking": thirteen ticks, a cross beside five (sleep, laughter, omens, songs,
+  grumbling). Andrey: "You'll do the sorting. I'll only ask two questions about each item. What is the task? And
+  whose is it: anybody's who thinks, or ours alone?" The saying is tied to 02 (to tell a judgement that rests on our
+  being the chosen ones from one that does not; "Sixteen years have passed").
+- The way in, off the notebook "so that neither of us has a stake in it": **the wing was invented four times**
+  (insects, the flying lizards, birds, bats; "They did not confer"). "Whose property is it? — The air's": **the task
+  is set by the world, one for all; the way is each one's own**. Convergent evolution by link.
+- The eye, invented at least twice (ours and the octopus's). **The blind spot shown at the fire**: a cross and a
+  tick a palm apart, the left eye shut, and "The tick. The paper is there, the squares are there, and the tick is
+  not" (Mariotte, the 1660s). "What fool lays the wiring in front of the sensor? — Nobody laid it": the fold, "a
+  plant that can never stop for refitting keeps what it has"; in the octopus the wiring is behind. The head paints
+  the hole over: **a patch**. The plan's epigraph: "So I am all patches? — Solutions. Some of them good ones."
+  **"From inside, a patch cannot be seen, so we take our way for the thing itself. That is how the fly gets onto
+  the cutlet."** (The fly is the judgement, not our way.)
+- **The table in the ash**, three columns, filled by Oleg from the notebook, with a **witness** for each row
+  ("somebody far from us who came to it by his own road"): sleep (rebuild the warehouse without wrecking it; the
+  fly and the dolphin; "that one is a patch. The dolphin has shown that the bill can be split"), dreams (try what
+  links with what, sensors off; the rat's maze; a film with a plot), laughter (catch one's own wrong guess while
+  cheap, with a bonus; the rat pup; a roar and the hunters joke; **"write it with a question mark"**), omens (with
+  scant data, choose which mistake to make more often; the pigeon; the dream book, knocking on wood, the sprats of
+  1985), songs (pay for a forecast that came true, and make one forecast common to the pack; the cockatoo; the
+  seven-string, a waltz, a choir), grumbling (guard the learned from what is being learned; the kitten; "in my
+  day", generations and funerals).
+- **The assembly proper** (not in the plan's table): Oleg, asked to write the middle column shorter, pairs the rows.
+  Sleep and grumbling are "the same warehouse", by the night and by the lifetime (the screw of 44); dreams and omens
+  are "the same correlator", sensors off and scant data; laughter and songs are "one cash desk" that pays for
+  forecasts, a miss caught and a hit. **"To keep. To link. To check." = "A pupil": the middle column is one word,
+  to learn.** The lock with 03 (mind acts ahead of events, so it has to have learned what comes after what). The
+  author's 2015 list of what any mind is put together from (sensors, hands, recognition of images, a correlator,
+  the life cycle of images; "nothing more is needed", in capitals) is kept, and **what is added is the
+  continuation's**: "What I did not count then is what the list costs to run." Oleg: "The upkeep" (oil, setting-up,
+  downtime). **"Your five crosses are the upkeep bills of a mind that learns. Nature did not issue them to man.
+  She issues them to anybody who owns the machine tool."**
+- "Then the bill I asked for is a nought." The right-hand column is his: **"Everybody speaks, and you speak with an
+  accent. What is said is common. The accent is yours."** "An accent is a trifle. — Say that to a man who hears his
+  own speech in a foreign town"; not priced tonight (41: the price is in who paid).
+- **Oleg's first objection (the continuation's, the dream book of 39)**: "It is too smooth... Show me how your
+  table can miss." Two ways. (1) An item not discussed: **boredom** sorts (to go and look at what one does not know
+  yet, "even when I am fed"; the author's "hunger for information" of 08; a rat in a new cage). (2) What a truly
+  human property would look like: "A task that nobody else has. With no witness."
+- **Oleg's second objection (the plan's)**: love, conscience, shame ("I blush, you know"), tears. **"They do not
+  sort. Not by tonight's two questions"**: all six tasks stand before one mind alone with the world ("a pupil on a
+  desert island would need sleep, and he would have his omens"); these stand before a mind among others that are
+  not it, "another table: the tasks of a pack" (conscience as the gatehouse moved inside, 43; "a hive does without").
+  **The heap "not sorted"**: "not small"; half of two rows lies in it already (the roar and the choir are for the
+  pack); blushing (Darwin's "most human of all expressions") has no witness. "Only don't change the label on the
+  heap. It says 'not sorted', not 'ours alone'. It is the heap of what I don't know."
+- **Feelings are not in the table**: "I sort tasks, not what it is like from inside"; about the pigeon, and later
+  about the fourth column, there is only the axiom of 20.
+- **The machines are brought in by Oleg, after the middle**, through his third objection: the witnesses are "meat,
+  all of them. Cousins of mine... Perhaps these are the bills of meat, not of a pupil." Andrey: "I cannot answer it
+  with one more beast. What witness would settle it?" Oleg: "One that is no kin at all", the evening plane, **"the
+  fifth wing"**; and for the notebook: **the thirteen ticks themselves** ("I put a tick the way you mark a friend's
+  hobby-horse. And it is the witness": the net that forgets, the invented book, the stamp, the net that learns
+  worse and the small funerals; "Nobody ordered them to be like us"). Andrey's honest half: for the solution the
+  engineers sometimes peeped into our exercise book (replay "taken from biology"), "Nobody peeped for the task. The
+  task came to them by itself, and it hurt."
+- **The fourth column, "those ones, so far", drawn and filled by Oleg**: does not learn while it talks, taught
+  apart with the old lessons mixed in; the invented book, "a dream with the eyes open"; the stamp; forecasts the
+  next note as the next word and "bakes sweets for my button"; names the year it left school. **Laughter: a dash**
+  ("The task is there. The way is so unlike ours that you did not find it. — Or it is not there. — Or the task gets
+  done along the way... An honest table should have a dash in it").
+- Two fresh witnesses: boredom → the program paid only for surprise that sat down in front of **the television
+  with random pictures** ("They gave it curiosity and got a couch"; "They gave it the task, and it found our way by
+  itself"); the eye → a net taught only to forecast the next frame, in whose forecast frames **the still snakes
+  turned** ("Whoever sees by forecasting gets that mistake free with the purchase"). Whether those ones have love
+  and conscience "depends on whether they will have anybody who is not themselves. I don't know."
+- **The two faces.** Oleg is cross ("I came for what is mine, and I am leaving with what is theirs"). His own line
+  of 05 (computers are adding machines, improved by the tiniest bit; "I was forty-six"). The calculator on the
+  phone neither sleeps, dreams, knocks on wood nor grumbles, and has learned nothing: "It pays no upkeep because it
+  owns no machine tool." **"The cold machine is the portrait of a thing that does not learn"**: the chess machine
+  of 1997 and common sense typed in by hand since 1984, "neither began to talk"; those that talk came by the pupil's
+  road (21) "with all the luggage"; cold they could not be anyway (18: a mind without wants decides nothing).
+  The symmetry test: "Only man laughs" and "A machine will never dream" are "one sentence... Said from the other
+  end." **"One mistake with two faces. Both call the task by the name of our way."** The first flatters; the second
+  "soothes or frightens, to taste: a servant without whims, or a monster without pity". "Neither is better... The
+  second comes up on the weeded bed": we are "the measure again, only now the measure of what the other lacks."
+- **Oleg's fourth objection (the strongest, the continuation's)**: the thing in his pocket does not learn while it
+  talks (33), "taught, frozen and copied... There is the cold machine. It exists." Conceded: a frozen copy pays no
+  upkeep. But it is frozen with the invented book, the stamp and the year it left school "baked in": **"A pupil
+  stopped on the run is not an adding machine"**; the freezing is "a patch of theirs" (they cannot yet teach it on
+  the run without wrecking it); whoever sets its own tasks (22) will have to learn on the run, "Then all three
+  bills arrive." In what shape: "I don't know" (the author's 2013 answer on sleep; "one of the copies is always at
+  the stocktaking"; "small funerals at which nobody weeps"). **"For the task I vouch, that is logic: if it learns,
+  it pays. For the way I don't. Against 'we shall recognise it' write 'medium'."**
+- The close of the eye: he did not notice the hole for sixty-two years because he has two eyes, "Each sees what
+  falls into the hole of the other. — Somebody from outside again" (44). **"Until now we had only cousins to
+  compare a mind with. Those ones are the first who are no kin. With them it has become visible for the first time
+  where in us the task is, and where the paint."** "A second eye."
+- Strengths stated: solid (the wing and the eye; the hole; every row "as far as it was solid on its own evening";
+  the television and the snakes; machines built out of rules play chess and never began to talk); argued about
+  (the same as on those evenings: the upper floor of laughter, what a song is paid for, what the pigeon links);
+  Andrey's (six rows to three tasks to one word; the two faces as one mistake; the heir will have likenesses of all
+  this: "a forecast, and it has no date. Treat it accordingly").
+- Nobody says the forbidden word; fourteenth tick "again": "Came for the bill: what in me is mine. Came out at a
+  fourth column, drew it myself and filled it from my own ticks." He shuts one eye and looks at the tick: "Still
+  there."
+
+**Images and devices used**: the seventh entry in the notebook of dreams (a commission sticking inventory numbers
+on the sideboard, the television, the cat and Oleg's forehead; nobody rang); the pencil behind the ear and the
+crosses beside five ticks; the inventory; the wing and the air; the cross and the tick that vanishes; the wiring in
+front of the sensor; the plant that cannot stop for refitting; the hole and the paint; the fly that gets onto the
+cutlet; the stick and the columns in the ash; the witness; the brace in the notebook; the warehouse, the correlator
+and the cash desk; the pupil; the machine tool and its upkeep (oil, setting-up, downtime); the accent and one's own
+speech in a foreign town; "too smooth" and the dream book; the queue without a phone; the desert island; the heap
+and its label; "meat, all of them"; the evening plane as the fifth wing; the friend's hobby-horse; the exercise
+book the engineers peeped into; the dash; the television and the couch ("My granddaughter and her feed"); the
+coiled snakes; the calculator; "a servant without whims, or a monster without pity"; the weeded bed; the pupil
+stopped on the run, "baked in"; two eyes; the teaser (the firewood bought from a neighbour who wants paper, "I
+don't believe in your numbers"; "And what is money? — Don't start. Money is money. — Bring a banknote tomorrow.
+We'll read what is written on it").
+
+**Facts used**: an assembly, so nearly all facts are those of 33, 36, 39, 41 and 44, recalled in a phrase and not
+re-checked. New ones are **from the writer's memory** (the keeper asked for fewer web checks); **check before
+reusing**. Checked on the day of writing (existence, title, year): arXiv 1808.04355 (Burda, Edwards, Pathak,
+Storkey, Darrell & Efros, "Large-Scale Study of Curiosity-Driven Learning", August 2018); Crossref
+10.3389/fpsyg.2018.00345 (Watanabe, Kitaoka, Sakamoto, Yasugi & Tanaka, "Illusory Motion Reproduced by Deep Neural
+Networks Trained for Prediction", Frontiers in Psychology, March 2018; no year is given in the text); the
+Wikipedia pages linked (the Russian Wikipedia has none for the cephalopod eye; the English page is used there and
+for the flying animals). **From memory, not checked**: powered flight evolved four times (insects, pterosaurs,
+birds, bats) and the pterosaur wing hung on one finger; the camera eye of vertebrates and cephalopods as
+independent inventions and a common ancestor with at most a light-sensitive spot; the inverted vertebrate retina
+(nerve fibres in front of the receptors, leaving through the optic disc) and the cephalopod retina without a blind
+spot; Mariotte's discovery (1660, published 1668); the blind spot lying some 15 degrees to the temple side, so two
+marks a palm apart vanish at about a foot; the brain's filling-in; "five hundred million years" for the vertebrate
+eye; sleep rebound in fruit flies (Hendricks and others; Shaw and others, 2000); the rat exploring a new cage
+before eating; Darwin on blushing ("the most peculiar and the most human of all expressions", *The Expression of
+the Emotions*, 1872); the details of the curiosity paper (reward only for prediction error, 54 environments, most
+of them Atari games; the "noisy TV" in a maze slows the agent's progress sharply: the text says "all but forgot the
+maze", not "never left"); the rotating snakes illusion (Kitaoka) and that the network's predicted frames contained
+motion for the illusion and not for control pictures; Deep Blue and Kasparov, 1997; Cyc (Lenat, since 1984,
+millions of hand-entered assertions); that the replay of 33 was called biologically inspired by its authors (33's
+own note); the author's posts: the 2015 list of the components of any mind with "NOTHING MORE IS NEEDED" (the SETI
+thread, `sources/garya/sqlru/2012-05-17-seti-talk.md`; the preference system of wants is in his list elsewhere and
+is not named in 46), the 2013 answer on a machine's sleep (33), "hunger for information" (08), Oleg's line of 05
+(computers as "adding machines improved by the tiniest bit"), the flies and the cutlets (02). Invented for the
+frame (Oleg's side): the dream of the commission, the cat and the sideboard, forty-six in 2011, the queue, the
+granddaughter's feed, the trailer of birch and the neighbour who wants paper. Not used: Dijkstra's submarine;
+jellyfish and octopus sleep; adversarial examples; grokking; mirror self-recognition; tool use and "culture" in
+animals; language as the human difference (Chomsky; the row is not in the table and nobody asks); the Turing test;
+Moravec's paradox (16 has the layers of skills); Spock and the robots of fiction by name; Minsky's "emotion
+machine"; Damasio by name (18); tears and crying in other animals; Lorenz (54).
+
+**Figures**: `six-rows-three-tasks` (a scheme of Andrey's grouping), `task-and-way` (the table in the ash with
+the fourth column; the task of laughter is marked as a hypothesis), `two-faces-of-one-mistake` (a scheme).
+
+**Left for later**: what money is, and why the neighbour wants paper ("Bring a banknote tomorrow. We'll read what is
+written on it") → 47; the other table, "the tasks of a pack" (love, conscience, shame, tears; whether the heir
+will have "anybody who is not itself") → 54, 65 and the evenings on the heir's social order; the row "the feeling
+of freedom" → 63 (the table is left open: "the heap not sorted", and the dash); the row "psyche" of the portrait
+(likenesses of sleep, superstition, old age; trust "medium") → 64; the second assembly → 52; whether a machine
+that learns on the run arrives, and with what upkeep, is a candidate for a dated mark at the check of 2028 (46
+gives no date on purpose: "a forecast, and it has no date").
