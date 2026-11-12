@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>One job, and what the job needs</title>
+
+<rect x="0.5" y="0.5" width="759" height="379" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">One job, and what the job needs</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">The one taken in is kept for a job the host cannot do itself, for as long as it cannot.</text>
+<rect x="28.0" y="270.0" width="708.0" height="74.0" rx="0" fill="#eb6834" fill-opacity="0.1"/>
+<text x="268.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">the one job</text>
+<text x="447.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">what is left of its own</text>
+<text x="640.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">for how long</text>
+<line x1="28.0" y1="122.0" x2="736.0" y2="122.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="156.0" font-size="15" fill="#0b0b0b" font-weight="600">a bacterium</text>
+<text x="40.0" y="174.0" font-size="11.5" fill="#8a8985">the mitochondrion</text>
+<text x="268.0" y="164.0" font-size="13" fill="#0b0b0b" text-anchor="middle">energy</text>
+<text x="447.0" y="156.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="447.0" dy="0.0">37 genes</tspan><tspan x="447.0" dy="16.2">out of several thousand</tspan></text>
+<text x="640.0" y="156.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="640.0" dy="0.0">about two billion years;</tspan><tspan x="640.0" dy="16.2">gone where it is not needed</tspan></text>
+<line x1="28.0" y1="196.0" x2="736.0" y2="196.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="230.0" font-size="15" fill="#0b0b0b" font-weight="600">a virus</text>
+<text x="40.0" y="248.0" font-size="11.5" fill="#8a8985">in the placenta</text>
+<text x="268.0" y="230.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="268.0" dy="0.0">fusing cells</tspan><tspan x="268.0" dy="16.2">into one sheet</tspan></text>
+<text x="447.0" y="238.0" font-size="13" fill="#0b0b0b" text-anchor="middle">1 gene</text>
+<text x="640.0" y="230.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="640.0" dy="0.0">tens of millions</tspan><tspan x="640.0" dy="16.2">of years</tspan></text>
+<line x1="28.0" y1="270.0" x2="736.0" y2="270.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="304.0" font-size="15" fill="#0b0b0b" font-weight="600">man</text>
+<text x="40.0" y="322.0" font-size="11.5" fill="#8a8985">in the technosphere</text>
+<text x="268.0" y="304.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic"><tspan x="268.0" dy="0.0">to want,</tspan><tspan x="268.0" dy="16.2">for now</tspan></text>
+<text x="447.0" y="304.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic"><tspan x="447.0" dy="0.0">three typed lines</tspan><tspan x="447.0" dy="16.2">out of a singer's life</tspan></text>
+<text x="640.0" y="304.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic"><tspan x="640.0" dy="0.0">until the host</tspan><tspan x="640.0" dy="16.2">can want for itself</tspan></text>
+<line x1="28.0" y1="344.0" x2="736.0" y2="344.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="364.0" font-size="11.5" fill="#8a8985">The first two rows are the precedent. The third is Andrey's reading of it: a precedent is not a proof.</text>
+</svg>

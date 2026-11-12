@@ -2975,6 +2975,171 @@ def machine_made_uploads(lang):
     return f
 
 
+# --- 42. What Became of the Swallowed Bacterium ---------------------------------------------------
+
+@figure("head-office-and-workshop")
+def head_office_and_workshop(lang):
+    t = {
+        "en": dict(title="The drawings went to the head office",
+                   sub="A human cell and one of its mitochondria. Where the drawings of the stove are kept.",
+                   cell="the cell",
+                   nucleus="the nucleus:\nthe head office",
+                   nuc_sub="the drawings of more than\na thousand proteins\nthat work in the stove",
+                   mito="a mitochondrion: the workshop",
+                   ring="its own ring of DNA:\n37 genes",
+                   ring_sub="13 proteins made on the spot\n24 tools for reading them",
+                   carry="made outside,\ncarried in",
+                   move="pieces of the ring still move:\nabout once in 10,000 births",
+                   src="A scheme, not to scale. A free bacterium of the same group has several thousand genes."),
+        "ru": dict(title="Чертежи уехали в головную контору",
+                   sub="Клетка человека и одна из её митохондрий. Где лежат чертежи печки.",
+                   cell="клетка",
+                   nucleus="ядро:\nголовная контора",
+                   nuc_sub="чертежи более чем\nтысячи белков,\nкоторые работают в печке",
+                   mito="митохондрия: цех",
+                   ring="своё кольцо ДНК:\n37 генов",
+                   ring_sub="13 белков делают на месте\n24 — инструмент для их чтения",
+                   carry="делают снаружи,\nзаносят внутрь",
+                   move="куски кольца переезжают до сих пор:\nпримерно раз на 10 000 рождений",
+                   src="Схема, без масштаба. У вольной бактерии той же группы несколько тысяч генов."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    # the cell
+    f.rect(28, 84, 704, 286, fill="none", stroke=MUTED, width=1.5, r=40, dash="6 5")
+    f.text(52, 108, t["cell"], size=12, color=MUTED, italic=True)
+    # the nucleus
+    ncx, ncy = 176, 232
+    f.circle(ncx, ncy, 104, fill=BLUE, stroke=BLUE, width=2, opacity=0.10)
+    f.text(ncx, ncy - 38, t["nucleus"], size=14.5, color=INK, anchor="middle", weight="600")
+    f.text(ncx, ncy + 12, t["nuc_sub"], size=12, color=INK2, anchor="middle")
+    # the mitochondrion: an outer skin and a pleated inner one
+    mx0, mx1, my0, my1 = 430, 716, 152, 318
+    f.rect(mx0, my0, mx1 - mx0, my1 - my0, fill=ORANGE, stroke=ORANGE, width=2, r=70, opacity=0.10)
+    pleats = []
+    xs = [mx0 + 34 + k * 26 for k in range(9)]
+    for k, x in enumerate(xs):
+        pleats.append(f"M{x:.1f},{my0 + 10:.1f} L{x:.1f},{my0 + 30:.1f}" if k % 2 == 0
+                      else f"M{x:.1f},{my1 - 10:.1f} L{x:.1f},{my1 - 30:.1f}")
+    f.path(" ".join(pleats), color=ORANGE, width=2)
+    f.text((mx0 + mx1) / 2, my0 - 12, t["mito"], size=14.5, color=INK, anchor="middle", weight="600")
+    rcx, rcy = mx0 + 62, (my0 + my1) / 2
+    f.circle(rcx, rcy, 20, stroke=INK, width=2.5)
+    f.text(rcx + 34, rcy - 24, t["ring"], size=13, color=INK, weight="600")
+    f.text(rcx + 34, rcy + 14, t["ring_sub"], size=11.5, color=INK2)
+    # proteins carried in
+    f.path(f"M{ncx + 100:.1f},{ncy - 34:.1f} C{340:.1f},{150:.1f} {390:.1f},{176:.1f} {mx0 - 4:.1f},{my0 + 44:.1f}",
+           color=BLUE, width=2.5, arrow=True)
+    f.text(352, 132, t["carry"], size=12.5, color=BLUE, anchor="middle", weight="600")
+    # genes still moving to the nucleus
+    f.path(f"M{rcx - 22:.1f},{rcy + 12:.1f} C{400:.1f},{330:.1f} {340:.1f},{334:.1f} {ncx + 92:.1f},{ncy + 52:.1f}",
+           color=INK2, width=1.8, dash="5 5", arrow=True)
+    f.text(372, 344, t["move"], size=11.5, color=INK2, anchor="middle", italic=True)
+    f.text(28, 400, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-is-left-of-the-swallowed")
+def what_is_left_of_the_swallowed(lang):
+    t = {
+        "en": dict(title="What is left of the one taken in",
+                   sub="Genes of its own that still work. The scale is linear.",
+                   rows=[("a free bacterium", "about 4,000"),
+                         ("the bacterium\nin an aphid's cells", "about 600: it can no longer live outside"),
+                         ("the green grain in a leaf,\nonce a blue-green", "about 100"),
+                         ("the mitochondrion", "37, of which 13 are proteins"),
+                         ("the virus\nin the placenta", "1")],
+                   note="Nothing was taken away. What the job did not need was not guarded,\n"
+                        "and the drawings of what it did need moved to the host.",
+                   src="Rounded figures: the gut bacterium E. coli, Buchnera (2000), the chloroplast of a land plant, "
+                       "human mitochondrial DNA, syncytin (2000)."),
+        "ru": dict(title="Что осталось от того, кого впустили внутрь",
+                   sub="Собственные гены, которые ещё работают. Шкала линейная.",
+                   rows=[("вольная бактерия", "около 4000"),
+                         ("бактерия\nв клетках тли", "около 600: жить снаружи она уже не может"),
+                         ("зелёное зерно в листе,\nбывшая сине-зелёная", "около 100"),
+                         ("митохондрия", "37, из них 13 — белки"),
+                         ("вирус\nв плаценте", "1")],
+                   note="Ничего не отнимали. То, что работе было не нужно, не берегли,\n"
+                        "а чертежи того, что нужно, переехали к хозяину.",
+                   src="Цифры округлены: кишечная палочка, Buchnera (2000), хлоропласт наземного растения, "
+                       "митохондриальная ДНК человека, синцитин (2000)."),
+    }[lang]
+    f = Fig(760, 430, t["title"])
+    heading(f, t["title"], t["sub"])
+    values = [4000, 600, 100, 37, 1]
+    colors = [MUTED, AQUA, GREEN, ORANGE, VIOLET]
+    x0, x1, y0, row = 216, 716, 88, 52
+    for i, ((name, shown), value) in enumerate(zip(t["rows"], values)):
+        y = y0 + i * row
+        lines = name.count("\n") + 1
+        f.text(x0 - 14, y + (26 if lines == 1 else 18), name, size=13, color=INK, anchor="end")
+        wbar = max(value / 4000 * (x1 - x0), 2.5)
+        f.rect(x0, y + 8, wbar, 28, fill=colors[i], r=2, opacity=0.85)
+        if wbar > 300:
+            f.text(x0 + 14, y + 27, shown, size=13.5, color="#ffffff", weight="600")
+        else:
+            f.text(x0 + wbar + 10, y + 27, shown, size=13.5, color=INK, weight="600")
+    f.line(x0, y0 - 2, x0, y0 + 5 * row - 8, color=INK2, width=1.5)
+    f.text(28, 372, t["note"], size=12.5, color=INK)
+    f.text(28, 416, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("one-job-kept")
+def one_job_kept(lang):
+    t = {
+        "en": dict(title="One job, and what the job needs",
+                   sub="The one taken in is kept for a job the host cannot do itself, for as long as it cannot.",
+                   head=["the one job", "what is left of its own", "for how long"],
+                   rows=[("a bacterium", "the mitochondrion",
+                          ["energy", "37 genes\nout of several thousand", "about two billion years;\n"
+                                                                           "gone where it is not needed"]),
+                         ("a virus", "in the placenta",
+                          ["fusing cells\ninto one sheet", "1 gene", "tens of millions\nof years"]),
+                         ("man", "in the technosphere",
+                          ["to want,\nfor now", "three typed lines\nout of a singer's life",
+                           "until the host\ncan want for itself"])],
+                   src="The first two rows are the precedent. The third is Andrey's reading of it: "
+                       "a precedent is not a proof."),
+        "ru": dict(title="Одна работа и то, что этой работе нужно",
+                   sub="Проглоченного держат ради работы, которую хозяин не может сделать сам, и пока не может.",
+                   head=["одна работа", "что осталось своего", "надолго ли"],
+                   rows=[("бактерия", "митохондрия",
+                          ["энергия", "37 генов\nиз нескольких тысяч", "около двух миллиардов лет;\n"
+                                                                       "исчезла там, где не нужна"]),
+                         ("вирус", "в плаценте",
+                          ["сплавлять клетки\nв один лист", "1 ген", "десятки миллионов\nлет"]),
+                         ("человек", "в техносфере",
+                          ["хотеть,\nпока что", "три набранные строчки\nиз жизни певца",
+                           "пока хозяин не сможет\nхотеть сам"])],
+                   src="Первые две строки — прецедент. Третья — как его читает Андрей: "
+                       "прецедент не доказательство."),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [186, 350, 544, 736]
+    top, head_h, row_h = 86, 36, 74
+    bottom = top + head_h + row_h * 3
+    f.rect(28, top + head_h + 2 * row_h, cols[3] - 28, row_h, fill=ORANGE, r=0, opacity=0.10)
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 23, label, size=12.5, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        last = i == 2
+        f.line(28, y, cols[3], y, color=GRID, width=1.2)
+        f.text(40, y + 34, name, size=15, color=INK, weight="600")
+        f.text(40, y + 52, who, size=11.5, color=MUTED)
+        for k, cell in enumerate(cells):
+            lines = cell.count("\n") + 1
+            f.text((cols[k] + cols[k + 1]) / 2, y + (42 if lines == 1 else 34), cell, size=13,
+                   color=ORANGE if last else INK, anchor="middle", italic=last,
+                   weight="600" if last else "normal")
+    f.line(28, bottom, cols[3], bottom, color=GRID, width=1.2)
+    f.text(28, 364, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

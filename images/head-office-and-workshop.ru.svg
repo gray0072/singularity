@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Чертежи уехали в головную контору</title>
+<defs><marker id="arrow-2a78d6" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#2a78d6"/></marker><marker id="arrow-52514e" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#52514e"/></marker></defs>
+<rect x="0.5" y="0.5" width="759" height="419" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Чертежи уехали в головную контору</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Клетка человека и одна из её митохондрий. Где лежат чертежи печки.</text>
+<rect x="28.0" y="84.0" width="704.0" height="286.0" rx="40" fill="none" stroke="#8a8985" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="52.0" y="108.0" font-size="12" fill="#8a8985" font-style="italic">клетка</text>
+<circle cx="176.0" cy="232.0" r="104.0" fill="#2a78d6" stroke="#2a78d6" stroke-width="2" fill-opacity="0.1"/>
+<text x="176.0" y="194.0" font-size="14.5" fill="#0b0b0b" text-anchor="middle" font-weight="600"><tspan x="176.0" dy="0.0">ядро:</tspan><tspan x="176.0" dy="18.1">головная контора</tspan></text>
+<text x="176.0" y="244.0" font-size="12" fill="#52514e" text-anchor="middle"><tspan x="176.0" dy="0.0">чертежи более чем</tspan><tspan x="176.0" dy="15.0">тысячи белков,</tspan><tspan x="176.0" dy="15.0">которые работают в печке</tspan></text>
+<rect x="430.0" y="152.0" width="286.0" height="166.0" rx="70" fill="#eb6834" stroke="#eb6834" stroke-width="2" fill-opacity="0.1"/>
+<path d="M464.0,162.0 L464.0,182.0 M490.0,308.0 L490.0,288.0 M516.0,162.0 L516.0,182.0 M542.0,308.0 L542.0,288.0 M568.0,162.0 L568.0,182.0 M594.0,308.0 L594.0,288.0 M620.0,162.0 L620.0,182.0 M646.0,308.0 L646.0,288.0 M672.0,162.0 L672.0,182.0" stroke="#eb6834" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="573.0" y="140.0" font-size="14.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">митохондрия: цех</text>
+<circle cx="492.0" cy="235.0" r="20.0" fill="none" stroke="#0b0b0b" stroke-width="2.5"/>
+<text x="526.0" y="211.0" font-size="13" fill="#0b0b0b" font-weight="600"><tspan x="526.0" dy="0.0">своё кольцо ДНК:</tspan><tspan x="526.0" dy="16.2">37 генов</tspan></text>
+<text x="526.0" y="249.0" font-size="11.5" fill="#52514e"><tspan x="526.0" dy="0.0">13 белков делают на месте</tspan><tspan x="526.0" dy="14.4">24 — инструмент для их чтения</tspan></text>
+<path d="M276.0,198.0 C340.0,150.0 390.0,176.0 426.0,196.0" stroke="#2a78d6" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-2a78d6)"/>
+<text x="352.0" y="132.0" font-size="12.5" fill="#2a78d6" text-anchor="middle" font-weight="600"><tspan x="352.0" dy="0.0">делают снаружи,</tspan><tspan x="352.0" dy="15.6">заносят внутрь</tspan></text>
+<path d="M470.0,247.0 C400.0,330.0 340.0,334.0 268.0,284.0" stroke="#52514e" stroke-width="1.8" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 5" marker-end="url(#arrow-52514e)"/>
+<text x="372.0" y="344.0" font-size="11.5" fill="#52514e" text-anchor="middle" font-style="italic"><tspan x="372.0" dy="0.0">куски кольца переезжают до сих пор:</tspan><tspan x="372.0" dy="14.4">примерно раз на 10 000 рождений</tspan></text>
+<text x="28.0" y="400.0" font-size="11.5" fill="#8a8985">Схема, без масштаба. У вольной бактерии той же группы несколько тысяч генов.</text>
+</svg>

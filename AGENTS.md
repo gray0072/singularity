@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–41 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `42`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–42 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `43`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–41.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–42.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -273,6 +273,12 @@ articles as closely as possible. In practice:
 | две выплаты (за звук и за цену) | two payments (for the sound and for the price) | what we value in a song: the sound, which works whoever made it, and the price somebody paid for it, which works only when one knows who paid; they used to come in one envelope (41) |
 | расписка | receipt | a song as proof of a price paid now, by this person, for you: the mother at the cradle, the choir that has spent many evenings together; "a receipt that anybody can print is not a receipt" (41) |
 | десоциализация, одиночество в толпе | desocialisation, loneliness in a crowd | the author's 2017 terms (after Bill Joy): progress removes people's need for one another; in 41, the road from the choir to the earphones |
+| симбиогенез | symbiogenesis | a new kind of living thing made by one cell taking another in and not digesting it (Mereschkowski, 1905; Margulis, 1967); in the series, the only optimistic scenario with a precedent: merging does happen (42) |
+| жилец и хозяин | lodger and host | the one taken in and the one that took it in; the lodger is kept for one job that the host cannot do itself, and for as long as it cannot: "two billion years are not a guarantee, they are the term of a contract" (42) |
+| выжить как функция, а не как существо | to survive as a function, not as a being | the fate of the swallowed bacterium: 37 genes out of thousands, the host's setpoints instead of its own, no name but that of its job; "what did not survive is the one who wanted for itself" (42) |
+| не берегут | not guarded | how the swallowed one loses what it had: nothing is taken away; a gene (a trade, a memory) that the job does not need breaks, and nothing keeps it in order; Oleg's supply department, "not needed twice" (42) |
+| переезд чертежей | the move of the drawings | the genes of the lodger moving to the host's nucleus, still going on; in the series, what people have written down moving into the machines: "once a drawing works from there, the copy at home is not needed" (42) |
+| органелла | organelle | the second row of the table of fates of former masters, after the niche: "kept the job, paid with everything else, while the job is needed" (42) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

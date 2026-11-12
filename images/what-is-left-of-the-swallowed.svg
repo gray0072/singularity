@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>What is left of the one taken in</title>
+
+<rect x="0.5" y="0.5" width="759" height="429" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">What is left of the one taken in</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Genes of its own that still work. The scale is linear.</text>
+<text x="202.0" y="114.0" font-size="13" fill="#0b0b0b" text-anchor="end">a free bacterium</text>
+<rect x="216.0" y="96.0" width="500.0" height="28.0" rx="2" fill="#8a8985" fill-opacity="0.85"/>
+<text x="230.0" y="115.0" font-size="13.5" fill="#ffffff" font-weight="600">about 4,000</text>
+<text x="202.0" y="158.0" font-size="13" fill="#0b0b0b" text-anchor="end"><tspan x="202.0" dy="0.0">the bacterium</tspan><tspan x="202.0" dy="16.2">in an aphid's cells</tspan></text>
+<rect x="216.0" y="148.0" width="75.0" height="28.0" rx="2" fill="#1baf7a" fill-opacity="0.85"/>
+<text x="301.0" y="167.0" font-size="13.5" fill="#0b0b0b" font-weight="600">about 600: it can no longer live outside</text>
+<text x="202.0" y="210.0" font-size="13" fill="#0b0b0b" text-anchor="end"><tspan x="202.0" dy="0.0">the green grain in a leaf,</tspan><tspan x="202.0" dy="16.2">once a blue-green</tspan></text>
+<rect x="216.0" y="200.0" width="12.5" height="28.0" rx="2" fill="#008300" fill-opacity="0.85"/>
+<text x="238.5" y="219.0" font-size="13.5" fill="#0b0b0b" font-weight="600">about 100</text>
+<text x="202.0" y="270.0" font-size="13" fill="#0b0b0b" text-anchor="end">the mitochondrion</text>
+<rect x="216.0" y="252.0" width="4.6" height="28.0" rx="2" fill="#eb6834" fill-opacity="0.85"/>
+<text x="230.6" y="271.0" font-size="13.5" fill="#0b0b0b" font-weight="600">37, of which 13 are proteins</text>
+<text x="202.0" y="314.0" font-size="13" fill="#0b0b0b" text-anchor="end"><tspan x="202.0" dy="0.0">the virus</tspan><tspan x="202.0" dy="16.2">in the placenta</tspan></text>
+<rect x="216.0" y="304.0" width="2.5" height="28.0" rx="2" fill="#4a3aa7" fill-opacity="0.85"/>
+<text x="228.5" y="323.0" font-size="13.5" fill="#0b0b0b" font-weight="600">1</text>
+<line x1="216.0" y1="86.0" x2="216.0" y2="340.0" stroke="#52514e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="28.0" y="372.0" font-size="12.5" fill="#0b0b0b"><tspan x="28.0" dy="0.0">Nothing was taken away. What the job did not need was not guarded,</tspan><tspan x="28.0" dy="15.6">and the drawings of what it did need moved to the host.</tspan></text>
+<text x="28.0" y="416.0" font-size="11" fill="#8a8985">Rounded figures: the gut bacterium E. coli, Buchnera (2000), the chloroplast of a land plant, human mitochondrial DNA, syncytin (2000).</text>
+</svg>

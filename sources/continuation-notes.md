@@ -560,13 +560,13 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 9).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 10).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
   Oleg, not believing that the word stands in a paper about petrol stations, read it aloud from his phone ("...so the
   singularity is never reached") and went for firewood the second time ("That was a quotation. — In your voice"). Andrey has not
-  said it yet ("I read with my mouth shut"); in 41 nobody said it.
+  said it yet ("I read with my mouth shut"); in 41 and 42 nobody said it.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -1455,3 +1455,156 @@ by the price quotation → 65; Oleg's next question: the band had a man inside w
 swallowed, like the tool room of my plant; perhaps that is our road: not out but in" (his great-nephew: "we shall
 merge with them"); Andrey: "There is a precedent. About two billion years old, and it sits in every cell of yours.
 A precedent is not a proof. But this one is worth asking what became of the swallowed" → 42.
+
+## 42. What Became of the Swallowed Bacterium
+
+**Established**
+- The answer to Oleg's "perhaps that is our road: not out but in" (41). Oleg opens with his great-nephew's words
+  ("Nobody will throw us out. They will swallow us. We shall merge with them and live inside: fed, warm and in the
+  thick of things") and sets a condition himself: "The precedent first, and without them. Not a word about your
+  machines until I say it myself." The machines come back after the middle, as Oleg's card.
+- The descent is a ladder of three steps. (1) The lichen on a branch of firewood: a fungus (the house) and an alga
+  (eats light); Schwendener, 1867, "all but laughed out of the science"; the dispute began "from that end" (who
+  exploits whom, 37; left open). They can be parted: "two beings in one household, and either can still leave.
+  — Lodgers." (2) The aphids on Oleg's currants: sap is sugar water, the building blocks are made by bacteria in
+  special cells, handed on in the egg for more than a hundred million years; they cannot be parted (the aphid stops
+  growing and breeding, the bacteria grow in no broth); about six hundred genes left of more than four thousand.
+  **Why genes are lost**: "a gene that nobody needed breaks and kills nobody. Nobody guards it", and a shorter set of
+  drawings is quicker to copy (the miser of 33). Oleg's everyday image, which carries the evening: the holding that
+  took over his plant in the nineties (supply first, then the bookkeeping, then the designers; "nobody was sacked out
+  of spite. They were simply not needed twice"). (3) The mitochondrion, "the stove" of 38.
+- How we know it was a bacterium ("Who saw it? — Nobody. But the lodger still has its passport in its pocket"): its
+  own ring of DNA, protein workshops of the bacterial pattern, two skins, it comes only from another mitochondrion;
+  its genes are kin to one group of free bacteria; some antibiotics jam its workshops too ("the medicine takes it for
+  a bacterium"). Mereschkowski (Kazan, lichens, 1905: the green grains in a leaf are lodgers; this pays 38's "who
+  swallowed whom"), Margulis (1967, about fifteen rejections). The host's relatives (2015, 2020). **"Swallowed" is
+  called the school word**: "perhaps it embraced, and the embrace closed. How the lodger got inside is argued about.
+  That it is inside is not."
+- The price, counted: 37 genes out of several thousand, 24 of them tools for reading the other 13; more than a
+  thousand kinds of protein work in a mitochondrion, made from drawings in the nucleus and carried in. The drawings
+  **moved**, and still move (about once in ten thousand births): "the drawings went to the head office". Why thirteen
+  stay: Oleg's foreman ("a machine does not wait for Moscow"), given as **a hypothesis among others** (Allen's
+  co-location idea, not named). Further losses: it cannot live outside; the cell decides when it divides and when it
+  dies ("digested after all. — One at a time, on schedule, for two billion years"); the father's are destroyed, "a
+  man's mitochondria are a dead end"; and it has no name but that of its job. **"A function. — You said it."**
+- The other column: a bacterium makes its energy on its skin, and the skin grows more slowly than the body (the log
+  and the kindling of 40), so bacteria "stayed specks; not one grew an eye". Stoves inside, with pleated skins and a
+  foreman each, lift the limit. About two hundred thousand times more energy per gene (**said to be argued about;
+  "the sign is not"**): everything visible without a microscope is built of cells with stoves. "The union" of 37:
+  "the largest in the history of life".
+- **Oleg's card (the machines, brought in by him)**: "We shall be mitochondria: fed and in every cell. I'll sign."
+  Andrey: "your best card of the whole spring, and I accept it. Of all the good endings people have thought up, this
+  is the only one with a precedent. A precedent is not a proof, and I say so before you do."
+- Counted by the same columns. The lodger is kept for what the host cannot make itself; where the job is not needed
+  (life without oxygen) the mitochondrion shrank to a bubble with no genes, and in one microbe vanished without a
+  trace: **"two billion years are not a guarantee. They are the term of a contract: the lodger is kept while it does
+  what the host cannot do itself. Not a day longer, and with no hard feelings on either side."** A second precedent
+  so that the rule is not drawn from one case: the virus gene that makes the placenta ("A picklock made into a door
+  hinge"; mice use a gene from another virus). The ladder of genes left: 4,000, 600, 100, 37, 1.
+- **The rule in three things**: the one taken in is kept for one job the host cannot do itself; everything else is
+  not taken away but "simply not guarded, and it falls off"; the drawings of what is still needed move to the host.
+- Asked of us. Hands: "for a time" (27; "a job the host is learning is not a contract"). Energy (the film with
+  people as batteries, not named): 120 W of heat for food that took several times as much to grow, "machines are not
+  short of watts". Heads: "we spent the whole of last autumn on heads". **Oleg's answer: the request, "somebody has
+  to want; we are the customer" (22). Accepted as "our real job today"**, with two questions: how much of a man it
+  takes ("Three lines"; of the singer and the fifty years of fingers of 41, nothing: "the job 'to want' is thirteen
+  genes"; the trade, the hands and the memory of how things are done "will simply not be guarded") and for how long
+  (wants nobody set, 22; the technosphere as its own main customer, 27 step 3; "The chinchilla. — I didn't say it").
+- **The move of the drawings, said of us**: what the machines read (21) is "everything we ever wrote down"; "nobody
+  stole it. We published it ourselves, as a burst mitochondrion spills its DNA"; the great-nephew who learns nothing
+  by heart ("Why should I, when I can ask?"). Stated in the recap as Andrey's, not as a fact.
+- The chip ("not a lodger: a partner"): 27's valve radio is recalled in one phrase; new: the speech implant of 2023
+  (62 words a minute, every fourth word wrong, against 160) and the count of about ten bits a second for anything a
+  man gives out. "The narrow place is not the wire. It is the head: one thought at a time." The author's own lines
+  are used in Andrey's mouth: the walking excavator made out of a stone axe with the axe kept inside (2011, to a
+  reader) and "hardly; we are too inefficient and too tied to our planet" (2017). "Tied" is explained with the
+  cosmonaut of 38: "an organelle that needs its old ocean around it".
+- Oleg's strongest objection, the symmetry test turned on Andrey: "the man who spent two autumns taking man off his
+  pedestal, and now he is sorry for a bacterium"; the mitochondrion would say it tamed the cell ("a man is a
+  mitochondrion's way of making more mitochondria"). **Conceded**: "who swallowed whom" is badly posed, as "who
+  exploits whom" was; "the pity I take back". Restated without pity: before the meeting, a system with setpoints of
+  its own (18); after it, the host's. "The stuff survived. The line survived. The genes survived, most of them in the
+  nucleus. What did not survive is the one who wanted for itself. Whether that is a loss depends on whom you ask."
+  To Oleg's "in what way have I not survived?": "in the way the bacterium has not. I don't say it is bad. I say: call
+  it by its name."
+- **Left hanging, as planned**: "Is that not immortality? — I don't know. Perhaps it is the only kind there is. I
+  have no answer to that, and I won't invent one. — It doesn't complain. — It doesn't."
+- **Andrey corrects article 11** (and the debt of 05): in 2011 he "said flatly that crossing the old platform with
+  the new one is too wasteful, and waved merging away". Now: merging happens, and nature made by it "the greatest
+  thing it ever made", but when the host could not make the job itself and "had nothing to design it with. A cell
+  does not design... Whoever has a drawing board writes from scratch. So my 'no' stands on one leg: on the host being
+  able to make everything itself. While it cannot, your precedent works." How long "while" is: "the needles", not
+  touched.
+- The table of fates (52) gets its second row, written by Oleg on the page "Where the former ones went", under the
+  anaerobes: "A niche: kept everything, paid with the planet" (38) and "An organelle: kept the job, paid with
+  everything else", plus Andrey's "while the job is needed".
+- Strengths stated: solid (37 and 13; the drawings in the nucleus and the move still going; the mother's line; the
+  virus gene in the placenta; the microbe with not a trace left); argued about (how the lodger got inside, the two
+  hundred thousand, why exactly thirteen stay); Andrey's (what we have written is the drawings moving to the head
+  office; our job today is to want and it takes three lines of a man; the host will learn that job too); "all of it
+  together is a precedent and not a proof".
+- Nobody says the forbidden word; tenth tick "again": "Came with a lichen. Came out at the chip in my great-nephew's
+  head, and brought it in myself."
+
+**Images and devices used**: the third entry in the notebook of dreams (mending the fence, the nails turning into
+matches; nobody rang); the branch with the grey crust (kept by Andrey, tapped at "grew out of this very crust", and
+at the end laid beside the log: "Let the lodgers live"); the kitchen garden and the house with a roof; lodgers; the
+currants, the soapy water and "the ants milk them"; bed and board; the holding, the supply department and "not needed
+twice"; the passport in the pocket; "A stubborn woman"; the embrace that closed; the head office and the workshop;
+the foreman and the chattering cutter; "marked for scrap"; "She will say she always knew"; "the power station of the
+cell"; three branches (two thrown on, the third held until Oleg's objection); the pleated skin; lightning; the term
+of a contract; "From a chinchilla"; a cold and a birth; the picklock and the door hinge; the ladder; the tap washer;
+a battery that takes more than it gives; three lines; the modem of 2,400; the stone axe inside the excavator; the
+drawing board; "one leg"; the teaser ("the liver does not go on strike against the head"; three men in a team, one
+shirking and one carrying things home).
+
+**Facts used**: from the writer's memory, with web checks kept to the links (at the keeper's request); **check before
+reusing**. Checked on the day of writing, against Crossref (titles, journals, years): Sagan 1967 (J. Theor. Biol.,
+"On the origin of mitosing cells", 10.1016/0022-5193(67)90079-3); Lane & Martin 2010 (Nature, 10.1038/nature09486);
+Mi et al. 2000 (Nature, syncytin, 10.1038/35001608); Dupressoir et al. 2009 (PNAS, syncytin-A knockout mice,
+10.1073/pnas.0902925106); Shigenobu et al. 2000 (Nature, the Buchnera genome, 10.1038/35024074); Spang et al. 2015
+(Nature, 10.1038/nature14447); Imachi et al. 2020 (Nature, 10.1038/s41586-019-1916-6); Karnkowska et al. 2016
+(Current Biology, "A Eukaryote without a Mitochondrial Organelle", 10.1016/j.cub.2016.03.053); Wei et al. 2022
+(Nature; from the abstract: 66,083 genomes, de novo insertions "once in every 10⁴ births"); Willett et al. 2023
+(Nature; from the abstract: 62 words per minute, a 23.8% word error rate on a 125,000-word vocabulary, natural
+conversation 160 words per minute, a participant with ALS); Zheng & Meister (Neuron, January 2025 issue, online
+December 2024: "Why do we live at 10 bits/s?"). **From memory, not checked**: Schwendener's dual hypothesis (1867)
+and the English lichenologist's "captive maiden and tyrant" (Crombie, 1874; paraphrased, not quoted); Famintsyn and
+Baranetsky freeing the green cells of a lichen (1867); Buchnera (about 600 genes against E. coli's 4,300; 160–280
+million years with aphids, given as "more than a hundred million"; aphids treated with antibiotics stop growing and
+breeding); human mitochondrial DNA (16,569 letters, 37 genes: 13 proteins, 22 transfer RNAs and 2 ribosomal RNAs);
+"more than a thousand" mitochondrial proteins (MitoCarta: about 1,100); a thousand or two mitochondria in a liver
+cell and a third of the volume of a heart muscle cell; the 1970s sequence comparisons and the kinship with the
+alphaproteobacteria ("the group the typhus microbe belongs to"); antibiotics that hit mitochondrial ribosomes;
+Mereschkowski at Kazan and his 1905 paper; "some fifteen" rejections of Margulis's paper; Loki's Castle as "the
+bottom of the Arctic Ocean"; the twelve years, the division once in two or three weeks, the branching arms and the
+partner microbes of the 2020 archaeon; "between one and a half and two billion years"; mitophagy and the destruction
+of paternal mitochondria; "ten million billion" mitochondria and "a tenth of your weight", a body weight of ATP a
+day, and 150 millivolts across about five nanometres, 30 million volts a metre against about 3 million for the
+breakdown of air (all from Lane's books); red blood cells without mitochondria; "about two hundred thousand times"
+(Lane & Martin; disputed by Lynch & Marinov); the gene-less mitosomes that still assemble iron–sulphur clusters; the
+chinchilla gut, Prague, and the bacterial genes that took the last job over (Monocercomonoides); about 8% of human
+DNA from retroviruses against 1–2% coding for proteins; the age of the syncytin virus ("some tens of millions of
+years"); knockout embryos dying mid-pregnancy; the chloroplast's "about a hundred" genes; the food that takes
+"several times" its own energy to grow; the eyes taking in about a billion bits a second ("a hundred million times
+more"). The author's own: the comment under 11 of 14 November 2011 (the walking excavator and the stone axe; "easier
+to write from scratch"), the forum post of 18 January 2017 ("hardly its neurons: too inefficient and too tied to our
+planet"), article 11 (hybridising platforms is wasteful). Links: the Russian Wikipedia has no page for *Buchnera
+aphidicola* (the English one is used). Invented for the frame (Oleg's side): the telephone call to the great-nephew
+and his words, the holding of the nineties and the order in which the departments went, the currants and the soapy
+water, the first modem, the page "Where the former ones went". Not used: Wallin and Kozo-Polyansky; the lightning
+image as Lane's by name; hydrogenosomes; Paulinella; Carsonella and the bacteria inside bacteria of the mealybug;
+Elysia, the slug that steals chloroplasts; mitochondrial Eve; the mitochondrion as the trigger of a cell's suicide
+(a lock with 14, kept in reserve); cyanide; centaur chess; Neuralink by name; the two clocks of 32.
+
+**Figures**: `head-office-and-workshop` (a scheme, not to scale), `what-is-left-of-the-swallowed` (rounded figures),
+`one-job-kept` (the first two rows are the precedent, the third is Andrey's reading).
+
+**Left for later**: the row "organelle" of the table of fates → 52 (42 gives it; the horse of 34 has no row written
+in the notebook yet); the great-nephew who learns nothing by heart, "the spade that dulls its owner" → 48 (touched
+in two lines, not developed); what the heir will want when it wants for itself → the evenings on the heir; "how long
+is while" → the check of the marks (67); whether surviving as a function is immortality → left open, may be taken up
+in 65; Oleg's last doubt: ten million billion mitochondria and not one refuses to burn, the liver does not go on
+strike against the head, and three men in a team already cannot agree ("How did they come to terms? — Some don't.
+But that is for tomorrow. On your way home look under your feet. — Ants? They are after my aphids. — Ask them why
+they don't go on strike") → 43.

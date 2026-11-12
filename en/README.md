@@ -87,9 +87,10 @@ forbids the word itself. English is the original; Russian is a translation.
 39. [Oleg's Prophetic Dream and the Price of a False Alarm](39-price-of-a-false-alarm.md) — *continuation*
 40. [Why Firms Die and Cities Do Not](40-firms-die-cities-do-not.md) — *continuation*
 41. [Cheesecake for the Ears](41-cheesecake-for-the-ears.md) — *continuation*
+42. [What Became of the Swallowed Bacterium](42-swallowed-bacterium.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–41 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–42 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–41 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 42. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–42 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 43. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Одна работа и то, что этой работе нужно</title>
+
+<rect x="0.5" y="0.5" width="759" height="379" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Одна работа и то, что этой работе нужно</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Проглоченного держат ради работы, которую хозяин не может сделать сам, и пока не может.</text>
+<rect x="28.0" y="270.0" width="708.0" height="74.0" rx="0" fill="#eb6834" fill-opacity="0.1"/>
+<text x="268.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">одна работа</text>
+<text x="447.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">что осталось своего</text>
+<text x="640.0" y="109.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">надолго ли</text>
+<line x1="28.0" y1="122.0" x2="736.0" y2="122.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="156.0" font-size="15" fill="#0b0b0b" font-weight="600">бактерия</text>
+<text x="40.0" y="174.0" font-size="11.5" fill="#8a8985">митохондрия</text>
+<text x="268.0" y="164.0" font-size="13" fill="#0b0b0b" text-anchor="middle">энергия</text>
+<text x="447.0" y="156.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="447.0" dy="0.0">37 генов</tspan><tspan x="447.0" dy="16.2">из нескольких тысяч</tspan></text>
+<text x="640.0" y="156.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="640.0" dy="0.0">около двух миллиардов лет;</tspan><tspan x="640.0" dy="16.2">исчезла там, где не нужна</tspan></text>
+<line x1="28.0" y1="196.0" x2="736.0" y2="196.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="230.0" font-size="15" fill="#0b0b0b" font-weight="600">вирус</text>
+<text x="40.0" y="248.0" font-size="11.5" fill="#8a8985">в плаценте</text>
+<text x="268.0" y="230.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="268.0" dy="0.0">сплавлять клетки</tspan><tspan x="268.0" dy="16.2">в один лист</tspan></text>
+<text x="447.0" y="238.0" font-size="13" fill="#0b0b0b" text-anchor="middle">1 ген</text>
+<text x="640.0" y="230.0" font-size="13" fill="#0b0b0b" text-anchor="middle"><tspan x="640.0" dy="0.0">десятки миллионов</tspan><tspan x="640.0" dy="16.2">лет</tspan></text>
+<line x1="28.0" y1="270.0" x2="736.0" y2="270.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="304.0" font-size="15" fill="#0b0b0b" font-weight="600">человек</text>
+<text x="40.0" y="322.0" font-size="11.5" fill="#8a8985">в техносфере</text>
+<text x="268.0" y="304.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic"><tspan x="268.0" dy="0.0">хотеть,</tspan><tspan x="268.0" dy="16.2">пока что</tspan></text>
+<text x="447.0" y="304.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic"><tspan x="447.0" dy="0.0">три набранные строчки</tspan><tspan x="447.0" dy="16.2">из жизни певца</tspan></text>
+<text x="640.0" y="304.0" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600" font-style="italic"><tspan x="640.0" dy="0.0">пока хозяин не сможет</tspan><tspan x="640.0" dy="16.2">хотеть сам</tspan></text>
+<line x1="28.0" y1="344.0" x2="736.0" y2="344.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="364.0" font-size="11.5" fill="#8a8985">Первые две строки — прецедент. Третья — как его читает Андрей: прецедент не доказательство.</text>
+</svg>
