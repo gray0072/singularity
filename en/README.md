@@ -92,9 +92,10 @@ forbids the word itself. English is the original; Russian is a translation.
 44. [Science Advances from Funeral to Funeral](44-from-funeral-to-funeral.md) — *continuation*
 45. [Lamarck Was Right, but Too Early](45-lamarck-was-right.md) — *continuation*
 46. [The Flies Apart from the Cutlets](46-flies-apart-from-cutlets.md) — *continuation*
+47. [Money as Memory, and What Will Come Instead](47-money-as-memory.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–46 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–47 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–46 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 47. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–47 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 48. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)

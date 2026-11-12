@@ -341,4 +341,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [08](./08-human-psyche.md), [18](./18-anatomy-of-wants.md), [20](./20-what-consciousness-is.md), [21](./21-machines-that-talk.md), [22](./22-who-sets-the-tasks.md), [33](./33-use-of-sleep.md), [36](./36-what-the-rat-laughs-at.md), [39](./39-price-of-a-false-alarm.md), [41](./41-cheesecake-for-the-ears.md), [43](./43-why-ants-do-not-strike.md), [44](./44-from-funeral-to-funeral.md).
 
-[← 45](./45-lamarck-was-right.md) · [Оглавление](./README.md)
+[← 45](./45-lamarck-was-right.md) · [Оглавление](./README.md) · [47 →](./47-money-as-memory.md)

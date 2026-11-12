@@ -127,8 +127,9 @@ Claude Opus 5.5, which wrote 16–32.
 | 44 | Science Advances from Funeral to Funeral | [en](en/44-from-funeral-to-funeral.md) | [ru](ru/44-from-funeral-to-funeral.md) |
 | 45 | Lamarck Was Right, but Too Early | [en](en/45-lamarck-was-right.md) | [ru](ru/45-lamarck-was-right.md) |
 | 46 | The Flies Apart from the Cutlets | [en](en/46-flies-apart-from-cutlets.md) | [ru](ru/46-flies-apart-from-cutlets.md) |
+| 47 | Money as Memory, and What Will Come Instead | [en](en/47-money-as-memory.md) | [ru](ru/47-money-as-memory.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–46 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 47. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–47 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 48. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 

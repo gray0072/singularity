@@ -3814,6 +3814,179 @@ def two_faces_of_one_mistake(lang):
     return f
 
 
+# --- 47. Money as Memory, and What Will Come Instead -------------------------------------------
+
+@figure("ledger-older-than-coin")
+def ledger_older_than_coin(lang):
+    t = {
+        "en": dict(title="The ledger is older than the coin",
+                   sub="What the record of who gave what to whom has been kept on.",
+                   ticks=[(-3000, "3000 BC"), (-2000, "2000 BC"), (-1000, "1000 BC"), (1, "1 AD"), (1000, "1000"),
+                          (2000, "2000")],
+                   events=[(-3300, "clay tablets of Uruk", "accounts: barley, beer, sheep", "about 3300 BC"),
+                           (-630, "the first coins", "Lydia", "about 630 BC"),
+                           (2026, "a number in a bank's book", "most money was never paper", "today")],
+                   spans=["27 centuries", "26 centuries"],
+                   src="Dates are rounded. Between neighbours the same book is kept in two heads, with no clay at all."),
+        "ru": dict(title="Учётная книга старше монеты",
+                   sub="На чём вели запись о том, кто кому что дал.",
+                   ticks=[(-3000, "3000 до н. э."), (-2000, "2000 до н. э."), (-1000, "1000 до н. э."),
+                          (1, "1 н. э."), (1000, "1000"), (2000, "2000")],
+                   events=[(-3300, "глиняные таблички Урука", "учёт: ячмень, пиво, овцы", "около 3300 до н. э."),
+                           (-630, "первые монеты", "Лидия", "около 630 до н. э."),
+                           (2026, "цифра в книге банка", "большая часть денег не была бумагой", "сегодня")],
+                   spans=["27 веков", "26 веков"],
+                   src="Даты округлены. Между соседями та же книга ведётся в двух головах, безо всякой глины."),
+    }[lang]
+    f = Fig(760, 306, t["title"])
+    heading(f, t["title"], t["sub"])
+
+    def x(year):
+        return 70 + (year + 3500) / 5600 * 640
+
+    ay = 190
+    f.line(60, ay, 716, ay, color=INK2, width=1.5)
+    for year, label in t["ticks"]:
+        f.line(x(year), ay, x(year), ay + 5, color=INK2, width=1.2)
+        f.text(x(year), ay + 20, label, size=11, color=MUTED, anchor="middle")
+    colors = [ORANGE, BLUE, AQUA]
+    anchors = ["start", "middle", "end"]
+    for (year, name, sub, date), c, anchor in zip(t["events"], colors, anchors):
+        px = x(year)
+        tx = {"start": 62, "middle": px, "end": 716}[anchor]
+        f.line(px, ay, px, 150, color=c, width=1.5)
+        f.circle(px, ay, 5, fill=c)
+        f.text(tx, 104, name, size=14, color=INK, anchor=anchor, weight="600")
+        f.text(tx, 122, sub, size=12, color=INK2, anchor=anchor)
+        f.text(tx, 140, date, size=12, color=c, anchor=anchor, weight="600")
+    xs = [x(e[0]) for e in t["events"]]
+    for k, label in enumerate(t["spans"]):
+        a, b = xs[k] + 4, xs[k + 1] - 4
+        f.line(a, 236, b, 236, color=INK2, width=1.2)
+        f.line(a, 230, a, 242, color=INK2, width=1.2)
+        f.line(b, 230, b, 242, color=INK2, width=1.2)
+        f.text((a + b) / 2, 256, label, size=13, color=INK, anchor="middle", weight="600")
+    f.text(28, 286, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("where-there-is-no-money")
+def where_there_is_no_money(lang):
+    t = {
+        "en": dict(title="The table in the ash: where there is no money",
+                   sub="Two questions about each pair: do they need one another, and are they one another's own?",
+                   head=["need one another?", "one another's own?", "what stands between them"],
+                   rows=[("Robinson alone", "a drawer of coins on the wreck", ["nobody to need", "—", "nothing"]),
+                         ("a family", "forty years of soup", ["yes", "kin", "nothing"]),
+                         ("neighbours across the fence", "the roof, the pump", ["yes", "a book in two heads",
+                                                                              "the memory of debts"]),
+                         ("strangers", "the man with the birch", ["yes", "no", "money"]),
+                         ("shops of one plant", "the foundry's castings", ["yes", "one owner, one book",
+                                                                          "an account, not money"]),
+                         ("the liver and the kidneys", "a teaspoon of sugar", ["yes", "kin of one",
+                                                                              "an account in kind"]),
+                         ("copies of one machine", "the row Oleg wrote in", ["yes", "kin of one, one book",
+                                                                            "an account in kind"]),
+                         ("programs of different owners", "the tickets, the code 402",
+                          ["their owners do", "no: the owners\nare strangers", "the owners' money"])],
+                   src="The last two rows are today's machines in Andrey's reading: a precedent is not a proof."),
+        "ru": dict(title="Таблица на золе: где денег нет",
+                   sub="Два вопроса к каждой паре: нужны ли они друг другу и свои ли они друг другу?",
+                   head=["нужны друг другу?", "свои друг другу?", "что стоит между ними"],
+                   rows=[("Робинзон один", "ящик монет на разбитом корабле", ["нуждаться не в ком", "—", "ничего"]),
+                         ("семья", "сорок лет супа", ["да", "родня", "ничего"]),
+                         ("соседи через забор", "крыша, насос", ["да", "книга в двух головах", "память о долгах"]),
+                         ("чужие", "человек с берёзой", ["да", "нет", "деньги"]),
+                         ("цеха одного завода", "отливки литейного", ["да", "один хозяин, одна книга",
+                                                                    "учёт, а не деньги"]),
+                         ("печень и почки", "чайная ложка сахара", ["да", "родня на единицу", "учёт в натуре"]),
+                         ("копии одной машины", "строка, которую вписал Олег",
+                          ["да", "родня на единицу,\nодна книга", "учёт в натуре"]),
+                         ("программы разных хозяев", "билеты, код 402",
+                          ["хозяевам — да", "нет: хозяева\nдруг другу чужие", "деньги хозяев"])],
+                   src="Две последние строки — сегодняшние машины, как их читает Андрей: прецедент не доказательство."),
+    }[lang]
+    f = Fig(760, 524, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [262, 386, 566, 736]
+    top, head_h, row_h = 86, 36, 46
+    bottom = top + head_h + row_h * 8
+    f.rect(28, top + head_h + 3 * row_h, cols[3] - 28, row_h, fill=BLUE, r=0, opacity=0.10)
+    f.rect(28, top + head_h + 6 * row_h, cols[3] - 28, 2 * row_h, fill=ORANGE, r=0, opacity=0.10)
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 23, label, size=12.5, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        machine = i >= 6
+        f.line(28, y, cols[3], y, color=GRID, width=1.2)
+        f.text(40, y + 20, name, size=14, color=INK, weight="600")
+        f.text(40, y + 36, who, size=11, color=MUTED)
+        for k, cell in enumerate(cells):
+            lines = cell.count("\n") + 1
+            money = k == 2 and i in (3, 7)
+            f.text((cols[k] + cols[k + 1]) / 2, y + {1: 28, 2: 20}[lines], cell, size=12.5,
+                   color=BLUE if i == 3 else ORANGE if machine else INK, anchor="middle", italic=machine,
+                   weight="600" if money or i == 3 else "normal")
+    f.line(28, bottom, cols[3], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("three-things-in-a-banknote")
+def three_things_in_a_banknote(lang):
+    t = {
+        "en": dict(title="Three things in one banknote",
+                   sub="What a banknote holds, what each thing rests on, and what happens when that is gone.",
+                   head=["what it rests on", "when that is gone"],
+                   rows=[("the record", "“the bearer has given and\nhas not yet received”",
+                          ["strangers: no kinship,\nno common book",
+                           "the record is not needed: a family,\na firm inside, a body, copies of a machine"]),
+                         ("its value", "somebody will give\nsomething for it",
+                          ["people's need\nfor one another",
+                           "the record is worth nothing: whoever\nnobody needs cannot earn it"]),
+                         ("the measure", "how much of everything\nelse must be given up",
+                          ["something is short and\nhas more than one use",
+                           "never gone: the number falls out of the\ntask with no bazaar; an account in kind"])],
+                   src="Row 2 is the author's definition of 2017. Row 3 is Kantorovich's valuations; that the measure\n"
+                       "is all the heir keeps of money is Andrey's reading."),
+        "ru": dict(title="Три вещи в одной купюре",
+                   sub="Что есть в купюре, на чём каждая вещь держится и что бывает, когда этого не стало.",
+                   head=["на чём держится", "когда этого не стало"],
+                   rows=[("запись", "«предъявитель дал\nи ещё не получил»",
+                          ["чужие: ни родства,\nни общей книги",
+                           "запись не нужна: семья, фирма\nвнутри, тело, копии одной машины"]),
+                         ("её ценность", "за неё кто-нибудь\nчто-нибудь даст",
+                          ["потребность людей\nдруг в друге",
+                           "запись ничего не стоит: кто никому\nне нужен, тот её не заработает"]),
+                         ("мера", "сколько всего остального\nнадо отдать",
+                          ["чего-то не хватает,\nи его можно пустить на разное",
+                           "не исчезает: число выпадает из задачи\nбез базара; учёт в натуре"])],
+                   src="Строка 2 — определение автора 2017 года. Строка 3 — оценки Канторовича; что от денег наследнику\n"
+                       "останется одна мера — прочтение Андрея."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [230, 440, 736]
+    top, head_h, row_h = 86, 36, 76
+    bottom = top + head_h + row_h * 3
+    f.rect(28, top + head_h + 2 * row_h, cols[2] - 28, row_h, fill=AQUA, r=0, opacity=0.10)
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 23, label, size=12.5, color=INK2, anchor="middle", weight="600")
+    for i, (name, what, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        last = i == 2
+        f.line(28, y, cols[2], y, color=GRID, width=1.2)
+        f.text(40, y + 26, name, size=15, color=INK, weight="600")
+        f.text(40, y + 45, what, size=11.5, color=INK2, italic=True)
+        for k, cell in enumerate(cells):
+            f.text((cols[k] + cols[k + 1]) / 2, y + 35, cell, size=13,
+                   color=AQUA if last and k == 1 else INK, anchor="middle",
+                   weight="600" if last and k == 1 else "normal")
+    f.line(28, bottom, cols[2], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

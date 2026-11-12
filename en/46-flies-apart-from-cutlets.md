@@ -341,4 +341,4 @@ Oleg stood up and looked at the woodpile.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [02](./02-anthropocentrism.md), [03](./03-mind-and-intelligence.md), [05](./05-artificial-intelligence.md), [08](./08-human-psyche.md), [18](./18-anatomy-of-wants.md), [20](./20-what-consciousness-is.md), [21](./21-machines-that-talk.md), [22](./22-who-sets-the-tasks.md), [33](./33-use-of-sleep.md), [36](./36-what-the-rat-laughs-at.md), [39](./39-price-of-a-false-alarm.md), [41](./41-cheesecake-for-the-ears.md), [43](./43-why-ants-do-not-strike.md), [44](./44-from-funeral-to-funeral.md).
 
-[← 45](./45-lamarck-was-right.md) · [Contents](./README.md)
+[← 45](./45-lamarck-was-right.md) · [Contents](./README.md) · [47 →](./47-money-as-memory.md)

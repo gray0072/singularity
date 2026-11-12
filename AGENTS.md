@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–46 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `47`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–47 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `48`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–46.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–47.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -312,6 +312,15 @@ articles as closely as possible. In practice:
 | два лица антропоцентризма | two faces of anthropocentrism | "only we have this" and "the machine will be an adding machine": one mistake, the task called by the name of our way; the second "comes up on the weeded bed" (46) |
 | холодная машина (арифмометр) | cold machine (adding machine) | the portrait of a thing that does not learn: the calculator, the chess machine of 1997, common sense typed in by hand; it pays no upkeep "because it owns no machine tool"; a frozen copy of a talking machine is "a pupil stopped on the run", not an adding machine (46) |
 | куча «не разобрано» | the heap "not sorted" | love, conscience, shame, tears: tasks of a pack, not of one mind alone with the world; the label says "not sorted", not "ours alone" (46) |
+| деньги как память (запись) | money as memory (the record) | a banknote is one line torn out of the book of who gave what to whom: "the bearer has given and has not yet received"; Kocherlakota's theorem (1998); "a record that somebody needed you" (47) |
+| книга (общая книга) | the book (the common book) | the full memory of who gave what to whom: in two heads between neighbours, on clay in Uruk, in a bank's numbers; where it is common, money adds nothing; "money is the book of the poor" (47) |
+| камень на дне | a stone on the bottom | the Yap stone that sank and went on being a family's wealth: money need not move or be seen, it is enough that everybody remembers whose it is; a number in a bank is one too (47) |
+| потребность людей в людях | people's need for people | what money is the equivalent of, in the author's 2017 definition; in 47 it is what gives the record its value: "whoever nobody needs cannot earn it, however much is printed" |
+| свой / чужой (два условия денег) | one's own / a stranger (the two conditions of money) | money is needed where somebody needs you and is not your own, by kinship or by a common book; a need between one's own gets along without it: a family, a firm inside, a body (47) |
+| карман (свой карман) | a pocket (of one's own) | where a part can keep something for itself against the whole; a budget that cannot be put aside, carried out or lent is "a book, not money"; the plants of a planned country had pockets, the cells of a liver have none, a tumour is "a cell with a pocket" (43, 47) |
+| мера (объективно обусловленные оценки) | the measure (objectively determined valuations) | the third thing in a banknote, after the record and the need: how much of everything else must be given up; Kantorovich's numbers fall out of the task with no bazaar (shadow prices); "the price is the task, the bazaar is the way" (47) |
+| учёт в натуре | an account in kind | what stands in the place of value inside the heir: joules, seconds of machine time, "not value, valuations"; the precedent is the blood's teaspoon of sugar; Andrey's conclusion, which pays the debt of 06 (47) |
+| хлорофилл (деньги как внутрисистемный хлорофилл) | chlorophyll (money as the chlorophyll of one system) | the author's 2017 image: a thing one system feeds by, of value inside that system alone; "we do without chlorophyll", and the machines get their resources "past the till" (47) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

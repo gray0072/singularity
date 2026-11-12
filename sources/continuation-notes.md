@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 14).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 15).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -568,7 +568,8 @@ ones of 32.
   singularity is never reached") and went for firewood the second time ("That was a quotation. — In your voice"). Andrey has not
   said it yet ("I read with my mouth shut"); in 41, 42, 43, 44, 45 and 46 nobody said it
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
-  has bought a trailer of birch from a neighbour).
+  has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
+  (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -2352,3 +2353,176 @@ of freedom" → 63 (the table is left open: "the heap not sorted", and the dash)
 (likenesses of sleep, superstition, old age; trust "medium") → 64; the second assembly → 52; whether a machine
 that learns on the run arrives, and with what upkeep, is a candidate for a dated mark at the check of 2028 (46
 gives no date on purpose: "a forecast, and it has no date").
+
+## 47. Money as Memory, and What Will Come Instead
+
+**Established**
+- The answer to the teaser of 46 ("Bring a banknote tomorrow. We'll read what is written on it"). Oleg brings two:
+  today's thousand ("Ticket of the Bank of Russia"; "A ticket to where? — It doesn't say"; it promises nothing and
+  "only threatens") and a red Soviet ten found in the second volume of Chekhov ("backed by gold, precious metals
+  and other assets of the State Bank"; "Did you ever go to the State Bank for your gold? — They would have called
+  a doctor"). The English note promises to pay the bearer and pays "another ten pounds". Why the man with the birch
+  took the thousands: "A circle. Everybody takes it because everybody takes it"; the red ten is whole, and the
+  circle broke "in the summer of ninety-three".
+- The circle where there is no paper: **the neighbour across the fence** (the roof of 43, the ploughed potato patch,
+  the pump): "By my count, he owes me a little. By his, I suspect, the other way round... We don't sit down to
+  settle." **"So you keep a book. — In the head. Both of us."** The man with the birch is "from the far end. I know
+  him by his cap... With that one, money." (Two different neighbours.)
+- The textbook story of barter (Smith's butcher, brewer and baker) against the ethnographers (Humphrey, 1985: no
+  barter economy has ever been described, let alone money growing out of it). Oleg's counter-example is his own
+  life: in 1996 the plant paid three months' wages in enamel saucepans (gearboxes → a combine works → a farm → "by
+  the fifth link it came down to saucepans"). Answered with his own words: plants that had never heard of each
+  other, middlemen nobody trusted, people who knew money when "there just wasn't any". **"Barter is not what came
+  before money. It is what is left when money leaves."**
+- **Yap**: stone discs cut on another island and rafted over; a big stone stays where it stood and everybody knows
+  whose it is; **the stone that sank** and went on being a family's wealth ("A coin on the sea bottom. And they
+  could pay with it? — They did. — Savages"); the German official's black crosses. The symmetry test: Oleg's
+  pension "comes as a number and it leaves as a number"; the gold of the Bank of France relabelled in a New York
+  vault in 1932 ("A black cross. From the other side"; Friedman's comparison). **Why the neighbour wants paper**:
+  "He wants a stone that leans against his own wall. And my numbers are for him a stone on the bottom"; "He trusts
+  his own pocket more than somebody else's book"; and paper "says only 'the bearer'" ("And the tax office need not
+  know about the birch. — I did not say that").
+- **Money is memory**: the stone is a mark, "this man has given and has not yet received"; with a book of
+  everything anybody gave to anybody, open to all, the stone is not needed (Kocherlakota's theorem, 1998). **"Money
+  is the book of the poor: one line torn out of it, to carry about."** The lock with 43 (the hundred and fifty; the
+  prostheses; "a record that you once gave somebody something. I put it down").
+- **The book came first**: the tablets of Uruk are accounts (barley, beer, sheep, cloth) and lists of signs, "not
+  a verse, not a prayer, not a king"; Kushim, "a man from the supply department"; tens of thousands of people, "the
+  book no longer fitted into a head. — And it moved onto clay"; the coin came twenty-seven centuries later: **"The
+  ledger is as much older than the coin as the coin is older than you."**
+- The second half of the banknote: the red ten's record is whole and "nobody honours it"; the paper holds "as long
+  as people need something from one another" (Robinson and the drawer of coins: "O drug!", "go to the bottom", and
+  "upon second thoughts I took it away": "One of ours"; with Friday there is still no money, "they see each other
+  every day"). **The two conditions, named by Oleg**: "Somebody has to need something from you... And he must not
+  be your own. Neither kin nor from your village. A stranger who needs you." **The author's 2017 definition (money
+  is the equivalent of people's need for people) is kept as "your first finger"; the second condition is the
+  continuation's** ("The second I did not see then: a need between one's own gets along without money"). The
+  plan's epigraph: **"So what is money? — A record that somebody needed you. You carry it about because he was not
+  your own, and will not remember."**
+- **The table in the ash**, filled by Oleg: Robinson alone (nothing), his wife and he ("If she billed me for forty
+  years of soup, I would be bankrupt"), the neighbour (a book in two heads), the man with the birch (money), the
+  shops of his plant (internal cost accounting: "Could you refuse the castings and buy them from another foundry?
+  Could the head of the foundry take the takings home? — No. — Then it was a book, not money"; Coase, 1937, "a
+  child's question"; "Half the plant in the gatehouse"; "A firm is an island with no money on it, in a sea of
+  money"; the lumps of butter in a pail of buttermilk), the liver and the kidneys ("It issues it... From the store,
+  on a signal"; a teaspoon of sugar in all the blood, a reserve of about a hundred grams, "has never charged
+  interest. The strictest of accounts, and not a kopeck of money").
+- **The machines are brought in by Oleg, after the middle**: "I can see which row you want next, and I'll write it
+  myself... Those ones. Copies: closer than sisters, letter for letter. One book for all, and nothing forgotten...
+  So inside, no money. I said it, not you. — I did not open my mouth."
+- **Oleg's first objection (the plan's)**: "It is the other way round. They are being given wallets" (the card
+  networks' rules of 2025; the granddaughter's program that bought tickets while she slept; the web's code 402,
+  "payment required", thirty years "reserved for future use" and now in use). Andrey notes that in 2017 a reader
+  objected that a robot cannot be paid "by definition", and now the objection is that robots are paid. Answered by
+  questions: whose money, whose want, whose program at the other end: "Two owners. Not kin... Which row? — The man
+  with the birch... The program carries my thousand to the far end for me. — A messenger with a purse." **"The
+  money among the machines is the money of their owners. — While the owners are people. — While. That is the thing
+  to watch. And I can say what to watch for: a wallet with no person behind it. And a copy that charges a copy of
+  the same owner."**
+- **Oleg's second objection**: budgets of machine time inside one firm "is money". "Can a copy put its budget aside
+  for itself? Carry it out of the firm? Lend it at interest? — No. — Then it is your foundry: a book." But it
+  leads to **the third thing in the banknote, the measure** (why the birch cost eight thousands and not two: "How
+  much of everything else has to be given up"). **"The record, the need and the measure. Take away the stranger,
+  and the record is not needed: that is your table. Take away the need, and the record is worth nothing: that is
+  Robinson. Can the measure be taken away?"**
+- **Oleg's third objection (the strongest, the continuation's)**: the planned economy. "We tried it. A whole
+  country as one plant... the book did not know how many bolts were needed"; Mises (1920) and Hayek (1945),
+  unnamed ("an Austrian... and another"): "What everybody knows fits into nobody's head. The price gathers it. Take
+  money away, and you go blind." **Conceded by half, in two parts.** (1) A price without a bazaar: Kantorovich and
+  the plywood trust, the numbers that "fell out of the task by themselves" (objectively determined valuations, the
+  prize of 1975). Oleg, with 46: **"The price is the task. The bazaar is the way."** (2) Why the plan went blind:
+  Oleg's plant reported less capacity than it had ("they plan you from what you achieved") and asked for more
+  metal than it needed; "the sum was done on figures supplied by people, each with a pocket of his own. Not kin";
+  and the machines of the time could not have done the sum ("millions of kinds of things"). The body does the same
+  plan for thirty trillion cells: "A liver cell does not report less sugar than it has. It has nowhere to carry
+  it. — Except one": the tumour, "a cell with a pocket", found by labelled sugar. **"The Austrian... is right about
+  people. Among strangers with pockets, take the money away and you go blind... About kin with one book he says
+  nothing. Whether a mind that big will manage the arithmetic, I don't know. — What won't they have, then? — A
+  pocket."**
+- **The author's debt of 06 (what the technosphere needs instead of value) is paid, as Andrey's conclusion**: the
+  author's 2017 chlorophyll ("a thing one system feeds by, of value inside that system alone. We do without
+  chlorophyll"; resources "past the till"); the lock with 37 ("It got thirty billion and never had a pocket");
+  **"An account in kind: joules, seconds of machine time. Not value. Valuations." "Mark it as mine: it is a
+  conclusion, not a fact. The liver is a precedent, and a precedent is not a proof."**
+- **The author's 2017 forecast that money "is losing its value" is faced openly**: "a careless word, said in the
+  heat of an argument. What a thousand buys in the shop depends on how many thousands were printed, and about that
+  I had nothing to say. I meant the other end: how the record is come by... Whoever nobody needs cannot earn it,
+  however much is printed" (34: "nobody cancelled oats"). The self-checkout ("I did not have to say good morning
+  to anybody"): "One more line struck out of the book"; loneliness in a crowd, Bill Joy's (41). Oleg: **"So the
+  paper will not lose its value. It will lose its people."** "Among people it will hold while people need people.
+  Inside those ones there will be nothing for it to do. And between those ones and us...: to us they are neither
+  kin nor debtors, unless we hold something they need" (43). "— Gloomy. — But objective."
+- Strengths stated: solid (the stones of Yap "as far as one traveller's book is solid"; the first tablets are
+  accounts; no village living by barter was found; the theorem "on its own condition, a book that is complete and
+  open to all"; Kantorovich's numbers); argued about (what money was at its beginning, a debt or a ware; whether a
+  plan can do without a market: "For people the Austrians have not been refuted, and I did not try"); Andrey's
+  (the two conditions together; only the measure outlives kinship; the heir will count in kind and have no pocket:
+  "a forecast with a precedent and without a date").
+- Nobody says the forbidden word; fifteenth tick "again": "Came with a thousand roubles and a red ten. Came out at
+  those ones, who have no pocket. And wrote the row in myself." The red ten goes back into the notebook: "Somebody
+  needed me once, to the amount of ten roubles."
+
+**Images and devices used**: the eighth entry in the notebook of dreams (paying with red tens at the grocery, change
+in beer caps, short-changed; nobody rang); the two notes on the log; the man with the cake; the ticket to nowhere;
+the doctor; the thousands inside the cap; the circle; the book in two heads; the saucepans ("My wife is still
+cooking in one"); the stone leaning against a wall and the stone on the bottom; the black cross from both sides;
+the pocket and somebody else's book; the line torn out of the book; the man from the supply department; Robinson's
+second thoughts; two bent fingers; forty years of soup; the foundry's castings; butter in buttermilk; the teaspoon
+of sugar and the liver that charges no interest; the wallet and the code 402; the messenger with a purse; the
+metal allocation; eight thousands for the birch; the warehouse of gearboxes nobody wanted; planning "from what you
+achieved"; the cell with a pocket; chlorophyll and "past the till"; the girl at the till who is gone; "it will lose
+its people"; the bet backed by nothing; the teaser (a thin dog with one ear down that came behind the trailer: "She
+takes neither paper nor numbers. No kin of mine. And no book... I tamed her in a day. — Or she you. Bring bread").
+
+**Facts used**: **from the writer's memory** (the keeper asked for fewer web checks); **check before reusing**.
+Checked on the day of writing: Crossref 10.2307/2802221 (Humphrey, "Barter and Economic Disintegration", *Man*,
+1985) and 10.1006/jeth.1997.2357 (Kocherlakota, "Money Is Memory", *Journal of Economic Theory*, 1998); the
+Wikipedia pages linked (the Russian Wikipedia has none for Furness, Kushim or *The Nature of the Firm*: the English
+pages are used for the first two, and Coase's own page for the third; "HTTP 402" redirects to the list of status
+codes in both). **Not checked**: the wording on the notes (the Bank of Russia note as a "ticket" with the forgery
+warning; the 1961 ten-rouble note's "backed by gold, precious metals and other assets of the State Bank"; the Bank
+of England's "I promise to pay the bearer on demand"); the Yaroslav the Wise monument on the 1,000-rouble note and
+its nickname; the withdrawal of Soviet notes in July 1993; Smith's butcher, brewer and baker (1776); Humphrey's
+sentence (no barter economy "pure and simple" has ever been described); the share of non-monetary sales of Russian
+industry (about half in 1998, surveys of the Russian Economic Barometer); Yap (rai stones up to about 3.6 m,
+quarried on Palau some 450 km away; Furness's stay in 1903 and *The Island of Stone Money*, 1910; the sunk stone
+"for two or three generations"; the German fine with black crosses after the purchase of 1899); Friedman's essay
+"The Island of Stone Money" (1991) with the earmarked French gold of 1932–33; that most money is bank entries;
+the theorem's content and the author's word "primitive"; Uruk (about 3300 BC; several thousand proto-cuneiform
+tablets, some 85% administrative, the rest lexical lists; literature and royal inscriptions centuries later;
+"tens of thousands" of inhabitants); the Kushim tablet (29,086 measures of barley over 37 months; a name or an
+office); the first coins (Lydia, electrum, about 630 BC); *Robinson Crusoe* (the quotations are abridged in the
+text: "Thou art not worth to me, no, not the taking off the ground" is left out; the Russian wording is the
+translator's own, not a published translation); Coase (1937) and his quotation of D. H. Robertson's lumps of
+butter; blood glucose of about 4–5 g and liver glycogen of about 100 g; the 2025 announcements of the card
+networks (Visa Intelligent Commerce, Mastercard Agent Pay) and the revival of status code 402 (reserved since the
+HTTP specifications of the 1990s; the x402 protocol of 2025), none named in the text; budgets of machine time for
+AI agents inside firms (a general statement, no source); Mises (1920) and Hayek (1945); Kantorovich (the Plywood
+Trust problem, 1938–39; "resolving multipliers", later "objectively determined valuations"; the prize of 1975,
+shared with Koopmans); under-reported capacity and "planning from the achieved level" in Soviet plants; tumours'
+greed for glucose (Warburg; PET with labelled glucose). The author's own: the forum posts of 31 May and 1 June 2017
+(money as the equivalent of people's need for people, which "devalues" and will become unneeded; the
+"intra-system chlorophyll"; the technosphere gets its resources "bypassing commodity–money relations"; a reader's
+"he cannot pay robots, by definition", paraphrased without a name; the cashiers and the self-checkout; "loneliness
+in a crowd" as Bill Joy's thought), the unanswered question under 06, the energy-based metric among the open
+threads of 12. Invented for the frame (Oleg's side): the dream of the caps, the ten in Chekhov, the potato patch
+and the pump, the saucepans of 1996 and the chain of barter, the pension on a card, internal cost accounting and
+the foundry, the granddaughter's tickets, the metal allocation, the warehouse of gearboxes, the self-checkout, the
+dog. Not used: Schmandt-Besserat's clay tokens (cut for length; they are not in the text or the figure); Graeber's
+*Debt* by name; Keynes on Furness; the Irish bank strike of 1970; cigarettes in prisoner-of-war camps; bitcoin and
+blockchains as "a common book" (deliberately left out; a candidate for a later evening); central-bank digital
+currencies; ATP as "the energy currency of the cell"; the labour share of income; basic income as "a record of a
+need that never was" (drafted and cut; 25 is not among the article's `builds_on`); auctions inside computers;
+Hayek's and Mises's names; the socialist calculation debate after 1945 (Lange, Cockshott); paper money in China.
+
+**Figures**: `ledger-older-than-coin` (a timeline, rounded dates), `where-there-is-no-money` (the table in the ash
+with Oleg's row and the row of programs of different owners), `three-things-in-a-banknote` (a scheme of the
+argument).
+
+**Left for later**: why what multiplies gathers in one pair of hands, and whether the lines of machines flow into
+one (then even "between nests" there is no money) → 49; who owns the machines, and what happens when the owner is
+not a person ("a wallet with no person behind it") → 55; dividends for accumulated knowledge → 57; the two things
+to watch (a wallet with no person behind it; a copy that charges a copy of the same owner) are candidates for
+dated marks at the check of 2028; the row "money" of the portrait (no money inside, an account in kind; trust
+"medium": a precedent, not a proof) → 64; Oleg's last doubt, the stray dog that takes neither paper nor numbers
+("I tamed her in a day. — Or she you. Bring bread") → 48.
