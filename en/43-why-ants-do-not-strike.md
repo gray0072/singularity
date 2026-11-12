@@ -423,4 +423,4 @@ Oleg stood up and looked for the caterpillar. It was gone.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [08](./08-human-psyche.md), [09](./09-unemployment-and-famine.md), [11](./11-symbiosis-and-parasitism.md), [14](./14-apoptosis-of-humanity.md), [18](./18-anatomy-of-wants.md), [22](./22-who-sets-the-tasks.md), [23](./23-machine-for-making-people-good.md), [39](./39-price-of-a-false-alarm.md), [40](./40-firms-die-cities-do-not.md), [42](./42-swallowed-bacterium.md).
 
-[← 42](./42-swallowed-bacterium.md) · [Contents](./README.md)
+[← 42](./42-swallowed-bacterium.md) · [Contents](./README.md) · [44 →](./44-from-funeral-to-funeral.md)

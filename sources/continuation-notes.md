@@ -560,13 +560,13 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 11).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 12).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
   Oleg, not believing that the word stands in a paper about petrol stations, read it aloud from his phone ("...so the
   singularity is never reached") and went for firewood the second time ("That was a quotation. — In your voice"). Andrey has not
-  said it yet ("I read with my mouth shut"); in 41, 42 and 43 nobody said it.
+  said it yet ("I read with my mouth shut"); in 41, 42, 43 and 44 nobody said it.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -1820,3 +1820,181 @@ mistakes, an owner's goal on top for now); how far copies can diverge and still 
 question; Oleg's last doubt: "in my day a team was a team... Socrates already said the young had gone to the bad"
 ("How old were you, in your day? — Twenty-five... — Bring me that quotation tomorrow. With the place where
 Socrates says it. — It is all over the internet. — That is what worries me") → 44.
+
+## 44. Science Advances from Funeral to Funeral
+
+**Established**
+- The answer to Oleg's last doubt of 43 ("in my day a team was a team... Socrates already said") and the homework
+  ("bring me that quotation, with the place"). Oleg "sat till midnight": a hundred sites, no place, the last one a
+  tear-off calendar. **The quotation is Kenneth Freeman's** (a Cambridge student of twenty-four, *Schools of
+  Hellas*, 1907, his own summary of what the Greeks held against their young; quoted with his name in 1911,
+  reprinted in 1921, signed "Socrates" by a California newspaper in 1922: "From a student's summary to the wisdom
+  of the ancients"; "a boy wrote it. About boys"). Socrates was the one put to death for corrupting the young (399
+  BC, at seventy; *The Clouds*, twenty-four years earlier): "He was not the one who grumbled. He was what the
+  fathers grumbled about."
+- **The honest part is given at once**: the complaint is real (the *Republic*, where Socrates describes "the
+  illness of a state that has had too much freedom, not the boys of his own street"; Aristotle on the young who
+  "think they know everything"; Horace's fathers worse than grandfathers). Oleg: "That many people cannot be
+  wrong." Rough arithmetic: a hundred generations at two per cent a step leave thirteen per cent ("an eighth of a
+  Greek"), at five per cent a little over half of one per cent ("With that we could not have lit this fire").
+  "Each reported honestly what he saw. What we must look at is what they saw it with."
+- The descent. "How old were you, in your day? — Twenty-five." The good music is of 1979–80, when Oleg was fourteen
+  (the 2018 count on a music service: about fourteen for men, thirteen for women; the reminiscence bump). In the
+  language of 19: "The shelves were empty. Whoever came first took the place"; a later image "has to push somebody
+  out"; "Tuesday's will lose"; the nightly stocktaking of 33 keeps the heavy and writes off the light, "twenty-two
+  thousand times" in sixty-two years. **The arithmetic of one fact**: for a mind that judges by the average of what
+  it has seen, the tenth time moves the average by a tenth, the ten-thousandth "won't move at all".
+- The thermometer that shows frost in July: Oleg throws it out ("I have seen sixty Julys"), the granddaughter at
+  five "would have run for her mittens"; he is right "nearly always, and that is the whole of it". **The screw of 39
+  again**: rebuild the picture for every fluke, or miss that the world has changed; "the young stand at one end, the
+  old at the other... The screw turns by itself, with every fact added." Oleg: "So an old man is not a fool. He is
+  full."
+- Oleg's own case, both ways: Semyonych the foreman cursed the first machines with program control ("a part that
+  no hand had touched had no soul in it") and the boys learned them; at thirty-eight Oleg kept a paper ledger for
+  two years beside the computer ("In case it all vanished. — Did it vanish? — Not once"), looks at the paper
+  notebook in his hands: "This is different. — I haven't said a word."
+- Why the complaint measures the complainer (2019): the well-read say the young do not read, those who respect
+  authority that the young respect nobody, the clever that the young have grown stupid; he compares them "with
+  himself, and he remembers himself as he is now" ("as a foreman of sixty-two remembers him"; "carried nothing
+  through the gatehouse. — Did he? — Let's not"). Conscience (2023, sixty countries, from 1949): every year people
+  say morals have fallen, and every year they answer about today as their grandfathers did; "Morals have been
+  falling for seventy years without moving from the spot."
+- Not wear ("like a bearing"): the kitten's eye closed for the first months (blind in it for life) against a grown
+  cat's (nothing); the window; Pisa, 2002: dissolve the nets round the nerve cells of a grown rat and the window
+  opens again. "It had been locked, and the lock comes off." Why lock: Oleg himself, "So that the new does not wipe
+  out the old... The shop that shuts for stocktaking." **"What has been learned must be guarded from what is being
+  learned. When we like the guard, we call it maturity. When we don't, stubbornness."**
+- **Oleg's first objection** (the plan's): the old know more; Semyonych "heard a bearing through the wall", Verdi's
+  *Falstaff* at nearly eighty, Goethe's *Faust* past eighty. Conceded with measurements: speed of thought best at
+  eighteen or nineteen, memory for the new at about twenty-five, the stock of words at sixty-five and later (2015);
+  a scientist's best paper is as likely to be the first as the last, "The old write less. Their shot is no worse"
+  (2016). "I am not saying that the old are worse. I am saying one thing: their images are heavy... He is slow in
+  one place only, where the picture itself has to be changed." *Falstaff* as "the summit of a road, not a turning
+  off it. That one is mine, don't look for it in a journal."
+- The collective. "How does a village of such heads ever learn anything new? — New heads come." Planck's sentence;
+  Oleg supplies the title ("From funeral to funeral, then"; "An economist retold it in just those words", Samuelson
+  not named). Planck from both sides: could not persuade "the grey heads"; brought in the quantum at forty-two as
+  "an act of desperation" and tried for years to get rid of it; apologised for Einstein's light quanta in 1913
+  ("He opened the door and stood in the doorway"). Darwin's last pages (minds "stocked with a multitude of facts").
+- "Has anybody counted it, or is this one more Socrates?" **Twice.** 1978, Darwin's own readers: most accepted
+  evolution within ten years, the old too, age explained less than a tenth: "So Planck laid it on thick. — About
+  people he did." 2019: 452 eminent American life scientists who died in the middle of their work; co-authors
+  write markedly less, those who never wrote with the star come in and write "by about a twelfth" more, and theirs
+  are the papers cited most. **"About people he laid it on, and about fields he was right."**
+- **Oleg's second objection** (the plan's): "It is not ideas, it is a vacancy." Answered as in the plan:
+  "Perhaps... Telling the one from the other is the work, and it is not finished"; the stars seldom sat "at the
+  tap", and where their pupils did, fewer strangers came; "mostly nobody drove them away. They did not go. — A
+  chair that is taken need not be defended." The chair is vacated later: the first large grant at thirty-six in
+  1980 and past forty-two now.
+- **The piece of the puzzle**, reached by Oleg's question "who does the cleaning... in the village?": forgetting is
+  a function in one head (19); in the common memory nobody can reach into another man's head, so the heavy image
+  "leaves together with the head". **"Death is the cleaner of the common memory, as forgetting is of one's own."**
+  The author's own lines: cells mortal → a man grows; a man mortal → humanity develops (14); the death of the small
+  systems as a condition of the life of the large (10); the forum post of 25 January 2017 (the mortal cells with a
+  term shortened on purpose outplayed the immortal ancient ones because they changed faster). A reader's opposite
+  (2016, paraphrased without a name: too much knowledge to pour into the youngsters, so look for immortality):
+  "He saw the trouble rightly, and I'll come back to it. The cure is wrong"; in two hundred years "a man who has
+  seen it nine million times. — With a thermometer he does not believe." **"An immortal mind is a chair that is
+  never vacated. And not one chair: all of them."** The comment under 13: immortality lowers the ability to survive.
+- **The machines are brought in by Oleg, after the middle**: "And those ones? They don't die... young for ever or
+  old for ever? I asked, not you." "Both, and both badly": a talking machine not told the date names the year its
+  schooling ended ("It lives in its day. — In my day a team was a team. — Twenty-five for ever, with the certainty
+  of sixty"). Teaching it further: the 2024 paper (thousands of tasks in a row; in the end no better than the
+  simplest network; "Nothing in it wears out: it is numbers"; "Full"), **loss of plasticity**, and the cure, "small
+  funerals": the least used units wiped at every step, "what a body does with its cells". The second cure: the
+  primacy bias ("My seventy-nine"), the network wiped and "the diary of everything it has lived through" kept:
+  "The head is changed and the notebook is left." The generations of the big talking machines: "There are several
+  reasons for that, and I am not an engineer. This is one of them."
+- "So it is the same with them. From funeral to funeral. — With two differences": a turn takes a year, not thirty;
+  "With them the diary stays whole. With us most of it leaves together with the head" (the door to 45, not opened).
+- **Oleg's third objection, turned on Andrey** (the continuation's, a pair to the pigeon of 39): "You are
+  sixty-four. Fifteen years ago you saw your mountain, and since then every thermometer of yours shows it... By
+  your own arithmetic of tonight no fact of mine will shift it." Answered without defence: "It weighs a great deal.
+  And from inside a heavy image cannot be told from the truth: both feel like 'obviously'"; he put one down once
+  (the idea of fifteen, 23, in one phrase) and "the second time the calendar did it for me" (the 2018 date, 16):
+  "Not by my own [strength]." The cure is "somebody from outside, and a date"; "the last check will most likely be
+  made without me. By tonight's logic that is as it should be." "Don't be in a hurry to vacate... — I only say that
+  the chair is not mine." Oleg writes it "beside the pigeon. On the last page" (for 66).
+- One line to 62: if the lines flow into one "and that one never changes its head", it is "the same chair, the
+  size of a planet. Whether there is a cure for that is for the end of the summer."
+- Strengths stated: solid (Socrates did not say it; the window in a kitten and a rat; words grow to sixty-five and
+  speed falls from twenty; the network that stops learning and the small funerals); argued about (ideas or vacant
+  posts after a star's death; how far Planck was right about people); Andrey's (a mind ages by filling; death does
+  for the common memory what forgetting does for one head; the summit of an old road is not a new road); "And about
+  my own image you have heard."
+- Nobody says the forbidden word; twelfth tick "again": "Came with Socrates and the spoiled young. Came out at a
+  network in which they hold small funerals, and brought it in myself."
+
+**Images and devices used**: the fifth entry in the notebook of dreams (at the blackboard in chemistry, valency,
+the teacher is Genka; nobody rang); poking the coals with a stick (put down at "Stop. And those ones?"); the
+tear-off calendar; "Socrates got as far as Cambridge?"; "I have been beating boys with it"; the windbag and the son
+who beats his father; an eighth of a Greek; empty shelves and Tuesday's image; twenty-two thousand stocktakings;
+the thermometer, sixty Julys and the mittens; Semyonych and the bearing heard from the far end of the shop; the
+paper ledger kept on the side; "This is different. — I haven't said a word"; hair down to the shoulders and a tape
+recorder instead of a head; "Let's not"; maturity and stubbornness; "a monument to the boys"; the shot that is no
+worse; the summit and the turning; a village of heads; the door and the doorway; "one more Socrates"; sitting at
+the tap; the chair that is taken; the cleaner; "twenty-five for ever, with the certainty of sixty"; small funerals;
+"My seventy-nine"; the head and the notebook; "beside the pigeon"; the chair the size of a planet; the teaser (a
+blacksmith's son is not born with calluses; "The son is not. — And who is? — Tomorrow").
+
+**Facts used**: from the writer's memory, with web checks kept to the links (at the keeper's request); **check
+before reusing**. Checked on the day of writing: Quote Investigator's page on the quotation (Freeman's
+dissertation published in 1907, the text of his paragraph, Walsh's 1911 address printed in 1912, *Munsey's* 1921,
+the *Oakland Tribune* of 24 May 1922 with Socrates' name); Crossref (titles, journals, years, first authors) for
+Protzko & Schooler 2019 (Science Advances, 10.1126/sciadv.aav5916), Mastroianni & Gilbert 2023 (Nature,
+10.1038/s41586-023-06137-x), Pizzorusso et al. 2002 (Science, 10.1126/science.1072699), Hartshorne & Germine 2015
+(Psychological Science, 10.1177/0956797614567339), Sinatra et al. 2016 (Science, 10.1126/science.aaf5239), Hull,
+Tessner & Diamond 1978 (Science, "Planck's Principle", 10.1126/science.202.4369.717), Azoulay, Fons-Rosen & Graff
+Zivin 2019 (American Economic Review, 10.1257/aer.20161574), Dohare et al. 2024 (Nature, 10.1038/s41586-024-07711-7);
+arXiv 2205.07802 is "The Primacy Bias in Deep Reinforcement Learning" (Nikishin et al.); the archive.org copy of
+*Schools of Hellas* answers 200. **From memory, not checked**: Freeman's age (1882–1906) and that friends saw the
+book through the press; the trial of 399 BC at seventy and *The Clouds* of 423 BC with its plot; the *Republic*,
+book VIII (562e–563b), paraphrased; Aristotle's *Rhetoric* II.12; Horace, *Odes* III.6 ("twenty-odd years before
+our era"); 0.98^100 ≈ 0.13 and 0.95^100 ≈ 0.006; the music-service count (Stephens-Davidowitz, The New York Times,
+2018, Spotify: men about 14, women about 13; not linked, not named); the reminiscence bump as "between ten and
+thirty"; 62 × 365 ≈ 22,600; the 2019 study's size ("some three and a half thousand", five studies) and its three
+traits; the 2023 study's "sixty countries" and 1949, and its two kinds of question; Hubel and Wiesel (Harvard, the
+1960s; a kitten's eye closed "for its first months", a grown cat's "for a whole year"; not named); Pisa and "the
+nets" (perineuronal nets dissolved with chondroitinase in adult rats, after which closing an eye shifted the
+cortex as in the young); the 2015 study's "some fifty thousand" (48,537) and its peaks (speed at 18–19, short-term
+memory at about 25, vocabulary at 65 and later); the 2016 "random impact rule"; Verdi's *Falstaff* (1893, at 79)
+and Goethe finishing *Faust* at 81–82; Planck's sentence (the *Scientific Autobiography*, 1948, English 1949;
+given in its usual English wording), Samuelson's "funeral by funeral", Planck's age of 42 in 1900, "an act of
+desperation" (a letter of 1931) and the 1913 recommendation of Einstein to the Prussian Academy; Darwin's sentence
+from the last chapter of the *Origin*; Hull's "less than a tenth" and "most within ten years"; Azoulay's 452,
+"about sixty" (a mean age at death of about 61), the 8.6% ("about a twelfth"), the fall for co-authors (no figure
+given in the text; "markedly"), the highly cited entrants, the few stars who were editors or sat on funding panels
+and the weaker entry where their collaborators held such posts; the age at a first large grant (NIH R01: about 36
+in 1980, 42–43 in the 2010s; not linked); the forum posts of 25 January 2017 (Garya: mortal eukaryotes against
+"immortal" prokaryotes) and of 31 October 2016 (a reader: immortality because knowledge cannot be passed on), and
+another reader's line there (by maturity a man grows conservative and learns worse; not used in the text); the
+comment under 13 ("immortality automatically lowers the ability to survive"); that a language model not told the
+date tends to name the year of its training cutoff (a general statement, no source); Dohare et al. ("thousands of
+tasks", the fall to the level of a linear network, dormant units and large weights, continual backpropagation
+that reinitialises a small share of the least used units; Sutton as "one of the founders of the trade"); Nikishin
+et al. (periodic resets with the replay buffer kept); "every year or so" for the generations of the large models.
+Links: the Russian Wikipedia has pages for *The Clouds* and the trial of Socrates; it has none for Freeman,
+Planck's principle, the critical period or the reminiscence bump (the English ones are used). Invented for the
+frame (Oleg's side): the dream at the blackboard, the tear-off calendar, the music of 1979–80, Semyonych and his
+bearings, the machines with program control and "the boys", the stock ledgers moved to the computer when Oleg was
+thirty-eight and the paper ledger kept for two years, "hair down to the shoulders, a tape recorder instead of a
+head"; Andrey's age of sixty-four (fifteen in 1978). Not used: Hesiod's and the "Babylonian tablet" quotations
+(also spurious); the shifting baseline (Pauly; kept in reserve); fluid and crystallised intelligence by name;
+Jones's "burden of knowledge" and the rising age of great discoveries (kept for 45 and 53); Packalen and
+Bhattacharya on age and new ideas; Galenson's conceptual and experimental innovators (Picasso and Cézanne);
+Wegener, Semmelweis and Kelvin; Boltzmann and Ostwald (who did give in to the evidence in 1909); Einstein and
+quantum mechanics; Kuhn; accents and the age of learning a language; the median age of the world and ageing
+electorates (26; politics is left out); "shrink and perturb" and warm starting (Ash & Adams 2020); the
+stability–plasticity dilemma by name; the model that wrote 16–32 being replaced (31).
+
+**Figures**: `weight-of-a-new-fact` (the arithmetic of a running average, 1/n; an illustration of the argument,
+not a measurement), `after-a-star-dies` (the shape of the result, not the data points), `how-the-old-makes-room`
+(the first three rows are biology and the history of science, the last two are Andrey's reading).
+
+**Left for later**: what passes from the old head to the new and why "a blacksmith's son is not born with
+calluses" ("The son is not. — And who is? — Tomorrow") → 45 (44 says only: with them the diary stays whole, with us
+most of it leaves with the head; the reader's "too much knowledge to pour into the youngsters" is called a real
+trouble and left for it); the row "ageing of the mind: the new against the settled / generations and funerals" of
+the table → 46; Andrey's own heavy image, written "beside the pigeon" on the last page → 66; the heir as one line
+that never changes its head, "the same chair, the size of a planet" → 62; the row "death" of the portrait → 64
+(44 gives: generations of a year or two, small funerals inside, the diary kept).

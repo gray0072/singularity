@@ -89,9 +89,10 @@ forbids the word itself. English is the original; Russian is a translation.
 41. [Cheesecake for the Ears](41-cheesecake-for-the-ears.md) — *continuation*
 42. [What Became of the Swallowed Bacterium](42-swallowed-bacterium.md) — *continuation*
 43. [Why Ants Do Not Go on Strike](43-why-ants-do-not-strike.md) — *continuation*
+44. [Science Advances from Funeral to Funeral](44-from-funeral-to-funeral.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–43 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–44 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–43 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 44. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–44 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 45. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)

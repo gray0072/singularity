@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–43 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `44`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–44 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `45`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–43.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–44.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -286,6 +286,14 @@ articles as closely as possible. In practice:
 | запах дома (критерий «свой — чужой») | the smell of home (the test of one's own) | the simple rule by which a worker ant tells a sister; it can be forged (the Amazon ants' slaves) and can come out the same for everybody (the Argentine ant); copies of a machine can check kinship letter for letter (43) |
 | гиперсоциальность | hypersociality | the author's 2011 term for a property of the mature technosphere, promised and not written; in 43: the copies of one machine are full kin by construction, so they need no wage, fine or conscience; "not a virtue of the heir but arithmetic" |
 | нода | node | the author's 2013 word for a member of a network mind; a human is "a transitional form of node", with no firm test of who his own are (43) |
+| тяжёлый образ | heavy image | an image used for decades, whose significance coefficient has grown so that a new one cannot shift it; from inside it cannot be told from the truth: both feel like "obviously" (44) |
+| ум стареет от наполнения | a mind ages by filling | not wear: for a mind that judges by the average of what it has seen, the n-th fact weighs 1/n; the price of not forgetting, the same screw as the false alarm and the miss of 39, and it turns by itself with every fact added (44) |
+| принцип Планка (от похорон к похоронам) | Planck's principle (from funeral to funeral) | a new truth wins not by convincing its opponents but because they die and a generation grows up that is used to it; in 44: too strong about people (they do change their minds), right about fields (outsiders enter after a star's death) |
+| уборщик общей памяти | the cleaner of the common memory | death: what forgetting does in one head (19, 33) death does in the memory of a society, because nobody can write off a heavy image in another man's head: "it leaves together with the head" (44) |
+| кафедра, с которой никогда не уходят | a chair that is never vacated | an immortal mind; "a chair that is taken need not be defended": outsiders are mostly not driven away, they do not come (44) |
+| потеря пластичности | loss of plasticity | a network taught task after task learns each new one worse, until it learns no better than the simplest network (2024); the other end of the screw from catastrophic forgetting (33) (44) |
+| маленькие похороны | small funerals | the cure for loss of plasticity: at every step the least used units are wiped and started from nothing; what a body does with its cells (44) |
+| дневник (опыта) | diary (of experience) | what is kept when a network is wiped and a new one is raised on it: "the head is changed and the notebook is left"; with people most of it leaves together with the head (44; what passes on is 45) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
@@ -310,6 +318,11 @@ Mistakes made while writing earlier articles. Avoid them.
   instead of 62 trillion. When a later evening uses such a number, Andrey corrects it openly.
 - **Keep the two language versions parallel.** After translating, compare the number of dialogue lines
   (`grep -c "^— "`) in both files; it must match.
+- **Check Russian Wikipedia titles through the API, not with a raw Cyrillic URL.** In Git Bash `curl` with unencoded
+  Cyrillic in the address answered `200` (the main page) for pages that do not exist (`Принцип_Планка`,
+  `Критический_период`). One request to the API checks a whole list and does not hit the rate limit:
+  `https://ru.wikipedia.org/w/api.php?action=query&format=json&redirects=1&titles=A|B|C` (percent-encoded, from
+  Python); a page that does not exist comes back with `"missing"`.
 - **Russian Wikipedia rate-limits link checks.** A fast loop of requests gets `429`. Check pages one by one with a
   pause of a few seconds and a `User-Agent` header. Publishers (doi.org, Science, PNAS, CDC) often answer `403`
   to scripts; that does not mean the link is broken.

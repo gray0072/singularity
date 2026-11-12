@@ -3323,6 +3323,168 @@ def kin_or_debts(lang):
     return f
 
 
+# --- 44. Science Advances from Funeral to Funeral ----------------------------------------------
+
+@figure("weight-of-a-new-fact")
+def weight_of_a_new_fact(lang):
+    t = {
+        "en": dict(title="What one new fact weighs",
+                   sub="A mind that judges by the average of all it has seen: how far the next fact moves the average.",
+                   x="which time the thing is seen",
+                   marks={2: "the 2nd time:\na half", 10: "the 10th time:\na tenth",
+                          100: "the 100th:\na hundredth", 10000: "the 10,000th:\none part in ten thousand"},
+                   young="the shelves are empty:\nevery fact rebuilds the picture",
+                   old="the shelves are full:\nno single fact moves it",
+                   src="Arithmetic of a running average: the n-th observation has a weight of 1/n. "
+                       "The horizontal scale is logarithmic."),
+        "ru": dict(title="Сколько весит один новый факт",
+                   sub="Ум, который судит по среднему из всего виденного: насколько следующий факт сдвигает среднее.",
+                   x="в который раз видишь",
+                   marks={2: "2-й раз:\nполовина", 10: "10-й раз:\nдесятая",
+                          100: "100-й:\nсотая", 10000: "10 000-й:\nодна десятитысячная"},
+                   young="полки пустые:\nкаждый факт перестраивает картину",
+                   old="полки полны:\nодин факт её не сдвинет",
+                   src="Арифметика скользящего среднего: n-е наблюдение весит 1/n. "
+                       "Горизонтальная шкала логарифмическая."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yb, yt = 84, 716, 322, 100
+
+    def X(n):
+        return x0 + math.log10(n) / 4 * (x1 - x0)
+
+    def Y(w):
+        return yb - w * (yb - yt)
+
+    for w, label in ((0, "0"), (0.5, "50%"), (1, "100%")):
+        f.line(x0, Y(w), x1, Y(w), color=INK2 if w == 0 else GRID, width=1.2 if w == 0 else 1)
+        f.text(x0 - 10, Y(w) + 4, label, size=11.5, color=INK2, anchor="end")
+    for n, label in ((1, "1"), (10, "10"), (100, "100"), (1000, "1,000" if lang == "en" else "1000"),
+                     (10000, "10,000" if lang == "en" else "10 000")):
+        f.line(X(n), yb, X(n), yb + 5, color=INK2, width=1.2)
+        f.text(X(n), yb + 20, label, size=11.5, color=INK2, anchor="middle")
+    f.text(x1, yb + 40, t["x"], size=11.5, color=INK2, anchor="end")
+    steps = [10 ** (k / 50) for k in range(0, 201)]
+    f.path("M" + " L".join(f"{X(n):.1f},{Y(1 / n):.1f}" for n in steps), color=BLUE, width=2.8)
+    offsets = {2: (14, -6, "start"), 10: (12, -26, "start"), 100: (0, -38, "middle"), 10000: (-4, -40, "end")}
+    for n, label in t["marks"].items():
+        dx, dy, anchor = offsets[n]
+        f.circle(X(n), Y(1 / n), 4.8, fill=ORANGE)
+        f.text(X(n) + dx, Y(1 / n) + dy, label, size=12.5, color=INK, weight="600", anchor=anchor)
+    f.text(X(3.2), Y(0.86), t["young"], size=12.5, color=INK2)
+    f.text(X(1000), Y(0.42), t["old"], size=12.5, color=INK2, anchor="middle")
+    f.text(28, 404, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("after-a-star-dies")
+def after_a_star_dies(lang):
+    t = {
+        "en": dict(title="After a star dies",
+                   sub="Papers in the field of an eminent scientist, before and after an early death. Before the death = 100.",
+                   death="the death",
+                   years="years",
+                   co="those who wrote with the star: markedly fewer papers",
+                   out="those who never wrote with the star: about a twelfth more,\nand these are the papers cited most later",
+                   note="452 eminent American life scientists who died in the middle of their work. The strangers were\n"
+                        "mostly not driven away while the star lived: they did not come.",
+                   src="A scheme after Azoulay, Fons-Rosen and Graff Zivin (2019): the shape of the result, "
+                       "not the data points."),
+        "ru": dict(title="После смерти звезды",
+                   sub="Статьи в области крупного учёного до и после его ранней смерти. До смерти = 100.",
+                   death="смерть",
+                   years="годы",
+                   co="те, кто писал вместе со звездой: заметно меньше статей",
+                   out="те, кто со звездой не писал: примерно на двенадцатую часть больше,\nи именно эти статьи потом цитируют чаще всего",
+                   note="452 крупных американских биолога и медика, умерших в разгар работы. Чужих при живой звезде\n"
+                        "большей частью никто не гнал: они сами не шли.",
+                   src="Схема по Азулаю, Фонс-Росену и Графф Зивину (2019): форма результата, а не точки данных."),
+    }[lang]
+    f = Fig(760, 450, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yt, yb = 86, 716, 100, 316
+    X = lambda k: x0 + (k + 5) / 13 * (x1 - x0)
+    Y = lambda v: yb - (v - 60) / 60 * (yb - yt)
+    for v in (60, 80, 100, 120):
+        f.line(x0, Y(v), x1, Y(v), color=INK2 if v == 60 else GRID, width=1.2 if v == 60 else 1,
+               dash="4 4" if v == 100 else None)
+        f.text(x0 - 10, Y(v) + 4, str(v), size=11.5, color=INK2, anchor="end")
+    for k in (-4, -2, 0, 2, 4, 6, 8):
+        f.text(X(k), yb + 20, f"{k:+d}" if k else "0", size=11.5, color=INK2, anchor="middle")
+    f.text(x1, yb + 40, t["years"], size=11.5, color=MUTED, anchor="end")
+    f.line(X(0), yt - 6, X(0), yb, color=INK2, width=1.2, dash="3 4")
+    f.text(X(0) - 8, yb - 10, t["death"], size=12, color=INK2, anchor="end")
+    co = [100, 100, 100, 100, 100, 100, 93, 86, 81, 78, 76, 75, 74, 74]
+    out = [100, 100, 100, 100, 100, 100, 102, 104, 106, 107, 108, 108.5, 109, 109]
+    for values, color in ((co, ORANGE), (out, BLUE)):
+        f.path("M" + " L".join(f"{X(k - 5):.1f},{Y(v):.1f}" for k, v in enumerate(values)), color=color, width=2.8)
+        f.circle(X(8), Y(values[-1]), 4.6, fill=color)
+    f.text(X(8), Y(118), t["out"], size=12.5, color=BLUE, anchor="end", weight="600")
+    f.text(X(8), Y(66), t["co"], size=12.5, color=ORANGE, anchor="end", weight="600")
+    f.text(28, 380, t["note"], size=12.5, color=INK)
+    f.text(28, 434, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("how-the-old-makes-room")
+def how_the_old_makes_room(lang):
+    t = {
+        "en": dict(title="How the old makes room for the new",
+                   sub="The same job at every scale: who does the clearing, how often, and what stays.",
+                   head=["who clears", "how often", "what stays"],
+                   rows=[("cells of a body", "worn or damaged",
+                          ["the order to die", "tens of billions\na day", "the body\nand its drawings"]),
+                         ("images in one head", "light against heavy",
+                          ["the nightly\nwrite-off", "every night", "the heavy ones,\nheavier each time"]),
+                         ("heads in a science", "full shelves",
+                          ["a funeral", "once in some\nthirty years", "books and pupils;\nthe skill leaves"]),
+                         ("units of a network", "silent or set hard",
+                          ["the least used\nare wiped", "at every step", "the rest\nof the network"]),
+                         ("generations of machines", "a year fixed for ever",
+                          ["a new one is raised\nfrom nothing", "every year\nor two", "the whole diary"])],
+                   src="The first three rows: biology and the history of science. The last two: engineering of the 2020s, "
+                       "in Andrey's reading."),
+        "ru": dict(title="Как старое уступает место новому",
+                   sub="Одна и та же работа на каждом масштабе: кто убирает, как часто и что остаётся.",
+                   head=["кто убирает", "как часто", "что остаётся"],
+                   rows=[("клетки тела", "изношенные и повреждённые",
+                          ["приказ умереть", "десятки миллиардов\nв день", "тело\nи его чертежи"]),
+                         ("образы в одной голове", "лёгкие против тяжёлых",
+                          ["ночное\nсписание", "каждую ночь", "тяжёлые,\nс каждым разом тяжелее"]),
+                         ("головы в науке", "полные полки",
+                          ["похороны", "раз лет\nв тридцать", "книги и ученики;\nумение уходит"]),
+                         ("нейроны сети", "замолчавшие и застывшие",
+                          ["стирают те, что\nнужны меньше всех", "на каждом шаге", "остальная\nсеть"]),
+                         ("поколения машин", "навсегда застывший год",
+                          ["новую растят\nс нуля", "раз в год\nили два", "весь дневник"])],
+                   src="Первые три строки — биология и история науки. Последние две — инженерия 2020-х, "
+                       "как её читает Андрей."),
+    }[lang]
+    f = Fig(760, 500, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [226, 396, 560, 736]
+    top, head_h, row_h = 86, 36, 68
+    bottom = top + head_h + row_h * 5
+    f.rect(28, top + head_h + 3 * row_h, cols[3] - 28, 2 * row_h, fill=ORANGE, r=0, opacity=0.10)
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 23, label, size=12.5, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        last = i >= 3
+        f.line(28, y, cols[3], y, color=GRID, width=1.2)
+        f.text(40, y + 31, name, size=15, color=INK, weight="600")
+        f.text(40, y + 49, who, size=11.5, color=MUTED)
+        for k, cell in enumerate(cells):
+            lines = cell.count("\n") + 1
+            f.text((cols[k] + cols[k + 1]) / 2, y + {1: 39, 2: 31}[lines], cell, size=13,
+                   color=ORANGE if last else INK, anchor="middle", italic=last,
+                   weight="600" if last else "normal")
+    f.line(28, bottom, cols[3], bottom, color=GRID, width=1.2)
+    f.text(28, 484, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
