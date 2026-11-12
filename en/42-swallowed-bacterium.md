@@ -379,4 +379,4 @@ Oleg picked up the branch with the lichen, turned it over and put it not on the 
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [11](./11-symbiosis-and-parasitism.md), [18](./18-anatomy-of-wants.md), [21](./21-machines-that-talk.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md), [37](./37-who-exploits-whom.md), [38](./38-oxygen-was-a-poison.md), [40](./40-firms-die-cities-do-not.md), [41](./41-cheesecake-for-the-ears.md).
 
-[← 41](./41-cheesecake-for-the-ears.md) · [Contents](./README.md)
+[← 41](./41-cheesecake-for-the-ears.md) · [Contents](./README.md) · [43 →](./43-why-ants-do-not-strike.md)

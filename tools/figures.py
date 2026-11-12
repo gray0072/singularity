@@ -3140,6 +3140,189 @@ def one_job_kept(lang):
     return f
 
 
+# --- 43. Why Ants Do Not Go on Strike -------------------------------------------------------------
+
+@figure("sisters-by-three-quarters")
+def sisters_by_three_quarters(lang):
+    t = {
+        "en": dict(title="Sisters by three quarters",
+                   sub="Ants, bees and wasps: a female has two sets of drawings, a male has one.",
+                   mother="the mother: two sets",
+                   father="the father: one set",
+                   father_sub="he came from an\nunfertilised egg",
+                   from_m="half of hers,\na different half\neach time",
+                   from_f="all of his,\nto every daughter",
+                   daughter="a daughter",
+                   sisters="sisters",
+                   sum1="Two sisters share the whole of the father's half and half of the mother's: 1/2 + 1/4 = 3/4.",
+                   sum2="A daughter of her own would carry 1/2 of a worker.",
+                   src="Hamilton's arithmetic of 1964. It is not the whole secret: see the three catches in the text."),
+        "ru": dict(title="Сёстры на три четверти",
+                   sub="Муравьи, пчёлы и осы: у самки два набора чертежей, у самца один.",
+                   mother="мать: два набора",
+                   father="отец: один набор",
+                   father_sub="он вышел из\nнеоплодотворённого яйца",
+                   from_m="половина её набора,\nкаждый раз\nдругая",
+                   from_f="весь его набор,\nкаждой дочери",
+                   daughter="дочь",
+                   sisters="сёстры",
+                   sum1="У двух сестёр общая вся отцовская половина и половина материнской: 1/2 + 1/4 = 3/4.",
+                   sum2="В собственной дочери рабочей было бы 1/2 её самой.",
+                   src="Арифметика Гамильтона, 1964. Это не весь секрет: три подвоха смотри в тексте."),
+    }[lang]
+    f = Fig(760, 446, t["title"])
+    heading(f, t["title"], t["sub"])
+
+    def half(cx, cy, r, side, color):
+        sweep = 0 if side == "left" else 1
+        f.path(f"M{cx:.1f},{cy - r:.1f} A{r},{r} 0 0 {sweep} {cx:.1f},{cy + r:.1f} Z", color=color, width=1.5,
+               fill=color, opacity=0.55)
+
+    def quarter(cx, cy, r, top, color):
+        d = (f"M{cx:.1f},{cy:.1f} L{cx:.1f},{cy - r:.1f} A{r},{r} 0 0 0 {cx - r:.1f},{cy:.1f} Z" if top
+             else f"M{cx:.1f},{cy:.1f} L{cx - r:.1f},{cy:.1f} A{r},{r} 0 0 0 {cx:.1f},{cy + r:.1f} Z")
+        f.path(d, color=color, width=1.5, fill=color, opacity=0.55)
+
+    mx, my, mr = 250, 150, 42
+    fx, fy, fr = 510, 150, 30
+    d1x, d2x, dy, dr = 290, 470, 296, 42
+    # parents
+    half(mx, my, mr, "left", BLUE)
+    half(mx, my, mr, "right", AQUA)
+    f.circle(mx, my, mr, stroke=INK2, width=1.5)
+    f.text(mx, my - mr - 12, t["mother"], size=14, color=INK, anchor="middle", weight="600")
+    f.circle(fx, fy, fr, fill=ORANGE, stroke=INK2, width=1.5, opacity=0.55)
+    f.text(fx, fy - fr - 12, t["father"], size=14, color=INK, anchor="middle", weight="600")
+    f.text(fx + fr + 14, fy - 4, t["father_sub"], size=12, color=MUTED, italic=True)
+    # daughters: the left half from the mother, the right half from the father
+    half(d1x, dy, dr, "left", BLUE)
+    half(d1x, dy, dr, "right", ORANGE)
+    f.circle(d1x, dy, dr, stroke=INK2, width=1.5)
+    quarter(d2x, dy, dr, True, BLUE)
+    quarter(d2x, dy, dr, False, AQUA)
+    half(d2x, dy, dr, "right", ORANGE)
+    f.circle(d2x, dy, dr, stroke=INK2, width=1.5)
+    for x in (d1x, d2x):
+        f.text(x, dy + dr + 20, t["daughter"], size=12.5, color=INK2, anchor="middle")
+    f.text((d1x + d2x) / 2, dy + 5, t["sisters"], size=13, color=INK, anchor="middle", weight="600")
+    # who gives what
+    f.line(mx - 6, my + mr + 4, d1x - 16, dy - dr - 6, color=BLUE, width=2.2, arrow=True)
+    f.line(mx + 30, my + mr - 8, d2x - 34, dy - dr + 8, color=BLUE, width=2.2, arrow=True)
+    f.line(fx - 22, fy + fr - 4, d1x + 36, dy - dr + 10, color=ORANGE, width=2.2, arrow=True)
+    f.line(fx - 4, fy + fr + 4, d2x + 12, dy - dr - 6, color=ORANGE, width=2.2, arrow=True)
+    f.text(40, 196, t["from_m"], size=12.5, color=BLUE, weight="600")
+    f.text(560, 240, t["from_f"], size=12.5, color=ORANGE, weight="600")
+    f.text(28, 388, t["sum1"], size=13, color=INK, weight="600")
+    f.text(28, 408, t["sum2"], size=13, color=INK)
+    f.text(28, 432, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("common-pot-with-and-without-a-fine")
+def common_pot_with_and_without_a_fine(lang):
+    t = {
+        "en": dict(title="The common pot, with and without a fine",
+                   sub="Four strangers, 20 coins each. Coins put into the common pot, on average, round by round.",
+                   with_="with fines: pay 1 coin to take 3 from another",
+                   without="without fines",
+                   rounds="round",
+                   all_="everything",
+                   note="A coin put into the pot brings back 0.4 to each of the four: keeping it pays each one,\n"
+                        "putting it in pays all four. With fines people paid to punish strangers they would never meet again.",
+                   src="A scheme after Fehr and Gächter (2002): the shape of the result, not the data points."),
+        "ru": dict(title="Общий котёл со штрафом и без него",
+                   sub="Четверо незнакомых, у каждого 20 монет. Сколько в среднем кладут в общий котёл, раунд за раундом.",
+                   with_="со штрафами: отдай 1 монету, чтобы отнять 3 у другого",
+                   without="без штрафов",
+                   rounds="раунд",
+                   all_="всё",
+                   note="Монета, положенная в котёл, возвращает по 0,4 каждому из четверых: придержать выгодно каждому,\n"
+                        "положить выгодно всем. Штрафовали за свой счёт и тех, с кем больше никогда не встретятся.",
+                   src="Схема по Феру и Гехтеру (2002): форма результата, а не точки данных."),
+    }[lang]
+    f = Fig(760, 440, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yt, yb = 86, 700, 96, 318
+    X = lambda k: x0 + 30 + (k - 1) * (x1 - x0 - 60) / 5
+    Y = lambda v: yb - v / 20 * (yb - yt)
+    for v in (0, 5, 10, 15, 20):
+        f.line(x0, Y(v), x1, Y(v), color=INK2 if v == 0 else GRID, width=1.2 if v == 0 else 1)
+        f.text(x0 - 10, Y(v) + 4, str(v) if v < 20 else f"20: {t['all_']}", size=11.5, color=INK2, anchor="end")
+    for k in range(1, 7):
+        f.text(X(k), yb + 20, str(k), size=11.5, color=INK2, anchor="middle")
+    f.text(x1 + 8, yb + 20, t["rounds"], size=11.5, color=MUTED)
+    series = [([12.0, 13.6, 14.8, 15.7, 16.3, 16.8], BLUE, t["with_"], -16),
+              ([10.4, 8.8, 7.4, 6.3, 5.4, 4.6], ORANGE, t["without"], 24)]
+    for values, color, label, dy in series:
+        f.path("M" + " L".join(f"{X(k + 1):.1f},{Y(v):.1f}" for k, v in enumerate(values)), color=color, width=2.8)
+        for k, v in enumerate(values):
+            f.circle(X(k + 1), Y(v), 4.6, fill=color)
+        f.text(X(3.5), Y(values[3]) + dy, label, size=13, color=color, anchor="middle", weight="600")
+    f.text(28, 372, t["note"], size=12.5, color=INK)
+    f.text(28, 424, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("kin-or-debts")
+def kin_or_debts(lang):
+    t = {
+        "en": dict(title="Kin or debts",
+                   sub="What cooperation rests on, and what guards it.",
+                   head=["share of common drawings", "what holds them together", "the guard and its price"],
+                   rows=[("cells of a body", "thirty trillion copies",
+                          ["1", "nothing of their own\nto gain", "the order to die, patrols;\nthe failure is cancer"]),
+                         ("an anthill", "a family nobody left",
+                          ["1/2 – 3/4", "the road to the future\nlies through the mother",
+                           "sisters eat\none another's eggs"]),
+                         ("people", "strangers",
+                          ["about 0", "the memory of debts,\nup to some 150 faces",
+                           "reputation, money, law,\nconscience: up to half\nthe economy"]),
+                         ("copies of a machine", "one program, many bodies",
+                          ["1, checked\nletter for letter", "experience\npoured together",
+                           "today an owner's goal\non top of each copy"])],
+                   src="The first three rows: biology and experiments. The fourth is Andrey's reading: "
+                       "a precedent is not a proof."),
+        "ru": dict(title="Родство или долги",
+                   sub="На чём держится кооперация и что её сторожит.",
+                   head=["доля общих чертежей", "что их держит вместе", "охрана и её цена"],
+                   rows=[("клетки тела", "тридцать триллионов копий",
+                          ["1", "своего добиваться\nнечего", "приказ умереть, патрули;\nсбой — это рак"]),
+                         ("муравейник", "семья, из которой не ушли",
+                          ["1/2 – 3/4", "дорога в будущее\nидёт через мать",
+                           "сёстры съедают\nяйца друг друга"]),
+                         ("люди", "чужие",
+                          ["около 0", "память о долгах,\nлиц на полтораста",
+                           "репутация, деньги, закон,\nсовесть: до половины\nэкономики"]),
+                         ("копии машины", "одна программа, много тел",
+                          ["1, сверяется\nбуква в букву", "опыт сливают\nвместе",
+                           "сегодня поверх каждой\nкопии цель владельца"])],
+                   src="Первые три строки — биология и опыты. Четвёртая — как это читает Андрей: "
+                       "прецедент не доказательство."),
+    }[lang]
+    f = Fig(760, 470, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [200, 370, 548, 736]
+    top, head_h, row_h = 86, 36, 78
+    bottom = top + head_h + row_h * 4
+    f.rect(28, top + head_h + 3 * row_h, cols[3] - 28, row_h, fill=ORANGE, r=0, opacity=0.10)
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 23, label, size=12.5, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        last = i == 3
+        f.line(28, y, cols[3], y, color=GRID, width=1.2)
+        f.text(40, y + 36, name, size=15, color=INK, weight="600")
+        f.text(40, y + 54, who, size=11.5, color=MUTED)
+        for k, cell in enumerate(cells):
+            lines = cell.count("\n") + 1
+            f.text((cols[k] + cols[k + 1]) / 2, y + {1: 44, 2: 36, 3: 28}[lines], cell, size=13,
+                   color=ORANGE if last else INK, anchor="middle", italic=last,
+                   weight="600" if last else "normal")
+    f.line(28, bottom, cols[3], bottom, color=GRID, width=1.2)
+    f.text(28, 454, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

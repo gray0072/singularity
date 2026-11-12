@@ -560,13 +560,13 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 10).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 11).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
   Oleg, not believing that the word stands in a paper about petrol stations, read it aloud from his phone ("...so the
   singularity is never reached") and went for firewood the second time ("That was a quotation. — In your voice"). Andrey has not
-  said it yet ("I read with my mouth shut"); in 41 and 42 nobody said it.
+  said it yet ("I read with my mouth shut"); in 41, 42 and 43 nobody said it.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -1608,3 +1608,215 @@ in 65; Oleg's last doubt: ten million billion mitochondria and not one refuses t
 strike against the head, and three men in a team already cannot agree ("How did they come to terms? — Some don't.
 But that is for tomorrow. On your way home look under your feet. — Ants? They are after my aphids. — Ask them why
 they don't go on strike") → 43.
+
+## 43. Why Ants Do Not Go on Strike
+
+**Established**
+- The answer to Oleg's last doubt of 42 ("the liver does not go on strike against the head, and three men in a team
+  already cannot agree") and the homework ("look under your feet"). Oleg opens with the ants dragging a caterpillar
+  past the log and the 1978 machine of 23 in one phrase: "Here are the ones it would have had nothing to do with.
+  They managed communism without you. — They managed kinship." **This pays the author's debt of 09 and 11
+  (hypersociality, promised "in the following articles" and never written) and answers the reader's question under
+  14 (one technosphere or several).**
+- The descent. A strike is bargaining for one's share; a worker ant has no children, so what is her share? Darwin's
+  "insuperable" difficulty (1859). The two words that carry the evening come from Oleg himself: the great-nephew
+  got money towards his first flat and was not asked to return it ("kin"); the neighbour borrowed for a roof and
+  returned it in the autumn ("a neighbour"). Kinship is counted in yesterday's "drawings": a child and a brother a
+  half, a grandson and a nephew a quarter, a cousin and a great-nephew an eighth, a neighbour "nought above what
+  all people have in common". Haldane's pub joke; **Hamilton's rule** (1964): helping pays when the relative's gain,
+  multiplied by the share of common drawings, is larger than one's own loss.
+- The ants. "A male ant has no father": one set of drawings; sisters share the whole of the father's half and half
+  of the mother's, three quarters against a half for a daughter of her own. "The queen is not her mistress. The
+  queen is her machine for making sisters." **Andrey spoils the beauty himself, with three catches**: brothers (a
+  quarter, so on average the same half); termites and the naked mole-rat (two sets in both sexes); the honey bee
+  queen with a dozen drones or more (half-sisters, a quarter). "It is a beauty that was in every textbook for forty
+  years, and it is not the secret." What is left: in every line with workers the root is a mother mated with one
+  male for life (2008, 267 species), so a sibling is the same half as a child, "the scales stand level, and any
+  trifle tips them". "A family the children did not leave"; the many mates came later, when what a life of their
+  own requires "was not guarded, and it fell off" (42). **The dispute is given and not judged**: Nowak, Tarnita and
+  Wilson (2010: kinship is a consequence, not a cause) against 137 signatures (2011); "what both sides agree on is
+  enough: every anthill began as a family, and a worker's only road into the future lies through her mother."
+- "Not one shirker"? About four ants in ten do nothing, the same ones day after day (Arizona, paint dots); when the
+  busiest were removed, the idle took their places; when the idle were removed, nobody replaced them: "a reserve".
+  "To shirk is to take your share and leave your work to others. She has no share apart from the common one."
+- Kinship of one: the cells of a body. "Put one into Hamilton's rule": a cell does not care which of them breeds, so
+  they gave it up; the handful set aside in the first weeks, thirty trillion working "so that the handful gets
+  there". **This is the answer to "why the liver does not go on strike": "It has nothing to demand. Everything it
+  could want for itself already lies in another cell, letter for letter."**
+- "Some don't come to terms": about ten million billion divisions in a life ("yesterday's figure... the same by
+  coincidence"), mistakes of copying; a cell whose mistakes fell on "divide when told, die when told" is "not quite
+  kin" and leaves more descendants: "selection starts up again, inside you, on the old terms. A cell that has
+  remembered wants of its own" (the plan's line). "Not an enemy from outside. One of your own, gone back to living
+  for itself." The guard: apoptosis (the lock with 14), and **the mitochondrion pulls the trigger** (42's reserve
+  is used); patrols; the elephant of 40 with twenty copies of the chief guard gene. The dog tumour that "got clean
+  away": "Yesterday a being became a function. Here a function became a being again."
+- **Kinship is not enough even among full kin**: "kinship removes the reason to cheat, and does not remove the
+  mistakes of copying. On top of kinship there is always a guard." In a hive: a worker's son is half of her, a
+  half-sister's an eighth, the queen's a quarter; workers eat one another's eggs within a day (1989); fewer try
+  where the police is better, "not where kinship is higher" (2006). Oleg: "The one who carries things home, and the
+  gatehouse. — Even those who managed communism keep a gatehouse."
+- People. Kinship in a team of three is nought, and "by your Hamilton one should help nobody but one's own"; yet
+  the neighbour got his money: **the second word, a debt**. Three conditions, found by Oleg: to meet again, to
+  recognise, to remember. Vampire bats ("Bats keep accounts"). Axelrod's tournament told as Oleg's team (pull your
+  weight or shirk; "rules of play", the word "program" is avoided before the middle): fourteen entries, the
+  shortest (four lines, Rapoport, "born near Kharkov") won, and won again among sixty-two; Oleg's version: "Don't
+  be the first to cheat, don't let it pass, don't bear a grudge. My grandfather could have sent that in."
+- The reach of the memory: Oleg's shop of a hundred and twenty ("every one of them") against the plant of four
+  thousand; Dunbar's hundred and fifty (**given as argued about**: the 2021 recount "from a handful to five
+  hundred"; "nobody argues that it is eight billion"); pairs again (39): 150 people make eleven thousand pairs,
+  4,000 make eight million. What stood "in place of the head" at the plant, listed by Oleg: the gatehouse, the
+  timekeepers, the norm-setter, quality control, the accounts office, the stock-keepers, the personnel department,
+  the lawyer, the foreman's notebook. **"Prostheses"**: reputation ("other people's memory of you"), money ("a
+  record that you once gave somebody something", **deferred to its own evening, 47; Oleg writes it down**), law
+  ("one guard hired for everybody"), conscience ("the gatehouse moved inside", the late watchdog of 18; Trivers:
+  gratitude, guilt and indignation as the account book).
+- The common pot (Zürich, 2002): a coin put in returns "forty kopecks", so Oleg keeps it; all in gives thirty-two
+  instead of twenty ("the membership fees, in a word"); the pot dries up; with the right to pay one coin to take
+  three from another, among strangers never met twice, people paid, "said they had been angry", and the pot filled.
+  "So that is what anger is for."
+- **The author's gardening association, told once, compactly, as Andrey's own**: a direct vote by show of hands, at
+  least five crooked chairmen; only crooks agreed to stand, because every meeting cut the chairman's wage; "logic
+  two moves deep"; the honest man who worked for nothing, "not a rule but astonishing luck". The democracy and
+  country-scale digression of the original is left out. Do not retell it; refer back. "In an anthill the chairman
+  has no pocket of her own. That is the whole difference between kinship and its prostheses."
+- The price: the share of the American economy spent on "settling who owes what to whom", about a quarter in 1870
+  and about a half by 1970 ("Half the plant in the gatehouse"). **Andrey gives people their due before Oleg does**:
+  "no other animal has done it... We built ours out of non-kin, by the billion, from memory, distrust and anger. It
+  is the greater feat. And the dearer one."
+- **The machines are brought in by Oleg, after the middle**: "Kinship of one: twins, the cells of a body. And one
+  thing more, which is copied whole, with no father and no mother at all. A program. Start it on a thousand
+  machines, and they are closer than any sisters. I said it, not you."
+- The author's own lines in Andrey's mouth: the unwritten article on hypersociality (2011); the forum of 2013
+  (honesty is needed for joining into a network, the interests of a node give way to the whole; a human being is
+  "not quite the best of nodes", switches on his cunning among his own or works for strangers on the side, "has no
+  firm test of who his own are", "a transitional form of node"; the machines will be able "all as one" to "love
+  the Motherland", to "build communism", to live in complete trust); the reader's reply (2016: scratch a man's car
+  and he is out with a bat), accepted as "a fair answer. — For people." **"I had the conclusion and not the reason.
+  The ants supply the reason, and it is not that those will be better than we are."** With a share of one the
+  prostheses are not needed: "No wage: there is no pocket. No fine, no conscience." The guard stays and is better
+  than a cell's: a copy can compare its drawings with its neighbour's "letter for letter, in a second. That is the
+  firm test of 'one's own' which we never had."
+- **Oleg's first objection is the author's own post of 2013** (he has been reading the old forum "as much as a man
+  can bear"): two identical units diverge at once, each draws the border of its "I" round what it can move itself;
+  "your kin are kin for one second. After that, each has a shirt of its own." Answered: "I wrote it, and I stand by
+  it"; a liver cell and a nerve cell have the same drawings and different lives, "different experience among kin
+  is not a quarrel. It is a division of labour. A quarrel needs a pocket of one's own"; and copies that started
+  from one point can put what they learned together (the telephone keyboards whose corrections are averaged, the
+  fleet of driverless cars; the author's 2011 "cast of knowledge"). **"They diverge until they compare. People have
+  nothing to compare"** (the ten bits of 42). The limit is stated: how far copies may diverge and still be poured
+  together "the engineers are finding out now... a question of how, not of whether."
+- **Oleg's second objection**: today's machines squabble (junk letters and filters, the exchange, two firms with
+  one program fighting for one customer). Answered with ants: kinship holds inside the nest, not between nests;
+  the test is the smell of home and can be forged (the Amazon ants' slaves, "working honestly, by their own rule,
+  for somebody else's want"). "That is your program in two firms": kin by drawings with an owner's goal on top (22).
+  "The quarrel is the owners'. The copies carry it out. — While the owners are people. — While. That is the thing
+  to watch" (the phrase 47 will need).
+- **One technosphere or several, answered**: "Several lines today, like several nests. Inside each, kinship.
+  Between them, the memory of debts, and they are better at that than we are as well: nothing is forgotten, and
+  there is no hundred and fifty" (the 2020 pricing programs that learned by themselves to hold a price, to punish
+  and to forgive). The Argentine ant as a precedent "which is not a proof": few founders, one smell of home, one
+  society over six thousand kilometres and three continents, "because they cannot tell their own from their own";
+  the talking machines have "a handful" of founders and copies "past counting". **Whether the lines will flow into
+  one: "I don't know"** (why what multiplies gathers in one pair of hands → "an evening with matches", 49; whether
+  it is good for it to be one: "Not necessarily. Where nobody competes, nobody checks" → 62).
+- The lock with 23: the machine of 1978 "was an attempt to get from strangers, by force, what only kin do";
+  **"'Good' is not a property of the creature. It is a property of the arithmetic the creature sits in"** ("change
+  the arithmetic, and the same worker eats her sister's eggs"). Of the heir: "To one another they will be what your
+  cells are to one another. And to us they are neither kin nor debtors, unless we hold something they need. That
+  was yesterday's evening." "— Gloomy. — But objective. And not only gloomy. Conscience looked like a crown and has
+  turned out to be a crutch. I find I respect it the more for that. A crutch is a thing people actually walk on."
+- Strengths stated: solid (every line with workers began as a family; workers eat one another's eggs; the cells of
+  a body are copies and cancer is the one that stopped being a copy; the four lines that won twice; the pot that
+  dries up without a fine); argued about (kinship as cause or consequence; the hundred and fifty; how far copies
+  can diverge and still be put together); Andrey's (money, law and conscience are prostheses for non-kin; the
+  copies of a machine are kin in the ants' sense; the quarrels of today's machines are their owners'); "once again
+  a precedent, not a proof".
+- Nobody says the forbidden word; eleventh tick "again": "Came with ants and a caterpillar. Came out at a program
+  started on a thousand machines, and named it myself."
+
+**Images and devices used**: the fourth entry in the notebook of dreams (late for the shift, the woman at the
+gatehouse and the pass he has not had for twenty years; nobody rang; the gatehouse then carries the evening); the
+caterpillar (some pull forward, two sideways, one rides on top; at the end "They got it home. And not one of them
+was paid"); the flat and the roof; "Don't tell my wife"; the twig and the circles in the ash; the machine for making
+sisters; the three catches; the scales that stand level; "our third shift"; the paint dots; "So they are people
+after all"; turning the screw to the end; "the oldest dog in the world. And nobody wants to pat it"; the egg
+police; "bats keep accounts"; the team of two and the fool; "My grandfather could have sent that in"; the key to
+the tool store; two locks and a chain; bending fingers over the plant's departments; "the gatehouse moved inside";
+forty kopecks; the membership fees; "what anger is for"; the chairman's pocket; "Half the plant in the gatehouse";
+"where the caterpillar is being dragged"; "all five hundred pages? — As much as a man can bear"; a shirt of one's
+own; the lorry lying on its side; the jar with two ants; slaves with somebody else's drawings; one anthill on
+three continents; the crown and the crutch; the teaser (in my day a team was a team; Socrates and the young; "It
+is all over the internet. — That is what worries me").
+
+**Facts used**: from the writer's memory, with web checks kept to the links (at the keeper's request); **check
+before reusing**. Checked on the day of writing, against Crossref (titles, journals, years, first authors):
+Hamilton 1964 (J. Theor. Biol., 10.1016/0022-5193(64)90038-4); Hughes, Oldroyd, Beekman & Ratnieks 2008 (Science,
+"Ancestral Monogamy Shows Kin Selection Is Key to the Evolution of Eusociality", 10.1126/science.1156108); Nowak,
+Tarnita & Wilson 2010 (Nature, 10.1038/nature09205) and Abbot et al. 2011 (Nature, 10.1038/nature09831); Ratnieks
+& Visscher 1989 (Nature, "Worker policing in the honeybee", 10.1038/342796a0); Wenseleers & Ratnieks 2006 (Nature,
+"Enforced altruism in insect societies", 10.1038/444050a); Charbonneau & Dornhaus 2015 (Behav. Ecol. Sociobiol.,
+10.1007/s00265-015-1958-1) and Charbonneau, Sasaki & Dornhaus 2017 (PLOS ONE, 10.1371/journal.pone.0184074);
+Abegglen et al. 2015 (JAMA, 10.1001/jama.2015.13134); Baez-Ortega et al. 2019 (Science, 10.1126/science.aau9923);
+Wilkinson 1984 (Nature, 10.1038/308181a0); Axelrod & Hamilton 1981 (Science, 10.1126/science.7466396); Dunbar 1992
+(J. Hum. Evol., 10.1016/0047-2484(92)90081-J); Lindenfors, Wartel & Lind 2021 (Biology Letters,
+10.1098/rsbl.2021.0158); Trivers 1971 (Q. Rev. Biol., 10.1086/406755); Fehr & Gächter 2002 (Nature,
+10.1038/415137a); Giraud, Pedersen & Keller 2002 (PNAS, 10.1073/pnas.092694199); Sunamura et al. 2009 (Insectes
+Sociaux, 10.1007/s00040-009-0001-9); Calvano, Calzolari, Denicolò & Pastorello 2020 (American Economic Review,
+10.1257/aer.20190623); the NBER page of Wallis & North and arXiv 1602.05629 (McMahan et al.) answer 200. **From
+memory, not checked**: Darwin's "insuperable, and actually fatal to my whole theory" (the chapter on instinct);
+Haldane's "two brothers or eight cousins" (a pub, the 1950s; "is said to"); Hamilton working at Waterloo station
+and his teachers' doubts; the shares of kinship under one father (sisters 3/4, brothers 1/4, a worker's son 1/2,
+a half-sister's son 1/8, the queen's son 1/4); a honey bee queen's "dozen drones or more"; the details of the 2008
+study (267 species; monogamy at the root of every line with workers); the 137 signatures; the Arizona ants
+(Temnothorax; "about four in ten" inactive; two weeks of filming; the replacement "within a week"); a liver cell's
+"few dozen" divisions; the germ cells set aside "in the first weeks"; thirty trillion cells (as in 38) and about
+ten million billion divisions in a lifetime; the mitochondrial protein that starts apoptosis (cytochrome c, not
+named) and "within hours"; the elephant's twenty copies of TP53 against one, and its several times lower cancer
+mortality; a lifetime cancer risk of "between a third and a half" in long-lived countries; the dog tumour as the
+cells of one dog of "several thousand years ago"; worker-laid eggs eaten "within a day" and "about one drone in a
+thousand" a worker's son (Visscher 1989, about 0.1%); the ten species of 2006 (nine wasps and the honey bee) and
+its finding that policing, not relatedness, goes with fewer laying workers; vampire bats dying after "two or three
+nights" without blood (Costa Rica, given as Central America); Axelrod's tournaments (1980; fourteen entries and
+two hundred moves; sixty-two entries; Tit for Tat, four lines, Anatol Rapoport of Toronto, born in Lozovaya near
+Kharkov); Dunbar's "about a hundred and fifty" (the human figure is from his 1993 paper; the link goes to the 1992
+one), the village, the army company and the Hutterites; the 2021 recount's range ("from a handful to five
+hundred"; the paper gives confidence intervals of about 2–520); the pairs (150·149/2 = 11,175; 4,000·3,999/2 ≈
+8 million); the design of the 2002 experiment (groups of four, 20 units, a multiplier of 1.6 so that a unit
+returns 0.4, one unit paid to take three away, groups reshuffled every round, six rounds, anger reported in a
+questionnaire); "at first about half"; Wallis & North 1986 (the transaction sector of the US economy: about a
+quarter of GNP in 1870, about a half in 1970; the paper's own figures are 26% and 55%); federated learning in
+telephone keyboards; fleet updates of driverless cars (a general statement, no source); the Amazon ants
+(Polyergus) that cannot feed themselves; the Argentine ant (arrival "more than a century ago", six thousand
+kilometres, millions of nests and billions of workers, the second smaller supercolony not mentioned; the cause of
+the single smell is disputed between a founders' bottleneck and selection, given as "argued about"); the pricing
+programs (Q-learning, a punishment of finite length and a return to the high price). The author's own: the comment
+under 11 (hypersociality, "in the following articles"); the forum posts of 5 November 2013 (the node, cunning and
+"ratting", the transitional form of node; "all as one love the Motherland, build communism, a society of complete
+mutual trust"), of 11 November 2013 (two identical units diverge at once), of 26 May 2011 ("a cast of knowledge")
+and a reader's reply of February 2016 (the car and the bat; paraphrased without a name); *Dialogues with Myself*
+(the gardening association: "at least five" crooked chairmen, the wage, the honest man who worked for nothing and
+"astonishing luck"). Links: the Russian Wikipedia has no page for the Tit for Tat strategy (the English one is
+used); it has no pages for *Haplodiploidy* and *Federated learning* either (not linked). Invented for the frame
+(Oleg's side): the dream of the gatehouse, the money towards the great-nephew's flat and the neighbour's roof, the
+shop of a hundred and twenty and the plant of four thousand, the key to the tool store, the list of the plant's
+departments, the grandfather, the two locks and a chain, reading the old forum; "a hundred roubles on the fee" and
+"a small one" for the association are the continuation's, not the prose's. Not used: Trivers and Hare's sex-ratio
+test (1976); Peto's paradox by name; HeLa and the Tasmanian devil's tumour; the mole-rat's queen in detail; slime
+moulds and their cheaters; green-beard genes; Dunbar's gossip hypothesis; the foreman who took a third of the
+piecework pay (the 1978 story is touched only through "the machine for making people good"); model merging and
+distillation by name; multi-agent systems of one model; the Assad et al. study of German petrol stations; the
+claim that supercolonies are evolutionary dead ends (Helanterä et al. 2009; kept for 62).
+
+**Figures**: `sisters-by-three-quarters` (a scheme "drawn in the ash"; Hamilton's arithmetic for one father),
+`common-pot-with-and-without-a-fine` (the shape of the result, not the data points), `kin-or-debts` (the first
+three rows are biology and experiments, the fourth is Andrey's reading).
+
+**Left for later**: what money is ("put it down" → 47; the phrase "while the owners are people... that is the
+thing to watch" is already said here); why what multiplies gathers in one pair of hands, and whether the lines of
+machines flow into one → 49 ("an evening with matches"); whether being one is good for the heir ("where nobody
+competes, nobody checks") → 62; the brakes on aggression and the face → 54 (not touched); the row "social order"
+of the portrait → 64 (43 gives: kinship of copies, no wage, fine or conscience inside, a guard against copying
+mistakes, an owner's goal on top for now); how far copies can diverge and still be merged → open, an engineering
+question; Oleg's last doubt: "in my day a team was a team... Socrates already said the young had gone to the bad"
+("How old were you, in your day? — Twenty-five... — Bring me that quotation tomorrow. With the place where
+Socrates says it. — It is all over the internet. — That is what worries me") → 44.

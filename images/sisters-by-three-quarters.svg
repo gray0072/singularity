@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="446" viewBox="0 0 760 446" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Sisters by three quarters</title>
+<defs><marker id="arrow-2a78d6" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#2a78d6"/></marker><marker id="arrow-eb6834" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#eb6834"/></marker></defs>
+<rect x="0.5" y="0.5" width="759" height="445" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Sisters by three quarters</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Ants, bees and wasps: a female has two sets of drawings, a male has one.</text>
+<path d="M250.0,108.0 A42,42 0 0 0 250.0,192.0 Z" stroke="#2a78d6" stroke-width="1.5" fill="#2a78d6" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.55"/>
+<path d="M250.0,108.0 A42,42 0 0 1 250.0,192.0 Z" stroke="#1baf7a" stroke-width="1.5" fill="#1baf7a" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.55"/>
+<circle cx="250.0" cy="150.0" r="42.0" fill="none" stroke="#52514e" stroke-width="1.5"/>
+<text x="250.0" y="96.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">the mother: two sets</text>
+<circle cx="510.0" cy="150.0" r="30.0" fill="#eb6834" stroke="#52514e" stroke-width="1.5" fill-opacity="0.55"/>
+<text x="510.0" y="108.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">the father: one set</text>
+<text x="554.0" y="146.0" font-size="12" fill="#8a8985" font-style="italic"><tspan x="554.0" dy="0.0">he came from an</tspan><tspan x="554.0" dy="15.0">unfertilised egg</tspan></text>
+<path d="M290.0,254.0 A42,42 0 0 0 290.0,338.0 Z" stroke="#2a78d6" stroke-width="1.5" fill="#2a78d6" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.55"/>
+<path d="M290.0,254.0 A42,42 0 0 1 290.0,338.0 Z" stroke="#eb6834" stroke-width="1.5" fill="#eb6834" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.55"/>
+<circle cx="290.0" cy="296.0" r="42.0" fill="none" stroke="#52514e" stroke-width="1.5"/>
+<path d="M470.0,296.0 L470.0,254.0 A42,42 0 0 0 428.0,296.0 Z" stroke="#2a78d6" stroke-width="1.5" fill="#2a78d6" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.55"/>
+<path d="M470.0,296.0 L428.0,296.0 A42,42 0 0 0 470.0,338.0 Z" stroke="#1baf7a" stroke-width="1.5" fill="#1baf7a" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.55"/>
+<path d="M470.0,254.0 A42,42 0 0 1 470.0,338.0 Z" stroke="#eb6834" stroke-width="1.5" fill="#eb6834" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.55"/>
+<circle cx="470.0" cy="296.0" r="42.0" fill="none" stroke="#52514e" stroke-width="1.5"/>
+<text x="290.0" y="358.0" font-size="12.5" fill="#52514e" text-anchor="middle">a daughter</text>
+<text x="470.0" y="358.0" font-size="12.5" fill="#52514e" text-anchor="middle">a daughter</text>
+<text x="380.0" y="301.0" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="600">sisters</text>
+<line x1="244.0" y1="196.0" x2="274.0" y2="248.0" stroke="#2a78d6" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-2a78d6)"/>
+<line x1="280.0" y1="184.0" x2="436.0" y2="262.0" stroke="#2a78d6" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-2a78d6)"/>
+<line x1="488.0" y1="176.0" x2="326.0" y2="264.0" stroke="#eb6834" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+<line x1="506.0" y1="184.0" x2="482.0" y2="248.0" stroke="#eb6834" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+<text x="40.0" y="196.0" font-size="12.5" fill="#2a78d6" font-weight="600"><tspan x="40.0" dy="0.0">half of hers,</tspan><tspan x="40.0" dy="15.6">a different half</tspan><tspan x="40.0" dy="15.6">each time</tspan></text>
+<text x="560.0" y="240.0" font-size="12.5" fill="#eb6834" font-weight="600"><tspan x="560.0" dy="0.0">all of his,</tspan><tspan x="560.0" dy="15.6">to every daughter</tspan></text>
+<text x="28.0" y="388.0" font-size="13" fill="#0b0b0b" font-weight="600">Two sisters share the whole of the father's half and half of the mother's: 1/2 + 1/4 = 3/4.</text>
+<text x="28.0" y="408.0" font-size="13" fill="#0b0b0b">A daughter of her own would carry 1/2 of a worker.</text>
+<text x="28.0" y="432.0" font-size="11.5" fill="#8a8985">Hamilton's arithmetic of 1964. It is not the whole secret: see the three catches in the text.</text>
+</svg>

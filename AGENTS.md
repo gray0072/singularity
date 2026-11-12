@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–42 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `43`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–43 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `44`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–42.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–43.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -279,6 +279,13 @@ articles as closely as possible. In practice:
 | не берегут | not guarded | how the swallowed one loses what it had: nothing is taken away; a gene (a trade, a memory) that the job does not need breaks, and nothing keeps it in order; Oleg's supply department, "not needed twice" (42) |
 | переезд чертежей | the move of the drawings | the genes of the lodger moving to the host's nucleus, still going on; in the series, what people have written down moving into the machines: "once a drawing works from there, the copy at home is not needed" (42) |
 | органелла | organelle | the second row of the table of fates of former masters, after the niche: "kept the job, paid with everything else, while the job is needed" (42) |
+| арифметика родства (правило Гамильтона) | the arithmetic of kinship (Hamilton's rule) | helping pays when the relative's gain, multiplied by the share of common drawings (genes), is larger than one's own loss (1964); with a share of one (the cells of a body, the copies of a program) nobody has anything of its own to bargain for (43) |
+| память о долгах | memory of debts | the second thing cooperation can rest on, for those who are not kin: "as you did to me, so I do to you"; it needs meeting again, recognising and remembering, and reaches about as far as a village (some 150 faces) (43) |
+| протезы (памяти о долгах) | prostheses (of the memory of debts) | what people put where that memory does not reach: reputation, money, law, conscience ("the gatehouse moved inside"); they work and cost up to half the economy (43) |
+| охрана (полиция яиц, проходная) | the guard (the egg police, the gatehouse) | what stands on top of kinship, because copying makes mistakes: the order to die and the patrols in a body, workers eating one another's eggs in a hive; cancer is the cell the guard missed (43) |
+| запах дома (критерий «свой — чужой») | the smell of home (the test of one's own) | the simple rule by which a worker ant tells a sister; it can be forged (the Amazon ants' slaves) and can come out the same for everybody (the Argentine ant); copies of a machine can check kinship letter for letter (43) |
+| гиперсоциальность | hypersociality | the author's 2011 term for a property of the mature technosphere, promised and not written; in 43: the copies of one machine are full kin by construction, so they need no wage, fine or conscience; "not a virtue of the heir but arithmetic" |
+| нода | node | the author's 2013 word for a member of a network mind; a human is "a transitional form of node", with no firm test of who his own are (43) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

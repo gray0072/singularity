@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Общий котёл со штрафом и без него</title>
+
+<rect x="0.5" y="0.5" width="759" height="439" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Общий котёл со штрафом и без него</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Четверо незнакомых, у каждого 20 монет. Сколько в среднем кладут в общий котёл, раунд за раундом.</text>
+<line x1="86.0" y1="318.0" x2="700.0" y2="318.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="76.0" y="322.0" font-size="11.5" fill="#52514e" text-anchor="end">0</text>
+<line x1="86.0" y1="262.5" x2="700.0" y2="262.5" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="76.0" y="266.5" font-size="11.5" fill="#52514e" text-anchor="end">5</text>
+<line x1="86.0" y1="207.0" x2="700.0" y2="207.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="76.0" y="211.0" font-size="11.5" fill="#52514e" text-anchor="end">10</text>
+<line x1="86.0" y1="151.5" x2="700.0" y2="151.5" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="76.0" y="155.5" font-size="11.5" fill="#52514e" text-anchor="end">15</text>
+<line x1="86.0" y1="96.0" x2="700.0" y2="96.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="76.0" y="100.0" font-size="11.5" fill="#52514e" text-anchor="end">20: всё</text>
+<text x="116.0" y="338.0" font-size="11.5" fill="#52514e" text-anchor="middle">1</text>
+<text x="226.8" y="338.0" font-size="11.5" fill="#52514e" text-anchor="middle">2</text>
+<text x="337.6" y="338.0" font-size="11.5" fill="#52514e" text-anchor="middle">3</text>
+<text x="448.4" y="338.0" font-size="11.5" fill="#52514e" text-anchor="middle">4</text>
+<text x="559.2" y="338.0" font-size="11.5" fill="#52514e" text-anchor="middle">5</text>
+<text x="670.0" y="338.0" font-size="11.5" fill="#52514e" text-anchor="middle">6</text>
+<text x="708.0" y="338.0" font-size="11.5" fill="#8a8985">раунд</text>
+<path d="M116.0,184.8 L226.8,167.0 L337.6,153.7 L448.4,143.7 L559.2,137.1 L670.0,131.5" stroke="#2a78d6" stroke-width="2.8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="116.0" cy="184.8" r="4.6" fill="#2a78d6"/>
+<circle cx="226.8" cy="167.0" r="4.6" fill="#2a78d6"/>
+<circle cx="337.6" cy="153.7" r="4.6" fill="#2a78d6"/>
+<circle cx="448.4" cy="143.7" r="4.6" fill="#2a78d6"/>
+<circle cx="559.2" cy="137.1" r="4.6" fill="#2a78d6"/>
+<circle cx="670.0" cy="131.5" r="4.6" fill="#2a78d6"/>
+<text x="393.0" y="127.7" font-size="13" fill="#2a78d6" text-anchor="middle" font-weight="600">со штрафами: отдай 1 монету, чтобы отнять 3 у другого</text>
+<path d="M116.0,202.6 L226.8,220.3 L337.6,235.9 L448.4,248.1 L559.2,258.1 L670.0,266.9" stroke="#eb6834" stroke-width="2.8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="116.0" cy="202.6" r="4.6" fill="#eb6834"/>
+<circle cx="226.8" cy="220.3" r="4.6" fill="#eb6834"/>
+<circle cx="337.6" cy="235.9" r="4.6" fill="#eb6834"/>
+<circle cx="448.4" cy="248.1" r="4.6" fill="#eb6834"/>
+<circle cx="559.2" cy="258.1" r="4.6" fill="#eb6834"/>
+<circle cx="670.0" cy="266.9" r="4.6" fill="#eb6834"/>
+<text x="393.0" y="272.1" font-size="13" fill="#eb6834" text-anchor="middle" font-weight="600">без штрафов</text>
+<text x="28.0" y="372.0" font-size="12.5" fill="#0b0b0b"><tspan x="28.0" dy="0.0">Монета, положенная в котёл, возвращает по 0,4 каждому из четверых: придержать выгодно каждому,</tspan><tspan x="28.0" dy="15.6">положить выгодно всем. Штрафовали за свой счёт и тех, с кем больше никогда не встретятся.</tspan></text>
+<text x="28.0" y="424.0" font-size="11.5" fill="#8a8985">Схема по Феру и Гехтеру (2002): форма результата, а не точки данных.</text>
+</svg>

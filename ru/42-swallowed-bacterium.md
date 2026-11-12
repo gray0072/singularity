@@ -379,4 +379,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [11](./11-symbiosis-and-parasitism.md), [18](./18-anatomy-of-wants.md), [21](./21-machines-that-talk.md), [22](./22-who-sets-the-tasks.md), [27](./27-scenario-of-events.md), [37](./37-who-exploits-whom.md), [38](./38-oxygen-was-a-poison.md), [40](./40-firms-die-cities-do-not.md), [41](./41-cheesecake-for-the-ears.md).
 
-[← 41](./41-cheesecake-for-the-ears.md) · [Оглавление](./README.md)
+[← 41](./41-cheesecake-for-the-ears.md) · [Оглавление](./README.md) · [43 →](./43-why-ants-do-not-strike.md)
