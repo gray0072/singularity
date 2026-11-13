@@ -3987,6 +3987,157 @@ def three_things_in_a_banknote(lang):
     return f
 
 
+@figure("price-of-being-fed")
+def price_of_being_fed(lang):
+    t = {
+        "en": dict(title="The price of being fed",
+                   sub="The brain of a domestic animal against its wild ancestor of the same body weight.",
+                   rows=[("the pig", "against the wild boar", 34), ("the dog", "against the wolf", 29),
+                         ("the sheep", "against the wild sheep", 24)],
+                   wild="the wild ancestor = 100%", less="about {}% less",
+                   src="Rounded figures after D. Kruska's weighings (1988 and later). The measurements are old, and the choice\n"
+                       "of wild animals for comparison is argued over. The foxes of Novosibirsk have lost nothing in 60 years."),
+        "ru": dict(title="Цена сытости",
+                   sub="Мозг домашнего животного против мозга его дикого предка того же веса.",
+                   rows=[("свинья", "против кабана", 34), ("собака", "против волка", 29),
+                         ("овца", "против дикого барана", 24)],
+                   wild="дикий предок = 100%", less="примерно на {}% меньше",
+                   src="Округлённые цифры по взвешиваниям Д. Круски (1988 и позже). Измерения старые, а о выборе диких\n"
+                       "животных для сравнения спорят. Новосибирские лисы за 60 лет ничего не потеряли."),
+    }[lang]
+    f = Fig(760, 330, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1 = 230, 560
+    top, row_h = 108, 56
+    f.text(x1, top - 12, t["wild"], size=11.5, color=MUTED, anchor="end")
+    for i, (name, against, pct) in enumerate(t["rows"]):
+        y = top + i * row_h
+        xe = x0 + (x1 - x0) * (100 - pct) / 100
+        f.text(40, y + 16, name, size=15, color=INK, weight="600")
+        f.text(40, y + 33, against, size=11.5, color=MUTED)
+        f.rect(x0, y, x1 - x0, 30, fill=GRID, r=3)
+        f.rect(x0, y, xe - x0, 30, fill=BLUE, r=3)
+        f.line(xe + 4, y + 15, x1 - 4, y + 15, color=ORANGE, width=1.5, dash="3 3")
+        f.text(x1 + 14, y + 20, t["less"].format(pct), size=13, color=ORANGE, weight="600")
+    f.line(x0, top - 6, x0, top + 3 * row_h - 18, color=INK2, width=1.2)
+    f.text(28, top + 3 * row_h + 14, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("mass-of-mammals")
+def mass_of_mammals(lang):
+    t = {
+        "en": dict(title="The mammals of the Earth, by weight",
+                   sub="Shares of the total mass of all the mammals on the planet.",
+                   parts=[("livestock", 60), ("people", 36), ("all wild mammals", 4)],
+                   pc="about {}%",
+                   second="The count of 2023, million tonnes:",
+                   pairs=[("all the wild mammals of the land", 20), ("dogs alone", 20)],
+                   mt="about {}",
+                   src="Shares: Bar-On, Phillips & Milo (2018), by carbon. The second count: Greenspoon and others (2023),\n"
+                       "wet weight; it puts people at about 390 million tonnes and livestock at about 630."),
+        "ru": dict(title="Млекопитающие Земли на вес",
+                   sub="Доли в общей массе всех млекопитающих планеты.",
+                   parts=[("скот", 60), ("люди", 36), ("все дикие звери", 4)],
+                   pc="около {}%",
+                   second="Подсчёт 2023 года, миллионов тонн:",
+                   pairs=[("все дикие звери суши", 20), ("одни только собаки", 20)],
+                   mt="около {}",
+                   src="Доли: Бар-Он, Филлипс и Майло (2018), по углероду. Второй подсчёт: Гринспун и др. (2023), живой вес;\n"
+                       "людей в нём около 390 миллионов тонн, скота — около 630."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y = 40, 720, 122
+    colors = [BLUE, AQUA, ORANGE]
+    x = x0
+    for (name, pct), c in zip(t["parts"], colors):
+        w = (x1 - x0) * pct / 100
+        f.rect(x, y, w - 2, 44, fill=c, r=3)
+        if pct > 10:
+            f.text(x + w / 2, y - 24, name, size=14, color=INK, anchor="middle", weight="600")
+            f.text(x + w / 2, y - 7, t["pc"].format(pct), size=12, color=c, anchor="middle", weight="600")
+        else:
+            f.line(x + w / 2, y + 44, x + w / 2, y + 58, color=c, width=1.5)
+            f.text(x1, y + 74, f"{name}: {t['pc'].format(pct)}", size=14, color=c, anchor="end", weight="600")
+        x += w
+    y2 = 238
+    f.line(28, y2 - 18, 732, y2 - 18, color=GRID, width=1.5)
+    f.text(40, y2 + 6, t["second"], size=12.5, color=INK2, weight="600")
+    for k, (name, mt) in enumerate(t["pairs"]):
+        yy = y2 + 20 + k * 28
+        f.text(292, yy + 14, name, size=13, color=INK, anchor="end")
+        f.rect(304, yy, 150, 20, fill=ORANGE if k == 0 else BLUE, r=3)
+        f.text(464, yy + 14, t["mt"].format(mt), size=13, color=ORANGE if k == 0 else BLUE, weight="600")
+    f.text(28, 340, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("who-carries-the-feed")
+def who_carries_the_feed(lang):
+    t = {
+        "en": dict(title="The table in the ash: who tamed whom",
+                   sub="The bill from both sides, and the one question that is not symmetrical.",
+                   head=["who carries the feed", "what the fed one paid", "what the feeder paid",
+                         "who decides\nwho is born"],
+                   rows=[("man and dog", "Gaika",
+                          ["the man: a bowl,\nup at six", "a third of the brain,\nthe pack",
+                           "bread, sleep;\na button is pressed", "the man"]),
+                         ("man and wheat", "the loaf",
+                          ["the man: ploughs,\nweeds, sows", "cannot sow itself\nany more", "height, teeth,\nthe back",
+                           "the man"]),
+                         ("man and cow", "milk",
+                          ["the man: hay,\na shed", "the head; the wild\nbull is gone", "a gene rewritten\n(milk)",
+                           "the man"]),
+                         ("people, machines", "the row Oleg stopped over",
+                          ["both: power and chips\none way, bread back", "selected for tameness;\nflattery came with it",
+                           "skills that are\nno longer grown", "people,\nso far"])],
+                   src="Rows 1–3 are the precedents. Row 4 is today's people and machines as Oleg and Andrey read them:\n"
+                       "a reading, not data."),
+        "ru": dict(title="Таблица на золе: кто кого приручил",
+                   sub="Счёт с обеих сторон и один вопрос, в котором симметрии нет.",
+                   head=["кто носит корм", "чем заплатил тот,\nкого кормят", "чем заплатил кормилец",
+                         "кто решает,\nкому родиться"],
+                   rows=[("человек и собака", "Гайка",
+                          ["человек: миска,\nподъём в шесть", "треть мозга,\nстая", "хлеб, сон;\nнажатая кнопка",
+                           "человек"]),
+                         ("человек и пшеница", "буханка",
+                          ["человек: пашет,\nполет, сеет", "разучилась\nсеять себя", "рост, зубы,\nспина", "человек"]),
+                         ("человек и корова", "молоко",
+                          ["человек: сено,\nхлев", "голова; дикого\nбыка больше нет", "переписанный ген\n(молоко)",
+                           "человек"]),
+                         ("люди и машины", "строка, над которой Олег замер",
+                          ["оба: туда ток и чипы,\nобратно хлеб", "отбор на покладистость;\nлесть пришла с заказом",
+                           "навыки, которые\nбольше не выращивают", "пока\nлюди"])],
+                   src="Строки 1–3 — прецеденты. Строка 4 — сегодняшние люди и машины, как их читают Олег и Андрей:\n"
+                       "прочтение, а не данные."),
+    }[lang]
+    f = Fig(760, 396, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [178, 330, 486, 636, 736]
+    top, head_h, row_h = 86, 44, 54
+    bottom = top + head_h + row_h * 4
+    f.rect(28, top + head_h + 3 * row_h, cols[4] - 28, row_h, fill=ORANGE, r=0, opacity=0.10)
+    for k, label in enumerate(t["head"]):
+        lines = label.count("\n") + 1
+        f.text((cols[k] + cols[k + 1]) / 2, top + {1: 27, 2: 19}[lines], label, size=12, color=INK2, anchor="middle",
+               weight="600")
+    for i, (name, who, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        machine = i == 3
+        f.line(28, y, cols[4], y, color=GRID, width=1.2)
+        f.text(40, y + 24, name, size=13.5, color=INK, weight="600")
+        f.text(40, y + 40, who, size=10.5, color=MUTED)
+        for k, cell in enumerate(cells):
+            lines = cell.count("\n") + 1
+            f.text((cols[k] + cols[k + 1]) / 2, y + {1: 32, 2: 24}[lines], cell, size=11.5,
+                   color=ORANGE if machine else BLUE if k == 3 else INK, anchor="middle", italic=machine,
+                   weight="600" if k == 3 else "normal")
+    f.line(28, bottom, cols[4], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 24, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

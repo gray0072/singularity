@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Цена сытости</title>
+
+<rect x="0.5" y="0.5" width="759" height="329" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Цена сытости</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Мозг домашнего животного против мозга его дикого предка того же веса.</text>
+<text x="560.0" y="96.0" font-size="11.5" fill="#8a8985" text-anchor="end">дикий предок = 100%</text>
+<text x="40.0" y="124.0" font-size="15" fill="#0b0b0b" font-weight="600">свинья</text>
+<text x="40.0" y="141.0" font-size="11.5" fill="#8a8985">против кабана</text>
+<rect x="230.0" y="108.0" width="330.0" height="30.0" rx="3" fill="#e9e8e4"/>
+<rect x="230.0" y="108.0" width="217.8" height="30.0" rx="3" fill="#2a78d6"/>
+<line x1="451.8" y1="123.0" x2="556.0" y2="123.0" stroke="#eb6834" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="574.0" y="128.0" font-size="13" fill="#eb6834" font-weight="600">примерно на 34% меньше</text>
+<text x="40.0" y="180.0" font-size="15" fill="#0b0b0b" font-weight="600">собака</text>
+<text x="40.0" y="197.0" font-size="11.5" fill="#8a8985">против волка</text>
+<rect x="230.0" y="164.0" width="330.0" height="30.0" rx="3" fill="#e9e8e4"/>
+<rect x="230.0" y="164.0" width="234.3" height="30.0" rx="3" fill="#2a78d6"/>
+<line x1="468.3" y1="179.0" x2="556.0" y2="179.0" stroke="#eb6834" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="574.0" y="184.0" font-size="13" fill="#eb6834" font-weight="600">примерно на 29% меньше</text>
+<text x="40.0" y="236.0" font-size="15" fill="#0b0b0b" font-weight="600">овца</text>
+<text x="40.0" y="253.0" font-size="11.5" fill="#8a8985">против дикого барана</text>
+<rect x="230.0" y="220.0" width="330.0" height="30.0" rx="3" fill="#e9e8e4"/>
+<rect x="230.0" y="220.0" width="250.8" height="30.0" rx="3" fill="#2a78d6"/>
+<line x1="484.8" y1="235.0" x2="556.0" y2="235.0" stroke="#eb6834" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="574.0" y="240.0" font-size="13" fill="#eb6834" font-weight="600">примерно на 24% меньше</text>
+<line x1="230.0" y1="102.0" x2="230.0" y2="258.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="290.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Округлённые цифры по взвешиваниям Д. Круски (1988 и позже). Измерения старые, а о выборе диких</tspan><tspan x="28.0" dy="14.4">животных для сравнения спорят. Новосибирские лисы за 60 лет ничего не потеряли.</tspan></text>
+</svg>

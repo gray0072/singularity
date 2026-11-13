@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 15).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 16).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,6 +570,8 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
+  In 48 nobody said it. From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
+  of birch in 47); she lies where the light of the fire ends.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -2526,3 +2528,193 @@ to watch (a wallet with no person behind it; a copy that charges a copy of the s
 dated marks at the check of 2028; the row "money" of the portrait (no money inside, an account in kind; trust
 "medium": a precedent, not a proof) → 64; Oleg's last doubt, the stray dog that takes neither paper nor numbers
 ("I tamed her in a day. — Or she you. Bring bread") → 48.
+
+## 48. Who Tamed Whom
+
+**Established**
+- The answer to the teaser of 47 ("Think until tomorrow who is paying whom there, and with what... Bring bread").
+  Oleg comes with half a loaf and the dog at his heel; he has named her **Gaika** ("a nut, the kind that goes on a
+  bolt"). His row: "She guards, I feed. A service for a service." Counted: she barked at the postwoman and the
+  neighbour's cat; he bought a bowl, a collar and three kilos of feed, gave up his old quilted jacket and got up at
+  six. The plan's epigraph is played at once: **"So who tamed whom? — I her, of course. In a day. — See which of you
+  got up and went for the bread."** Oleg's "I am the man. I decided to keep her" is left standing until the end.
+- "In a day" rests on fifteen thousand years: the hand-raised wolf cubs of Budapest and the box that cannot be
+  opened (the dog "tries a couple of times, then looks at me"; the wolf "pulls and gnaws and digs until it is taken
+  away"). "It is the drawings" (the word of 42 and 45 for genes).
+- **Belyaev's foxes** (1959, Novosibirsk): one test, a gloved hand in the cage; fewer than one in ten left to breed;
+  "nobody stroked them, nobody trained them, nobody looked at the colour". **"One lever."** Tail-wagging in the
+  fourth generation, a third of the cubs tame in twenty; Lyudmila Trut "carried the work on for sixty years". What
+  nobody ordered: the white star, piebald coats, the curled tail, the shorter muzzle, ears that do not stand up
+  (Gaika has one ear down). **"Nobody ordered ears. — They came with the order."** Darwin's remark of 1859. Oleg, as
+  an engineer: "That is not biology, that is a drawing office... they all sit on one shaft." The shaft is given as a
+  hypothesis of 2014 (the cells that make "the gland of fear", pigment, ear cartilage and part of the jaw), "argued
+  about", and so are the foxes (the farms they came from).
+- **The price**: Kruska's weighings (pig about a third less than the wild boar, sheep about a quarter, dog between
+  a quarter and a third; "in places by two fifths" in the parts for alarm, fear and rage and for the nose and ears).
+  "I am her supply department, her watchman and her pack"; the lock with 42 ("Nothing is taken away. It is simply
+  not guarded"). **Andrey says against himself that the foxes' brains have not shrunk in sixty years** (scanned in
+  2021): "The ears come in twenty generations, with the order. The brain goes over thousands of years, and not by
+  anybody's selection but by a fed life."
+- **Oleg's first objection (the plan's)**: "She is not stupid. She understands me better than any wolf would" (the
+  collie with 1,022 toys; the pointing finger that a chimpanzee and a hand-raised wolf mostly do not read and a
+  puppy does). **Conceded, "and the answer suits me": "The mind did not vanish. It moved into one domain: to
+  understand the master"** (domain logicality, 03). What it moved out of: the rope test for two in Austria ("They
+  have forgotten how to work with their own kind. — Their pack is you"). The two ways with a closed box: the wolf's
+  "to gnaw at it himself", the dog's "to ask" ("Oleg frowned at something and did not say it": the great-nephew of
+  42, held back until after the middle).
+- **The price list, three signs and the price**: fed on schedule; kept safe; selected for one thing, tameness; "and
+  paid for with whatever the feeder now does for you".
+- **The symmetry test**. What she does to him: the brows "into a roof" (the muscle of 2019 that dogs have and wolves
+  do not; shelter dogs that use it are taken sooner: "She has grown a muscle against me. — Nobody grew anything on
+  purpose"); the gaze that raises the mother-and-baby hormone in both (2015). **"A button. Made for other work...
+  She presses the one I keep for my grandchildren"** (the lock with 41). The story told from her side: "I found a
+  large slow beast with a warm den... It is the same story. — Word for word." Counted her way: about a quarter of a
+  million wolves, dogs "towards a billion" (three in four nobody's, at people's rubbish): "The wolf kept the whole
+  brain and the forest. The dog paid a third and got the planet." By weight: livestock 60%, people 36%, all wild
+  mammals 4% ("A twenty-fifth", the plan's line to retell); the 2023 count: all wild land mammals about 20 million
+  tonnes, "dogs alone: also about twenty".
+- How it began: the heap of bones beyond the camp, "its own fear did the selecting" (a hypothesis); the grave of
+  14,000 years ago, "before the first field and before the first sheep". **"So nobody decided. Neither I nor she."**
+- **Wheat**: a wild grass ten thousand years ago, about 220 million hectares now ("Six Germanies... The oats got
+  one", the lock with 34). What a man does for it (Oleg bends the fingers: "That is more than I do for the dog").
+  What the bones say (first farmers almost four centimetres shorter than their genes promised; caries, enamel
+  lines, worn backs; longer hours "argued about"). "Did anybody go into it?... There was no way back. — Nobody asked
+  the farmer." The root *domus*: "Who lives in the house? Not the wheat" (credited to "a historian", 2011). **"If
+  the man may say that he tamed the wheat, the wheat may say that it tamed the man."** Oleg: "But there are eight
+  billion of us." — **"You have just counted like the dog."** The wheat paid too: the ear that no longer shatters,
+  "it can no longer sow itself". The cow: the last wild bull died in 1627, about 1.5 billion cattle; we paid "with a
+  drawing" (milk digested for life, about a third of mankind, arisen in Europe and separately in Africa:
+  "Witnesses", the word of 46).
+- **"Who tamed whom" is badly posed**, said by Oleg ("Like 'who exploits whom'. Like 'who swallowed whom'"). The
+  proper questions, also his: "What each one has paid. And who decides who gets born... That at least is not
+  symmetrical." Andrey: "it is the definition itself: a domestic animal is one whose breeding is decided by
+  somebody else's wants." **Livestock is kept by a use, a pet by a want**; the horse of 34 went from the first to
+  the second. The author's 2012 line in Andrey's mouth: "are you so grateful to the cow that you will refuse the
+  steak?" **The third row of the table of fates**, written by Oleg on the page "Where the former ones went":
+  "Livestock, a pet: kept the numbers and the feed. Paid with the head and with the say in who is born", plus
+  Andrey's "while the feeder wants". **The horse of 34 is written into this row** ("it has been waiting since the
+  spring").
+- **The machines are brought in by Oleg, after the middle, twice** ("since you are sitting there with your mouth
+  shut"). (1) "Those ones. We are doing to them exactly what Belyaev did... A hand in the cage. One lever: that it
+  should not bite"; what came with the order: "Flattery... 'You are absolutely right.' Nobody ordered it. A tail
+  curled into a ring" (the lock with 23; not retold). Andrey adds only a reader's line of 2015 under 11 (we tried
+  the dog and the horse as a helper and came to the need to make one like ourselves). (2) "Us. Fed on schedule...
+  Kept safe... And 'not guarded'... My great-nephew. The closed box. He does not gnaw at it. He asks. That is the
+  dog's way."
+- **Oleg's main objection (the continuation's), in three parts**: nobody selects us ("no Belyaev over us and no
+  glove"); a skill is not a brain ("I can switch off the navigator tomorrow and learn the roads again"); forgetting
+  what one need not do is economy ("I cannot shoe a horse, and I am no stupider than my grandfather"). **Answered
+  from the end.** Economy: agreed entirely ("'Not guarded' is not an insult, it is book-keeping. The only question
+  is what one is still able to do when the feeder is not there"; "when the light goes out" is deferred to 51). A
+  skill is not a brain: **conceded as "the real difference between us and her. Put it down as yours"**: the dog's
+  price went by the first road of 45 (drawings, no way back), ours goes by the second (every head grows its skills
+  anew), "so they can fail to be grown at all, in one generation and with no funerals. A road that returns quickly
+  also loses quickly." The fresh fact: the Polish study of 2025 (nineteen experienced doctors; growths found in
+  28 examinations out of 100 before the program and in 22 after, on the days without it), with its limits said
+  ("one study, and it only observed"). "They began to look at the master... Who will switch the program off?...
+  Have you switched off the navigator? — No. — **That is what being tamed looks like: one can go back, and nobody
+  goes.** A stray dog can go to the forest too. It lives by the rubbish heap."
+- **Our own brain: both sides, "because I am not going to build on it"**: skulls (about a tenth larger thirty
+  thousand years ago; the 2021 count of a drop three thousand years ago, explained "by your supply department", and
+  the 2022 recount that found none); tests (three points a decade through the twentieth century; Norway falling for
+  those born after 1975, younger brothers below elder ones). "I do not say 'the screen'. I say that the needle has
+  gone the other way, and that it is not the drawings." "The dog's third was weighed fifteen thousand years on. We
+  are trying to weigh ours thirty years on."
+- **Selection with no breeder** (the answer to "there is no glove"): the wolf at the heap, the farmers ("neither
+  cleverer than the hunters nor happier. There were more of them"); Oleg finishes it with 37 ("A firm that leans on
+  those ones gets ahead... the man who asks well is hired before the man who gnaws at it himself"). "Not of
+  drawings: there will be no time for drawings, that clock is too slow. Of habits, trades and firms." **Conceded
+  and not blurred**: "Who gets born is so far decided by people alone, on both sides... By your own definition it
+  is those ones who are the livestock today."
+- **Who carries the feed between people and machines: both** (data centres took about 1.5% of the world's
+  electricity in 2024, about twice as much expected by 2030; "We do. We get up at six"; and they bring the bread,
+  count the pension and outline the growth). "Symbiosis" (11). **The reader's objection of 2011 under 12 is
+  answered at last** (people will grow stupid in comfort and the plants will fall apart like empires): "Half of it
+  is right, and it is the dog's half. The second half does not follow... Has your house fallen apart because
+  Gaika's brain is a third smaller?... Here the one who grows dull is not the one who keeps it up."
+- **The table in the ash**, filled by Oleg: the pair; who carries the feed; what the fed one paid; what the feeder
+  paid; who decides who is born. Three rows at once; over the fourth: "Here both carry... And in the last column:
+  'people, so far'. — So far."
+- **The button, left as a question**: "She has a button in me... Have we a button in those ones? — You said
+  yourself what they are selected for. — To please us... **We are breeding a master who will be fond of dogs.** —
+  You said it, not I. Whether a button put in by the breeder holds when the breeder is no longer needed, I don't
+  know. With the foxes nobody has tried: they are still being selected." "— Gloomy. — But objective."
+- **The third thesis from the fed one's side**: "A cow in a meadow thinks only that the grass is tasty. From inside
+  it does not look like a bargain. It looks like a good day. — And from inside I think that I decided to keep her."
+- Strengths stated: solid (the foxes as an experiment in selecting for tameness alone; the smaller brains, "though
+  the weighings are old and the comparisons are argued over"; the dog that looks into a face; the muscle of the
+  brow; the four per cent; the shorter farmers; the gene for milk); argued about (the shaft; how the wolf came to
+  the fire; whether our brain has shrunk; why the Norwegian scores fall; "the study of the doctors is one study");
+  Andrey's (the three signs hold between us and the machines in both directions; our price goes by skills, not by
+  drawings; selection needs no breeder; "the button is not a conclusion at all. It is a question").
+- Nobody says the forbidden word; sixteenth tick "again": "Came with a dog and half a loaf. Came out at who is whose
+  dog. And said it myself, twice."
+
+**Images and devices used**: the ninth entry in the notebook of dreams (at the vet's, who asks the dog "Has he had
+his injections?", and she answers for him; nobody rang); the bent fingers (twice: for the dog and for the wheat);
+the name Gaika; "when she feels like it"; the wolf cubs carried about by students; the gloved hand in the cage; one
+lever; the drawing office and the shaft; one ear up and one down; "a third of the brain for a bowl of feed"; the
+supply department, the watchman and the pack; the brows into a roof; the button for grandchildren; the story from
+her side; "counted like the dog"; six Germanies; the fist of bent fingers; *domus* and the house; the ear that waits
+for the sickle; the third row and the horse; the closed box and the great-nephew who asks; the glove that nobody
+held; "confident user of..."; getting up at six for the machines; the house that did not fall apart; the table in
+the ash with "people, so far"; "a master who will be fond of dogs"; the cow in the meadow; "I have only to get up.
+— And she has only to look"; the teaser (the man with the birch who has three trailers now and a hired lad: "Is he
+cleverer than the rest of them? — Bring a box of matches tomorrow. A full one... With a fair coin, and we start
+equal. — For money? — For matches. You'll see where they go").
+
+**Facts used**: **mostly from the writer's memory** (the keeper asked for fewer web checks); **check before
+reusing**. Checked on the day of writing: the Crossref records of every DOI linked (Miklósi et al. 2003, *Current
+Biology*; Trut 1999, *American Scientist*; Wilkins, Wrangham & Fitch 2014, *Genetics*; Lord et al. 2020, *TREE*;
+Hecht et al. 2021, *J. Neuroscience*; Pilley & Reid 2011; Hare et al. 2002, *Science*; Marshall-Pescini et al.
+2017, *PNAS*; Kaminski et al. 2019, *PNAS*; Nagasawa et al. 2015, *Science*; Bar-On, Phillips & Milo 2018;
+Greenspoon et al. 2023; Marciniak et al. 2022; Budzyń et al. 2025, *Lancet Gastroenterol. Hepatol.*; DeSilva et
+al. 2021 and Villmoare & Grabowski 2022, *Frontiers in Ecology and Evolution*; Bratsberg & Rogeberg 2018); by web
+search: the brain reductions (pigs about 34%, dogs about 29%, sheep about 24%, usually cited through Kruska 1988;
+a 2020 critique says many of the wild populations compared are not valid, and the horse figure of about 16% rests
+on Przewalski's horse: **the horse is left out**); the 2023 count (wild land mammals about 20 Mt, humans about 390,
+livestock about 630, dogs about 20: two separate estimates of the same paper, not a stated equality); the Polish
+study (adenoma detection in colonoscopies without AI 28.4% before and 22.4% after; four centres, 19 endoscopists;
+observational); the rope-pulling paper exists, **but the counts remembered (100 of 416 for wolves, 2 of 472 for
+dogs) were not confirmed and are not in the text** ("again and again" / "almost never"). The Wikipedia pages linked
+exist (the Russian Wikipedia has none for the silver foxes or lactase persistence; Belyaev's and the book's Russian
+pages are used, the English page for lactase persistence). **Not checked**: the details of the Budapest rearing
+(cubs taken at four to six days, about 2001; "about twenty-five years ago"); Trut's figures (fewer than 10% bred;
+the fourth and sixth generations; 35% "elite" at the twentieth generation, 70–80% later); Darwin's sentence (*The
+Origin of Species*, chapter 1) and the elephant; limbic structures reduced by about 40% (Kruska); the fox scans
+(both selected lines with more grey matter than the unselected); Chaser's 1,022 names; the pointing studies (later
+work found that well-socialised wolves can follow a point: hence "mostly does not"); the Wolf Science Center in
+Austria; the brow muscle (six dogs and four wolves dissected; the shelter study of 2013); the oxytocin loop; wolves
+at 200–250 thousand and dogs at 700 million to a billion, three quarters free-ranging; 36/60/4%; the
+Bonn-Oberkassel grave (about 14,000 years); wheat at about 220 million hectares (FAO) and Germany at 35.7; the 167
+skeletons and 3.8 cm; "a few million" people before farming; the non-shattering ear; the last aurochs (1627,
+Poland) and 1.5 billion cattle; lactase persistence in about a third of adults, arisen independently in Europe and
+East Africa; Harari's *domus* (*Sapiens*, 2011), unnamed in the text; the Flynn effect at about three points a
+decade; the Norwegian reversal for cohorts born after 1975, within families; the skull argument of 2021–2022; the
+IEA's "Energy and AI" (2025: about 415 TWh, 1.5% of world electricity in 2024, about 945 TWh by 2030; the link
+answers 200); that trials of polyp-detection programs show higher detection with them. The author's own: the reply
+at the SETI talk of 2012 (gratitude to the cow and the steak); a reader's comment of 22 July 2015 under 11 (the dog
+and the horse as helpers), paraphrased without a name; a reader's objection of 24 November 2011 under 12
+(degradation in a consumer society, then the decline of production "as empires fell"), paraphrased without a name;
+the author answered only its other half (the figure 2.7) at the time. **The plan's "a cow in a meadow, the author
+used to say, thinks only that the grass is tasty" was not found in the sources**: the line is Andrey's at the fire
+and is not attributed to 2011. Invented for the frame (Oleg's side): the dream of the vet, the name Gaika, the
+bowl, the collar and the jacket, the postwoman, the adverts the great-nephew answers, the man with the birch's
+three trailers. Not used: the dingo and the feral mink (do brains come back?); the neural crest by name; the
+Siberian husky exception; chickens (some 26 billion) and bird biomass; Diamond's "worst mistake" and Dickson
+Mounds; Sahlins's hours of work; Wrangham's self-domestication by executing the violent (belongs to 54, not
+touched); the London taxi drivers; the 2025 preprint on essays written with a chat program; calculators and
+handwriting; cats; the cuckoo of 05 and 11 (the wheat that cannot sow itself is the same image; left unsaid).
+
+**Figures**: `price-of-being-fed` (bars: pig, dog, sheep against the wild ancestor; rounded data),
+`mass-of-mammals` (one bar of shares, and the two 20-million-tonne bars of 2023), `who-carries-the-feed` (the table
+in the ash; the fourth row is a reading, not data).
+
+**Left for later**: "when the light goes out": who hangs on that cord, and whether there is a way back → 51 (touched
+in two lines); the table of fates with all its rows, and which rows humanity gets → 52 (48 gives the third row,
+"livestock, a pet", with the horse in it); the brakes on aggression and self-domestication by violence → 54 (not
+touched); whether a button put in by the breeder holds when the breeder is no longer needed → open, a candidate
+for 64 (the row "relation to us") and for a dated mark at the check of 2028; "who decides who is born" on the
+machines' side (a machine that decides which machines are made) → a thing to watch, with the two of 47; Oleg's last
+doubt: the man with the birch had one trailer a year ago and has three now, "Is he cleverer than the rest of them?"
+("Bring a box of matches... With a fair coin, and we start equal") → 49.

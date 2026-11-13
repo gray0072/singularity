@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="372" viewBox="0 0 760 372" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>The mammals of the Earth, by weight</title>
+
+<rect x="0.5" y="0.5" width="759" height="371" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">The mammals of the Earth, by weight</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Shares of the total mass of all the mammals on the planet.</text>
+<rect x="40.0" y="122.0" width="406.0" height="44.0" rx="3" fill="#2a78d6"/>
+<text x="244.0" y="98.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">livestock</text>
+<text x="244.0" y="115.0" font-size="12" fill="#2a78d6" text-anchor="middle" font-weight="600">about 60%</text>
+<rect x="448.0" y="122.0" width="242.8" height="44.0" rx="3" fill="#1baf7a"/>
+<text x="570.4" y="98.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">people</text>
+<text x="570.4" y="115.0" font-size="12" fill="#1baf7a" text-anchor="middle" font-weight="600">about 36%</text>
+<rect x="692.8" y="122.0" width="25.2" height="44.0" rx="3" fill="#eb6834"/>
+<line x1="706.4" y1="166.0" x2="706.4" y2="180.0" stroke="#eb6834" stroke-width="1.5" stroke-linecap="round"/>
+<text x="720.0" y="196.0" font-size="14" fill="#eb6834" text-anchor="end" font-weight="600">all wild mammals: about 4%</text>
+<line x1="28.0" y1="220.0" x2="732.0" y2="220.0" stroke="#e9e8e4" stroke-width="1.5" stroke-linecap="round"/>
+<text x="40.0" y="244.0" font-size="12.5" fill="#52514e" font-weight="600">The count of 2023, million tonnes:</text>
+<text x="292.0" y="272.0" font-size="13" fill="#0b0b0b" text-anchor="end">all the wild mammals of the land</text>
+<rect x="304.0" y="258.0" width="150.0" height="20.0" rx="3" fill="#eb6834"/>
+<text x="464.0" y="272.0" font-size="13" fill="#eb6834" font-weight="600">about 20</text>
+<text x="292.0" y="300.0" font-size="13" fill="#0b0b0b" text-anchor="end">dogs alone</text>
+<rect x="304.0" y="286.0" width="150.0" height="20.0" rx="3" fill="#2a78d6"/>
+<text x="464.0" y="300.0" font-size="13" fill="#2a78d6" font-weight="600">about 20</text>
+<text x="28.0" y="340.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Shares: Bar-On, Phillips &amp; Milo (2018), by carbon. The second count: Greenspoon and others (2023),</tspan><tspan x="28.0" dy="14.4">wet weight; it puts people at about 390 million tonnes and livestock at about 630.</tspan></text>
+</svg>

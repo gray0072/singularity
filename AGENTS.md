@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–47 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `48`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–48 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `49`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–47.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–48.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -321,6 +321,14 @@ articles as closely as possible. In practice:
 | мера (объективно обусловленные оценки) | the measure (objectively determined valuations) | the third thing in a banknote, after the record and the need: how much of everything else must be given up; Kantorovich's numbers fall out of the task with no bazaar (shadow prices); "the price is the task, the bazaar is the way" (47) |
 | учёт в натуре | an account in kind | what stands in the place of value inside the heir: joules, seconds of machine time, "not value, valuations"; the precedent is the blood's teaspoon of sugar; Andrey's conclusion, which pays the debt of 06 (47) |
 | хлорофилл (деньги как внутрисистемный хлорофилл) | chlorophyll (money as the chlorophyll of one system) | the author's 2017 image: a thing one system feeds by, of value inside that system alone; "we do without chlorophyll", and the machines get their resources "past the till" (47) |
+| одомашнивание | domestication | a symbiosis in which one partner pays for being fed with its head; the signs are food on schedule, safety and selection for tameness; defined by who decides who is born: "a domestic animal is one whose breeding is decided by somebody else's wants" (48) |
+| отбор на покладистость (один рычаг) | selection for tameness (one lever) | Belyaev's foxes: one test, a gloved hand in the cage; tameness came in twenty generations and not alone ("Nobody ordered ears. — They came with the order"); turned on machines, the same lever brought flattery, "a tail curled into a ring" (23, 48) |
+| ум переехал в один ареал («понимать хозяина») | the mind moved into one domain ("to understand the master") | the answer to "a small brain is not a stupid one": the dog reads a pointing finger and a face, and has lost the closed box and the work with its own kind; the wolf's way is to gnaw at it himself, the dog's is to ask (48) |
+| кто встал и пошёл за хлебом | who got up and went for the bread | the symmetry test of domestication: count what each side does for the other; told from the dog's side it is "the same story, word for word"; between people and machines today both carry the feed (48) |
+| кнопка (брови) | the button (the brows) | the muscle that lifts a dog's inner brow, and the gaze that raises the mother-and-baby hormone in both: a want of the feeder that the fed one presses; it makes a pet out of livestock; whether people have one in the machines is "not a conclusion, a question" (48) |
+| скот и любимец | livestock and a pet | the third row of the table of fates: "kept the numbers and the feed, paid with the head and with the say in who is born", "while the feeder wants"; livestock is kept by a use, a pet by a want (the horse of 34 went from the first to the second) (48) |
+| отбор без селекционера | selection with no breeder | nobody held a glove over the wolf at the heap of bones or over the first farmer: whoever fits the partner better leaves more behind; between people and machines it selects habits, trades and firms, not drawings (48) |
+| навыки, которые не выращивают | skills that are no longer grown | people's price of being fed: it goes by the second road of heredity (45), so it is lost in one generation "with no funerals" and can be undone by one person; "one can go back, and nobody goes" (48) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
