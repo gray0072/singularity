@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–48 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `49`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–49 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `50`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–48.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–49.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -329,6 +329,16 @@ articles as closely as possible. In practice:
 | скот и любимец | livestock and a pet | the third row of the table of fates: "kept the numbers and the feed, paid with the head and with the say in who is born", "while the feeder wants"; livestock is kept by a use, a pet by a want (the horse of 34 went from the first to the second) (48) |
 | отбор без селекционера | selection with no breeder | nobody held a glove over the wolf at the heap of bones or over the first farmer: whoever fits the partner better leaves more behind; between people and machines it selects habits, trades and firms, not drawings (48) |
 | навыки, которые не выращивают | skills that are no longer grown | people's price of being fed: it goes by the second road of heredity (45), so it is lost in one generation "with no funerals" and can be undone by one person; "one can go back, and nobody goes" (48) |
+| модель барахолки | yard-sale model | the game of 49: two players, a fair coin, the stake a fifth of what the poorer one has; the physicists' model (2002) in which everything ends with one player, proved as a theorem in 2015; "in this game everyone has the same matches" |
+| ставки в долях (выигрыши перемножаются) | stakes in shares (wins and losses multiply) | lose a fifth, win a fifth, and 96% is left; "for the one who stakes a large share of himself a fair coin pulls downwards"; a stake of one match "makes rich and poor, and stops", a stake in shares does not stop (49) |
+| среднее верное, но никто не средний | the average is right, but nobody is the average | the answer to "on average I lose nothing": of a thousand Olegs a few grow enormously rich and the rest hold crumbs, a hundred matches each on average (49) |
+| горка и хвост | the hill and the tail | what a man is made of (height, strength, wits) lies as a hill with nobody far from the middle; fortunes, cities, words and references lie as a long tail; multiplication turns the one into the other: "talent decides who, not what the table looks like" (49) |
+| гнутая монета | bent coin | the real coin: the heavier heap gets the wholesale price, the cheaper loan and the higher return; "a little is enough: the fair one already does the work" (49) |
+| сбор в общий котёл (поток обратно) | levy into a common pot (a flow back) | the one correction that stops the game: after every round each player puts a small share of the heap into a pot divided equally; "a round is not a year: read the order of things, not the rate" (49) |
+| тормоз под тормозами | the brake under the brakes | the need for people: what stood under the tax, under the plague and under the mass war; "the tax is the form, the need for people is the force"; the brake goes together with the need (49) |
+| кучка может уехать | the heap can leave | the author's 2012 argument on tax competition: "a man can be taxed where he lives; a heap lives where it pays less" (49) |
+| кучки без наследников и похорон | heaps with neither heirs nor funerals | firms: death divides a man's fortune among heirs, a firm is only swallowed, and "swallowed" is the loser's matches going to the winner; the game among them has one brake fewer (40, 44, 49) |
+| сбор натурой | a levy in kind | among the lines of machines: knowledge leaks from the big heap into the small ones by copying (45) and nobody votes for it, while chips do not leak; one of three brakes on their running into one (49) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

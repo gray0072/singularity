@@ -411,4 +411,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [03](./03-mind-and-intelligence.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [19](./19-struggle-of-images.md), [23](./23-machine-for-making-people-good.md), [34](./34-where-the-horses-went.md), [37](./37-who-exploits-whom.md), [41](./41-cheesecake-for-the-ears.md), [42](./42-swallowed-bacterium.md), [45](./45-lamarck-was-right.md).
 
-[← 47](./47-money-as-memory.md) · [Оглавление](./README.md)
+[← 47](./47-money-as-memory.md) · [Оглавление](./README.md) · [49 →](./49-yard-sale.md)

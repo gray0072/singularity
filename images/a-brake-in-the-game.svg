@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>A brake in the game</title>
+
+<rect x="0.5" y="0.5" width="759" height="439" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">A brake in the game</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">The same table. After every round each player puts a small share of the heap into a pot, divided equally.</text>
+<text x="200.0" y="100.0" font-size="12" fill="#eb6834" font-weight="600">the richest tenth holds</text>
+<text x="640.0" y="100.0" font-size="12" fill="#2a78d6" text-anchor="end" font-weight="600">the poorer half holds</text>
+<text x="40.0" y="129.0" font-size="13.5" fill="#0b0b0b" font-weight="600">no levy</text>
+<rect x="200.0" y="112.0" width="440.0" height="24.0" rx="3" fill="#e9e8e4"/>
+<rect x="200.0" y="112.0" width="440.0" height="24.0" rx="3" fill="#eb6834"/>
+<text x="208.0" y="129.0" font-size="12.5" fill="#0b0b0b" font-weight="600">100%</text>
+<text x="650.0" y="129.0" font-size="12.5" fill="#2a78d6" font-weight="600">0%</text>
+<text x="40.0" y="171.0" font-size="13.5" fill="#0b0b0b" font-weight="600">1 match in 2,000</text>
+<rect x="200.0" y="154.0" width="440.0" height="24.0" rx="3" fill="#e9e8e4"/>
+<rect x="200.0" y="154.0" width="356.4" height="24.0" rx="3" fill="#eb6834"/>
+<rect x="632.1" y="154.0" width="7.9" height="24.0" rx="3" fill="#2a78d6"/>
+<text x="208.0" y="171.0" font-size="12.5" fill="#0b0b0b" font-weight="600">81%</text>
+<text x="650.0" y="171.0" font-size="12.5" fill="#2a78d6" font-weight="600">1.8%</text>
+<text x="40.0" y="213.0" font-size="13.5" fill="#0b0b0b" font-weight="600">1 match in 1,000</text>
+<rect x="200.0" y="196.0" width="440.0" height="24.0" rx="3" fill="#e9e8e4"/>
+<rect x="200.0" y="196.0" width="303.6" height="24.0" rx="3" fill="#eb6834"/>
+<rect x="625.0" y="196.0" width="15.0" height="24.0" rx="3" fill="#2a78d6"/>
+<text x="208.0" y="213.0" font-size="12.5" fill="#0b0b0b" font-weight="600">69%</text>
+<text x="650.0" y="213.0" font-size="12.5" fill="#2a78d6" font-weight="600">3.4%</text>
+<text x="40.0" y="255.0" font-size="13.5" fill="#0b0b0b" font-weight="600">1 match in 200</text>
+<rect x="200.0" y="238.0" width="440.0" height="24.0" rx="3" fill="#e9e8e4"/>
+<rect x="200.0" y="238.0" width="184.8" height="24.0" rx="3" fill="#eb6834"/>
+<rect x="587.2" y="238.0" width="52.8" height="24.0" rx="3" fill="#2a78d6"/>
+<text x="208.0" y="255.0" font-size="12.5" fill="#0b0b0b" font-weight="600">42%</text>
+<text x="650.0" y="255.0" font-size="12.5" fill="#2a78d6" font-weight="600">12%</text>
+<text x="40.0" y="297.0" font-size="13.5" fill="#0b0b0b" font-weight="600">1 match in 100</text>
+<rect x="200.0" y="280.0" width="440.0" height="24.0" rx="3" fill="#e9e8e4"/>
+<rect x="200.0" y="280.0" width="145.2" height="24.0" rx="3" fill="#eb6834"/>
+<rect x="565.2" y="280.0" width="74.8" height="24.0" rx="3" fill="#2a78d6"/>
+<text x="208.0" y="297.0" font-size="12.5" fill="#0b0b0b" font-weight="600">33%</text>
+<text x="650.0" y="297.0" font-size="12.5" fill="#2a78d6" font-weight="600">17%</text>
+<line x1="28.0" y1="325.0" x2="732.0" y2="325.0" stroke="#e9e8e4" stroke-width="1.5" stroke-linecap="round"/>
+<text x="40.0" y="355.0" font-size="13.5" fill="#0b0b0b" font-weight="600" font-style="italic">the world, 2021</text>
+<rect x="200.0" y="338.0" width="440.0" height="24.0" rx="3" fill="#e9e8e4"/>
+<rect x="200.0" y="338.0" width="334.4" height="24.0" rx="3" fill="#eb6834" fill-opacity="0.55"/>
+<rect x="631.2" y="338.0" width="8.8" height="24.0" rx="3" fill="#2a78d6" fill-opacity="0.55"/>
+<text x="208.0" y="355.0" font-size="12.5" fill="#0b0b0b" font-weight="600">76%</text>
+<text x="650.0" y="355.0" font-size="12.5" fill="#2a78d6" font-weight="600">2%</text>
+<text x="28.0" y="404.0" font-size="11" fill="#8a8985"><tspan x="28.0" dy="0.0">Rows 1–5: tools/yard_sale.py, seed 49, where the game settles (rounds 3,000–6,000; with no levy it does not settle).</tspan><tspan x="28.0" dy="13.8">A round is not a year: read the order of the rows, not the rates. The last row: shares of household wealth,</tspan><tspan x="28.0" dy="13.8">World Inequality Report 2022.</tspan></text>
+</svg>

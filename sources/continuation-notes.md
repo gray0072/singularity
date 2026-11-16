@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 16).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 17).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,8 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48 nobody said it. From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
+  In 48 and 49 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  nothing left to light the fire with"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
@@ -2718,3 +2719,185 @@ for 64 (the row "relation to us") and for a dated mark at the check of 2028; "wh
 machines' side (a machine that decides which machines are made) → a thing to watch, with the two of 47; Oleg's last
 doubt: the man with the birch had one trailer a year ago and has three now, "Is he cleverer than the rest of them?"
 ("Bring a box of matches... With a fair coin, and we start equal") → 49.
+
+## 49. The Yard Sale, or Why Money Goes to Money
+
+**Established**
+- The answer to the teaser of 48 ("Is he cleverer than the rest of them? — Bring a box of matches... With a fair coin,
+  and we start equal"). Oleg brings a full box (43 matches, two with no heads; three go into the fire, twenty each).
+  **The game for two is really played** (`tools/yard_sale.py hand`, seed 49, not picked): Oleg's coin, heads Oleg
+  wins; the stake is a fifth of the poorer heap, rounded down, at least one match. Oleg's forecast, written in the
+  notebook: "Around twenty". The course: 29:11 after three heads; 15 at the 15th toss; 39:1 at the 66th ("Shall we
+  call it a day? — Toss"); Oleg down to 5 at the 131st; Oleg takes the last match at the 227th. He won 118 tosses
+  and Andrey 109: "Nine tosses out of two hundred and twenty-seven, and the whole box." "We went past twenty four
+  times and did not stop there once." The plan's epigraph is played: "So I am the clever one after all. — In this
+  game everyone has the same matches." The lock with 37: "Who has won depends on when the books are closed" (at the
+  131st toss Andrey would be the rich one).
+- Why the stake is a share of the poorer heap: "Can you lose more than you have?... So the smaller pocket sets the
+  size of the game." The yard sale: old things sold in a yard, in every deal somebody overpays a little, "the
+  mistake is a share of the price, and the price is no more than the poorer of the two can pay".
+- The coin and 17, in two lines: "For nature there is none [chance]. For the two of us there is: neither knows how
+  it will fall."
+- **Oleg's first objection, conceded**: "Any game played to the last match ends with somebody holding the box."
+  "For two players, yes... I shan't defend the game for two: it shows only that 'around twenty' is not where a fair
+  coin leads. The difference is seen at a large table."
+- **The arithmetic** (the plan's 96%): a hundred matches against a thousand; lose a fifth (80), win a fifth of 80
+  (96); in the other order 120 and 96 again; "One win, one loss. Where are four matches? — With me." The same twenty
+  matches are a fifth to one and a fiftieth to the other. Oleg's own example: a price that falls by half and rises by
+  half is at three quarters. **"Wins and losses counted in shares do not add up, they multiply... For the one who
+  stakes a large share of himself a fair coin pulls downwards."**
+- **Oleg's second objection ("on average I lose nothing")**: "the average of whom?" A thousand Olegs at a thousand
+  tables: a few enormously rich, nearly all the rest with crumbs, a hundred each on average. **"The average is
+  right. It is only that nobody at the table is the average."**
+- **The large table, really played** (`tools/yard_sale.py`, a thousand players, a hundred matches each, a round is
+  one game per player on average). By Oleg's rule (one match a toss; a player with none loses nothing and can still
+  win): the richest hundred hold 16% after 1,000 rounds and 30% after 40,000, "and had all but stopped" (the 2000
+  result: about a third for the top hundred, about a seventh for the lower half). **"So a coin by itself makes rich
+  and poor. — Makes them, and stops."** By Andrey's rule: 46% and 6% after 100 rounds, 60% and 1.5% after 200 (the
+  man in the middle has 14 of his hundred), 94% after 1,000 (the man in the middle has under a hundredth of a
+  match), everything with the top hundred after 5,000, "ten of them held nearly three quarters". "And at the end? —
+  One" (the 2015 theorem). "Nobody is thrown out, mind. The last of the poor still has his fifth to stake. It is a
+  fifth of nothing." The lock with 34, Oleg's: "A place at the table can always be found. It is only that the stake
+  is below the feed."
+- **The man with the birch**: "Not by three trailers. But don't you make a coin out of him either" (up at five, does
+  not drink, took the loan). Conceded. **The hill and the tail**: height (one and a half times), strength (twice,
+  three times "if you take Semyonych when he was young"), wits ("Three times. Five. Not a hundred"); fortunes:
+  about four thousand dollars a head for the poorer half against some hundreds of billions: "A hundred million times
+  more. Nobody gets up a hundred million times earlier." What turns a hill into a tail: "Multiplication" (Oleg). The
+  Italian model of 2018 (talent as a hill, luck doubling and bad luck halving): the richest "were people from the
+  middle of the hill who had been lucky". **"So talent decides nothing? — It decides who... It does not decide what
+  the table will look like."** Oleg answers his own notebook question: "some are. The curve does not care."
+- **The bent coin, "against myself"**: the forestry's retail and wholesale prices, the cheaper loan, bearings by the
+  wagon; the Norwegian tax records (the richer the household, the more each krone brought in). "A little is enough:
+  the fair one already does the work."
+- **The same family elsewhere**: Pareto in the 1890s ("an engineer, by the way"; a fifth of the Italians and four
+  fifths of the land; "the names on the rolls changed, and the curve did not"); cities by size (New York 8.8 million,
+  Los Angeles 3.9, Chicago 2.7, Houston 2.3: the promise of 40, kept); words; references to papers (the 1968 name
+  "after a line from a gospel: to him who has, more will be given", named once, no religion argued). Oleg: "They grow
+  out of themselves", and at the fifth finger the lock with 19 (an image that is used grows heavier). "The formulas
+  differ, and the exact slope is argued about. The family is one." **"Then it is not about money at all. — It is
+  about multiplication. Money is one of the things that multiply."**
+- **The question turned round** (the plan's): the world of 2021 (the poorer half 2%, the richest tenth 76%) lies
+  "somewhere between the two-hundredth round and the four-hundredth". "The game has been going on for some thousands
+  of years. Why is it not over? Why does one man not hold the box?"
+- **Oleg's main objection (the plan's)**: taxes, school, pension, hospital; and after the levy is shown, "Your own
+  model. And the correction in it is not a law of nature. It is policy... Nobody needs your gloom." The levy, really
+  played: one match in 2,000 a round stops the game at 81% and under 2%; one in 1,000 at 69% and 3.5%; one in 100 at
+  33% and 17%. "Do not read it as a tax rate: a round is not a year. Read the order of things." The model with three
+  corrections repeats American wealth over three decades "to within a fraction of a per cent". **Half accepted at
+  once**: "The brake exists, people put it there, and it worked" (France and Britain: the richest hundredth held
+  more than half on the eve of 1914 and about a fifth by the 1970s; the American top rate 7% in 1913, 94% in 1944,
+  91% at the start of the sixties).
+- **The other half: who pressed the brake, and when.** The historian's four levellers (a great war, a revolution, the
+  collapse of a state, a plague); in quiet years the gap "grew or stood still"; the levellers "levelled downwards".
+  **The author's thesis of 14 is tied to it** ("fights for justice make the rich poorer and do not make the poor
+  richer... He wrote the same with tables, and more carefully than I did"). Oleg: "That is not a brake, that is a
+  wall." **Under the list**: the plague (wages about doubled in England; the law of 1351 "did not hold": "You cannot
+  give orders to the only man left") and the mass war ("You cannot take a man's son and leave his neighbour's
+  millions alone"; the count of twenty countries over two centuries). Oleg: "Hands... When everybody is needed,
+  everybody gets something." **"That is the brake under the brakes... The tax is the form. The need for people is
+  the force"** (the lock with 47: money is a record that somebody needed you).
+- **The machines are named by Oleg, after the middle**: "Stop. I can see where this log is rolling. Those ones. If
+  hands are not needed, and heads not much either... — I did not say it. — You sat and waited for me to say it. Then
+  the brake has nothing to hold on to."
+- **The author's two holes of 2012** (the argument under the SETI talk): the sum of a thousand men, 999 out of work,
+  and the lock with 25 ("the levy holds while the voter has in his hands something the technosphere needs"); Oleg's
+  "one man, one vote" is answered with the second hole, **"the heap can leave"** (the author's example: ninety per
+  cent everywhere, one country cuts to forty-five, the capital of ten runs to it, it collects five times more, the
+  nine others lower their rates and benefits). Fresh evidence: the average rate on company profits 40% in 1980 and
+  23.5% in 2024; the floor of fifteen agreed in 2021 by about 140 countries. "A man can be taxed where he lives. A
+  heap lives where it pays less."
+- **Oleg's third brake, death and heirs** ("The merchant earns, the son keeps, the grandson drinks it away"):
+  accepted ("I ought to have named it myself"), the lock with 44. It works on a man; a firm does not die of age, it
+  is swallowed (40), and "swallowed" in the game is the loser's matches going to the winner: **"the heaps that have
+  neither heirs nor funerals play the same game among themselves. Without that brake."**
+- **The author's debt of 09 is paid** (a reader: some will profit by the machines and the rest will starve; the
+  author answered only "everybody is doomed"): "that was no answer. For the first rounds he was right... But then
+  the some sit down with one another at the same table. The game does not end when the poor have dropped out of
+  it." Who holds the box at the end: "Not necessarily a man" (the player of 37 that never gives back; "every real
+  game leaves something on the table itself"); deferred to "Who owns the tractor" (55).
+- **The promise of 43 and 47 is kept, and the answer stays "I don't know"**: among the machines everything
+  multiplies (users, learning, chips; "Stakes in shares. And a bent coin"), so "the slope is known: towards one".
+  The brakes, counted by Oleg: owners who are different people; several states; copying (the distillation of 45).
+  Andrey: "That is a levy in kind: knowledge leaks from the big heap into the small ones, and nobody votes for it.
+  Chips do not leak. Which is the stronger I don't know... without a brake, into one. And the first two brakes are
+  made of people." Whether one is good: "A separate evening" (62).
+- No villain and no genius in the game. The reader's objection under 14 (the beggar and the neighbour with three
+  rams) is answered: "About the feeling he was right. It is not the gap that has changed. It is what holds it."
+  "— Gloomy. — But objective."
+- Strengths stated: solid (the arithmetic, "it is a theorem"; the two games on the computer; the long tails "as
+  things measured"; the narrowing between 1914 and the seventies and its return); argued about (how much of a
+  fortune is luck; whether three corrections that fit a curve explain it; whether only catastrophes level, "the
+  historian is reproached with the quiet decades after the war"; the size of the narrowing and the return);
+  Andrey's (the need for people under the brakes; the brake goes with the need; the machines' lines are on the same
+  slope; "who holds the box at the end is not a conclusion").
+- Nobody says the forbidden word; seventeenth tick "again": "Came with a box of matches. Won the box. Came out at
+  those ones, and said it myself." Oleg crosses out the notebook line "Why money goes to money" (written in 34).
+
+**Images and devices used**: the tenth entry in the notebook of dreams (payday at the plant, wages paid in matches
+out of one box, one match short; nobody rang; "Ten dreams and not one call. Your firewood is safe so far"); the box
+shaken at the ear; three matches into the fire; the five-rouble coin; "The coin knows its master"; the single match
+held up; the strokes in the notebook; "Around twenty" crossed out; the two rows in the ash; a thousand Olegs with
+crumbs; the man in the middle of the table; "a fifth of nothing"; the hill and the tail; "Nobody gets up a hundred
+million times earlier"; the forestry's two prices and bearings by the wagon; the bent fingers (twice); the common
+pot; the screw; "not a brake, a wall"; "the only man left"; the log that rolls; the heap that crosses a border in a
+second and Oleg "with the dacha, the wife and the language"; the merchant family with half the high street; the
+table that keeps something; "Honestly won. — Bring it tomorrow. I have nothing left to light the fire with"; the
+teaser ("Who thought these rules up?... — Nobody. It came out that way. — 'It came out.' And it is going to rain
+tomorrow. — What is?").
+
+**Facts used**: **mostly from the writer's memory** (the keeper asked for fewer web checks); **check before
+reusing**. Computed for the article: every figure of the two games and of the levy (`tools/yard_sale.py`, seed 49;
+the rule of the plain game, in which a player with no matches can still win, is the standard one and is stated in
+the text). Checked on the day of writing: the Crossref records of the DOIs linked (Chakraborti 2002, *Int. J. Mod.
+Phys. C*; Dragulescu & Yakovenko 2000, *Eur. Phys. J. B*; Boghosian, Johnson & Marcq 2015, *J. Stat. Phys.*;
+Pluchino, Biondo & Rapisarda 2018, *Advances in Complex Systems*; Fagereng, Guiso, Malacrino & Pistaferri 2020,
+*Econometrica*; Merton 1968, *Science*) and of four not linked (Boghosian 2014, *Phys. Rev. E*; Li, Boghosian & Li
+2019, *Physica A*; Gabaix 1999; Price 1976); the executive summary of the World Inequality Report 2022 (the poorest
+half owns 2% of wealth and USD 4,100 per adult, the richest tenth 76%; **the report's 38% is the top 1%'s share of
+the wealth added since the mid-1990s, not of the stock, and is not in the text**); Boghosian's article in
+*Scientific American* (November 2019: Chakraborti's model of 2002, the affine wealth model matching US data "to
+less than a sixth of a percent over a span of three decades", the proofs of 2015); the Tax Foundation's survey of
+2024 (40.18% in 1980, 23.51% in 2024, unweighted averages of statutory rates); the Wikipedia pages linked (the
+Russian Wikipedia has none for the yard-sale model or the Statute of Labourers: the English pages are used).
+**Not checked**: that the name "yard sale" is Brian Hayes's ("Follow the Money", *American Scientist*, 2002: "the
+name stuck the same year"); the details of the Italian model (1,000 agents, 40 years, talent normally distributed,
+capital doubled by a lucky event with a probability proportional to talent and halved by an unlucky one); the
+Norwegian data (2004–2015, returns rising with wealth); Pareto (an engineer with a railway company before
+economics; the *Cours* of 1896–97 with tax data of several countries and centuries; "a fifth owns four fifths of the
+land" is the usual attribution); the US census of 2020 (8.8, 3.9, 2.7 and 2.3 million); Zipf's rule for words; the
+shape of citation counts; the richest fortune ("some hundreds of billions" of dollars, 2025); the top 1% wealth
+shares in France and Britain (about 55–70% in 1910, about a fifth in the 1970s, after Piketty; the link is to the
+book's Wikipedia page); the US top rates (7% in 1913, 94% in 1944–45, 91% in 1954–63); Scheidel (*The Great
+Leveler*, 2017; Stanford; the four "horsemen"); the Black Death (1347–51, a third to a half of Europe; English real
+wages about doubling by the fifteenth century; the Statute of Labourers of 1351); Scheve and Stasavage (*Taxing the
+Rich*, 2016: twenty countries, two centuries, mass mobilisation), unnamed in the text; the agreement of October
+2021 (about 140 countries, a 15% minimum) and the continuing bargaining over exemptions; that knowledge passes
+between the makers of talking machines within months ("a year... six months" is Oleg's figure of speech, not a
+measurement). The author's own: the comments under the SETI talk of June–July 2012 (the 999 out of 1,000; the 90%
+and 45% example with ten countries and "five times"; "they will lower social benefits"), article 14 (the gap
+between rich and poor among the components of self-destruction; fights for justice), a reader's objection under 14
+(the beggar and the neighbour with three rams; the reader's billionaire is unnamed), a reader's insistence under 09
+that some will profit while others starve, paraphrased without names. Invented for the frame (Oleg's side): the
+dream of the wages in matches, the count of the box, the forestry's prices and the bank's loan, the merchant family
+of his town. Not used: the ergodicity economics of Ole Peters by name; the casino example of the *Scientific
+American* article (win 20%, lose 17%); the Gini coefficient by name; Bouchaud and Mézard (2000); Simon's and
+Price's models and "preferential attachment" by name; the Forbes 400 turnover (Arnott, Bernstein & Wu 2015: not
+verified); "shirtsleeves to shirtsleeves in three generations" as a quotation; index funds and the "Big Three" as
+today's largest holders (belongs to 55); the labour share of income; Piketty's r > g; land reform and the quiet
+levelling of Latin America in the 2000s (only pointed at in "argued about"); wealth taxes of the 2020s.
+
+**Figures**: `a-fifth-lost-a-fifth-won` (the two rows in the ash: 100 → 80 → 96 and 1,000 → 1,020 → 1,004),
+`matches-go-to-one` (the curve of the real game on the computer: the richest hundred and the poorer five hundred
+over a thousand rounds, with the one-match game as a dashed line), `a-brake-in-the-game` (bars: the same game with a
+levy of one match in 2,000, 1,000, 200 and 100, and the world of 2021 for comparison; "a round is not a year").
+
+**Left for later**: who holds the box at the end, the player that never gives back what it has received, and the
+heaps with neither heirs nor funerals → 55 ("Who owns the tractor", still in the notebook; the line "Why money goes
+to money" is crossed out); whether it is good if the lines of the machines run into one → 62 (49 gives the slope
+and three brakes, and keeps "I don't know"); the row "one or several" of the portrait → 64; the three brakes among
+the machines (owners who are people, several states, knowledge that leaks while chips do not) are candidates for a
+dated mark at the check of 2028; the mutual need as a support against violence → 54 (not touched); dividends for
+accumulated knowledge → 57 (not touched); Oleg's last doubt: "Who thought these rules up? Somebody did decide that
+the stake is a share. — Nobody. It came out that way. — 'It came out.' And it is going to rain tomorrow. — What
+is?" → 50.

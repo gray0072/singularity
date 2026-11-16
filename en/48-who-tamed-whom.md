@@ -411,4 +411,4 @@ Oleg stood up, and Gaika got up at once and stood at his knee.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [03](./03-mind-and-intelligence.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [19](./19-struggle-of-images.md), [23](./23-machine-for-making-people-good.md), [34](./34-where-the-horses-went.md), [37](./37-who-exploits-whom.md), [41](./41-cheesecake-for-the-ears.md), [42](./42-swallowed-bacterium.md), [45](./45-lamarck-was-right.md).
 
-[← 47](./47-money-as-memory.md) · [Contents](./README.md)
+[← 47](./47-money-as-memory.md) · [Contents](./README.md) · [49 →](./49-yard-sale.md)

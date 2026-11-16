@@ -4138,6 +4138,184 @@ def who_carries_the_feed(lang):
     return f
 
 
+# --- 49. The Yard Sale, or Why Money Goes to Money -----------------------------------------------
+
+# A thousand players with a hundred matches each, a thousand rounds (tools/yard_sale.py curve, seed 49):
+# (round, share of the richest tenth, share of the poorer half), stake a fifth of the poorer heap.
+YARD_SALE = [
+    (0, 0.1000, 0.5000), (10, 0.2058, 0.2928), (20, 0.2596, 0.2243), (30, 0.2869, 0.1848), (50, 0.3538, 0.1229),
+    (75, 0.4097, 0.0792), (100, 0.4583, 0.0578), (150, 0.5447, 0.0273), (200, 0.5976, 0.0153),
+    (250, 0.6521, 0.0086), (300, 0.6938, 0.0048), (350, 0.7303, 0.0025), (400, 0.7655, 0.0013),
+    (450, 0.7873, 0.0008), (500, 0.8226, 0.0004), (550, 0.8371, 0.0002), (600, 0.8568, 0.0001),
+    (650, 0.8738, 0.0001), (700, 0.8871, 0.0000), (750, 0.8945, 0.0000), (800, 0.9063, 0.0000),
+    (850, 0.9186, 0.0000), (900, 0.9263, 0.0000), (950, 0.9359, 0.0000), (1000, 0.9431, 0.0000)]
+# The same table with a stake of one match: (round, share of the richest tenth).
+ONE_MATCH = [
+    (0, 0.1000), (10, 0.1054), (50, 0.1124), (100, 0.1175), (200, 0.1248), (300, 0.1309), (400, 0.1354),
+    (500, 0.1396), (600, 0.1423), (700, 0.1461), (800, 0.1500), (900, 0.1536), (1000, 0.1568)]
+
+
+@figure("a-fifth-lost-a-fifth-won")
+def a_fifth_lost_a_fifth_won(lang):
+    t = {
+        "en": dict(title="Lost a fifth, won a fifth",
+                   sub="One loss and one win each, on a fair coin. The stake is a fifth of the poorer heap.",
+                   poor="the poorer one", rich="the richer one",
+                   lost="lost a fifth\nof 100: −20", won="won a fifth\nof 80: +16",
+                   rwon="won the same\n20 matches", rlost="lost the same\n16 matches",
+                   p_end="96", r_start="1,000", r_mid="1,020", r_end="1,004",
+                   pnote="96% is left", rnote="four matches came over",
+                   foot="The same twenty matches are a fifth of one heap and a fiftieth of the other.\n"
+                        "In the other order (first the win, then the loss) the poorer one comes out at 96 as well.",
+                   ),
+        "ru": dict(title="Проиграл пятую часть, выиграл пятую часть",
+                   sub="У каждого один проигрыш и один выигрыш, монета честная. Ставка — пятая часть меньшей кучки.",
+                   poor="тот, кто беднее", rich="тот, кто богаче",
+                   lost="проиграл пятую\nчасть от 100: −20", won="выиграл пятую\nчасть от 80: +16",
+                   rwon="выиграл те же\n20 спичек", rlost="проиграл те же\n16 спичек",
+                   p_end="96", r_start="1000", r_mid="1020", r_end="1004",
+                   pnote="осталось 96%", rnote="четыре спички перешли сюда",
+                   foot="Одни и те же двадцать спичек — пятая часть одной кучки и пятидесятая другой.\n"
+                        "В обратном порядке (сначала выигрыш, потом проигрыш) у бедного выйдет те же 96.",
+                   ),
+    }[lang]
+    f = Fig(760, 356, t["title"])
+    heading(f, t["title"], t["sub"])
+    xs = [200, 400, 600]
+    bw, bh = 96, 46
+    rows = [(118, t["poor"], ORANGE, ["100", "80", t["p_end"]], [t["lost"], t["won"]], t["pnote"]),
+            (212, t["rich"], BLUE, [t["r_start"], t["r_mid"], t["r_end"]], [t["rwon"], t["rlost"]], t["rnote"])]
+    for y, name, color, values, steps, note in rows:
+        f.text(40, y + 28, name, size=14, color=INK, weight="600")
+        for k, (x, v) in enumerate(zip(xs, values)):
+            f.box(x, y, bw, bh, v, stroke=color, size=17, weight="600", color=color if k == 2 else INK)
+        for k, label in enumerate(steps):
+            xa, xb = xs[k] + bw + 6, xs[k + 1] - 8
+            f.line(xa, y + bh / 2, xb, y + bh / 2, color=INK2, width=1.5, arrow=True)
+            f.text((xa + xb) / 2, y - 12, label, size=11.5, color=INK2, anchor="middle")
+        f.text(xs[2] + bw / 2, y + bh + 18, note, size=12, color=color, anchor="middle", weight="600")
+    f.text(28, 316, t["foot"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("matches-go-to-one")
+def matches_go_to_one(lang):
+    t = {
+        "en": dict(title="Where the matches go",
+                   sub="A thousand players, a hundred matches each, a fair coin. One real game, played on a computer.",
+                   y="share of all the matches", x="rounds (in a round each player plays once on average)",
+                   top="the richest hundred players,\nstake: a fifth of the poorer heap",
+                   half="the poorer five hundred, same game",
+                   one="the richest hundred when the stake\nis always one match",
+                   marks={100: "46%", 200: "60%", 500: "82%", 1000: "94%"},
+                   hmarks={100: "6%", 200: "1.5%"},
+                   start="at the start:\n10%",
+                   src="tools/yard_sale.py, seed 49. Left to play on, the first game ends with one hundred players holding\n"
+                       "everything; the second stops with the richest hundred at about a third and the poorer half at about a seventh."),
+        "ru": dict(title="Куда идут спички",
+                   sub="Тысяча игроков, у каждого сто спичек, монета честная. Одна настоящая партия, сыгранная на компьютере.",
+                   y="доля всех спичек", x="круги (за круг каждый играет в среднем один раз)",
+                   top="сто самых богатых игроков,\nставка — пятая часть меньшей кучки",
+                   half="пятьсот тех, кто беднее, та же игра",
+                   one="сто самых богатых, когда ставка\nвсегда одна спичка",
+                   marks={100: "46%", 200: "60%", 500: "82%", 1000: "94%"},
+                   hmarks={100: "6%", 200: "1,5%"},
+                   start="в начале:\n10%",
+                   src="tools/yard_sale.py, зерно 49. Если играть дальше, в первой игре всё собирается у сотни игроков;\n"
+                       "вторая останавливается: у сотни самых богатых около трети, у бедной половины около седьмой части."),
+    }[lang]
+    f = Fig(760, 452, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, yb, yt = 78, 716, 348, 96
+
+    def X(r):
+        return x0 + r / 1000 * (x1 - x0)
+
+    def Y(s):
+        return yb - s * (yb - yt)
+
+    for s in (0, 0.25, 0.5, 0.75, 1.0):
+        f.line(x0, Y(s), x1, Y(s), color=INK2 if s == 0 else GRID, width=1.2 if s == 0 else 1)
+        f.text(x0 - 10, Y(s) + 4, f"{int(s * 100)}%", size=11.5, color=INK2, anchor="end")
+    for r in range(0, 1001, 200):
+        label = f"{r:,}" if lang == "en" else str(r)
+        f.line(X(r), yb, X(r), yb + 5, color=INK2, width=1.2)
+        f.text(X(r), yb + 20, label, size=11.5, color=INK2, anchor="middle")
+    f.text(x1, yb + 40, t["x"], size=11.5, color=INK2, anchor="end")
+    f.text(x0 - 50, yt - 14, t["y"], size=11.5, color=INK2)
+    f.path("M" + " L".join(f"{X(r):.1f},{Y(s):.1f}" for r, s in ONE_MATCH), color=MUTED, width=2, dash="6 4")
+    f.path("M" + " L".join(f"{X(r):.1f},{Y(b):.1f}" for r, _, b in YARD_SALE), color=BLUE, width=2.5)
+    f.path("M" + " L".join(f"{X(r):.1f},{Y(s):.1f}" for r, s, _ in YARD_SALE), color=ORANGE, width=2.8)
+    series = {r: (s, b) for r, s, b in YARD_SALE}
+    for r, label in t["marks"].items():
+        f.circle(X(r), Y(series[r][0]), 4.5, fill=ORANGE, stroke=SURFACE, width=1.5)
+        end = r == 1000
+        f.text(X(r) + (-8 if end else 9), Y(series[r][0]) + (-10 if end else 16), label, size=12.5, color=ORANGE,
+               weight="600", anchor="end" if end else "start")
+    for r, label in t["hmarks"].items():
+        f.circle(X(r), Y(series[r][1]), 4, fill=BLUE, stroke=SURFACE, width=1.5)
+        dx, dy = (10, 2) if r == 100 else (4, -9)
+        f.text(X(r) + dx, Y(series[r][1]) + dy, label, size=12, color=BLUE, weight="600")
+    f.text(X(0) + 8, Y(0.5) - 22, t["start"].replace("10%", "50%"), size=11.5, color=BLUE)
+    f.text(X(330), Y(0.88), t["top"], size=12.5, color=ORANGE, weight="600", anchor="end")
+    f.text(X(420), Y(0.05), t["half"], size=12.5, color=BLUE, weight="600")
+    f.text(X(600), Y(0.30), t["one"], size=12.5, color=INK2)
+    f.text(28, 418, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("a-brake-in-the-game")
+def a_brake_in_the_game(lang):
+    t = {
+        "en": dict(title="A brake in the game",
+                   sub="The same table. After every round each player puts a small share of the heap into a pot, divided equally.",
+                   rows=[("no levy", 100, 0), ("1 match in 2,000", 81, 1.8), ("1 match in 1,000", 69, 3.4),
+                         ("1 match in 200", 42, 12), ("1 match in 100", 33, 17)],
+                   world=("the world, 2021", 76, 2),
+                   top="the richest tenth holds", half="the poorer half holds", pc="{}%",
+                   src="Rows 1–5: tools/yard_sale.py, seed 49, where the game settles (rounds 3,000–6,000; with no levy it does not settle).\n"
+                       "A round is not a year: read the order of the rows, not the rates. The last row: shares of household wealth,\n"
+                       "World Inequality Report 2022."),
+        "ru": dict(title="Тормоз в игре",
+                   sub="Тот же стол. После каждого круга каждый кладёт малую долю своей кучки в общий котёл, котёл делят поровну.",
+                   rows=[("без сбора", 100, 0), ("1 спичка из 2000", 81, 1.8), ("1 спичка из 1000", 69, 3.4),
+                         ("1 спичка из 200", 42, 12), ("1 спичка из 100", 33, 17)],
+                   world=("мир, 2021 год", 76, 2),
+                   top="у богатой десятой части", half="у бедной половины", pc="{}%",
+                   src="Строки 1–5: tools/yard_sale.py, зерно 49, там, где игра устанавливается (круги 3000–6000; без сбора она\n"
+                       "не устанавливается). Круг — не год: читать надо порядок строк, а не ставки. Последняя строка: доли\n"
+                       "имущества домохозяйств, World Inequality Report 2022."),
+    }[lang]
+    f = Fig(760, 440, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1 = 200, 640
+    top, row_h, bar = 112, 42, 24
+
+    def num(v):
+        s = f"{v:g}"
+        return s.replace(".", ",") if lang == "ru" else s
+
+    f.text(x0, top - 12, t["top"], size=12, color=ORANGE, weight="600")
+    f.text(x1, top - 12, t["half"], size=12, color=BLUE, weight="600", anchor="end")
+    rows = list(t["rows"]) + [t["world"]]
+    for i, (name, rich, poor) in enumerate(rows):
+        world = i == len(rows) - 1
+        y = top + i * row_h + (16 if world else 0)
+        if world:
+            f.line(28, y - 13, 732, y - 13, color=GRID, width=1.5)
+        f.text(40, y + 17, name, size=13.5, color=INK, weight="600", italic=world)
+        f.rect(x0, y, x1 - x0, bar, fill=GRID, r=3)
+        wr = (x1 - x0) * rich / 100
+        wp = (x1 - x0) * poor / 100
+        f.rect(x0, y, wr, bar, fill=ORANGE, r=3, opacity=0.55 if world else None)
+        if wp > 0:
+            f.rect(x1 - wp, y, wp, bar, fill=BLUE, r=3 if wp > 6 else 1, opacity=0.55 if world else None)
+        f.text(x0 + 8, y + 17, t["pc"].format(num(rich)), size=12.5, color=INK, weight="600")
+        f.text(x1 + 10, y + 17, t["pc"].format(num(poor)), size=12.5, color=BLUE, weight="600")
+    f.text(28, top + len(rows) * row_h + 40, t["src"], size=11, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
