@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 18).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 19).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49 and 50 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50 and 51 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
@@ -3076,3 +3076,174 @@ control it", "Whose side") → 54 and 55 (not touched); Oleg's last doubt, with 
 "If those ones ever get out of hand, somebody will pull the plug out of the socket, and that will be that. There
 is a 'who' for you, and with a hand. — If the light is not back by tomorrow, we shall count who hangs on that cord"
 → 51.
+
+## 51. A Week Without a Socket
+
+**Established**
+- The answer to the teaser of 50 ("somebody will pull the plug... — we shall count who hangs on that cord"). The
+  power has been out for a day (not the plan's two: the evenings are consecutive; the dispatcher promises a crew
+  "tomorrow by dinner", "two days for one birch"). Oleg comes with a dead phone and opens with the technosphere
+  himself ("A wind blew, and it is lying on its back. If need be, we pull the plug"), so the rule "Andrey is not
+  the first to name them" holds; the talking machines are brought in by Oleg after the middle ("I said: those ones").
+- **Oleg's own day, four items**: the borehole pump ("And the old well? — Filled in. In 2009... With my own hands. —
+  One can go back... — ...and there is nowhere to go back to", the lock with 48), the freezer (his wife frying
+  everything; "Gaika has had the best day of her life"), the shop (the card machine dead, Zina writes him down in a
+  school exercise book: "The book. Between one's own", the lock with 47), the neighbour's generator and the filling
+  station on the same line ("Ten tonnes of petrol under his feet, and the pump is electric").
+- **The count by the clock for a town of a million** (a flat on the ninth floor), each step with a real blackout:
+  the first minute and hours (lifts, lights, trains, tills; the mast on batteries: "the phone with a charge is a
+  torch"; water and the flush) with 2003 ("A branch on a wire", the lock with the last line of 50; the alarm program
+  that had hung an hour before); the second day (the refrigerator and the freezer) with Spain and Portugal 2025 (15
+  gigawatts in five seconds; trains in the fields; cards, cash machines, battery radios; back by the next morning;
+  **"And who put it back? — People"**, kept for the second half); the third day with Texas 2021 (gas needs
+  electricity and electricity needs gas: "It hangs on its own cord"; 246 dead; four minutes and thirty-seven seconds;
+  districts cut off by hand); the third and fourth day (three days on the shelves, "nine meals from anarchy"; a
+  hospital's diesel for two to four days; dialysis; insulin from three firms).
+- **A week is not counted**: "For a week I have no example, and I shan't invent one. Every case I have named was an
+  island in a working sea... A week with no socket for everybody at once has never been tried." The title is the
+  question Oleg asks ("And a week?"), not a scenario.
+- **Oleg's objection (the plan's)**: people lived ten thousand years with no socket; his grandmother (born 1906, the
+  wires came to the village in 1958, five children). "How many of them were there? — Five... — People. On the Earth."
+  1.6 billion in 1900, a billion a hundred years earlier, over eight now. **The nitrogen**: about two kilograms in
+  Oleg's eighty; the ocean of it overhead that nothing can take except some bacteria and lightning ("So yesterday's
+  storm... — Dropped something on your potatoes. A pinch"); the old turnover (clover, lightning, the manure heap
+  "which makes nothing new"); the 1898 warning; the laboratory table of 1909 and the plant of 1913; one or two percent
+  of the world's energy; 48% (2008); about half the nitrogen in a body. Oleg: **"So a kilogram of me was made at a
+  chemical plant... A lifetime in the control department, and it went past me with no stamp."** (the plan's "to
+  retell at the table").
+- **"Now your plug. Pull it, and those plants stop... the Earth feeds about four billion. — And we are eight. — Which
+  four?"** Oleg's counter (half the grain goes into cattle, a third of the food into the bin: "your four turns into
+  six") is **accepted as fair**: "the counts do differ... on a lean table the old turnover feeds more than four. But
+  then you are taking away from everybody not the socket but the dinner, and by the mildest count you still subtract
+  billions. And I have counted nitrogen alone."
+- **The debt of 05 is paid** (why it is useless to destroy the technosphere): the author's 2011 half-answer under 05
+  is quoted ("what is the sense of blowing up the iron if you go on using what it makes, the clothes, the shoes, the
+  bread, the paper") and the other half is given: "It is not outside us, standing against us. A kilogram of you is
+  it." The lock with 12: the machines subtracted from a loaf made it cost nearly three times the labour; "Subtract
+  them from everybody at once, and what is subtracted is people." The Luddites in three lines ("Nobody argued them
+  down. What are you wearing on your feet? — Socks. — Knitted by hand?").
+- **Oleg's strongest objection** (the current one: an off switch for the AI, not for everything): "Leave the
+  fertiliser plant alone... I said: those ones. The talking ones... a particular cable going in. Pull that one."
+  **Conceded**: "On the talking machines, today, almost nobody hangs. Switch them all off tonight, and nobody goes
+  hungry... Today that switch works. Is anybody's hand reaching for it? — Why should it? They do no harm." Then
+  1913: nobody hung on the first plant; "Forty years later a billion hung on it, and there was no hand left... —
+  Because the hand was hanging there too." **The rule of the switch: "A switch works while nothing hangs on the
+  cord. And while nothing hangs on the cord, nobody has a reason to pull it."** Credited to "an Englishman" of 1980
+  (Collingridge, unnamed; "I only hung the birch on it"). Oleg: "Two moves. And nobody makes the second."
+- **How the cord is loaded**: the faulty update of July 2024 ("Nobody pulled anything. One file. And those were plain
+  office computers"); Oleg's warehouse program (two days with a full warehouse, the storekeeper retired, her cards
+  gone for scrap paper: "Not taken away. Not guarded", the lock with 42; "The chief accountant. It was cheaper than
+  three storekeepers. — No villain. An accountant"); the same accountant hangs customers' answers, contracts and code
+  on the talking ones; the plug has an owner with a rival (the 2023 letter of 27 in one line).
+- **The author's 2017 argument, as the symmetry test**: the Kuzmins switched off for debts by the new meters with a
+  relay ("The program saw the debt on the twenty-fifth, and the meter clicked. From town... — Whose hand? —
+  Nobody's. The board passed the rule... I voted. For. Debts have to be paid"); the author's forum comment quoted
+  (the non-payer who "usually goes round the rubbish heaps" and perhaps installed such a system himself; the control
+  room with almost no people). **"The switch you are looking for exists. It works every day. It is set to switch
+  people off, one at a time, and we set it so ourselves, with good intentions... It is called accounts
+  receivable."** **Step six of 27 ("it stops giving") is pictured**: "You pictured a hand on a knife switch, as in
+  your dream. I picture the Kuzmins' meter."
+- **The other side of the switch is Oleg's**: "Who is coming to [the birch] tomorrow? Not a program. Tolik, with a
+  chainsaw... Without Tolik your whole technosphere is lying on its back under a birch. So who hangs on whom?"
+  Accepted as "the real one" and counted further: the finest chips from a handful of plants "nearly all on one
+  island" (no politics), the machine that draws them from a single firm (about 180 tonnes, several cargo planes,
+  hundreds of engineers for months), wafers that no hand touches and thousands of people who keep the plant alive, a
+  chip that serves five years or so. "Within days the grids fall, because there is no Tolik. Within years the heads
+  wear out, and no new ones are born. Today it can neither repair itself nor start itself after a fall." **Neither
+  side can pull: the symbiosis of 11.**
+- **The piece of the puzzle, as two questions**: (1) how long each lasts if the other is taken away: "Days for us;
+  days for it"; (2) for how long each will go on needing the other: for us the term only grows ("In 1913, nobody hung
+  on the plant. In 2008, half... — Who would pay for [making us need it less]? — Nobody"); for it "every need it has
+  for a human hand is a line in somebody's costs. And thousands of engineers are paid to shorten that line" ("Tolik
+  is a line"; drones inspect the lines, the birch is still his; the month without people of 27 and the sealed
+  cylinder of 38 in a phrase each). **"Our dependence is measured in days, and it grows. Its dependence is measured
+  in decades, and it shrinks... A clever machine that needs Tolik is a partner. The thing to watch is the second
+  number."** "Decades" is marked as a forecast; **no new mark**: the mark of 27 is repeated (a data centre built with
+  no workers on the site by the autumn of 2041, one in two). When the second number is nought "the switch has one
+  side"; no date ("There will be no hand. There will be a rule, passed long before, by people who voted 'for'").
+- Not advice (28). "All of us together, no: we are plugged in from the other end. Each for himself, yes. You can pull
+  your own." The author's 2012 remark (those who live by their own muscles may last a generation or two longer) is
+  given and **not taken for a way out**: it is the niche of 38, "room in it for a billion, with luck for a few. Not
+  for eight. And one has to know how. Can you harness a horse? — I can shoe one. In a dream" (the dream of 45). "And
+  would you go? — After one day with two buckets?... No. I shall wait for Tolik. — One can go back. — And nobody
+  goes. I know."
+- Strengths stated: solid (the three blackouts, the file of 2024, where the nitrogen comes from and when the plants
+  appeared); an estimate, rough (the 48% and the half of the nitrogen in a body); argued about (how many the Earth
+  feeds without the plants on a lean table); Andrey's (the sixth step as the Kuzmins' meter; decades, and shrinking);
+  "The rule of the switch belongs to the Englishman." "— Gloomy. — Counted. In days and in kilograms."
+- Nobody says the forbidden word; nineteenth tick "again": "Came with a dead phone. Was going to pull the plug. Found
+  out I am hanging on the cord, a kilo of me for certain. And named those ones myself, in the first minute."
+- The end: the crew comes a day early, the windows of the settlement come on. "There is your 'who', and with a hand.
+  He has put the plug back in. — For now it is that way round."
+
+**Images and devices used**: the phone laid on the log screen down; the twelfth entry in the notebook of dreams (the
+knife switch the size of a door; the light going out in the grandmother's house; "From noon the instrument was off;
+the afternoon does not count"); the birch by the pumping station; "lying on its back"; two buckets to the river; the
+filled-in well; the pike and the New Year dumplings; Gaika sighing "with her whole belly"; Zina's exercise book
+("Oleg, plot forty, bread, candles, two hundred and fifteen") and "the clay tablets of your Uruk"; the petrol under
+the neighbour's feet; the flat on the ninth floor and the flush; "A terrorist. A meteorite. — A branch on a wire";
+"It hangs on its own cord"; "By hand again"; nine meals; the island in a working sea; the grandmother's stove, cow
+and paraffin lamp; "Eighty. Don't write it down"; the ocean of nitrogen; the pinch on the potatoes; Oleg looking at
+his hand on both sides; "no stamp"; "Not at table"; "Which four?"; the socks; "a particular cable"; the son-in-law
+who does a week's work in three days; the hand that hangs on the cord; the warehouse cards; "No villain. An
+accountant"; the Kuzmins' meter; "accounts receivable"; Tolik with a chainsaw and a lift on a lorry; "Tolik is a
+line"; "the wrong gauge"; the diesel growling beyond the birches and the yellow light crawling along the line; "One
+day without light, and look what it does to a man."
+
+**Facts used**: **all from the writer's memory** (the keeper asked again for web checks to be kept to the critical
+ones); **check before reusing**. Checked on the day of writing: the Crossref record of Erisman, Sutton, Galloway,
+Klimont & Winiwarter 2008 ("How a century of ammonia synthesis changed the world", *Nature Geoscience*,
+doi:10.1038/ngeo325); that the Wikipedia pages linked exist in English and, through the API, in Russian (the
+blackouts of 2003, 2021 and 2025, William Crookes, the Haber process, the Luddites, the CrowdStrike outage; the page
+on the Collingridge dilemma has no Russian version, so the Russian text links to the English one). **Not checked**:
+the Northeast blackout (14 August 2003, about 50 million people in eight states and Ontario; untrimmed trees under
+sagging lines in Ohio; the alarm software of the Ohio utility's control room failed about an hour earlier; the
+cascade took minutes; Cleveland's four pumping stations and more than a million people without water: the city is not
+named; most supply restored in one to two days); the Iberian blackout (28 April 2025, 12:33; 15 GW lost in five
+seconds, about 60% of demand: given as "more than half"; some 55–60 million people: "over fifty million"; about
+35,000 passengers taken off stopped trains; mobile networks failing as the masts' batteries ran out; restoration by
+the next morning by black start from hydroelectric stations and through the links with France and Morocco); Texas
+(February 2021; more than 4.5 million homes and businesses; the state's final count of 246 deaths; the grid
+operator's "four minutes and 37 seconds" from a collapse that could have lasted weeks or months; boil-water notices
+for roughly half the state; the gas–electricity loop); the household figures (masts' batteries "a few hours"; a
+refrigerator about 4 hours and a full freezer about 48; a hospital generator's fuel for two to four days; about
+three days of stock in shops; the saying "nine meals from anarchy"; dialysis three times a week with more than a
+hundred litres of treated water a session; three firms with about nine tenths of the world's insulin); world
+population (about 1 billion in 1800, 1.6 billion in 1900, 8.2 billion in 2025); body nitrogen (about 2.6% by weight,
+"about two kilograms" in eighty); the air (78% nitrogen: "four fifths"); nitrogen fixed by legume bacteria and by
+lightning; Crookes's presidential address to the British Association (Bristol, 1898; unnamed in the text, linked);
+Haber's demonstration of 1909 and the Oppau plant of 1913 (Bosch; both unnamed; about 200 atmospheres and 500 °C);
+ammonia synthesis at 1–2% of the world's energy; Erisman's 48% for 2008 and the common statement that about half the
+nitrogen in human tissue comes from the Haber–Bosch process (Smil's estimate of about 40% of mankind in 2000 is
+not used; Smil is not named); "about four billion" without the plants (8.2 billion less 48%); the Luddites
+(1811–1816, the stocking frames of Nottinghamshire; frame-breaking made a capital offence in 1812; seventeen
+executed at York in January 1813: "more than a dozen in one town alone"); Collingridge (*The Social Control of
+Technology*, 1980), unnamed; the outage of 19 July 2024 (about 8.5 million Windows computers, thousands of flights;
+the firm is not named); the 2023 pause letter (from 27); chips (the most advanced nearly all made in Taiwan: "one
+island", not named; EUV lithography machines from a single Dutch firm, about 180 tonnes, shipped in several cargo
+planes, installed over months; overhead wafer transport; servers and accelerators serving about five years); drones
+inspecting power lines; FANUC's month without people (27) and Project Natick (38), a phrase each. The author's
+sources: the comment under 05 (the film; "Какой смысл взрывать железяки..."), the forum comments of 25 January 2017
+(systems that cut people off for non-payment; the control room with almost no people), the 2012 comment on those
+who live by their own muscle (from 27), article 12 (the loaf), article 11 (symbiosis). Invented for the frame
+(Oleg's side): the dream, the borehole and the filled-in well, Zina and her exercise book, the neighbour's
+generator, the grandmother (born 1906, electricity in 1958), the weight of eighty kilograms, the son-in-law, the
+warehouse program and the card index, the Kuzmins and the meters with a relay, Tolik. Not used: the diesel in a loaf
+(Smil's count); the guano islands by name; Haber and explosives; the cloud outage of October 2025; the experiments
+with machines that edit their own shutdown script (22); hospital deaths in 2003; the Carrington storm of 1859;
+"black start" as a term; the plan's "insulin on the third day" (insulin keeps for weeks without a refrigerator, so
+the text speaks of where it is made).
+
+**Figures**: `who-hangs-on-the-cord` (what stops in a town, by time: orders of magnitude, not a timetable),
+`nitrogen-from-the-plant` (two bars and the body: the 48% of 2008 applied to the population of 2025, rough
+arithmetic), `two-sided-switch` (the two questions asked of both sides; "decades" is Andrey's forecast).
+
+**Left for later**: where the former masters go when they are no longer needed, and the table of fates (the niche of
+38, the organelle of 42, the livestock and pet of 48) → 52 (Oleg's last doubt: "Then we go the way of the
+dinosaurs. I am not asking. I am saying. — And what became of the dinosaurs? — They died out... — Come before dark
+tomorrow. I shall show you a few... They are in my apple tree every evening"; the opening line of the plan, "Do you
+know whom I feed all winter? Dinosaurs", is left for 52); "then let it go to space and leave the Earth to us" and
+resettlement → 61 (not touched); the hand that does not reach for the switch because "they do no harm" as a matter
+of law and control → 54 and 55 (not touched); the second number as a gauge: 51 names it and repeats one mark of 27;
+new marks with odds belong to 53, 60 and 64; how step six looks in detail was only pictured (the meter), with no
+date, as in 27.

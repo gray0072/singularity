@@ -131,8 +131,9 @@ Claude Opus 5.5, which wrote 16–32.
 | 48 | Who Tamed Whom | [en](en/48-who-tamed-whom.md) | [ru](ru/48-who-tamed-whom.md) |
 | 49 | The Yard Sale, or Why Money Goes to Money | [en](en/49-yard-sale.md) | [ru](ru/49-yard-sale.md) |
 | 50 | What Is the "It" in "It Is Raining" | [en](en/50-what-is-the-it.md) | [ru](ru/50-what-is-the-it.md) |
+| 51 | A Week Without a Socket | [en](en/51-week-without-a-socket.md) | [ru](ru/51-week-without-a-socket.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–50 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 51. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–51 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 52. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 

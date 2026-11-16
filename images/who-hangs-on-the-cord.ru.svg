@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Кто висит на шнуре</title>
+
+<rect x="0.5" y="0.5" width="759" height="419" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Кто висит на шнуре</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Большой город без тока и без помощи извне: что останавливается и когда.</text>
+<line x1="104.0" y1="114.0" x2="104.0" y2="330.0" stroke="#e9e8e4" stroke-width="2" stroke-linecap="round"/>
+<rect x="40.0" y="98.0" width="128.0" height="32.0" rx="16" fill="#fcfcfb" stroke="#e34948" stroke-width="1.6"/>
+<text x="104.0" y="119.0" font-size="13.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">сразу</text>
+<text x="192.0" y="111.0" font-size="13.5" fill="#0b0b0b"><tspan x="192.0" dy="0.0">лифты, светофоры, поезда, кассы и терминалы,</tspan><tspan x="192.0" dy="16.9">колонки на заправках</tspan></text>
+<rect x="40.0" y="152.0" width="128.0" height="32.0" rx="16" fill="#fcfcfb" stroke="#eb6834" stroke-width="1.6"/>
+<text x="104.0" y="173.0" font-size="13.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">через часы</text>
+<text x="192.0" y="165.0" font-size="13.5" fill="#0b0b0b"><tspan x="192.0" dy="0.0">вышки связи (стоят на аккумуляторах), вода на верхних этажах,</tspan><tspan x="192.0" dy="16.9">холодильник (около 4 часов)</tspan></text>
+<rect x="40.0" y="206.0" width="128.0" height="32.0" rx="16" fill="#fcfcfb" stroke="#eda100" stroke-width="1.6"/>
+<text x="104.0" y="227.0" font-size="13.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">через 2 дня</text>
+<text x="192.0" y="227.0" font-size="13.5" fill="#0b0b0b">морозилка; пропущенный сеанс диализа</text>
+<rect x="40.0" y="260.0" width="128.0" height="32.0" rx="16" fill="#fcfcfb" stroke="#1baf7a" stroke-width="1.6"/>
+<text x="104.0" y="281.0" font-size="13.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">через 2–4 дня</text>
+<text x="192.0" y="281.0" font-size="13.5" fill="#0b0b0b">солярка больничного генератора; полки магазинов</text>
+<rect x="40.0" y="314.0" width="128.0" height="32.0" rx="16" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.6"/>
+<text x="104.0" y="335.0" font-size="13.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">через сезон</text>
+<text x="192.0" y="335.0" font-size="13.5" fill="#0b0b0b">урожай, если встанут и заводы, берущие азот из воздуха</text>
+<text x="28.0" y="384.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Порядки величин, а не расписание. Все настоящие аварии (2003, 2021, 2025) были островом</tspan><tspan x="28.0" dy="14.4">в работающем море: бригады, солярка и хлеб приезжали снаружи.</tspan></text>
+</svg>

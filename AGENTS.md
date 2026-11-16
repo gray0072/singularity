@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–50 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `51`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–51 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `52`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–50.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–51.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -347,6 +347,14 @@ articles as closely as possible. In practice:
 | отчёт, а не показание прибора | a report, not a reading off an instrument | the sentence "I decided": drawn up after the deed, with reasons attached (the changed photographs); a machine's account of how it added is a report of the same kind (50) |
 | сказать длинным путём | to say it the long way | the test for a sentence with a "who" in it, Andrey's own "the technosphere needs" included: can it be unfolded so that the "who" goes and nothing else is lost; where it cannot, "I have smuggled a master in" (50) |
 | самое антропоцентричное существо | the most anthropocentric being | a machine trained on our texts, for now: it received "our picture of the world without the world: every column filled in, and nothing to check the columns against" (50) |
+| шнур («кто висит на шнуре») | the cord ("who hangs on the cord") | Andrey's answer to "we pull the plug": first count who hangs on it; a town lasts days without current, and "a kilogram of you was made at a chemical plant" (51) |
+| остров в работающем море | an island in a working sea | every real blackout so far (2003, 2021, 2025): the crews, the diesel and the bread came from outside; "a week with no socket for everybody at once has never been tried" (51) |
+| старый оборот (азота) | the old turnover (of nitrogen) | clover, lightning and the manure heap, "which makes nothing new and only carries back what the cow took from the meadow"; it set the number of people for ten thousand years (about 1.6 billion in 1900) (51) |
+| азот с завода | nitrogen from the plant | nitrogen taken from the air at a plant since 1913: about 48% of mankind eats bread that would not exist without it (2008), and about half the nitrogen in a human body has been through such a plant; "to switch off the technosphere is to subtract people"; the answer owed since 05 to why it is useless to destroy it (51) |
+| правило рубильника | the rule of the switch | "a switch works while nothing hangs on the cord, and while nothing hangs on it nobody has a reason to pull"; Collingridge's dilemma (1980), on which Andrey "only hung the birch"; the cord is loaded line by line, "by accountants and not by villains" (51) |
+| счётчик Кузьминых | the Kuzmins' meter | the switch that already works every day: a program sees a debt and the meter clicks, by a rule people passed themselves (the author, 2017); how Andrey pictures step six of 27, "it stops giving": "there will be no hand" (51) |
+| двусторонний рубильник | two-sided switch | today neither side can pull: people last days without the technosphere, and it "can neither repair itself nor start itself after a fall" without human hands (Tolik with a chainsaw); the symbiosis of 11 counted in time (51) |
+| второй срок (второе число) | the second term (the second number) | for how long the technosphere will go on needing human hands: decades (Andrey's forecast), and shrinking, while our dependence on it is measured in days and grows; "the thing to watch is not the strength of machines" (51) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

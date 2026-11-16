@@ -4453,6 +4453,143 @@ def two_words_for_blue(lang):
     return f
 
 
+# --- 51. A Week Without a Socket ---------------------------------------------------------------
+
+@figure("who-hangs-on-the-cord")
+def who_hangs_on_the_cord(lang):
+    t = {
+        "en": dict(title="Who hangs on the cord",
+                   sub="A large town with no current and no help from outside: what stops, and when.",
+                   rows=[("at once", "lifts, traffic lights, trains, tills and card machines,\nthe pumps of filling stations"),
+                         ("in hours", "mobile masts (they stand on batteries), water on the upper floors,\nthe refrigerator (about 4 hours)"),
+                         ("in 2 days", "the freezer; a missed session of dialysis"),
+                         ("in 2–4 days", "the diesel of a hospital's generator; the shelves of the shops"),
+                         ("in a season", "the harvest, if the plants that take nitrogen from the air stand too")],
+                   src="Orders of magnitude, not a timetable. Every real blackout so far (2003, 2021, 2025) was an island\n"
+                       "in a working sea: the crews, the diesel and the bread came from outside."),
+        "ru": dict(title="Кто висит на шнуре",
+                   sub="Большой город без тока и без помощи извне: что останавливается и когда.",
+                   rows=[("сразу", "лифты, светофоры, поезда, кассы и терминалы,\nколонки на заправках"),
+                         ("через часы", "вышки связи (стоят на аккумуляторах), вода на верхних этажах,\nхолодильник (около 4 часов)"),
+                         ("через 2 дня", "морозилка; пропущенный сеанс диализа"),
+                         ("через 2–4 дня", "солярка больничного генератора; полки магазинов"),
+                         ("через сезон", "урожай, если встанут и заводы, берущие азот из воздуха")],
+                   src="Порядки величин, а не расписание. Все настоящие аварии (2003, 2021, 2025) были островом\n"
+                       "в работающем море: бригады, солярка и хлеб приезжали снаружи."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    top, row_h = 88, 54
+    colors = [RED, ORANGE, YELLOW, AQUA, BLUE]
+    f.line(104, top + 26, 104, top + 4 * row_h + 26, color=GRID, width=2)
+    for i, ((when, what), color) in enumerate(zip(t["rows"], colors)):
+        y = top + i * row_h
+        f.rect(40, y + 10, 128, 32, fill=SURFACE, stroke=color, width=1.6, r=16)
+        f.text(104, y + 31, when, size=13.5, color=INK, anchor="middle", weight="600")
+        lines = what.split("\n")
+        f.text(192, y + (23 if len(lines) == 2 else 31), what, size=13.5, color=INK)
+    f.text(28, top + 5 * row_h + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("nitrogen-from-the-plant")
+def nitrogen_from_the_plant(lang):
+    t = {
+        "en": dict(title="Whom the nitrogen plant feeds",
+                   sub="People fed by the old turnover (clover, manure, lightning) and by nitrogen taken from the air at a plant.",
+                   y1900="1900", y2025="2025", bn="{} billion", old="the old turnover", plant="nitrogen from the plant",
+                   all1900="all of them: there were no such plants", half="about half",
+                   body="the nitrogen in a human body, about 2 kg", bodyhalf="about half has been through a plant",
+                   src="The share for 2025 is the 48% that Erisman and others (2008) counted for 2008, applied to today's\n"
+                       "population: rough arithmetic, for the table as it is laid today. The first plant: 1913."),
+        "ru": dict(title="Кого кормит азотный завод",
+                   sub="Люди, которых кормит старый оборот (клевер, навоз, молния) и азот, взятый из воздуха на заводе.",
+                   y1900="1900", y2025="2025", bn="{} млрд", old="старый оборот", plant="азот с завода",
+                   all1900="все: таких заводов ещё не было", half="около половины",
+                   body="азот в теле человека, около 2 кг", bodyhalf="около половины прошло через завод",
+                   src="Доля для 2025 года — те 48%, которые Эрисман и др. (2008) насчитали для 2008 года, приложенные\n"
+                       "к нынешнему населению: грубая арифметика, для стола, какой накрыт сегодня. Первый завод: 1913."),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, scale, bar = 110, 66.0, 34
+
+    def num(v):
+        s = f"{v:g}"
+        return s.replace(".", ",") if lang == "ru" else s
+
+    # legend
+    f.rect(x0, 84, 14, 14, fill=AQUA, r=3)
+    f.text(x0 + 22, 96, t["old"], size=12.5, color=INK2)
+    f.rect(x0 + 190, 84, 14, 14, fill=ORANGE, r=3)
+    f.text(x0 + 212, 96, t["plant"], size=12.5, color=INK2)
+    # 1900
+    y = 118
+    f.text(40, y + 23, t["y1900"], size=15, color=INK, weight="600")
+    f.rect(x0, y, 1.6 * scale, bar, fill=AQUA, r=3)
+    f.text(x0 + 1.6 * scale + 12, y + 15, t["bn"].format(num(1.6)), size=13.5, color=INK, weight="600")
+    f.text(x0 + 1.6 * scale + 12, y + 32, t["all1900"], size=12, color=INK2)
+    # 2025
+    y = 178
+    total, plant = 8.2, 8.2 * 0.48
+    f.text(40, y + 23, t["y2025"], size=15, color=INK, weight="600")
+    f.rect(x0, y, (total - plant) * scale, bar, fill=AQUA, r=3)
+    f.rect(x0 + (total - plant) * scale, y, plant * scale, bar, fill=ORANGE, r=3)
+    f.text(x0 + (total - plant) * scale + plant * scale / 2, y + 22, t["half"], size=13, color=INK,
+           anchor="middle", weight="600")
+    f.text(x0 + total * scale + 10, y + 23, t["bn"].format(num(total)), size=13.5, color=INK, weight="600")
+    # the body
+    y = 252
+    f.line(28, y - 14, 732, y - 14, color=GRID, width=1.5)
+    f.text(x0, y + 8, t["body"], size=12.5, color=INK2)
+    w = 300
+    f.rect(x0, y + 18, w / 2, 22, fill=AQUA, r=3)
+    f.rect(x0 + w / 2, y + 18, w / 2, 22, fill=ORANGE, r=3)
+    f.text(x0 + w + 12, y + 34, t["bodyhalf"], size=13, color=INK, weight="600")
+    f.text(28, 334, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("two-sided-switch")
+def two_sided_switch(lang):
+    t = {
+        "en": dict(title="A switch with two sides",
+                   sub="Two questions, asked of both sides. Everybody watches the first; the second is the one that moves.",
+                   q=["How long does it last\nif the other is taken away?", "For how long will it go on\nneeding the other?"],
+                   rows=[("people", "days for a town;\na season for half of mankind", "no end in sight:\nthe term grows"),
+                         ("the technosphere", "days for the grids;\nyears for the chips", "decades (a forecast):\nthe term shrinks")],
+                   note=["today the switch is two-sided", "the number to watch"],
+                   src="The first column is counted in the text. The second is Andrey's reading; “decades” is his forecast, not a fact."),
+        "ru": dict(title="Рубильник с двумя сторонами",
+                   sub="Два вопроса, заданные обеим сторонам. Все следят за первым; движется второй.",
+                   q=["Сколько продержится сторона,\nесли убрать другую?", "Как долго другая сторона\nбудет ей ещё нужна?"],
+                   rows=[("люди", "дни для города;\nсезон для половины человечества", "конца не видно:\nсрок растёт"),
+                         ("техносфера", "дни для сетей;\nгоды для микросхем", "десятилетия (прогноз):\nсрок сокращается")],
+                   note=["сегодня рубильник двусторонний", "число, за которым надо следить"],
+                   src="Первый столбец посчитан в тексте. Второй — прочтение Андрея; «десятилетия» — его прогноз, а не факт."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    xs, cw = [196, 468], 252
+    top, row_h = 142, 74
+    for x, q in zip(xs, t["q"]):
+        f.text(x + cw / 2, 100, q, size=13, color=INK2, anchor="middle", weight="600")
+    cell_colors = [[INK2, ORANGE], [INK2, RED]]
+    for i, (name, a, b) in enumerate(t["rows"]):
+        y = top + i * row_h
+        f.text(40, y + row_h / 2 + 5, name, size=15, color=INK, weight="600")
+        for j, cell in enumerate((a, b)):
+            f.rect(xs[j], y + 6, cw, row_h - 12, fill=SURFACE, stroke=cell_colors[i][j],
+                   width=1.2 if j == 0 else 1.8, r=8)
+            f.text(xs[j] + cw / 2, y + row_h / 2 - 4, cell, size=13.5, color=INK, anchor="middle",
+                   weight="600" if j == 1 else "normal")
+    ny = top + 2 * row_h + 18
+    for x, n, c in zip(xs, t["note"], [INK2, RED]):
+        f.text(x + cw / 2, ny, n, size=12.5, color=c, anchor="middle", italic=True)
+    f.text(28, 348, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
