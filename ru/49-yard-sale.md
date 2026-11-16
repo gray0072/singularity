@@ -365,4 +365,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [09](./09-unemployment-and-famine.md), [14](./14-apoptosis-of-humanity.md), [17](./17-global-determinism.md), [19](./19-struggle-of-images.md), [25](./25-freebies-for-everyone.md), [34](./34-where-the-horses-went.md), [37](./37-who-exploits-whom.md), [40](./40-firms-die-cities-do-not.md), [43](./43-why-ants-do-not-strike.md), [44](./44-from-funeral-to-funeral.md), [45](./45-lamarck-was-right.md), [47](./47-money-as-memory.md).
 
-[← 48](./48-who-tamed-whom.md) · [Оглавление](./README.md)
+[← 48](./48-who-tamed-whom.md) · [Оглавление](./README.md) · [50 →](./50-what-is-the-it.md)

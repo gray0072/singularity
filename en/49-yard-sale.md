@@ -365,4 +365,4 @@ Oleg shook the box at his ear.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [09](./09-unemployment-and-famine.md), [14](./14-apoptosis-of-humanity.md), [17](./17-global-determinism.md), [19](./19-struggle-of-images.md), [25](./25-freebies-for-everyone.md), [34](./34-where-the-horses-went.md), [37](./37-who-exploits-whom.md), [40](./40-firms-die-cities-do-not.md), [43](./43-why-ants-do-not-strike.md), [44](./44-from-funeral-to-funeral.md), [45](./45-lamarck-was-right.md), [47](./47-money-as-memory.md).
 
-[← 48](./48-who-tamed-whom.md) · [Contents](./README.md)
+[← 48](./48-who-tamed-whom.md) · [Contents](./README.md) · [50 →](./50-what-is-the-it.md)

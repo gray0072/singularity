@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 17).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 18).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,8 +570,8 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48 and 49 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
-  nothing left to light the fire with"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
+  In 48, 49 and 50 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
@@ -2901,3 +2901,178 @@ dated mark at the check of 2028; the mutual need as a support against violence �
 accumulated knowledge → 57 (not touched); Oleg's last doubt: "Who thought these rules up? Somebody did decide that
 the stake is a share. — Nobody. It came out that way. — 'It came out.' And it is going to rain tomorrow. — What
 is?" → 50.
+
+## 50. What Is the "It" in "It Is Raining"
+
+**Established**
+- The answer to the teaser of 49 ("it is going to rain tomorrow. — What is?"). Oleg comes under an umbrella and
+  brings the box back (forty matches). **The opening pun and the language examples are localised, and the two
+  versions differ here on purpose**: in English the empty word is the "it" of "it rains" (candidates: the rain, the
+  cloud, the weather; "the rain is raining" is "butter being buttery"); in Russian the rain "goes" ("Who has gone?
+  Where?") and the empty place is the neuter ending of the one-word verb. The Russian title follows the plan's
+  Russian version ("Who goes when the rain goes"). The number and order of replicas are the same (181 lines).
+- Oleg's image: **the deputy director for general questions** ("the line was in the staff list, and a line in the
+  staff list cannot stand empty"). The wind that is nowhere when it does not blow, the fire that is firewood when it
+  does not burn: "the blowing blows", "the burning burns". **"One thing is happening, and the sentence wants two
+  words for it: who, and what he does. So it cuts the happening in two and appoints one half the master of the
+  other."** Three ways out of the rain: an empty word, a rain that walks, a single word whose form is still "made
+  for a somebody" ("the deputy has only been hidden in the ending").
+- **Oleg's first objection is the one he made in 02** ("poetry"; "Language is a convention. We agreed to speak so,
+  as we agreed to drive on the right") and Andrey **gives way at once about the sun and the rain**: "you know
+  better, and the phrase does you no harm. I want to see whether it is a convention where you do not know better."
+- The film of 1944 is played on the log with the matchbox, a match and a pebble; Oleg, who watched Andrey's hand
+  move them, says "the box is angry". Then the film itself (34 students, one wrote of triangles and a circle).
+- **Gaika barks at the umbrella rolled by the wind** ("She thinks it is somebody. — Does she know grammar? — She
+  knows 'sit' and 'no'"), and **Andrey corrects 02 openly**: "In 2011 I said that the habit comes in with the
+  language... it is the other way about. The habit is older than the words." Babies of a year and the circle that
+  jumps over a wall (1995); the rustle of 39 in three lines ("We come from the ones who jumped"; "the screw was
+  turned all the way to 'somebody'"); Piaget's children; the pointed rocks; the hurried adults and the hurried
+  physicists ("Trees give off oxygen so that animals can breathe": the lock with 38, "It is their waste"). **"School
+  lays a path across the bed. The weed stays where it was. Give a man time and he walks on the path. Hurry him and he
+  steps off it."**
+- What is left of 02: "Half of it. Language is not where the habit comes from. Language is where it is cast in
+  metal." Oleg's defect report (a casting with a cavity nobody can see until the cutter opens it; the column
+  "culprit"; the control department does not take a report with an empty column; "The foreman of the shift. Or the
+  turner who opened it up. Whoever stood nearest"; "Not one in forty years. The form does not provide for it").
+  **"A sentence is that form. The column 'who' is printed in it beforehand, and it is not accepted empty... The old
+  habit at least says something: 'there may be somebody there'. The form says nothing. It only has the column."**
+  "You can't [argue with a column]. You can only fill it in." Language adds two things: it makes the hypothesis
+  invisible ("not in what is said but in how") and hands it to every child whole, by the second road of 45 ("the
+  alarm he gets with the drawings, the form with his first words").
+- **Against himself**: the fire-insurance inspector of the 1930s (the drums marked "empty"; the people of Arizona
+  said to have no words for time; the six-hundred-page book of 1983). "The strong claim, that a language is a prison
+  for thought, did not stand." Physics in formulas with no column "who": **deferred to 56** ("one word in physics
+  that I have owed you since the first" evening; the word "observer" is not said). The weak pull, measured: the two
+  blues (the plan's "to retell at the table": "the one time our language got into a textbook on eyesight") and the
+  fine for a verb ("he tore the costume" against "the costume tore": "By a third to a half").
+- **What the column is for** (new in the cycle): the granddaughter's "It broke by itself" ("Then which of you
+  described it more exactly? — She did. But I was not teaching her physics. If nobody broke it, nobody is going to
+  hold the next one with both hands"). The lock with 43 and 47: "A book of debts cannot be kept without names... It
+  is **the bookkeeping of a pack**: every deed is entered under a name, and the name answers for it. In a village
+  the form is right nearly every time." One thing is taken out of the heap "not sorted" of 46: "The task is to keep
+  accounts among those who are not kin. Our way is a 'who' in every sentence, the sentences about rain included."
+- Between the cup and the rain: the crisis, the closed plant, money, "who started it"; Oleg's own "Who thought these
+  rules up" of 49 ("it itched. As if you were covering for somebody. — You were holding a report with an empty
+  column"). Thunder: "Sat somebody up there. With a hammer, or in a chariot" (one line, no religion argued; "they had
+  our form and no physics"). **Why the series sounds gloomy**: "a story with no villain in it, no genius and no
+  rescuer... does not go into the form. It feels unfinished, because the column is empty." Oleg: "there is nobody to
+  take by the collar. Which is worse than gloomy."
+- **The nearest column, "I"**: Descartes (1637), Lichtenberg ("one should say 'it thinks', as one says of a storm 'it
+  lightens'... To assume the 'I' is a practical need"; the waste books; the figures of a spark in dust; "A man with a
+  notebook"), "another German" a century later (even the "it" is too much), "a Viennese doctor" and "the It" that
+  the English translators "dressed in Latin". The language's two sets of books: the official ("I decided") and the
+  working ("it occurred to me", "it struck me. — Who struck?").
+- **Oleg's "I raise my hand myself"** (the plan's): "Why the right one?... And why now? — Because you said that
+  I..."; 04 in two lines; the changed photographs ("Three times out of four nobody noticed anything. And they
+  explained"); "He filled the column in. After the event. Like my foreman in the report." The wrist of 1983 is given
+  and **not leaned on**. **"The sentence 'I decided' is not a reading taken off an instrument. It is a report."**
+  "'I' is a good column: it names the one who will answer for that hand tomorrow"; the lock with 35: "'I' is how a
+  whirl is entered in the book of debts." **Where proof ends**: the photographs prove that the report can be wrong
+  unnoticed; "that there is nobody at all to report... is my axiom from the evening about determinism. No experiment
+  has shown it."
+- **Oleg's strongest objection, against the author** ("your own weapon, handle first"): "The technosphere needs",
+  "Nature set the setpoints", "Evolution moves to a new carrier": "You took my master away and seated your own."
+  **Accepted** ("A fair blow. I speak this language and I have no other"), and a test is given: **can the sentence be
+  said the long way, so that the "who" goes and nothing else is lost**. Three are unfolded (firms that put machines
+  and people together outgrew the others, the selection with no breeder of 48; those with other setpoints left fewer
+  children; the source of initiative of 04 as unfolded in 35). "Where it will not go the long way... I have smuggled
+  a master in, and you catch me." **The question of 02 is not taken back** (why nature, being a "what", is refused a
+  purpose and a mind without proof): "Today is its other half: the 'who' is granted his powers without proof as
+  well. One ruler for both columns."
+- **The machines are named by Oleg, after the middle**: "Those ones say 'I'... 'I'd take an umbrella if I were you.'
+  If I were you!" "Nobody taught it that separately": in every sentence of ours the column is filled in; "It got the
+  form together with the words, as your granddaughter did. Only without the alarm, without the cup and without the
+  grandfather." The makers who looked inside while it added 36 and 59 (two paths, a rough sum and an exact last
+  figure) and its account ("carried the one"): "It gave the report that people give. The card had been changed, and
+  it explained the smile. I would not call it a lie: it has read ten thousand accounts of how adding is done, and
+  not one of how it adds." Thousands of copies in one hour: the word "was made for a creature with one body and one
+  line in the book of debts". **A guess, marked as one**: whether it will need a column of its own depends on whom it
+  has to keep books with (copies are kin, 43; machines of different owners are strangers).
+- **Not concluded that nobody is there**: "It says 'I': that came with the grammar and proves nothing. You feel that
+  there is somebody behind the words: that is your alarm... and it proves nothing either. But from 'the word proves
+  nothing' it does not follow that nobody is there." Two mistakes, as with the rustle; "With a snake we know the
+  price of each. Here I do not." The question of 20 stays open (the lock with 31, "words prove nothing", is not
+  linked in the dialogue: Andrey does not know that essay). Andrey thanks the machine: "A false alarm is cheap."
+- **The plan's sentence**: "Today, I think, it is the most anthropocentric being on the Earth... It received our
+  picture of the world without the world: every column filled in, and nothing to check the columns against." "A
+  mind without a grandmother" (39) "with every grandmother's sayings by heart". What happens when it can feel the
+  world not through us: **deferred to 58**.
+- The questions asked about the machines ("Will it decide to get rid of us?", "Who will control it?", "Whose side is
+  it on?"): "Who, who, whose. Three." "I am not saying the questions are empty. I am saying that the form asks them
+  before we do" (the chain with no first link of 22).
+- Strengths stated: solid (the triangles, the babies, the hurried physicists, the two blues and the fine for a verb,
+  the changed photographs); refuted (that a language locks thought in, "and with it half of my own first evening,
+  which I have corrected"); argued about (the wave before the wrist; how far a machine's account of itself can be
+  trusted); Andrey's (the column as a pack's bookkeeping carried over to the rain; a story with no master turned down
+  for its form; the machine's "I" came with the grammar; that there is no doer anywhere is his axiom). "— For once
+  it is not gloomy. — It is not about the end. It is about the form the end is written on."
+- Nobody says the forbidden word; eighteenth tick "again": "Came with an umbrella. Asked about the rain. Came out at
+  those ones, and named them myself."
+
+**Images and devices used**: the black umbrella, the notebook inside the jacket; the eleventh entry in the notebook
+of dreams (the defect report with the empty column "culprit" and the pen that will not write; later "Into the income
+column? — What did I ask you to think about before you went to sleep?... — A common cause. Two cocks. All right,
+expense"); the fire lit with the third match; the candidates for the post; butter being buttery (three times); the
+deputy director for general questions and the staff list; the granddaughter's wind that "had gone to sleep"; the
+"it" in the sky with a watering can; driving on the right; the matchbox, the match and the pebble round the knot;
+Oleg spitting into the fire ("The box"); the umbrella rolling on its ribs and Gaika; "sit" and "no"; the path
+across the bed; "cast in metal"; the casting with a cavity; the welder and the empty drum; "Another of your
+engineers"; the three blue squares; the cup and wet hands; "nobody to take by the collar"; the two sets of books;
+the raised right hand with the pencil, lowered only after the photographs; the conjuror's trick; "handle first";
+"smuggled a master in"; "One ruler for both columns"; "as your umbrella fits Gaika"; "thank you" to the machine;
+"Count the columns"; the thunder ("It's thundering... — Don't. — I said nothing"); the lights of the settlement
+going out ("They've cut the power. — Who has?... — A branch on the wire. I hope you are pleased").
+
+**Facts used**: **from the writer's memory** (the keeper asked for web checks to be kept to the critical ones);
+**check before reusing**. Checked on the day of writing: the Crossref records of the seven DOIs linked (Heider &
+Simmel 1944, *Am. J. Psychol.*; Gergely, Nádasdy, Csibra & Bíró 1995, *Cognition*, "Taking the intentional stance at
+12 months of age"; Kelemen & Rosset 2009, *Cognition*; Kelemen, Rottman & Seston 2013, *J. Exp. Psychol.: General*;
+Winawer, Witthoft, Frank, Wu, Wade & Boroditsky 2007, *PNAS*; Fausey & Boroditsky 2010, *Psychon. Bull. Rev.*;
+Johansson, Hall, Sikström & Olsson 2005, *Science*); that the Wikipedia pages on Lichtenberg and Piaget exist in
+both languages (through the API); that Anthropic's page "Tracing the thoughts of a large language model" (March
+2025) answers and contains the sum 36 + 59. **Not checked**: Heider and Simmel's details (Smith College; cardboard
+shapes on a glass plate shot frame by frame; 34 students, one of whom described the film in geometric terms; the
+usual story of a bully, a couple and a house whose walls the large triangle breaks at the end); the 1995 design (a
+small circle jumping over a barrier to a large one; longer looking at the jump once the barrier is gone); Piaget's
+interviews (*The Child's Conception of the World*, 1926); Kelemen 1999 (children of seven and eight choosing "so
+that animals wouldn't sit on them" for pointed rocks); the speeded condition of 2009 and 2013 (about 3.2 seconds;
+the items about the sun and photosynthesis and about trees and oxygen; scientists accepted fewer such statements
+than controls and more under speed); Whorf (a chemical engineer and fire-prevention inspector of the Hartford Fire
+Insurance Company; the "empty" drums; the claim about Hopi, 1936–1940) and Malotki's *Hopi Time* (1983, about 680
+pages), both unnamed in the text; Winawer's design (twenty blues, a triad of squares, the category advantage gone
+under verbal interference with digits, none in English speakers; the size "a fraction of a second" is deliberately
+vague); Fausey and Boroditsky's fines (the agentive wording raised them by about a half in one study and by about a
+third among those who had also watched the video: given as "a third to a half"; the event, a costume torn at the
+2004 Super Bowl show, is not named); Johansson's choice blindness (no more than about a quarter of the swaps
+detected: "three times out of four"; the reasons quoted are of the kind reported, not quotations); Libet 1983 (the
+readiness potential about 550 ms before the movement, the reported decision about 200 ms before; Schurger's 2012
+objection is what "argued about" stands for), unnamed; Descartes's *Discourse* (1637); Lichtenberg (1742–1799,
+Göttingen; the figures of 1777; the *Sudelbücher*, named after the merchants' waste book and printed after his
+death; the entry "Es denkt, sollte man sagen, so wie man sagt: es blitzt", notebook K); Nietzsche (*Beyond Good and
+Evil*, 1886, §17) and Freud's *Das Ich und das Es* (1923), the "Es" rendered as "id" in the English standard
+edition, both unnamed (Oleg says "the id"; in the Russian version, "Freud's It", which is how it is translated into
+Russian); the model's own account of the sum ("added the ones, carried the 1, then added the tens") against the
+two parallel paths found inside (Claude 3.5 Haiku; the model and the company are not named in the text). Invented
+for the frame (Oleg's side): the dream, the deputy director for general questions, the defect reports of the
+foundry, the welder, the granddaughter's questions about the wind and the cup, the machine's advice about the
+umbrella. Not used: Michotte's launching effect; the helper and the hinderer shown to babies (Hamlin, Wynn & Bloom
+2007: later replications disagree); Fausey and Boroditsky's eyewitness study of 2011 (English against Spanish);
+the split-brain "interpreter"; grammatical gender (used by the author in 02); the animate and inanimate nouns of
+Russian; the word "observer" (56); ELIZA (21); people's politeness to chatbots and its cost; the names of Whorf,
+Sapir, Nietzsche, Freud, Libet.
+
+**Figures**: `two-triangles-and-a-circle` (a scheme of the film: what was on the screen and what was written),
+`the-column-who` (the form with three columns; the first row differs by language: "it rains" and the Russian
+one-word verb with a neuter ending), `two-words-for-blue` (a scheme of the 2007 experiment, not its data; the place
+of the border on the strip is illustrative).
+
+**Left for later**: the formulas with no column "who" and the word physics let back in → 56 ("a separate evening",
+the debt of 02); what happens when the machine can feel the world not through us → 58 ("a separate evening"); the
+feeling of freedom of a mind that models itself, and why the report cannot be checked from inside → 63 (not
+touched: 50 says only that "I decided" is a report); whether the heir needs an "I" of its own (Andrey's guess: it
+depends on whom it keeps books with) → the row of the portrait in 64; whether somebody is there behind the
+machine's "I" stays open, as in 20 and 31; the three questions with a "who" in them ("Will it decide", "Who will
+control it", "Whose side") → 54 and 55 (not touched); Oleg's last doubt, with the power cut by the thunderstorm:
+"If those ones ever get out of hand, somebody will pull the plug out of the socket, and that will be that. There
+is a 'who' for you, and with a hand. — If the light is not back by tomorrow, we shall count who hangs on that cord"
+→ 51.

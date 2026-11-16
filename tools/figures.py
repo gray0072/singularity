@@ -4316,6 +4316,143 @@ def a_brake_in_the_game(lang):
     return f
 
 
+# --- 50. What Is the "It" in "It Is Raining" ----------------------------------------------------
+
+@figure("two-triangles-and-a-circle")
+def two_triangles_and_a_circle(lang):
+    t = {
+        "en": dict(title="Two triangles and a circle",
+                   sub="A film of 1944: cardboard shapes moved over glass. The viewers were asked what happened.",
+                   screen=["a rectangle with a flap", "a large triangle", "a small triangle and a small circle"],
+                   seen=["“a house with a door”", "“a bully”", "“a couple”"],
+                   chase="“chases them”", flee="“they run away”",
+                   foot="Upper line: what was on the screen. Lower line: what 33 of the 34 viewers wrote.\n"
+                        "One viewer described triangles and a circle. Heider and Simmel, 1944."),
+        "ru": dict(title="Два треугольника и круг",
+                   sub="Фильм 1944 года: картонные фигуры двигали по стеклу. Зрителей спросили, что произошло.",
+                   screen=["прямоугольник со створкой", "большой треугольник", "маленький треугольник и маленький круг"],
+                   seen=["«дом с дверью»", "«хулиган»", "«парочка»"],
+                   chase="«гонится»", flee="«убегают»",
+                   foot="Верхняя строка: что было на экране. Нижняя: что написали 33 зрительницы из 34.\n"
+                        "Одна описала треугольники и круг. Хайдер и Зиммель, 1944."),
+    }[lang]
+    f = Fig(760, 356, t["title"])
+    heading(f, t["title"], t["sub"])
+    # the "house": a rectangle with an open flap
+    f.path("M230,150 L230,112 L70,112 L70,214 L230,214 L230,188", color=INK2, width=2.2)
+    f.line(230, 150, 262, 170, color=INK2, width=2.2)
+    # the shapes
+    f.path("M326,214 L404,214 L365,144 Z", color=INK2, width=1.5, fill=INK2)
+    f.path("M508,214 L546,214 L527,180 Z", color=ORANGE, width=1.5, fill=ORANGE)
+    f.circle(604, 202, 12, fill=BLUE)
+    f.line(414, 190, 494, 196, color=RED, width=1.5, dash="5 4", arrow=True)
+    f.text(454, 178, t["chase"], size=12, color=RED, anchor="middle", italic=True)
+    f.line(626, 198, 700, 184, color=INK2, width=1.5, dash="5 4", arrow=True)
+    f.text(668, 172, t["flee"], size=12, color=INK2, anchor="middle", italic=True)
+    for cx, a, b in zip([150, 365, 566], t["screen"], t["seen"]):
+        f.text(cx, 248, a, size=12.5, color=INK2, anchor="middle")
+        f.text(cx, 272, b, size=14.5, color=INK, anchor="middle", weight="600")
+    f.text(28, 316, t["foot"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("the-column-who")
+def the_column_who(lang):
+    t = {
+        "en": dict(title="A form with the column “who”",
+                   sub="A sentence is a form in which the column “who” is printed beforehand. It is not accepted empty.",
+                   head=["what is said", "the column “who”", "what is there"],
+                   rows=[("“It rains”", "it", "nobody: an empty word"),
+                         ("“The wind blows”", "the wind", "the blowing itself, named twice"),
+                         ("“The sun sets”", "the sun", "the Earth turning"),
+                         ("“The crisis struck”", "the crisis", "millions of deals, and nobody who struck"),
+                         ("“I decided”", "I", "a report drawn up after the deed")],
+                   src="The first three rows are grammar. The last two are Andrey's reading; the text says where the proof ends."),
+        "ru": dict(title="Бланк с графой «кто»",
+                   sub="Фраза — бланк, в котором графа «кто» напечатана заранее. С пустой графой его не принимают.",
+                   head=["что сказано", "графа «кто»", "что там есть"],
+                   rows=[("«Моросило»", "оно (в окончании)", "никого: пустое место"),
+                         ("«Ветер дует»", "ветер", "само дутьё, названное дважды"),
+                         ("«Солнце садится»", "солнце", "поворачивается Земля"),
+                         ("«Кризис ударил»", "кризис", "миллионы сделок, и никого, кто ударил"),
+                         ("«Я решил»", "я", "отчёт, составленный после дела")],
+                   src="Первые три строки — грамматика. Последние две — прочтение Андрея; где кончается доказательство, сказано в тексте."),
+    }[lang]
+    f = Fig(760, 378, t["title"])
+    heading(f, t["title"], t["sub"])
+    xs = [40, 232, 430]
+    top, row_h = 112, 44
+    for x, h in zip(xs, t["head"]):
+        f.text(x, 98, h, size=12, color=MUTED, weight="600")
+    for i, (said, who, there) in enumerate(t["rows"]):
+        y = top + i * row_h
+        f.line(28, y, 732, y, color=GRID, width=1)
+        mid = y + row_h / 2 + 5
+        f.text(xs[0], mid, said, size=14, color=INK, italic=True)
+        color = RED if i == 0 else (AQUA if i == 4 else ORANGE)
+        f.rect(xs[1] - 8, y + 8, 176, row_h - 16, fill=SURFACE, stroke=color, width=1.4, r=4)
+        f.text(xs[1] + 80, mid, who, size=13.5, color=INK, anchor="middle", weight="600")
+        f.text(xs[2], mid, there, size=13, color=INK2)
+    f.line(28, top + 5 * row_h, 732, top + 5 * row_h, color=GRID, width=1)
+    f.text(28, 356, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("two-words-for-blue")
+def two_words_for_blue(lang):
+    t = {
+        "en": dict(title="Two words for blue",
+                   sub="Twenty shades from light to dark. Russian draws a border across them; English does not.",
+                   light="Russian: one word (light blue)", dark="another word (dark blue)",
+                   border="the border", english="English: one word for the whole strip, “blue”",
+                   a="two squares from different sides of the border", ar="Russian speakers tell them apart faster",
+                   b="two squares from one side, as far apart", br="Russian speakers are slower",
+                   eng="English speakers: no difference between the two cases.",
+                   src="Winawer and others, 2007. The gain is a fraction of a second, and it vanishes when the viewer has to\n"
+                       "repeat digits silently: the words are busy. A scheme of the experiment, not its data."),
+        "ru": dict(title="Два слова для синего",
+                   sub="Двадцать оттенков от светлого к тёмному. Русский язык проводит по ним границу, английский — нет.",
+                   light="по-русски: «голубой»", dark="«синий»",
+                   border="граница", english="по-английски: одно слово на всю полосу, «blue»",
+                   a="два квадрата с разных сторон границы", ar="русскоязычные различают их быстрее",
+                   b="два квадрата с одной стороны, на том же расстоянии", br="русскоязычные различают медленнее",
+                   eng="У англоязычных разницы между двумя случаями нет.",
+                   src="Винавер и др., 2007. Выигрыш — доли секунды, и он пропадает, когда зритель должен повторять\n"
+                       "про себя цифры: слова заняты. Схема опыта, а не его данные."),
+    }[lang]
+    f = Fig(760, 404, t["title"])
+    heading(f, t["title"], t["sub"])
+
+    def shade(k):
+        a, b = (184, 222, 255), (12, 38, 122)
+        u = k / 19
+        return "#%02x%02x%02x" % tuple(round(a[j] + (b[j] - a[j]) * u) for j in range(3))
+
+    x0, y0, step, side = 60, 112, 32, 30
+    for k in range(20):
+        f.rect(x0 + k * step, y0, side, 40, fill=shade(k), r=3)
+    cut = 9
+    bx = x0 + cut * step - 1
+    f.line(bx, y0 - 14, bx, y0 + 54, color=RED, width=1.6, dash="5 4")
+    f.text(bx, y0 - 20, t["border"], size=11.5, color=RED, anchor="middle", weight="600")
+    f.text(x0, y0 - 8, t["light"], size=12.5, color=INK)
+    f.text(x0 + 20 * step - 2, y0 - 8, t["dark"], size=12.5, color=INK, anchor="end")
+    by = y0 + 60
+    f.line(x0, by, x0 + 20 * step - 2, by, color=INK2, width=1.2)
+    f.line(x0, by - 5, x0, by + 5, color=INK2, width=1.2)
+    f.line(x0 + 20 * step - 2, by - 5, x0 + 20 * step - 2, by + 5, color=INK2, width=1.2)
+    f.text(x0 + 10 * step, by + 18, t["english"], size=12.5, color=INK2, anchor="middle")
+    cases = [(226, (7, 11), t["a"], t["ar"], AQUA), (280, (11, 15), t["b"], t["br"], ORANGE)]
+    for y, (i, j), label, result, color in cases:
+        f.rect(x0, y, 34, 34, fill=shade(i), r=3)
+        f.rect(x0 + 42, y, 34, 34, fill=shade(j), r=3)
+        f.text(x0 + 96, y + 14, label, size=13, color=INK)
+        f.text(x0 + 96, y + 31, result, size=13, color=color, weight="600")
+    f.text(x0, 340, t["eng"], size=13, color=INK2)
+    f.text(28, 368, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

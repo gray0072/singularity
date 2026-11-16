@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="404" viewBox="0 0 760 404" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Два слова для синего</title>
+
+<rect x="0.5" y="0.5" width="759" height="403" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Два слова для синего</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Двадцать оттенков от светлого к тёмному. Русский язык проводит по ним границу, английский — нет.</text>
+<rect x="60.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#b8deff"/>
+<rect x="92.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#afd4f8"/>
+<rect x="124.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#a6cbf1"/>
+<rect x="156.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#9dc1ea"/>
+<rect x="188.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#94b7e3"/>
+<rect x="220.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#8baedc"/>
+<rect x="252.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#82a4d5"/>
+<rect x="284.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#799ace"/>
+<rect x="316.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#7091c7"/>
+<rect x="348.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#6787c0"/>
+<rect x="380.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#5d7db9"/>
+<rect x="412.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#5473b2"/>
+<rect x="444.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#4b6aab"/>
+<rect x="476.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#4260a4"/>
+<rect x="508.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#39569d"/>
+<rect x="540.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#304d96"/>
+<rect x="572.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#27438f"/>
+<rect x="604.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#1e3988"/>
+<rect x="636.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#153081"/>
+<rect x="668.0" y="112.0" width="30.0" height="40.0" rx="3" fill="#0c267a"/>
+<line x1="347.0" y1="98.0" x2="347.0" y2="166.0" stroke="#e34948" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="5 4"/>
+<text x="347.0" y="92.0" font-size="11.5" fill="#e34948" text-anchor="middle" font-weight="600">граница</text>
+<text x="60.0" y="104.0" font-size="12.5" fill="#0b0b0b">по-русски: «голубой»</text>
+<text x="698.0" y="104.0" font-size="12.5" fill="#0b0b0b" text-anchor="end">«синий»</text>
+<line x1="60.0" y1="172.0" x2="698.0" y2="172.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="60.0" y1="167.0" x2="60.0" y2="177.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="698.0" y1="167.0" x2="698.0" y2="177.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="380.0" y="190.0" font-size="12.5" fill="#52514e" text-anchor="middle">по-английски: одно слово на всю полосу, «blue»</text>
+<rect x="60.0" y="226.0" width="34.0" height="34.0" rx="3" fill="#799ace"/>
+<rect x="102.0" y="226.0" width="34.0" height="34.0" rx="3" fill="#5473b2"/>
+<text x="156.0" y="240.0" font-size="13" fill="#0b0b0b">два квадрата с разных сторон границы</text>
+<text x="156.0" y="257.0" font-size="13" fill="#1baf7a" font-weight="600">русскоязычные различают их быстрее</text>
+<rect x="60.0" y="280.0" width="34.0" height="34.0" rx="3" fill="#5473b2"/>
+<rect x="102.0" y="280.0" width="34.0" height="34.0" rx="3" fill="#304d96"/>
+<text x="156.0" y="294.0" font-size="13" fill="#0b0b0b">два квадрата с одной стороны, на том же расстоянии</text>
+<text x="156.0" y="311.0" font-size="13" fill="#eb6834" font-weight="600">русскоязычные различают медленнее</text>
+<text x="60.0" y="340.0" font-size="13" fill="#52514e">У англоязычных разницы между двумя случаями нет.</text>
+<text x="28.0" y="368.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Винавер и др., 2007. Выигрыш — доли секунды, и он пропадает, когда зритель должен повторять</tspan><tspan x="28.0" dy="14.4">про себя цифры: слова заняты. Схема опыта, а не его данные.</tspan></text>
+</svg>

@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–49 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `50`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–50 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `51`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–49.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–50.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -339,6 +339,14 @@ articles as closely as possible. In practice:
 | кучка может уехать | the heap can leave | the author's 2012 argument on tax competition: "a man can be taxed where he lives; a heap lives where it pays less" (49) |
 | кучки без наследников и похорон | heaps with neither heirs nor funerals | firms: death divides a man's fortune among heirs, a firm is only swallowed, and "swallowed" is the loser's matches going to the winner; the game among them has one brake fewer (40, 44, 49) |
 | сбор натурой | a levy in kind | among the lines of machines: knowledge leaks from the big heap into the small ones by copying (45) and nobody votes for it, while chips do not leak; one of three brakes on their running into one (49) |
+| подлежащее (графа «кто») | the subject of a sentence (the column "who") | "our oldest hypothesis: every action has a master"; a sentence is a form in which the column "who" is printed beforehand and is not accepted empty; the hypothesis sits "not in what is said but in how", so it is handed on without ever being stated (50) |
+| заместитель по общим вопросам | deputy for general questions | Oleg's name for the empty subject (the "it" of "it rains"; in Russian the neuter ending of the one-word verb): a post in the staff list with nobody behind it (50) |
+| привычка старше слов | the habit is older than the words | the open correction of 02: seeing a somebody behind every movement comes from the alarm of 39 (a baby and a dog have it), not from language; language is where it is "cast in metal" (50) |
+| школа кладёт дорожку поперёк грядки | school lays a path across the bed | why the weeding of 02 never ends: the weed stays where it was, and a hurried physicist steps off the path ("trees give off oxygen so that animals can breathe") (50) |
+| бухгалтерия стаи | the bookkeeping of a pack | what the column "who" is for: debts and blame cannot be kept without names (43); right in a village, wrong about the rain, a crisis and history; "I" is the same column filled in for oneself after the deed (50) |
+| отчёт, а не показание прибора | a report, not a reading off an instrument | the sentence "I decided": drawn up after the deed, with reasons attached (the changed photographs); a machine's account of how it added is a report of the same kind (50) |
+| сказать длинным путём | to say it the long way | the test for a sentence with a "who" in it, Andrey's own "the technosphere needs" included: can it be unfolded so that the "who" goes and nothing else is lost; where it cannot, "I have smuggled a master in" (50) |
+| самое антропоцентричное существо | the most anthropocentric being | a machine trained on our texts, for now: it received "our picture of the world without the world: every column filled in, and nothing to check the columns against" (50) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
