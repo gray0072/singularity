@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–52 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `53`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–53 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `54`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–52.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–53.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -366,6 +366,18 @@ articles as closely as possible. In practice:
 | разные части в разные строки | different parts into different rows | a former master is not one thing with one fate (the dinosaurs: the tit, the chicken, the parrot, the print); "will mankind survive" is badly posed: which part of it, into which row, and on what that row hangs (52) |
 | «наши дети» (супер-дитя) | "our children" (the super-child) | the reader's objection under 12 and the author's 2012 consolation; in 52 it is the row "a descendant", by images and not by genes: "our words go into the descendant, we do not"; "kinship is a fact about where a line came from, not a promise" |
 | поторговаться о строке | to bargain over the row | Oleg's strongest objection in 52: not one former master understood what was happening, and we do; "there is no precedent: not one of them could read"; left open for the end of the summer (65, 66) |
+| кастрюля и жидкость (фарады и кулоны) | the pot and the liquid (farads and coulombs) | the author's 2013 image: intelligence is what the pot can hold, mind is what has been poured into it; "the same number is a promise while the pot is empty and a limit when it is full"; twins raised at home and in the forest have the same pot (53) |
+| только снаружи и только вовремя | only from outside, and only on time | where the liquid comes from: the girl found in 1970, the deaf who met sign language at four and at twelve; "no teacher pours into a pot whose hour has passed" (53) |
+| миллион Менделеевых | a million Mendeleevs | the author's 2012 arithmetic: a million of them give the knowledge of two or three, because everybody first carries in the same common part and puts his own on top, "into what room is left"; turned on the machines: a million identical copies know what one knows, but carry the common part in once (53) |
+| общая часть и напёрсток | the common part and the thimble | everything that lies before the edge of knowledge, which each head has to carry in, and what room is left on top for its own; the real Mendeleev "had room", today the common part takes nearly the whole pot (53) |
+| специализация как лакмусовая бумажка | specialisation as litmus paper | the author's 2017 line: narrow specialisation shows a system in saturation; "a full pot does not look like stupidity, it looks like a specialist" (53) |
+| бремя знаний | burden of knowledge | Jones's term (2009) for the growing road to the edge: the age at a first patent rises by two thirds of a year a decade, teams grow, inventors change field less often; in 53 the economists' name for the common part |
+| в восемнадцать раз больше исследователей | eighteen times the researchers | what the same doubling of chips took in 2014 against 1971 (Bloom and others, 2020); the squirrel's wheel of 40, counted by who has to make the inventions (53) |
+| яблоко и лестница | the apple and the ladder | "the fruit hangs higher" and "the ladder is short" are one sentence said from two ends: "harder to find" is not a property of ideas but ideas measured against a human pot; the weed of 02 "come up in a new pot" as "man can learn anything, he was only badly taught" (53) |
+| личный академик (машинный учитель) | personal academician (machine teacher) | Oleg's name for the talking machine as a tutor; it widens one of the three narrow places of 45 (the mouth) and leaves the ear and the growing of the skill as they were: "it pours faster, where the pupil lets it; the pot is the same" (53) |
+| грызть или спрашивать | to gnaw or to ask | the wolf's and the dog's way with a closed box (48), turned on pupils: "the liquid goes in only through the gnawing; when he asks, it is poured past the pot"; the school in Turkey and the course at Harvard (53) |
+| экраном вниз | the screen down | Andrey's test of whose a piece of knowledge is: what a man can explain with the phone lying screen down is in his pot, what he cannot is in the pot of the pair "man and machine", and the shares are counted as in 12 (52, 53) |
+| конденсаторы параллельно | capacitors in parallel | the author's 2013 arithmetic of the symbiosis: one microfarad joined to a hundred gives a hundred and one; to the small one the large is nearly everything, to the large one the small is one per cent: "who needs whom" (53) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

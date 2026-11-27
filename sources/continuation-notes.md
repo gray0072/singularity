@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 20).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 21).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,9 +570,12 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51 and 52 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52 and 53 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
+  From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
+  half a tick in pencil (the great-nephew solved one problem of two with the screen down), to be inked if the mark
+  of 53 for the autumn of 2036 fails.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -3444,3 +3447,190 @@ the technosphere leaving for space → 61; the button, still a question (48); th
 → 53 (Oleg's last doubt: "One thing your page has not got. A former master who learns from the new one... Perhaps
 we shall grow. — The academician is there. The pot is the same... Ask the boy tomorrow to solve one problem with
 the pocket lying on the table, screen down"); the third assembly (the portrait of the heir) → 64.
+
+## 53. A Million Mendeleevs
+
+**Established**
+- The answer to the teaser of 52 ("The academician is there. The pot is the same... Ask the boy tomorrow to solve
+  one problem with the pocket lying on the table, screen down"). Oleg comes with his school problem book of the
+  ninth form and the result of a video call at noon: **"One all."** A block on a slope with friction: eight
+  minutes, and the boy explained it "so that I understood, which is more than our physics master managed in 1981".
+  A ladder against a wall: forty minutes, not solved ("he looked at the pocket the way Gaika looks at a sausage");
+  with the screen up, two minutes. Oleg claims **half a tick of his own**; Andrey: "Put it down. In pencil...
+  Because we have not yet agreed what it was that the academician filled."
+- **Oleg's thesis (the plan's "best objection")**: the ceiling of 11 "was a ceiling of teachers" (one for thirty
+  heads, with a cold, a queue at the door); now every head has its own, never tired, "at three in the morning".
+  "It has been taken off." Andrey: "the best thing that can be said against the eleventh evening. And I owe on it":
+  in 2012 nobody got out of him what would make him take the limit back (the open thread of the seminar note).
+- **The pot and the liquid** (the author's 2013 image; the forum debt). Descent through the ladle of Oleg's foundry
+  ("Five tonnes... Can there be six? — There can. On the floor"; filled twice as fast it is "full twice as soon.
+  Five"). The capacitor: farads and coulombs. **"Intelligence is the capacity. Mind is what has been poured in."**
+  The refinement of 16's one line ("intelligence is the ceiling, mind fills it" was "half the truth"): "A ceiling
+  is what that number looks like from a full pot. From an empty one the same number is a promise" (the author's
+  "potential when nearly empty, limit when nearly full"); a "gifted" child and "an old man who is full" (44) may
+  have the same number. The farads are stamped nowhere: "we see only the liquid". The author's twins (one at home
+  and through an institute, one in a wolf's den): the same intelligence, a different mind.
+- **"The liquid comes only from outside, and only on time."** The girl found in Los Angeles in 1970 at thirteen
+  (words by the hundred, sentences not); "so as not to lean on one unhappy child", the deaf signers who met sign
+  language at four or at twelve and after thirty years of daily use still differ (1990). Oleg: "The kitten's eye.
+  The window" (44). **Andrey corrects article 11**: "their memory was already taken" was "roughly said: the window,
+  it seems, shuts by the calendar". "No teacher pours into a pot whose hour has passed."
+- **What the academician is for**: to reach "the edge", where nobody has been; Oleg "got to the plant" (fifteen
+  years; the boy till thirty: the doubt deferred from 40 is taken up). Ages: Mendeleev thirty-five ("Old. With that
+  beard"), Newton twenty-three, Einstein twenty-six, Dirac twenty-five; the author's 2012 question about knowing
+  Dirac's equation at three. **"Personal academicians are not new"**: the prince who had Aristotle from thirteen
+  ("He conquered. Half the world. — And died at thirty-two"); the Englishman born in 1806 (Mill, unnamed; Greek at
+  three, Latin at eight; "an advantage of a quarter of a century"; broke down at twenty; the first great book at
+  thirty-six): **"The teacher poured faster. The book did not come sooner."** ("One Englishman. — One.")
+- **The count** (Jones 2009): 55,000 American inventors with known birthdays, patents of 1975–1999: the age at a
+  first patent up by two thirds of a year a decade; inventors per patent from 1.73 to 2.33; the lone inventor
+  changes field less and less often; "the death of the Renaissance man". Jones 2010: the age of the great work up
+  by about six years over the twentieth century, "and the years are lost at the beginning" (about eight years
+  later). **Oleg's objection (the continuation's)**: "That is not a pot, that is a queue" (44: the chair is taken,
+  the grant comes past forty). Answer: "For a patent nobody asks leave: an idea and a fee. And a queue would eat
+  the years in the middle. They are gone from the start, where the school is."
+- **A million Mendeleevs** (the author, 2012; the title). Oleg: take more heads, "Not one Mendeleev: a million."
+  Why two or three: each of the million first has to "carry in everything that lies before the edge. His own goes
+  on top, into what room is left... the common part is counted a million times and the room on top once each."
+  The real Mendeleev "had room" (oil, the balloon, weights and measures, the cheese dairies on the day of the
+  table, suitcases made with his own hands); move the edge 150 years on and "what is left on top is a thimble".
+  Oleg supplies the strip ("an engineer for gating systems"). **The author's 2017 line: narrow specialisation is
+  litmus paper of a system in saturation. "A full pot does not look like stupidity. It looks like a specialist."**
+  Teams as "capacitors in parallel: the farads add" (the 2015 paper with 5,154 authors, "nine pages of physics and
+  twenty-four pages of names"; "At the plant that was called the payroll"); the wires between the pots are the 39
+  bits of 45.
+- **The bill** (the plan's line to retell): Moore's law since 1971; by 2014 the doubling took **eighteen times more
+  researchers** than in the early seventies; over the American economy the yield of a researcher halves every
+  thirteen years. Oleg: "The squirrel in the wheel" (40). "There we saw that the inventions have to come sooner
+  every time. Here is the count of who has to make them."
+- **The exposure of anthropocentrism**. Oleg: the low apples were picked, "ideas are harder to find". "Harder for
+  whom?... 'High' is not a property of the apple. It is the apple measured against a ladder. 'The fruit hangs
+  higher' and 'the ladder is short' are one sentence, said from two ends. And we always say it from the apple's
+  end. — Because the ladder is us." The dog's pot ("A decent one"; she will not learn the multiplication table),
+  the fly, "And a man?... I was going to say yes"; the author's question about the six thousand languages.
+  **"Everybody has a pot: the fly, the dog, the neighbour. And ours has no bottom."** The weed of 02 "has come up
+  in a new pot. 'Man can learn anything, he was only badly taught.' It sounds like a complaint about teachers."
+- **Oleg's objection (the continuation's): the pot grows**, test scores rise with every generation. About three
+  points a decade through the twentieth century; in Norway, for conscripts born after 1975, the score goes down,
+  and inside one family (2018): "Brothers get their pots from the same parents. — So it was the liquid." "A pot can
+  be dented by hunger, and the dent can be beaten out. That is not growth."
+- **The machine teacher, both results** (as the plan asks). Chicago, 1984: the tutored average pupil above 98 in
+  100 of a class of thirty, called "a problem and not a result"; later counts of live tutors "under half of that".
+  Turkey (2025): textbook, the machine as it comes, the machine as a teacher; practice +48% and +127%; the
+  examination with screens down −17% and "the same as the textbook. Not worse. And not better." Harvard (2025): 194
+  students, a tutor built by the lecturers, a crossover with a live class: more than twice the gain, 49 minutes
+  against an hour. "So which of them is right? — Both." Oleg: "In Turkey the machine solved for them. At Harvard it
+  made them solve." **"To gnaw or to ask" (48). "The liquid goes in only through the gnawing. When he asks, it is
+  poured past the pot."** "The slope he had gnawed at some time. The ladder he had asked."
+- **What the academician changed**: one of the three narrow places of 45. The mouth is "wide now, and patient";
+  the ear (39 bits) and the growing of the skill with a night's sleep (33) are the same. "It pours faster, where
+  the pupil lets it."
+- **The debt of 2012 paid: what would refute the limit.** "Suppose it is faster all the way... and a third of the
+  time is saved. Then your boy stands at the edge not at thirty but at twenty... ten years gained are a century and
+  a half" of the edge's retreat. **"If it comes to pass, I take the eleventh evening back. Not for ever, the pot is
+  the same. For a long time."** Why he thinks not, "of different strength": measured (most will ask, "a skill that
+  is not needed is not guarded", 42); one Englishman; and a question with no answer: **"A mind ages by filling (44).
+  Pour twice as fast, and when is the pot full? — At thirty... An old man of thirty. — I don't know. Nobody has
+  measured that."**
+- **Oleg's strongest objection (the plan's)**: do not walk to the edge, "let the pocket remember the road"; a man
+  keeps "the thimble: the idea, the question". Answer as planned: "Then who made the discovery?" The author's 2013
+  capacitors (one microfarad in parallel with a hundred: "A hundred and one... The pair's... who needs whom?");
+  **the discovery was made by the system "man and machine", and the shares are counted as in 12.** Oleg: "For now
+  the one per cent is the one who asks the question. The customer" (22). **The test "the screen down"**: "What he
+  can explain with the screen down is in his pot. What he cannot is in the pair's."
+- **The machines are brought in by Oleg, after the middle** ("Those ones. Do they have a pot?"). The author's 2013
+  answer: "intelligence is the limit... the technosphere has one too and always will. The only question is whether
+  it is larger than ours." Three differences, all from earlier evenings: filled once and copied (26); redrawn every
+  year or two, "there is a drawing board" (52); "theirs fills too" (the loss of plasticity of 44). Oleg's card: "a
+  country of geniuses in a server room... your million Mendeleevs. Sitting in my foundry." Andrey: "a million
+  identical Mendeleevs know what one knows" and "a copy with no search is a stop" (45), against them; for them,
+  **"Our million carried in the common part a million times, thirty years each. Theirs carry it in once"**, and can
+  go "from the same edge in a million directions". Whether anything new is found so, "and who will understand it",
+  is deferred to an evening of its own (60); Oleg: "I'll bring it."
+- **Two new marks** (the first of Part VI; written by Oleg under the half tick). (1) Slow: the age at a first
+  invention, counted as in 2009, "for work done by a head, with the screen down", **will not turn down by the
+  autumn of 2041, three to one**; if it turns down only with the screen up, the discovery is the pair's; "this
+  needle grows muddier every year. Soon there will be nobody at the edge with the screen down." (2) Fast: the
+  international test of fifteen-year-olds in mathematics (PISA, unnamed; 463 in 2025, the lowest on record, 472 in
+  2022): **by the autumn of 2036 no round will have come out above the level of 2022, two to one**; if one does,
+  "ink over the pencil. A whole tick, and yours." "The needle is dirty... — Dirty. I have no cleaner one."
+- Strengths stated: solid (the count of inventors; the eighteen times; the two experiments "each as far as it goes,
+  one school and one course"; the deaf signers; the Norwegian brothers); argued about (why the age goes up: the
+  economists speak of the burden of knowledge and "do not say that the pot is near the brim"); the author's (the
+  pot and the liquid, the million Mendeleevs, specialisation as litmus paper); "a reading and not a measurement:
+  that we are near the brim. Nobody has seen the brim"; a question (whether a pot filled faster grows old sooner).
+  "And what do I tell the boy? — Nothing. Ask him tomorrow to explain the ladder to you. With the screen down."
+- Nobody says the forbidden word; twenty-first tick "again": "Came with a problem book, to show that we shall grow.
+  Came out at who needs whom, in microfarads. And put those ones into my foundry myself." Oleg's own half tick stays
+  in pencil until the mark of 2036.
+
+**Images and devices used**: the fourteenth entry in the notebook of dreams (the blank examination ticket, the
+great-nephew as examiner, "ask it yourself"; nobody rang); the problem book without a cover; "One all"; the slope
+and the ski jump; the pocket and the sausage; half a tick in pencil; the teacher with a cold; "Another pot? We
+boiled one in the spring"; the pot drawn in the ash; the five-tonne ladle and the sixth tonne on the floor; farads
+"stamped on a man"; the twins; "With that beard"; the princes; the quarter of a century; "an idea and a fee"; the
+room on top and the thimble; the cheese dairies and the suitcases; the engineer for gating systems; the transistor
+that has nothing more to give; the payroll; the apple and the stepladder; Gaika's one standing ear; the fly ("Stop
+it"); the six thousand languages; the weed in a new pot; the dent beaten out; "Solved. In the pocket"; poured past
+the pot; one out of three; an old man of thirty; one microfarad and a hundred; the foundry full of Mendeleevs;
+ink over the pencil; the dirty needle; the teaser (the clever with long teeth, "It was not fools who made the
+bomb", the dove with a twig in its beak, "Have you ever seen doves fight? — Doves? They coo").
+
+**Facts used**. **Checked on the day of writing against the papers**: Jones, "The Burden of Knowledge and the
+'Death of the Renaissance Man'" (*Review of Economic Studies*, 2009, doi:10.1111/j.1467-937X.2008.00531.x: ages of
+55,000 inventors, 2.1 million US patents of 1975–1999, age at first innovation +0.66 years per decade for those
+first seen at 25–35 after 1985, team size 1.73 → 2.33, the probability of switching field falling by about 6% a
+decade); Jones, "Age and Great Invention" (*Review of Economics and Statistics*, 2010, doi:10.1162/rest.2009.11724;
+the abstract: about 6 years over the century, major ideas begin 8 years later); Bloom, Jones, Van Reenen & Webb,
+"Are Ideas Getting Harder to Find?" (*American Economic Review*, 2020, doi:10.1257/aer.20180338: "more than 18
+times" for Moore's law between 1971 and 2014; aggregate research productivity halves in about 13 years; research
+effort up 23 times since the 1930s, not used); Bastani and others, "Generative AI without guardrails can harm
+learning" (*PNAS*, 2025, doi:10.1073/pnas.2422633122: nearly 1,000 pupils of grades 9–11 in a large school in
+Turkey, +48% and +127% in practice, −17% and no significant difference on the unassisted examination; a correction
+to the paper was published in August 2025 and was not read); Kestin and others, "AI tutoring outperforms in-class
+active learning" (*Scientific Reports*, 2025, doi:10.1038/s41598-025-97652-6: 194 students of a Harvard physics
+course, a crossover over two lessons, the AI lesson at home, median gains "over double", median 49 minutes against
+a 60-minute class; effect size 0.73–1.3 SD); the Crossref records of Bloom 1984 ("The 2 Sigma Problem"), VanLehn
+2011, Newport 1990 ("Maturational Constraints on Language Learning"), Bratsberg & Rogeberg 2018 ("Flynn effect and
+its reversal are both environmentally caused") and Park, Leahey & Funk 2023 (not used); PISA 2025 (released on 8
+September 2026: the OECD average in mathematics 463, 9 points below 2022, "the lowest average ever recorded"; from
+two web searches, the OECD pages themselves refuse scripts with 403); the Russian Wikipedia pages for Genie, Mill
+and Moore's law (through the API). **From memory, not checked**: the ages of Mendeleev (35 in 1869), Newton (23 in
+1666), Einstein (26 in 1905) and Dirac (25 in 1928); Aristotle as Alexander's tutor from 343 BC and Alexander's
+death at 32; Mill (born 1806; Greek at three, Latin at eight; the sentence of the *Autobiography* about "an
+advantage of a quarter of a century over my contemporaries"; the crisis of 1826; *A System of Logic*, 1843, at 36);
+Mendeleev's balloon flight of 1887, the Chamber of Weights and Measures, the planned inspection of cheese-making
+co-operatives in February 1869 and his suitcases; the case of Genie (found in November 1970 at 13; vocabulary
+without grammar); Newport's design (native, early and late learners of American Sign Language with thirty years or
+more of daily use); the paper of ATLAS and CMS on the mass of the Higgs boson (*Physical Review Letters* 114,
+191803, 2015: 5,154 authors, 9 pages of text and 24 of names); Bloom's "above 98%" of the control class and
+VanLehn's 0.79 SD for human tutoring; the Flynn effect at about three points a decade and its reversal for
+Norwegian cohorts born after 1975, also within families; "a country of geniuses in a datacenter" (a 2024 essay by
+the head of an AI company; unnamed). The author's sources: the forum post of 10 November 2013 (the pot and the
+liquid, farads and coulombs, the twins and Mowgli, "интеллект — это и есть предел... И у техносферы он есть тоже и
+будет всегда", the capacitors of 1 and 100 microfarads); the forum post of 1 June 2017 ("Узкая специализация
+является «лакмусовой бумажкой»... входа интеллектуальной системы хомо-сапиенсов в «режим насыщения»"; the reader's
+objection paraphrased, unnamed); the seminar thread of 2012 ("Взяв 1000000 Менделеевых, в лучшем случае можно
+получить совокупное знание двух-трех Менделеевых"; Dirac's equation at three; the 6,000 languages; flies and dogs
+have ceilings); article 11 (the limit of learning; Mowgli's memory "already taken"). Invented for the frame
+(Oleg's side): the dream, the problem book of the ninth form and the physics master of 1981, the two problems and
+the video call, the five-tonne ladle, the engineer for gating systems, the payroll. Not used: Park, Leahey & Funk
+2023 (papers and patents becoming less disruptive; the method is disputed); Wuchty, Jones & Uzzi 2007 (teams in
+science); the research effort up 23 times since the 1930s; the crops and the drugs of Bloom and others; child
+prodigies (Sidis, Wiener); Hartshorne, Tenenbaum & Pinker 2018 on the age of learning grammar; the World Bank's
+after-school trial in Nigeria (2025); the median age at a doctorate; Bullmore & Laughlin on the energy limits of
+the brain (the author's 2011 link in 11).
+
+**Figures**: `the-pot-and-the-liquid` (a scheme of the author's image: the twins and the two teachers; not a
+measurement), `eighteen-times-the-researchers` (two bars from Bloom and others and three signs from Jones),
+`with-the-machine-and-screen-down` (the Turkish school: practice and examination against the textbook group; a
+note on Harvard).
+
+**Left for later**: the two marks, to be checked with the list of 30 (the test of fifteen-year-olds by the autumn
+of 2036, two to one; the age at a first invention by the autumn of 2041, three to one) → 67; Oleg's half tick in
+pencil (inked if the first mark fails); whether a pot filled faster grows old sooner ("Nobody has measured that")
+→ open; whether a million copies going different ways find what is not in the books, and who will understand it →
+60 (Oleg: "I'll bring it"); the shares in a discovery made by the pair → 57 (dividends) or 60; the pot of the
+machines and its growth → 64 (the portrait: knowledge); the clever with long teeth and the dove → 54 (Oleg's last
+doubt: "the cleverer, the longer the teeth... Give me a meek creature any day. A dove, with a twig in its beak. —
+Have you ever seen doves fight? — Doves? They coo. — Then tomorrow about doves").

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Кастрюля и жидкость</title>
+
+<rect x="0.5" y="0.5" width="759" height="399" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Кастрюля и жидкость</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Интеллект — сколько в кастрюлю входит (фарады). Разум — то, что в неё налито (кулоны).</text>
+<text x="190.0" y="94.0" font-size="13" fill="#52514e" text-anchor="middle" font-weight="600">близнецы: кастрюли одинаковые</text>
+<text x="562.0" y="94.0" font-size="13" fill="#52514e" text-anchor="middle" font-weight="600">одна кастрюля, два учителя</text>
+<line x1="372.0" y1="82.0" x2="372.0" y2="350.0" stroke="#e9e8e4" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="74.0" y="198.6" width="96.0" height="80.4" rx="2" fill="#2a78d6" fill-opacity="0.55"/>
+<path d="M70,178 L70,282 L174,282 L174,178" stroke="#52514e" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="54.0" y1="190.0" x2="70.0" y2="190.0" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<line x1="174.0" y1="190.0" x2="190.0" y2="190.0" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<text x="122.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle"><tspan x="122.0" dy="0.0">вырос дома:</tspan><tspan x="122.0" dy="15.0">школа, институт</tspan></text>
+<text x="122.0" y="148.0" font-size="12.5" fill="#2a78d6" text-anchor="middle" font-weight="600">разума много</text>
+<rect x="210.0" y="269.2" width="96.0" height="9.8" rx="2" fill="#2a78d6" fill-opacity="0.55"/>
+<path d="M206,178 L206,282 L310,282 L310,178" stroke="#52514e" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="190.0" y1="190.0" x2="206.0" y2="190.0" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<line x1="310.0" y1="190.0" x2="326.0" y2="190.0" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<text x="258.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle"><tspan x="258.0" dy="0.0">вырос в лесу:</tspan><tspan x="258.0" dy="15.0">вовремя не налили</tspan></text>
+<text x="258.0" y="148.0" font-size="12.5" fill="#2a78d6" text-anchor="middle" font-weight="600">разума мало</text>
+<line x1="54.0" y1="178.0" x2="326.0" y2="178.0" stroke="#e34948" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="5 5"/>
+<text x="190.0" y="170.0" font-size="12" fill="#e34948" text-anchor="middle" font-style="italic">интеллект один и тот же</text>
+<rect x="446.0" y="249.6" width="96.0" height="29.4" rx="2" fill="#eb6834" fill-opacity="0.55"/>
+<path d="M442,178 L442,282 L546,282 L546,178" stroke="#52514e" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="426.0" y1="190.0" x2="442.0" y2="190.0" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<line x1="546.0" y1="190.0" x2="562.0" y2="190.0" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<rect x="492.0" y="132.0" width="4.0" height="117.6" rx="1" fill="#eb6834" fill-opacity="0.55"/>
+<text x="494.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle"><tspan x="494.0" dy="0.0">один учитель</tspan><tspan x="494.0" dy="15.0">на тридцать</tspan></text>
+<text x="494.0" y="344.0" font-size="12.5" fill="#eb6834" text-anchor="middle" font-weight="600">наполнится поздно</text>
+<rect x="582.0" y="198.6" width="96.0" height="80.4" rx="2" fill="#eb6834" fill-opacity="0.55"/>
+<path d="M578,178 L578,282 L682,282 L682,178" stroke="#52514e" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="562.0" y1="190.0" x2="578.0" y2="190.0" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<line x1="682.0" y1="190.0" x2="698.0" y2="190.0" stroke="#52514e" stroke-width="3" stroke-linecap="round"/>
+<rect x="622.0" y="132.0" width="16.0" height="66.6" rx="1" fill="#eb6834" fill-opacity="0.55"/>
+<text x="630.0" y="304.0" font-size="12" fill="#52514e" text-anchor="middle"><tspan x="630.0" dy="0.0">собственный</tspan><tspan x="630.0" dy="15.0">учитель</tspan></text>
+<text x="630.0" y="344.0" font-size="12.5" fill="#eb6834" text-anchor="middle" font-weight="600">наполнится раньше</text>
+<line x1="426.0" y1="178.0" x2="698.0" y2="178.0" stroke="#e34948" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="5 5"/>
+<text x="562.0" y="120.0" font-size="12" fill="#e34948" text-anchor="middle" font-style="italic">кромка там же</text>
+<text x="28.0" y="380.0" font-size="11.5" fill="#8a8985">Образ автора, 2013 год (форум). Схема, а не измерение: кромку человеческой кастрюли никто не видел.</text>
+</svg>

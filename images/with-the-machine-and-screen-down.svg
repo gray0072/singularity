@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>With the machine, and with the screen down</title>
+
+<rect x="0.5" y="0.5" width="759" height="391" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">With the machine, and with the screen down</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">A school in Turkey, nearly 1,000 pupils, mathematics. Grades against the group that had only a textbook.</text>
+<rect x="196.0" y="84.0" width="14.0" height="14.0" rx="3" fill="#8a8985"/>
+<text x="218.0" y="96.0" font-size="12.5" fill="#52514e">the machine as it comes</text>
+<rect x="406.0" y="84.0" width="14.0" height="14.0" rx="3" fill="#2a78d6"/>
+<text x="428.0" y="96.0" font-size="12.5" fill="#52514e">the machine as a teacher: hints, no answers</text>
+<text x="40.0" y="148.0" font-size="13.5" fill="#0b0b0b" font-weight="600"><tspan x="40.0" dy="0.0">practice problems,</tspan><tspan x="40.0" dy="16.9">with the machine</tspan></text>
+<rect x="276.0" y="126.0" width="124.8" height="24.0" rx="2" fill="#8a8985" fill-opacity="0.9"/>
+<text x="410.8" y="143.0" font-size="13.5" fill="#0b0b0b" font-weight="600">+48%</text>
+<rect x="276.0" y="158.0" width="330.2" height="24.0" rx="2" fill="#2a78d6" fill-opacity="0.9"/>
+<text x="616.2" y="175.0" font-size="13.5" fill="#0b0b0b" font-weight="600">+127%</text>
+<line x1="28.0" y1="204.0" x2="732.0" y2="204.0" stroke="#e9e8e4" stroke-width="1.5" stroke-linecap="round"/>
+<text x="40.0" y="244.0" font-size="13.5" fill="#0b0b0b" font-weight="600"><tspan x="40.0" dy="0.0">the examination,</tspan><tspan x="40.0" dy="16.9">screens down</tspan></text>
+<rect x="231.8" y="222.0" width="44.2" height="24.0" rx="2" fill="#e34948" fill-opacity="0.9"/>
+<text x="286.0" y="239.0" font-size="13.5" fill="#e34948" font-weight="600">−17%</text>
+<rect x="274.0" y="254.0" width="4.0" height="24.0" rx="1" fill="#2a78d6"/>
+<text x="286.0" y="271.0" font-size="13.5" fill="#0b0b0b" font-weight="600">no difference</text>
+<line x1="276.0" y1="116.0" x2="276.0" y2="296.0" stroke="#52514e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="276.0" y="314.0" font-size="11.5" fill="#8a8985" text-anchor="middle">the textbook</text>
+<text x="28.0" y="350.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Bastani and others (2025). The opposite result: Harvard, 194 students, a machine teacher built by the lecturers;</tspan><tspan x="28.0" dy="14.4">the gain from one lesson was more than twice that of a live class (Kestin and others, 2025).</tspan></text>
+</svg>

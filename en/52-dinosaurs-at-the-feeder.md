@@ -429,4 +429,4 @@ Oleg got up and whistled to the dog.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [07](./07-global-economic-crisis.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [14](./14-apoptosis-of-humanity.md), [19](./19-struggle-of-images.md), [34](./34-where-the-horses-went.md), [38](./38-oxygen-was-a-poison.md), [39](./39-price-of-a-false-alarm.md), [40](./40-firms-die-cities-do-not.md), [42](./42-swallowed-bacterium.md), [45](./45-lamarck-was-right.md), [46](./46-flies-apart-from-cutlets.md), [48](./48-who-tamed-whom.md), [50](./50-what-is-the-it.md), [51](./51-week-without-a-socket.md).
 
-[← 51](./51-week-without-a-socket.md) · [Contents](./README.md)
+[← 51](./51-week-without-a-socket.md) · [Contents](./README.md) · [53 →](./53-million-mendeleevs.md)

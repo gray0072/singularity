@@ -4758,6 +4758,153 @@ def which_part_into_which_row(lang):
     return f
 
 
+# --- 53. A Million Mendeleevs --------------------------------------------------------------------
+
+def _pot(f, x, y, w, h, level, color, stream=None):
+    """A pot in section: walls and bottom, the liquid up to `level` (0..1), an optional stream from above."""
+    fill_h = (h - 6) * level
+    if fill_h > 0:
+        f.rect(x + 4, y + h - 3 - fill_h, w - 8, fill_h, fill=color, r=2, opacity=0.55)
+    f.path(f"M{x},{y} L{x},{y + h} L{x + w},{y + h} L{x + w},{y}", color=INK2, width=3)
+    f.line(x - 16, y + 12, x, y + 12, color=INK2, width=3)
+    f.line(x + w, y + 12, x + w + 16, y + 12, color=INK2, width=3)
+    if stream:
+        sx, sw = stream
+        f.rect(sx - sw / 2, y - 46, sw, 46 + h - 3 - fill_h, fill=color, r=1, opacity=0.55)
+
+
+@figure("the-pot-and-the-liquid")
+def the_pot_and_the_liquid(lang):
+    t = {
+        "en": dict(title="The pot and the liquid",
+                   sub="Intelligence is what the pot can hold (farads). Mind is what has been poured into it (coulombs).",
+                   left="twins: the same pot", right="one pot, two teachers",
+                   twins=[("grew up at home:\nschool, an institute", "the mind is large"),
+                          ("grew up in the forest:\nnothing poured in on time", "the mind is small")],
+                   same="the intelligence is the same",
+                   taps=[("one teacher\nfor thirty", "fills late"), ("a teacher\nof one's own", "fills sooner")],
+                   brim="the brim is where it was",
+                   src="The author's image of 2013 (the forum). A scheme and not a measurement: nobody has seen the brim of a human pot."),
+        "ru": dict(title="Кастрюля и жидкость",
+                   sub="Интеллект — сколько в кастрюлю входит (фарады). Разум — то, что в неё налито (кулоны).",
+                   left="близнецы: кастрюли одинаковые", right="одна кастрюля, два учителя",
+                   twins=[("вырос дома:\nшкола, институт", "разума много"),
+                          ("вырос в лесу:\nвовремя не налили", "разума мало")],
+                   same="интеллект один и тот же",
+                   taps=[("один учитель\nна тридцать", "наполнится поздно"), ("собственный\nучитель", "наполнится раньше")],
+                   brim="кромка там же",
+                   src="Образ автора, 2013 год (форум). Схема, а не измерение: кромку человеческой кастрюли никто не видел."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    f.text(190, 94, t["left"], size=13, color=INK2, anchor="middle", weight="600")
+    f.text(562, 94, t["right"], size=13, color=INK2, anchor="middle", weight="600")
+    f.line(372, 82, 372, 350, color=GRID, width=1.5)
+    py, pw, ph = 178, 104, 104
+    # the twins
+    for (x, level), (who, mind) in zip(((70, 0.82), (206, 0.1)), t["twins"]):
+        _pot(f, x, py, pw, ph, level, BLUE)
+        f.text(x + pw / 2, py + ph + 22, who, size=12, color=INK2, anchor="middle")
+        f.text(x + pw / 2, py - 30, mind, size=12.5, color=BLUE, anchor="middle", weight="600")
+    f.line(54, py, 326, py, color=RED, width=1.4, dash="5 5")
+    f.text(190, py - 8, t["same"], size=12, color=RED, anchor="middle", italic=True)
+    # two teachers
+    for (x, level, sw), (who, when) in zip(((442, 0.3, 4), (578, 0.82, 16)), t["taps"]):
+        _pot(f, x, py, pw, ph, level, ORANGE, stream=(x + pw / 2, sw))
+        f.text(x + pw / 2, py + ph + 22, who, size=12, color=INK2, anchor="middle")
+        f.text(x + pw / 2, py + ph + 62, when, size=12.5, color=ORANGE, anchor="middle", weight="600")
+    f.line(426, py, 698, py, color=RED, width=1.4, dash="5 5")
+    f.text(562, py - 58, t["brim"], size=12, color=RED, anchor="middle", italic=True)
+    f.text(28, 380, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("eighteen-times-the-researchers")
+def eighteen_times_the_researchers(lang):
+    t = {
+        "en": dict(title="The same pace, eighteen times the people",
+                   sub="Researchers needed to keep the number of transistors on a chip doubling every two years (1971 = 1).",
+                   rows=[("1971", 1, "1"), ("2014", 18, "18: the doubling is the same, the people are eighteen times more")],
+                   signs="Three more signs of the same thing",
+                   items=[("the age at a first patent", "+ ⅔ of a year every ten years (1985–1999)"),
+                          ("inventors on one patent", "1.73 → 2.33 (1975–1999)"),
+                          ("the age of the great work", "+ about 6 years over the twentieth century")],
+                   src="Bloom, Jones, Van Reenen & Webb (2020); Jones (2009, 2010). The United States; the scale of the bars is linear."),
+        "ru": dict(title="Тот же темп, в восемнадцать раз больше людей",
+                   sub="Сколько исследователей нужно, чтобы число транзисторов на кристалле удваивалось раз в два года (1971 = 1).",
+                   rows=[("1971", 1, "1"), ("2014", 18, "18: удвоение то же, людей в восемнадцать раз больше")],
+                   signs="Ещё три признака того же самого",
+                   items=[("возраст первого патента", "+ ⅔ года за каждые десять лет (1985–1999)"),
+                          ("изобретателей на одном патенте", "1,73 → 2,33 (1975–1999)"),
+                          ("возраст главной работы", "+ около 6 лет за двадцатый век")],
+                   src="Блум, Джонс, Ван Ринен и Уэбб (2020); Джонс (2009, 2010). США; шкала столбиков линейная."),
+    }[lang]
+    f = Fig(760, 388, t["title"])
+    heading(f, t["title"], t["sub"])
+    two_bars(f, t["rows"], 18, [MUTED, ORANGE], x0=96, x1=716, y0=88, row=54)
+    f.line(28, 208, 732, 208, color=GRID, width=1.5)
+    f.text(28, 234, t["signs"], size=13, color=INK2, weight="600")
+    for i, (name, value) in enumerate(t["items"]):
+        y = 262 + i * 28
+        f.circle(36, y - 5, 3.5, fill=ORANGE)
+        f.text(50, y, name, size=13, color=INK)
+        f.text(300, y, value, size=13, color=INK, weight="600")
+    f.text(28, 364, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("with-the-machine-and-screen-down")
+def with_the_machine_and_screen_down(lang):
+    t = {
+        "en": dict(title="With the machine, and with the screen down",
+                   sub="A school in Turkey, nearly 1,000 pupils, mathematics. Grades against the group that had only a textbook.",
+                   groups=["practice problems,\nwith the machine", "the examination,\nscreens down"],
+                   kinds=["the machine as it comes", "the machine as a teacher: hints, no answers"],
+                   vals=[["+48%", "+127%"], ["−17%", "no difference"]],
+                   zero="the textbook",
+                   src="Bastani and others (2025). The opposite result: Harvard, 194 students, a machine teacher built by the lecturers;\n"
+                       "the gain from one lesson was more than twice that of a live class (Kestin and others, 2025)."),
+        "ru": dict(title="С машиной и экраном вниз",
+                   sub="Школа в Турции, почти 1000 учеников, математика. Оценки против группы, у которой был только учебник.",
+                   groups=["тренировочные задачи,\nс машиной", "экзамен,\nэкранами вниз"],
+                   kinds=["машина как есть", "машина в роли учителя: подсказки, без ответов"],
+                   vals=[["+48%", "+127%"], ["−17%", "разницы нет"]],
+                   zero="учебник",
+                   src="Бастани и др. (2025). Противоположный результат: Гарвард, 194 студента, машинный учитель, сделанный\n"
+                       "преподавателями; прибавка за одно занятие больше чем вдвое против живого занятия (Кестин и др., 2025)."),
+    }[lang]
+    f = Fig(760, 392, t["title"])
+    heading(f, t["title"], t["sub"])
+    colors = [MUTED, BLUE]
+    for k, (kind, color) in enumerate(zip(t["kinds"], colors)):
+        x = 196 + k * 210
+        f.rect(x, 84, 14, 14, fill=color, r=3)
+        f.text(x + 22, 96, kind, size=12.5, color=INK2)
+    x0, scale, bar = 276, 2.6, 24
+    data = [[48, 127], [-17, 0]]
+    for g, (group, values) in enumerate(zip(t["groups"], data)):
+        y = 126 + g * 96
+        f.text(40, y + 22, group, size=13.5, color=INK, weight="600")
+        for k, v in enumerate(values):
+            by = y + k * (bar + 8)
+            label = t["vals"][g][k]
+            if v > 0:
+                f.rect(x0, by, v * scale, bar, fill=colors[k], r=2, opacity=0.9)
+                f.text(x0 + v * scale + 10, by + 17, label, size=13.5, color=INK, weight="600")
+            elif v < 0:
+                f.rect(x0 + v * scale, by, -v * scale, bar, fill=RED, r=2, opacity=0.9)
+                f.text(x0 + 10, by + 17, label, size=13.5, color=RED, weight="600")
+            else:
+                f.rect(x0 - 2, by, 4, bar, fill=colors[k], r=1)
+                f.text(x0 + 10, by + 17, label, size=13.5, color=INK, weight="600")
+        if g == 0:
+            f.line(28, y + 78, 732, y + 78, color=GRID, width=1.5)
+    f.line(x0, 116, x0, 296, color=INK2, width=1.5)
+    f.text(x0, 314, t["zero"], size=11.5, color=MUTED, anchor="middle")
+    f.text(28, 350, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

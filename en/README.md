@@ -98,9 +98,10 @@ forbids the word itself. English is the original; Russian is a translation.
 50. [What Is the "It" in "It Is Raining"](50-what-is-the-it.md) — *continuation*
 51. [A Week Without a Socket](51-week-without-a-socket.md) — *continuation*
 52. [Dinosaurs at the Feeder](52-dinosaurs-at-the-feeder.md) — *continuation; the second assembly*
+53. [A Million Mendeleevs](53-million-mendeleevs.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–52 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–53 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–52 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 53. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–53 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 54. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)
