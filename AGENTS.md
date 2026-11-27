@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–51 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `52`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–52 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `53`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–51.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–52.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -355,6 +355,17 @@ articles as closely as possible. In practice:
 | счётчик Кузьминых | the Kuzmins' meter | the switch that already works every day: a program sees a debt and the meter clicks, by a rule people passed themselves (the author, 2017); how Andrey pictures step six of 27, "it stops giving": "there will be no hand" (51) |
 | двусторонний рубильник | two-sided switch | today neither side can pull: people last days without the technosphere, and it "can neither repair itself nor start itself after a fall" without human hands (Tolik with a chainsaw); the symbiosis of 11 counted in time (51) |
 | второй срок (второе число) | the second term (the second number) | for how long the technosphere will go on needing human hands: decades (Andrey's forecast), and shrinking, while our dependence on it is measured in days and grows; "the thing to watch is not the strength of machines" (51) |
+| участь динозавров | the fate of the dinosaurs | the author's 2011 phrase for mankind's exit (07), corrected openly in 52: "The sentence I do not take back. But I had not looked up what that fate was"; one branch came through the stone and sits in the apple tree |
+| кому нужно мало | the one that needs little | who came through the stone: not the strongest and not the cleverest but the small ground bird that ate seeds ("a seed is a tin"); the only row of the table that hangs on nobody (52) |
+| таблица судеб («Куда ушли прежние») | table of fates ("Where the former ones went") | the page of Oleg's notebook assembled in 52: a niche (38), an organelle (42), livestock and a pet (48), a descendant, fuel and, under a line, a print in stone; "a list of what has already happened, not of what can happen" |
+| потомок (строка) | a descendant (the row) | the birds: "kept the line, paid with the size, the role and the name"; the line that goes on is a small side branch, "the tyrannosaur is nobody's grandfather" (52) |
+| топливо (строка) | fuel (the row) | the coal forest: kept nothing, paid everything, "what has been burned is not asked"; of us, everything people have written down, a seam that "can be burned as many times as you like" (52) |
+| отпечаток в камне | a print in stone | the row under the line: whole branches that left nobody (the trilobites); "I have no rule for who lands in that row" and "I cannot cross it out", only it is shorter than the school book made it (52) |
+| ниша как билет лотереи | a niche as a lottery ticket | the niche is where the former ones go and where the next ones wait (the mammals, for 150 million years); "a ticket to a lottery in which the draw is a stone from the sky" (52) |
+| право подписи | the right of signature | Oleg's word for what is paid in every row: the say in what the air will be, what to want, who is born; "a man who is moved aside keeps his office, his ration and the name on the door; he loses the signature" (52) |
+| разные части в разные строки | different parts into different rows | a former master is not one thing with one fate (the dinosaurs: the tit, the chicken, the parrot, the print); "will mankind survive" is badly posed: which part of it, into which row, and on what that row hangs (52) |
+| «наши дети» (супер-дитя) | "our children" (the super-child) | the reader's objection under 12 and the author's 2012 consolation; in 52 it is the row "a descendant", by images and not by genes: "our words go into the descendant, we do not"; "kinship is a fact about where a line came from, not a promise" |
+| поторговаться о строке | to bargain over the row | Oleg's strongest objection in 52: not one former master understood what was happening, and we do; "there is no precedent: not one of them could read"; left open for the end of the summer (65, 66) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

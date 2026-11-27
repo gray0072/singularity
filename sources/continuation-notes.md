@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 19).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 20).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50 and 51 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51 and 52 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
@@ -3247,3 +3247,200 @@ resettlement → 61 (not touched); the hand that does not reach for the switch b
 of law and control → 54 and 55 (not touched); the second number as a gauge: 51 names it and repeats one mark of 27;
 new marks with odds belong to 53, 60 and 64; how step six looks in detail was only pictured (the meter), with no
 date, as in 27.
+
+## 52. Dinosaurs at the Feeder (the second assembly)
+
+**Established**
+- The answer to the teaser of 51 ("Then we go the way of the dinosaurs... — Come before dark tomorrow. I shall show
+  you a few"). Oleg comes before dark; Andrey is pouring sunflower seeds into a feeder cut out of a milk carton in
+  the apple tree. The plan's epigraph is said at once ("Do you know whom I feed all winter? Dinosaurs. In summer
+  they come out of habit"). A great tit ("Seventeen grams") takes a seed. The fire is lit only in the middle of the
+  evening, when it gets dark and the tits have gone.
+- **The descent**: "what is a dinosaur?" (a lizard the size of a house, cold blood, died out); "Is a whale a fish?
+  — One does not go by the looks"; Oleg's control department goes by the route sheet and the number of the melt
+  stamped on a casting: "So by where it comes from." **The bird sits inside the family tree of the dinosaurs**, on
+  the branch of the two-legged hunters, "closer kin to the tyrannosaur than the tyrannosaur is to the three-horned
+  one". "It is stamped on her": the wishbone (yesterday's chicken from the freezer of 51; the bone that "for a
+  hundred years stood between the birds and the dinosaurs": the Bavarian fossil of the 1860s, the Englishman, the
+  collarbones the dinosaurs were thought to lack), hollow bones, three toes, the scales on her legs, the nest (**the
+  "egg thief" of 1923 that for seventy years was listed as a thief "for sitting on its own eggs"**), the feathers
+  (the metre-long one of 1996 with a fringe of down; dozens since, one with four wings, a fluffy nine-metre relative
+  of the tyrannosaur; the grains of pigment: "ginger, with a striped tail").
+- They "were masters of the land for a hundred and sixty million years"; the birds split off about 150 million
+  years ago and lived "beside the big ones". **The stone** (66 million years ago, ten kilometres; the metal in the
+  layer of clay, 1980; the crater of 180 km found later). "The blow killed those who were near. The rest were killed
+  by the dark" (a year or two, "the estimates differ"). Yesterday's question made larger: who in the settlement gets
+  through a year without sun? "Whoever has a cellar." On dry land "almost nothing heavier than a dog like Gaika".
+  Most birds died too (the tree-dwellers "went with the trees"); every bird alive descends from a few that lived on
+  the ground (2018), small, with a beak and no teeth; "A seed is a tin... The forest is dead, and its pantry is
+  full" (2016). **"Not the strongest... not the cleverest. The one that needed little and could eat what keeps."**
+  Oleg: "My grandmother. Yesterday's."
+- The plan's line to retell: about 11,000 kinds of birds against about 6,500 of mammals ("the figures depend on who
+  does the counting, the order does not"); **"By the number of kinds, the age of the dinosaurs is still going on.
+  We call them birds."**
+- **Andrey corrects article 07** (openly): in 2011 he said "people will share the fate of the dinosaurs, and have to
+  clear the road" and meant extinction. "The sentence I do not take back. But I had not looked up what that fate
+  was. I said 'fate' and saw a skeleton in a museum. And it was sitting in my apple tree." Oleg: "Convenient...
+  the gloomy prophecy turns out to mean birdsong. — Wait with the birdsong. Ask what was kept and what was paid."
+- **The page "Where the former ones went" is completed.** Oleg reads the three rows as written in 38, 42 and 48,
+  then writes: (4) **"A descendant: kept the line. Paid with the size, the role and the name"** ("the tyrannosaur
+  is nobody's grandfather": the line is a small side branch; the name: "What did I say when I came? 'That is a
+  tit.'"; "That row hangs on nobody... Take the carton away, and she will live"); (5) **"Fuel"**: kept nothing,
+  paid everything, "What has been burned is not asked" (the coal forest; "two rows for one master": the horsetail
+  in Oleg's potato patch and the club moss under the firs); (6) under a line, **"A print in stone"** (see below).
+  The order on the page is niche, organelle, livestock and pet, descendant, fuel, print (the plan had fuel before
+  the descendant).
+- **The niche read from the other end**: "where were we all that time? — Under their feet", the size of a shrew,
+  out at night; the eyes still pay (two of four sensors of colour lost, one got back by the apes; "A patch", the
+  lock with 46). "Who sits in a niche? — The former ones. — And the next ones." Oleg: "Then one can sit it out."
+  **"A niche is a ticket to a lottery in which the draw is a stone from the sky"** (the anaerobes have been waiting
+  2.4 billion years).
+- **Oleg's first objection (the continuation's, survivorship)**: "The table is too good... Where is the row of those
+  who simply died?... ninety-nine of a hundred... You are showing me the batch that passed inspection... It is the
+  dream book again." Answered in two parts. (1) Ninety-nine of a hundred kinds, yes: a kind lasts a million years or
+  a few, and its chance of dying out does not depend on its age (1973): "Like a glass in the kitchen. Like a firm"
+  (the lock with 40); "The kind dies, the branch goes on". "Will the kind called man last for ever? — No" (300,000
+  years old); the author's 2012 question about the indulgence "that the dinosaurs were not given". (2) **Conceded**:
+  whole branches go (the trilobites; with the stone the flying lizards, "the second wing of the four", the sea
+  lizards, the ammonites). **"I have no rule for who lands in that row."** The sixth row is written "under a line.
+  I cannot cross it out, and I shall not pretend. I say only that it is shorter than the school book made it."
+- **The assembly proper** (what no single evening held). (a) The column "paid" read downwards by Oleg: in the four
+  rows that did not pay everything "it is one and the same thing. They no longer decide. What the air will be. What
+  to want. Who is born. Who is reckoned with": **"the right of signature"** ("A man who is moved aside keeps his
+  office, his ration and the name on the door. He loses the signature"); Andrey says it "the long way" (50). (b) The
+  small print of the column "kept": "while the job is needed", "while the feeder wants", and a new one added to the
+  first row, **"while the place is not needed"**; so **"three rows hang on the new master's cord"** (he does not go
+  there, cannot do it himself, wants it), one he burns, and one hangs on nobody: "The tit and the horsetail. The
+  ones that need little." (c) **A former master is not one thing with one fate**: the dinosaurs sit in three rows
+  (the tit, yesterday's chicken as livestock, the neighbour's parrot as a pet, the big ones under the line), the
+  bacteria in two and "masters to this day, in every leaf", the coal forest in two. So Oleg's sentence of 51 "is
+  worthless... Which one?", and **"will mankind survive" is badly posed: "which part of it, into which row, and on
+  what that row hangs".**
+- **The machines are brought in by Oleg, after the middle**: he draws the column "us" himself ("Since you are
+  sitting with your mouth shut again... the new master in it is those ones. I am saying it"). The niche: the
+  grandmother and yesterday's billion; whether the place will be needed is the author's 2012 forecast (38), "I have
+  no fact". The organelle: Tolik and the customer who wants; "your second number of yesterday. Decades, and
+  shrinking". Livestock and pets: "Fed on schedule... the pension comes on the fifth... Then I am a pet of the
+  pension fund"; "while the feeder wants" is the button of 48, "still a question". Fuel: "They do not burn us. They
+  have watts enough... They were raised on something. On everything people have written in five thousand years.
+  There is your seam"; Andrey: the move of the drawings of 42 "seen from the boiler room. With one difference: coal
+  burns once. A seam of words can be burned as many times as you like. — That is no comfort to the tree."
+- **Oleg's card, "they are our children"** (the reader under 12, never answered; the great-nephew's words). Andrey
+  quotes his own 2012 consolation and its continuation (no more in common with people than people have with a
+  slipper animalcule; "with a very great wish one can pass for the parent of a super-child"). Counted by the three
+  roads of 45: no genes; the second road, through the straw ("Semyonych's 'it sings wrong' did not get in"); images
+  (19), "laid into a thing that then goes on by the third". **Conceded: a descendant it is ("nature does not care
+  what the line is written on"). "But see which part of us takes that row. The part that was written down. Our
+  words go into the descendant. We do not."**
+- **Oleg's counter (the continuation's, left partly open)**: "My grandchildren are not me either... Why is a quarter
+  a consolation, and a library is not?" Andrey: "A good question, and I have no arithmetic for it"; the consolation
+  comes from a button and not from the quarter; "Yours, I see, does answer. — A little." Two things for the notebook:
+  the price of the row ("They will not be called people"; the side branch "is what we wrote down") and what a child
+  owes: **the author's 2012 line, we are the super-children of the single-celled and poison them with antibiotics;
+  "Kinship is a fact about where a line came from. It is not a promise."** "The tit brings no flowers to the
+  museum." One difference granted: "The tit does not know that she is a dinosaur. Ask one of those about people, and
+  now and then it says 'we'"; "Whether that is kinship or an accent, I do not know."
+- **Oleg's strongest objection (the plan's), deferred as planned**: not one of them understood; "We do... Whoever
+  knows the rows beforehand can bargain over the row. Or at least choose." Andrey: "the strongest thing said this
+  evening, and I shall not close it tonight"; against (the author's 2011 line on the dinosaurs who "had not the wit
+  to hasten their exit" by quarrels, people manage easily), for (**"there is no precedent. Not one of the former
+  masters could read"**). "It wants an evening of its own... nearer the end of the summer". Oleg writes **"To
+  bargain"** in capitals with a question mark on the last page.
+- Two points against the table, said by Andrey: every row took millions of years and the horse took forty ("the
+  rows may be the same and the clock quite another"); "a cell kept its lodger because it had no drawing board. This
+  master has one", so the second row "may come out shorter than it reads". The row under the line is not crossed
+  out for us either (14). "One man in several rows. I have counted myself into three."
+- Strengths stated: solid (birds are dinosaurs; the stone and its date; the survivors small and ground-living; the
+  counts of kinds; the age of coal; the chickens); "a reconstruction, and a good one" (the seeds); argued about (why
+  the old forest did not rot); Andrey's (the page as a whole; the price as the signature; several rows and not one;
+  "our children" means our words); "a list of what has already happened, not of what can happen". **"— Gloomy. —
+  Go and look into the apple tree in the morning. She does not find it gloomy. — She does not know that she is a
+  dinosaur. — From inside, no row looks like a fate. It looks like a morning."**
+- Nobody says the forbidden word; twentieth tick "again": "Came to look at dinosaurs. Came out at which part of me
+  goes into which row. Drew the column myself, and named those ones myself."
+
+**Images and devices used**: the thirteenth entry in the notebook of dreams (the museum skeleton as long as the
+assembly shop, the label "Do not feed", the pass with the skeleton's photograph; nobody rang); the milk-carton
+feeder; the black tie of the tit and the seed pinned under its toes; the route sheet and the number of the melt;
+the three-horned one "in your granddaughter's book"; the wishbone pulled with the granddaughter ("She won"); the
+department "stripped of the bonus" for a label; the ginger dinosaur with a striped tail; the cellar, the haystack
+and "meat by the hundredweight"; Gaika thumping her tail at her name; "A seed is a tin"; the skeleton in a museum
+and the apple tree; "birdsong"; the bent finger; the shrew, the rat and the badger; the lottery ticket; "The sun of
+the last sixty years"; bark like a snake's skin; the horsetail that comes up after liming ("No."); the batch that
+passed inspection; the glass in the kitchen; the indulgence; shells "coiled like a ram's horn"; "nobody even burns
+them"; reading the page "not along, but down"; the office, the ration and the name on the door; the cord (51); the
+neighbour's parrot; the line drawn down the right-hand edge of the page; the pet of the pension fund; the seam and
+the boiler room; forty years of inspection reports; "Fuel: possibly"; a quarter and a library; the tablets for the
+throat in March; flowers to the museum; "two old men, drawing the table before the event"; the notebook held up to
+the fire; the teaser (the academician in the pocket, "Top marks in physics for the term", "The academician is
+there. The pot is the same", the pocket "lying on the table, screen down", "a tick of your own. The first of the
+summer").
+
+**Facts used**: **nearly all from the writer's memory** (the keeper asked again for web checks to be kept to the
+critical ones); **check before reusing**. Checked on the day of writing: the Crossref records of Field, Bercovici,
+Berv, Dunn, Fastovsky, Lyson, Vajda & Gauthier 2018 ("Early Evolution of Modern Birds Structured by Global Forest
+Collapse at the End-Cretaceous Mass Extinction", *Current Biology*, doi:10.1016/j.cub.2018.04.062) and of Larson,
+Brown & Evans 2016 ("Dental Disparity and Ecological Stability in Bird-like Dinosaurs prior to the End-Cretaceous
+Mass Extinction", *Current Biology*, doi:10.1016/j.cub.2016.03.039); that the Wikipedia pages linked exist in
+English and, through the API, in Russian (Archaeopteryx, Oviraptor, Sinosauropteryx, the Chicxulub crater, the
+Carboniferous, the trilobites; the Russian page for the Red Queen hypothesis is titled after the "Black Queen" of
+the Russian translation of Carroll; there is no Russian page for the nocturnal bottleneck, so the Russian text
+links to the English one). **Not checked**: the great tit's weight (16–21 g: "seventeen grams"); a large
+*Tyrannosaurus* at about 8 tonnes; birds as theropod (saurischian) dinosaurs and *Triceratops* as an ornithischian;
+*Archaeopteryx* (Solnhofen, 1861, about 150 million years old, "the size of a magpie"); Huxley's proposal of the
+1860s (unnamed); Heilmann's argument of 1926 from the supposedly missing collarbones and the later finds of
+wishbones in theropods, *Tyrannosaurus* included (the century is given as "a hundred years", loosely); the
+*Oviraptor* of the American Museum expedition (Gobi, 1923, named 1924; the embryo of 1993–94 and the brooding
+skeleton of 1995: "seventy years"); *Sinosauropteryx* (Liaoning, 1996, about a metre; its colour from melanosomes,
+2010: chestnut with a banded tail, given as "ginger"); *Microraptor* (four wings) and *Yutyrannus* (2012, about nine
+metres), unnamed; dinosaurs as the dominant land animals for roughly 160 million years (the author's figure, used
+in 45); the Chicxulub impact (about 66 million years ago, a body of about 10 km, a crater of about 180 km buried
+under roughly a kilometre of rock; Luis and Walter Alvarez and the iridium layer, 1980, unnamed; the crater
+identified about 1990–91); darkness for months to about two years; about three quarters of species lost (not
+stated in the text); no land animal much above 25 kg surviving ("a dog like Gaika"); the enantiornithine birds as
+the most diverse birds of the Cretaceous, many toothed, all extinct; Field's reconstruction (forest collapse from
+pollen and spores, the fern spike; ground-dwelling ancestors of all living birds); Larson's seed hypothesis; seeds
+lasting years in the soil; about 11,000 species of birds (IOC) and about 6,500 of mammals; the first mammals small
+and nocturnal through the Mesozoic; the nocturnal bottleneck (two of four cone pigments lost; a third regained in
+Old World primates; birds have four); the Great Oxidation Event at 2.4 billion years (38); coal at about a third of
+the world's electricity in 2024 and still the largest single source, about 9 billion tonnes mined a year, coke in
+steelmaking; the Carboniferous (about 359–299 million years ago), its scale trees of thirty metres and more with
+diamond-patterned bark, the tree horsetails of about ten metres; the two accounts of why the wood did not rot
+(fungi that digest lignin appeared later: Floudas and others, 2012; against it, Nelsen and others, 2016), both
+unnamed; *Equisetum* as the last genus of its group and the club mosses as relatives of the scale trees (the
+quillworts are closer, not mentioned); "99% of all species that ever lived are extinct" (Raup); species lasting
+about one to ten million years; Van Valen's law of constant extinction (1973), unnamed; *Homo sapiens* at about
+300,000 years; the trilobites (about 521–252 million years ago, more than 20,000 described species, gone in the
+end-Permian extinction); pterosaurs, marine reptiles and ammonites lost at the end of the Cretaceous; about a
+thousand named kinds of non-bird dinosaurs; more than 25 billion chickens alive at any moment (FAO) and poultry at
+about 70% of the biomass of all birds (Bar-On, Phillips & Milo, 2018); language models that say "we" about people
+(an observation, not a study). The author's sources: article 07 (Andrey: "А людей постигнет участь динозавров...
+должны освободить дорогу"); the comment under 06 of 23 November 2011 ("У динозавров не хватило ума ускорить
+подобным образом свой сход со сцены, а вот у людей — запросто"); the seminar thread, 27 June 2012 ("человечеству
+выдана индульгенция, которой не было у динозавров?"; "Динозавры тоже были ценны сами для себя") and 30 October
+2012 ("Возможно, кого-то успокоит мысль о том, что новая эволюционная форма материи является наследником
+человечества... сойти за родителя супер-дитяти... мы — тоже супердитяти тех самых одноклеточных, которых
+теперь... травим антибиотиками"); the reader under 12 of 16 November 2011 (the technosphere as children who
+outlive their parents; paraphrased, unnamed); the 2012 forecast on the environment (from 38). Invented for the
+frame (Oleg's side): the dream, the granddaughter's book and the wishbone, the horsetail in the potato patch, the
+neighbour's parrot, the pension on the fifth, the forty years of inspection reports, the tablets in March, the
+great-nephew's top marks in physics. Not used: the collagen recovered from a tyrannosaur bone; medullary bone;
+*Mei long* asleep like a bird; the tyrannosaur living nearer in time to us than to the stegosaur; ultraviolet in
+the blue tit's cap; the giant dragonflies of the Carboniferous; "oil is made of dinosaurs" (it is not; left for
+another time); limestone and cement as "a house of shells"; the Deccan volcanism; crocodiles and turtles as
+survivors; the Neanderthals and other human kinds (a possible seventh row, "absorbed": a few percent of their genes
+live in us; left for the evenings near the end); the horse numbers of 34.
+
+**Figures**: `dinosaurs-still-here` (a scheme: only the order of branching and two dates are to scale; two bars of
+the counts of kinds), `where-the-former-ones-went` (the table of fates with the column "it lasts"; rows 1–3 from 38,
+42 and 48, the page as a whole is Andrey's reading), `which-part-into-which-row` (Oleg's column "us": a reading,
+not data and not a dated forecast).
+
+**Left for later**: "To bargain?" (whether knowing the rows beforehand gives a say in the row; "there is no
+precedent") → 65 and 66, written on the last page of the notebook as Oleg's; why a quarter of one's drawings
+consoles and a library does not ("I have no arithmetic for it") → 65, or left open; whether the heir's "we" is
+kinship or an accent → 64 (the row "relation to us" of the portrait); "will the place be needed" (the niche) and
+the technosphere leaving for space → 61; the button, still a question (48); the personal academician and the pot
+→ 53 (Oleg's last doubt: "One thing your page has not got. A former master who learns from the new one... Perhaps
+we shall grow. — The academician is there. The pot is the same... Ask the boy tomorrow to solve one problem with
+the pocket lying on the table, screen down"); the third assembly (the portrait of the heir) → 64.

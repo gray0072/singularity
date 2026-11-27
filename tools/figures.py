@@ -4590,6 +4590,174 @@ def two_sided_switch(lang):
     return f
 
 
+# --- 52. Dinosaurs at the Feeder -----------------------------------------------------------------
+
+@figure("dinosaurs-still-here")
+def dinosaurs_still_here(lang):
+    t = {
+        "en": dict(title="The dinosaurs that are still here",
+                   sub="One branch came through the stone of 66 million years ago. We call it birds.",
+                   tips=["the three-horned ones and their kin", "the long-necked giants", "the tyrannosaurs",
+                         "the small feathered hunters", "birds"],
+                   ago150="about 150 million years ago", stone="the stone: 66 million years ago", today="today",
+                   bars=[("kinds of birds today", "about 11,000"), ("kinds of mammals today", "about 6,500")],
+                   src="A scheme: only the order of branching and the two dates are to scale.\n"
+                       "The counts of kinds are rounded and depend on who is counting."),
+        "ru": dict(title="Динозавры, которые никуда не делись",
+                   sub="Одна ветвь прошла через камень 66 миллионов лет назад. Мы зовём её птицами.",
+                   tips=["трёхрогие и их родня", "длинношеие гиганты", "тираннозавры",
+                         "мелкие пернатые охотники", "птицы"],
+                   ago150="около 150 млн лет назад", stone="камень: 66 млн лет назад", today="сегодня",
+                   bars=[("видов птиц сегодня", "около 11 000"), ("видов млекопитающих сегодня", "около 6 500")],
+                   src="Схема: в масштабе только порядок ветвления и две даты.\n"
+                       "Числа видов округлены и зависят от того, кто считает."),
+    }[lang]
+    f = Fig(760, 404, t["title"])
+    heading(f, t["title"], t["sub"])
+
+    def x_of(ma):
+        return 700 - ma * (600 / 230)
+
+    ys = [108, 140, 172, 204, 236]
+    xa, xb, xs = x_of(230), x_of(150), x_of(66)
+    f.line(xa, ys[0], xb, ys[4], color=INK2, width=2)
+    f.line(xs, 90, xs, 248, color=RED, width=1.6, dash="5 5")
+    for i, (y, label) in enumerate(zip(ys, t["tips"])):
+        x = xa + (xb - xa) * i / 4
+        if i < 4:
+            f.line(x, y, xs, y, color=INK2, width=2)
+            f.circle(xs, y, 4, fill=INK2)
+            f.text(x + 14, y - 7, label, size=12.5, color=INK2)
+        else:
+            f.line(x, y, 700, y, color=BLUE, width=3.5, arrow=True)
+            f.text(x + 14, y - 8, label, size=14, color=BLUE, weight="600")
+    f.text(xb, 266, t["ago150"], size=11.5, color=MUTED, anchor="middle")
+    f.text(xs, 266, t["stone"], size=11.5, color=RED, anchor="middle")
+    f.text(716, 266, t["today"], size=11.5, color=MUTED, anchor="end")
+    f.line(28, 282, 732, 282, color=GRID, width=1.5)
+    x0, scale = 262, 360 / 11000
+    for k, ((label, value), n, color) in enumerate(zip(t["bars"], (11000, 6500), (BLUE, ORANGE))):
+        y = 296 + k * 30
+        f.text(x0 - 12, y + 15, label, size=12.5, color=INK2, anchor="end")
+        f.rect(x0, y, n * scale, 20, fill=color, r=3)
+        f.text(x0 + n * scale + 10, y + 15, value, size=13, color=INK, weight="600")
+    f.text(28, 376, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("where-the-former-ones-went")
+def where_the_former_ones_went(lang):
+    t = {
+        "en": dict(title="Where the former ones went",
+                   sub="A page of Oleg's notebook: what the former masters of the planet kept, what they paid, on what it hangs.",
+                   head=["kept", "paid", "it lasts"],
+                   rows=[("a niche", "those that cannot stand oxygen", "everything,\nas it was",
+                          "the planet, the say\nin what the air will be", "while the place\nis not needed"),
+                         ("an organelle", "the swallowed bacterium", "one job", "everything else",
+                          "while the job\nis needed"),
+                         ("livestock, a pet", "the dog, the wheat, the horse", "the numbers,\nthe feed",
+                          "the head, the say\nin who is born", "while the feeder\nwants"),
+                         ("a descendant", "the birds", "the line", "the size, the role,\nthe name",
+                          "hangs on nobody:\nneeds little"),
+                         ("fuel", "the coal forest", "nothing", "everything", "burned:\nnot asked"),
+                         ("a print in stone", "the trilobites", "nothing", "everything", "—")],
+                   src="Rows 1–3 were written on the evenings 38, 42 and 48. The page as a whole is Andrey's reading: a list of what\n"
+                       "has already happened, not of what can happen. Three rows of the five hang on the new master."),
+        "ru": dict(title="Куда ушли прежние",
+                   sub="Страница из тетради Олега: что прежние хозяева планеты сохранили, чем заплатили, на чём это держится.",
+                   head=["сохранили", "заплатили", "держится"],
+                   rows=[("ниша", "те, кто не выносит кислорода", "всё, как было",
+                          "планета, право решать,\nкаким быть воздуху", "пока место\nне понадобилось"),
+                         ("органелла", "проглоченная бактерия", "одна работа", "всё остальное",
+                          "пока работа\nнужна"),
+                         ("скот, любимец", "собака, пшеница, лошадь", "численность,\nкорм",
+                          "голова, право решать,\nкому родиться", "пока кормилец\nхочет"),
+                         ("потомок", "птицы", "линия", "размер, роль,\nимя",
+                          "ни на ком не висит:\nнужно мало"),
+                         ("топливо", "угольный лес", "ничего", "всё", "сожжено:\nне спрашивают"),
+                         ("отпечаток в камне", "трилобиты", "ничего", "всё", "—")],
+                   src="Строки 1–3 записаны в вечера 38, 42 и 48. Страница целиком — прочтение Андрея: список того, что уже\n"
+                       "случалось, а не того, что может случиться. Три строки из пяти висят на новом хозяине."),
+    }[lang]
+    f = Fig(760, 498, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [236, 372, 556, 736]
+    top, head_h, row_h = 84, 30, 56
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 20, label, size=12, color=INK2, anchor="middle", weight="600")
+    last_colors = [ORANGE, ORANGE, ORANGE, GREEN, INK2, MUTED]
+    for i, (name, who, kept, paid, lasts) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        under = i == 5
+        if under:
+            f.line(28, y, cols[3], y, color=INK2, width=1.4, dash="6 5")
+        else:
+            f.line(28, y, cols[3], y, color=GRID, width=1.2)
+        f.text(40, y + 25, name, size=14, color=MUTED if under else INK, weight="600")
+        f.text(40, y + 42, who, size=11, color=MUTED)
+        for k, cell in enumerate((kept, paid, lasts)):
+            lines = cell.count("\n") + 1
+            color = last_colors[i] if k == 2 else (MUTED if under else INK)
+            f.text((cols[k] + cols[k + 1]) / 2, y + {1: 33, 2: 25}[lines], cell, size=12, color=color,
+                   anchor="middle", weight="600" if k == 2 and i < 4 else "normal")
+    bottom = top + head_h + 6 * row_h
+    f.line(28, bottom, cols[3], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 24, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("which-part-into-which-row")
+def which_part_into_which_row(lang):
+    t = {
+        "en": dict(title="Oleg's column: which part of us, into which row",
+                   sub="Not one fate for mankind but several at once: for different parts of it, and of one man.",
+                   head=["which part of us", "on what it hangs"],
+                   rows=[("a niche", "those who live\nby their own muscles", "while the place\nis not needed"),
+                         ("an organelle", "the hands (Tolik) and\nthe customer who wants",
+                          "while the job is needed:\ndecades, and shrinking"),
+                         ("livestock, a pet", "the fed", "while the feeder wants:\nan open question"),
+                         ("a descendant", "what we have\nwritten down", "the line goes on;\nit is not called people"),
+                         ("fuel", "the same written words", "burned as many times\nas one likes"),
+                         ("a print in stone", "not crossed out", "crises, wars,\nweapons that grow cheaper")],
+                   src="A reading by Oleg and Andrey: not data, and not a forecast with a date."),
+        "ru": dict(title="Столбец Олега: какая часть нас в какую строку",
+                   sub="Не одна судьба на всё человечество, а несколько сразу: для разных его частей и для частей одного человека.",
+                   head=["какая часть нас", "на чём держится"],
+                   rows=[("ниша", "те, кто живёт\nсобственными мускулами", "пока место\nне понадобилось"),
+                         ("органелла", "руки (Толик) и заказчик,\nкоторый хочет",
+                          "пока работа нужна:\nдесятилетия, срок сокращается"),
+                         ("скот, любимец", "сытые", "пока кормилец хочет:\nвопрос открыт"),
+                         ("потомок", "то, что мы записали", "линия продолжается;\nлюдьми её не назовут"),
+                         ("топливо", "те же записанные слова", "жгут сколько угодно раз"),
+                         ("отпечаток в камне", "не вычеркнут", "кризисы, войны,\nдешевеющее оружие")],
+                   src="Прочтение Олега и Андрея: не данные и не прогноз с датой."),
+    }[lang]
+    f = Fig(760, 472, t["title"])
+    heading(f, t["title"], t["sub"])
+    top, head_h, row_h = 84, 30, 54
+    xs = [230, 478, 736]
+    for k, label in enumerate(t["head"]):
+        f.text((xs[k] + xs[k + 1]) / 2, top + 20, label, size=12, color=INK2, anchor="middle", weight="600")
+    f.rect(xs[0], top + head_h, xs[1] - xs[0], row_h * 6, fill=ORANGE, r=0, opacity=0.08)
+    colors = [BLUE, BLUE, BLUE, GREEN, INK2, MUTED]
+    for i, (name, part, hangs) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        under = i == 5
+        f.line(28, y, xs[2], y, color=INK2 if under else GRID, width=1.4 if under else 1.2,
+               dash="6 5" if under else None)
+        f.rect(40, y + 11, 168, 32, fill=SURFACE, stroke=colors[i], width=1.6, r=16)
+        f.text(124, y + 32, name, size=13, color=INK, anchor="middle", weight="600")
+        for k, cell in enumerate((part, hangs)):
+            lines = cell.count("\n") + 1
+            f.text((xs[k] + xs[k + 1]) / 2, y + {1: 32, 2: 24}[lines], cell, size=12.5,
+                   color=(MUTED if under else ORANGE) if k == 0 else INK2, anchor="middle",
+                   weight="600" if k == 0 else "normal", italic=k == 1)
+    bottom = top + head_h + 6 * row_h
+    f.line(28, bottom, xs[2], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 24, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

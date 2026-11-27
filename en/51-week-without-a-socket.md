@@ -353,4 +353,4 @@ Beyond the birches a diesel engine growled, and a yellow light crawled along the
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [05](./05-artificial-intelligence.md), [11](./11-symbiosis-and-parasitism.md), [12](./12-value-shares.md), [27](./27-scenario-of-events.md), [28](./28-those-who-understand.md), [38](./38-oxygen-was-a-poison.md), [42](./42-swallowed-bacterium.md), [45](./45-lamarck-was-right.md), [47](./47-money-as-memory.md), [48](./48-who-tamed-whom.md), [50](./50-what-is-the-it.md).
 
-[← 50](./50-what-is-the-it.md) · [Contents](./README.md)
+[← 50](./50-what-is-the-it.md) · [Contents](./README.md) · [52 →](./52-dinosaurs-at-the-feeder.md)
