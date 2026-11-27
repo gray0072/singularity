@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–56 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `57`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–57 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `58`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–56.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–57.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -408,6 +408,19 @@ articles as closely as possible. In practice:
 | подвижная черта | the movable line | von Neumann, 1932: the line between "what is observed" and "who observes" can be drawn after any link of the chain and the numbers come out the same; "The chief engineer moved it twice. The castings did not notice"; the stripes go at the first link, and nothing has been found to happen at the last (56) |
 | отбор без цели (слабый антропный принцип) | selection with no purpose (the weak anthropic principle) | Carter, 1973: our place is privileged only "to the extent of being compatible with our existence as observers", the way everybody at a class reunion is alive; it works against the man in the middle; in the strong form "compatible with" becomes "for", "the same old thing in a white coat" (56) |
 | друг в ящике | the friend in the box | Wigner's friend as an experiment: the observer must be sealed so that no trace leaks and then run backwards; a man is too warm, so the part goes to a thinking program on a quantum computer, neither built yet; "the only observer on whom the question can be put to nature is not a man"; what could refute Andrey's reading (56) |
+| дивиденды за колесо | dividends for the wheel | the author's 2011 question under 07, promised and not written: who is to be paid for the use of the wheel if its inventor died thousands of years ago; answered in 57: they are paid every day to whoever uses the wheel, as time saved and as cheapness, and the one who thought of it is not in the share ("He is not in the union") |
+| производит тот, кто именно производит | the one who produces is the one who produces | the author's 2011 rule under 12: of all the levels of "creators of creators" he takes only the last, where the work is actually done; otherwise "a man lying in his coffin goes on producing"; Oleg's short form: "the dead don't dig" (57) |
+| срок (приманка) | the term (bait) | the law pays the one who made a thing for a term: 14 years in 1710 ("An Act for the Encouragement of Learning"), 20 years for a patent, the author's life and 70 years for a book; "bait, so that books get written", and its length is a want written down (24); Pushkin's term ran out on 29 January 1887 (57) |
+| свеча (Джефферсона) | the candle (Jefferson's taper) | 1813: whoever lights his taper at mine receives light without darkening me, so inventions "cannot, in nature, be a subject of property"; the difference from a house; Romer's instructions used "over and over again at no additional cost" are "the candle, in the journals" (57) |
+| слова в их порядке | words in their order | what copyright guards, and for a term; what the words say (an idea, a method, a discovery) it does not guard for a day: "And who paid the nurse? — Nobody" (57) |
+| остаток (семь восьмых) | the remainder (the seven eighths) | Solow, 1957: of the doubling of output per hour in the United States in 1909–1949 one eighth came from more machines per worker and seven eighths from "technical change", a name for what is left; "some sort of measure of our ignorance"; in 57, what makes the same iron and the same hands turn out more, never weighed as knowledge |
+| главный капитал без хозяина | the main capital with no owner | accumulated knowledge: "the technosphere is iron and drawings", the drawings are the heavier part and have never been anybody's (57; the drawings are 45) |
+| носитель знания (дивиденд по участию) | carrier of knowledge (a dividend by taking part) | knowledge had no owner but had a carrier that had to eat: it could work only inside a head and through hands, so the dividend for it came as the wage of the one without whom it did not work; "not by title, by taking part" (57) |
+| счёт по праву собственности | a bill by title | the copyright suits against the makers of talking machines: the first attempt to claim by ownership what used to come by taking part; only the thinnest slice can be held (words in their order whose term has not run out) (57) |
+| штраф за то, что прошёл мимо кассы | a fine for walking past the till | the 3,000 dollars a book of the 2025–2026 settlement: paid for copies taken without paying, not for learning, which the court called fair use ("like any reader aspiring to be a writer"); for learning the price is one copy of the book (57) |
+| читатель не делает миллион копий себя | a reader does not make a million copies of himself | Andrey's answer to Oleg's symmetry test ("I learned for nothing; why should it pay?"): in the reading there is no difference, the difference is after it; a human reader was the next carrier and the next mouth, this one "carries it all in once, and after that it is copied" (57) |
+| один раз (цена, а не дивиденд) | once (a price, not a dividend) | every book ever counted (129,864,880) at the rate of the fine comes to 390 billion dollars, about half of what four companies spend on data centres in 2026; "a dividend is paid for as long as the thing works. This is paid once"; Oleg's forty roubles for a template that still hangs on its nail (57) |
+| тот, кто придумал колесо, — это мы | the man who thought of the wheel is us | the conclusion of 57: "whoever uses keeps the gain, and whoever thought of it drops out of the count"; people found that natural while the user was they; "the arrangement has not changed. We are changing places in it" |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

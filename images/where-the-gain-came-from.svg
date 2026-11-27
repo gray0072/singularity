@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="372" viewBox="0 0 760 372" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Where the growth came from, and who kept it</title>
+
+<rect x="0.5" y="0.5" width="759" height="371" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Where the growth came from, and who kept it</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Two counts made by economists; each bar is a whole, split in two.</text>
+<text x="28.0" y="100.0" font-size="13" fill="#52514e">Output per hour of work doubled (the United States, 1909–1949). What it came from:</text>
+<rect x="28.0" y="112.0" width="88.0" height="34.0" rx="2" fill="#8a8985" fill-opacity="0.9"/>
+<rect x="118.0" y="112.0" width="614.0" height="34.0" rx="2" fill="#2a78d6" fill-opacity="0.9"/>
+<text x="132.0" y="134.0" font-size="13.5" fill="#ffffff" font-weight="600">⅞: everything else. Solow called it “technical change”</text>
+<line x1="72.0" y1="146.0" x2="72.0" y2="158.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="174.0" font-size="12.5" fill="#0b0b0b" font-weight="600">⅛: more machines per worker</text>
+<text x="28.0" y="212.0" font-size="13" fill="#52514e">The gain from new inventions (the United States, 1948–2001). Who kept it:</text>
+<rect x="28.0" y="224.0" width="15.5" height="34.0" rx="2" fill="#8a8985" fill-opacity="0.9"/>
+<rect x="45.5" y="224.0" width="686.5" height="34.0" rx="2" fill="#008300" fill-opacity="0.9"/>
+<text x="59.5" y="246.0" font-size="13.5" fill="#ffffff" font-weight="600">about 98%: everybody else, as lower prices</text>
+<line x1="35.7" y1="258.0" x2="35.7" y2="270.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="286.0" font-size="12.5" fill="#0b0b0b" font-weight="600">2.2%: those who invented</text>
+<text x="28.0" y="318.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Solow (1957); Nordhaus (2004), whose estimates run from 1.3% to 3.3%. The seven eighths are a remainder:</tspan><tspan x="28.0" dy="14.4">what the growth of machines and of hours worked does not explain. A colleague of Solow's called it</tspan><tspan x="28.0" dy="14.4">“some sort of measure of our ignorance”.</tspan></text>
+</svg>

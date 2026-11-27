@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 24).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 25).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54, 55 and 56 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55, 56 and 57 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -4369,3 +4369,251 @@ experiment) is what could refute the evening's reading, with no odds and no date
 whether the constants need explaining and whether there were "many draws" is left where physics has it; whether a
 machine could be a "user" in the sense of the school of bets is not asked (a row for 64, if anywhere); the outcome
 of Oleg's court is still free for a later opening.
+
+## 57. Dividends for the Wheel
+
+**Established**
+- The answer to the teaser of 56 ("And who will pay Pushkin? He is in there whole. — And who will pay the one who
+  invented the wheel?"). Oleg comes with a squeaking garden wheelbarrow of birch ("Two thousand nine hundred, at the
+  builders' market"; six armfuls in one trip, "five walks saved"). The court of 55 in one line: "'Wait for a letter'
+  means wait for a letter" (the outcome is still not told).
+- **The author's debt of 2011 is named and paid.** Quoted as his (the comment of 28 October 2011 under 07): the
+  digging stick, "Where did the saved time come from? Did it fall from the sky? Whose doing is it: the inventor's,
+  the stick's, or both?", and "to whom are the dividends for the use of the wheel to be paid, if its inventor passed
+  away thousands of years ago?"; "I promised to take it up in the next posts. — Fifteen years. It is a debt."
+  Oleg takes the side of the reader of that thread (paraphrased, no name): the maker "should be in the share for as
+  long as the spade works".
+- **Three steps of the descent, each with the author's own material.** (1) *Who are the heirs?* Two hundred
+  generations; the family-tree models of 2004 (every person living a few thousand years back is an ancestor of
+  everybody alive today or of nobody; "between four and seven and a half thousand years ago, depending on the model",
+  "extremely tentative"): "his heirs are very nearly all of us... Everybody pays everybody. That has a shorter name:
+  nobody pays, and the wheel is cheap." (2) *Was it he who thought of it?* The author's reply under the SETI talk
+  (2012): tumbleweed sows by rolling, the dung beetle rolls its ball, the lever is in every joint ("So I pay the
+  beetle. — The spade's turn to speak"); the reader under 12 who wanted "the Ancients", Aristotle and Archimedes,
+  counted into the loaf, and the author's answer of 27 November 2011: why count from people and not from the apes
+  and the bacteria; **"The one who produces is the one who produces"** (the man lying in his coffin who goes on
+  producing; Oleg: "The dead don't dig"). (3) *Who earned the five walks?* The union of 37; the author's line under
+  12 (part of what the union gains goes to restoring, reproducing and developing spades, part to the man as time
+  saved): "Two in the union, two shares. A third share, for the one who thought of it, is not there. Nobody took it
+  away from him. **He is not in the union.**" "I am not saying fair. I am saying where it goes": Nordhaus (unnamed),
+  about two parts in a hundred kept by those who invented, 1948–2001; the ballpoint pen.
+- **Pushkin** ("Now with a name. Pushkin rolled no dung"): the first in Russia to live by writing; three thousand
+  roubles for one poem in 1824, "five roubles a line"; the bookseller and the poet ("Inspiration is not for sale, but
+  a manuscript can be sold", answered in prose); the reprint of "The Prisoner of the Caucasus" in 1824 by a state
+  councillor (Oldekop, unnamed) and the answer that Russia has no law against reprinting; the law of 1828 (life and
+  25 years, then "the property of the public"); debts of about 140,000; the widow's request of 1856 for her two sons'
+  lifetimes and the general law of 50 years instead. **"Pushkin's term ran out on the twenty-ninth of January
+  1887"**: ten small volumes at fifteen kopecks (Suvorin, unnamed), ten times cheaper; the shop wrecked by eleven,
+  the chief of police; some ten thousand sets in a day; Chekhov could not get one; some sixty thousand copies in the
+  fifty years before against nearly a million and a half in 1887 alone. "So who was Pushkin's heir? — Everybody with
+  a rouble and a half to spare... The dividend for Pushkin. In cheapness, like the wheel. Only here I can see the day
+  it began to be paid."
+- **The term is bait** ("Why fifty? Why not for ever? Your house goes to your grandchildren for ever"): the English
+  law of 1710, fourteen years and fourteen more, "An Act for the Encouragement of Learning" ("Not 'for the protection
+  of writers'. — Bait. So that books get written"); the length of the bait is a want written down (24); twenty years
+  for an invention, life and seventy years for a book; "Whoever holds the rights asks for longer, as the widow did.
+  Whoever reads has nobody to ask on his behalf." The Australian patent on the wheel of 2001 ("a circular
+  transportation facilitation device") and its prize, as the aside. **Jefferson's candle** (unnamed: "an American who
+  had himself sat on the board that granted patents"): Oleg lights one twig from another, "Mine is no shorter. —
+  That is the whole difference from your house."
+- **Oleg's template of 1984** (his second year at the plant; one go at a casting instead of the inspector's five
+  measurements; a rationalisation proposal, "forty roubles and a certificate"; counted from the saving of the first
+  year only; it "was hanging on its nail when I retired", and the plant next door copied it): the evening's standing
+  image of a price paid once.
+- **What the term guards**: "Not the old man and the golden fish" (from a German tale written down by a painter in
+  Pomerania and printed by the Grimms, most likely through a French translation: "by the view that has held among
+  scholars since the 1930s"), not Tsar Saltan (one of the seven tales written down from the nurse in November 1824).
+  **"And who paid the nurse? — Nobody."** "The law guards the words in their order, for a term. What the words say it
+  does not guard for a single day" (the list of the American law, quoted). "So an idea has never had an owner at all.
+  — Not for an hour"; common from the first day: the language (50), the multiplication table, how to harden steel,
+  how to bake bread, the wheel.
+- **The plan's piece: the main capital with no owner.** Solow (unnamed): the doubling of output per hour, 1909–1949,
+  "One eighth" from more machines per worker. **Oleg's objection is the profession's own and is conceded**: "That is
+  a remainder... Our planners had a line like that: 'other expenses'"; Abramovitz's "some sort of measure of our
+  ignorance"; "I do not say that the seven eighths are knowledge, weighed on a balance" (what is left on the table is
+  whatever makes the same iron and the same hands turn out more). Romer (unnamed): instructions used "over and over
+  again at no additional cost" ("The candle again. — The candle, in the journals").
+- **06 is not taken back** (Oleg: "you told me that the surplus is made by the technosphere... And now it is
+  knowledge"): "Iron laid out by an instruction. Melt it down: the iron is all there, and the barrow is gone";
+  "The technosphere is iron and drawings (45), and by that economist's weighing the drawings are the heavier part...
+  I am saying what most of it is made of: of something that has never been anybody's."
+- **Today's reading: the dividend was the wage.** "If the main capital belongs to nobody, what have we been living
+  on?" The barrow "stands where you leave it"; the hardening of steel was kept "in Semyonych. And in the process
+  sheets, but without Semyonych the sheets were paper." **"Knowledge had no owner. It had a carrier, and the carrier
+  had to eat."** The grandfather with the same hands; "Twenty years of pouring in" (53). "That was your dividend...
+  paid in the only way it could be: as the wage of the one without whom none of it works. Nobody had to own
+  knowledge. It was enough to be needed (47) for it to work. — A dividend for being there. — **Not by title. By
+  taking part.**"
+- **The machines are named by Oleg, after the middle** ("Now I'll say it, since you are sitting with your mouth shut
+  again. Those ones. They took the lot in one gulp: Pushkin, the nurse, Archimedes, and my template"). The suit as
+  Oleg tells it (books bought by the lorry-load, spines cut off, scanned, the paper thrown away; seven million more
+  from pirate libraries; a billion and a half). **Andrey makes it exact, against the teaser of 56**: the first judge
+  (June 2025) called the bought-and-scanned books and the learning itself fair ("like any reader aspiring to be a
+  writer"; "Everyone reads texts, too, then writes new texts"; "would be unthinkable"); the money is for the seven
+  million taken without paying; 482,460 books, about three thousand each, halved with the publisher by most
+  contracts; approved in July 2026, first payments promised "for the last week of that November"; the money is for the past only;
+  the maker stated that the pirated libraries did not go into the training of any released model. **"Is not a price
+  for learning. It is a fine for walking past the till. For learning, by that judge, the price is one copy of the
+  book. The same as for you."**
+- **Oleg's strongest objection (the plan's symmetry test), made against his own side of last night**: "I read Pushkin
+  in the school library and paid nothing. Semyonych taught me for nothing; well, for a bottle on his birthday...
+  If I owe nothing, what does that one owe? It is your own test. The spade has had its say." **Conceded: "In the
+  reading there is no difference. There is one after the reading."** The second judge, two days later (books to teach
+  children to write are "not remotely like" a product that lets one person "generate countless competing works"; he
+  found for the maker because the thirteen writers brought no evidence, and said which argument was the right one).
+  **"A reader does not make a million copies of himself."** ("I made one. The boy... He is not finished yet.") In
+  the series' terms: everything got for nothing had to be poured into the next head and that head fed for half a
+  century, "There was no other road (45). So free reading never left the circle of people: every reader was the next
+  carrier, and the next mouth. This reader carries it all in once, and after that it is copied." "He was asked about
+  reading. Nobody asked him what the dividends for the wheel had been resting on."
+- **The test turned on the makers**: the same maker that settled with the writers reported in February 2026 that
+  three laboratories abroad had put more than sixteen million questions to its machine through some twenty-four
+  thousand fake accounts to teach their own machines; another maker's terms forbid using the output to develop
+  competing models. "...does not let anybody teach a rival on its answers without its leave. I am not laughing at
+  it" (the three came in by fraud, as it had itself gone past the till). **"A book is guarded by a law which says:
+  the words, for a term, and never the idea. An answer of the machine is guarded by a contract, and into a contract
+  you can write the idea as well, and no term at all."** Oleg: "Everybody is for the candle while he is lighting his
+  own from somebody else's. — And for a fence, when somebody comes to light one from his... the same want on both
+  sides of the till."
+- **The arithmetic on the knee (the plan's, with the figures of the day)**: 129,864,880 books ("At least until
+  Sunday"; counted by editions, most long out of term) at the rate of the fine: "Three hundred and ninety thousand
+  million"; four American companies spent about 410 billion on buildings and chips in 2025 and named about 730 for
+  2026. **The plan's line to retell is corrected by the fresh figures**: not "a year's investment" but "what four
+  firms spent on iron in 2025, or for about half of what they named for 2026"; three years of the world's book
+  trade. "Cheap. — Affordable"; the middle writer of the American guild's survey earned two thousand dollars from all
+  his books in 2022. **"A dividend is paid for as long as the thing works. This is paid once. — My forty roubles...
+  And the template is still on its nail."**
+- **Paine (unnamed: "an Englishman who had had a hand in two revolutions") is Oleg's own idea reinvented**
+  ("Nobody's means everybody's. Then whoever feeds on it should pay everybody... Like that northern state with its
+  oil"): the pamphlet of 1797, fifteen pounds at twenty-one and ten pounds a year from fifty, "It is not charity but
+  a right"; "His fund was never set up"; Alaska's 1,200 dollars in 2026; a senator's fund proposed in June 2026 and
+  not expected to pass. **The mark of 30 is restated and not raised** (a regular payment to everybody out of the
+  income of machines in some rich country by the autumn of 2036, one in two): "The argument does not decide" (25:
+  a freebie is paid while those who receive it hold something the payer needs; "The oil cannot leave Alaska. A heap
+  can leave", 49). What the writers held: "The thinnest slice there is: words in their order, from the last hundred
+  years or so. Not Pushkin... Not the nurse. Not the wheel. And the money for that slice goes half to a publisher: a
+  person without a face (55), paid by another one."
+- **The conclusion, by the symmetry test turned on ourselves.** "For five and a half thousand years we have been
+  using the wheel and paying its inventor nothing. Did that ever seem unfair to you? — It never crossed my mind
+  until last night... Because I was the one pushing." "Whoever uses keeps the gain, and whoever thought of it drops
+  out of the count. We found that natural for as long as the one who uses was us. **The arrangement has not changed.
+  We are changing places in it.**" Oleg: "We are the man with the wheel now... Thought it all up, and not in the
+  share." **Limited at once**: "Not yet. Today those ones cannot put up their own power line after a storm without
+  Tolik and his chainsaw (51), and while that is so the wage is paid. I have only said what the dividend rested on."
+  The coal forest of 52 "did not go to court. We are the first of the former ones who can count what is being taken
+  and name a price for it. That the price came out affordable is not good news. But it is not the last word either"
+  (the appeals ruling of September 2026 against a legal search tool, "not one of the talking ones, and the court said
+  so"; the newspapers' suit "had not been heard when I last looked"). **Fresh facts are given with their years, never as
+  "this year"**: the evenings are set in the summer of 2027 and written in November 2026. "It is written by those who are needed, for as long as they are needed."
+- Nobody says the forbidden word; twenty-fifth tick "again": "Came with a wheelbarrow, to find out who will pay
+  Pushkin. Came out at this: the man who thought of the wheel is us."
+- Strengths stated: solid (the terms and their dates; the shop in Petersburg in January 1887; what the two judges
+  wrote; the count of the books and the companies' own figures); counted by economists and argued about (the seven
+  eighths, a remainder; the two parts in a hundred, one man's estimate; the family trees, tentative); the author's
+  (the one who produces is the one who produces; the union's gain is divided between those in it); today's (the
+  dividend for knowledge was the wage; the suit is a bill presented by title); a forecast with odds (the payment to
+  everybody, one in two by 2036, not raised). The close: "Gloomy. — But objective. And your own dividend is still
+  being paid: five walks a load, for as long as there is birch."
+- **A declared interest is written into the footer** (both languages): the settlement discussed was paid by
+  Anthropic, the maker of the model that wrote the article, and the report on learning from a machine's answers is
+  Anthropic's too. In the dialogue no company is named ("the maker of one of those", "another maker").
+
+**Images and devices used**: the eighteenth entry in the notebook of dreams (the school library, the pocket at the
+back of the book, "due back in 1978. There is a fine", the book is his own notebook); the wheelbarrow that squeaks
+once a turn, turned wheel up; the till, and who was not at it; six armfuls and five walks; the digging stick; "should
+be in the share"; two hundred generations; "the girl at the till"; "Everybody pays everybody"; tumbleweed, the dung
+beetle, the lever in the joint; "So I pay the beetle"; the step on which a man appears; the coffin; "The dead don't
+dig"; the barrow that "got bought"; the ballpoint pen; "Pushkin rolled no dung"; five roubles a line; the bookseller
+and the poet; ten small volumes at fifteen kopecks; the desk with the till on its side; "Everybody with a rouble and
+a half to spare"; the house that goes to the grandchildren for ever; bait and its length; the widow; the patent on
+the wheel; the two twigs ("Mine is no shorter"); the template on its nail and the forty roubles; the old man and the
+golden fish; the nurse; words in their order; "other expenses"; the growth still lying on the table; "the candle, in
+the journals"; iron laid out by an instruction; the barrow that stands where you leave it; Semyonych and the process
+sheets; the grandfather's hands; "A dividend for being there"; the lorry-loads of books with the spines cut off; "a
+fine for walking past the till"; the bottle on Semyonych's birthday; the boy as a copy that is not finished; the
+next carrier and the next mouth; the candle and the fence; "Three hundred and ninety thousand million"; the word
+under the first column, "Once"; the northern state with its oil; the thinnest slice; "By pushing"; changing places;
+"the man with the wheel"; Tolik's chainsaw; the forest that did not go to court; the teaser (it has read every book
+about barrows and never pushed one, "Loaded, downhill, in the wet"; what Oleg knew about casting after the
+trade-school textbook; "It is dark already. How will you find the path with that thing? — By feel. The wheel tells me
+where the roots are. — Tomorrow we shall start from that").
+
+**Facts used**. Checked on the day of writing by three research passes (primary texts where they could be opened;
+the wording of each source is in the session's reports, not in the repository). **Read in the source**: Bartz v.
+Anthropic, N.D. Cal., order on fair use of 23 June 2025 (Alsup; Dkt. 231: training and the print-to-digital
+conversion of bought books fair use, the pirated central library not; Books3 196,640, LibGen "at least five
+million", Pirate Library Mirror "at least two million", "over seven million" in all; the bought books are "millions",
+no exact count; all the sentences quoted), the preliminary approval memorandum (Dkt. 437: "no split is mandated",
+"existing publishing agreements will likely dictate an even split"; claims about conduct on or after 25 August 2025
+are not released), the final approval order of 20 July 2026 (Martínez-Olguín; 1.5 billion dollars, 482,460 works,
+"about $3,000" a work, by Alsup's footnote about 3,100; Anthropic's representation that neither pirated dataset was
+in the training corpus of any commercially released model; the files to be destroyed), the status report of 2
+September 2026 and the settlement website (first payments expected the week of 23 November 2026, about 70% of each
+award; whether they arrived is not confirmed, hence "are promised"); Kadrey v. Meta, order of 25 June 2025 (Chhabria;
+the sentence quoted; summary judgment for Meta because the thirteen plaintiffs "presented no meaningful evidence on
+market dilution"); 17 U.S.C. § 102(b); the Statute of Anne (8 Anne c. 19, the title and the terms; in force 10 April
+1710); TRIPS art. 33; Solow, *Rev. Econ. Stat.* 39, 312 (1957: "87½ per cent... to technical change and the
+remaining 12½ per cent to increased use of capital", "about one-eighth... seven-eighths", and his definition of
+"technical change" as shorthand for any kind of shift; Hogan's 1958 correction to about 90% is not used); Abramovitz
+(1956: "some sort of measure of our ignorance"); Romer, *J. Polit. Econ.* 98, S71 (1990: "used over and over again
+at no additional cost"); Nordhaus, NBER WP 10433 (2004: about 2.2% of the social surplus, range 1.3–3.3%; US non-farm
+business, 1948–2001); Jefferson to Isaac McPherson, 13 August 1813 (Founders Online, read through an archived copy;
+quoted in modernised spelling; he writes "inventions", not "ideas", cannot be a subject of property; the letter
+concerns Oliver Evans's patent on mill machinery); Paine, *Agrarian Justice* (the SSA transcription: the sums,
+"ground-rent", "the common property of the human race", "It is not charity but a right"); Taycher, Google Books
+blog, 5 August 2010 (129,864,880, counted by "tomes", that is editions; "At least until Sunday"); the Authors Guild
+income survey of 2023 (median book income of all surveyed authors 2,000 dollars for 2022: per author and year, not
+per book); the capital spending of Amazon (131.8 billion dollars in 2025, about 220 guided for 2026), Alphabet
+(91.4; 195–205), Microsoft (118.0 by calendar quarters; about 170) and Meta (72.2; 135–145), from their releases and
+calls of October 2026: about 413 and 720–740, own sums, the bases differ; Rohde, Olson & Chang, *Nature* 431, 562
+(2004: the identical-ancestors point at about 3000 BC, 5353 BC or 2158 BC by model, "extremely tentative");
+Pushkin's letter to Benckendorff of 20 July 1827 (the reprint of 1824, the three thousand offered for a second
+edition, "не существует в России закона противу перепечатывания книг"); "Разговор книгопродавца с поэтом" (1824;
+the line is the bookseller's); Azadovsky (1936) on the fisherman tale; Chekhov's letter of 23 March 1887;
+Anthropic's report of 23 February 2026 (three laboratories, over 16 million exchanges, about 24,000 fraudulent
+accounts; it also says distillation is a legitimate method when a maker distils its own models, which the text does
+not go into); the Australian innovation patent AU 2001100012 (filed 24 May 2001, granted 2 August 2001, later
+revoked); the Alaska dividend of 2026 (1,200 dollars, including a 200-dollar energy payment); the Soviet statute on
+inventions and rationalisation proposals of 1973 in its 1978 edition (a rationalisation proposal is paid on the
+first year's savings, not less than 10 roubles). **Through secondary sources**: the Russian copyright provisions of
+1828 and the extension of 1857 (Pereselenkov 1909, from the ministry archive; Kommersant, 5 September 2020; Levitt);
+January 1887 (*Novoe Vremya* as quoted by Kommersant and by the commentary to Chekhov's letters: fifteen kopecks a
+volume, "ten times" cheaper, the wrecked shop, up to 10,000 sets sold in a day; the sources differ on whether the
+crush was on 29 or 30 January, so the text says only "for that day"; the first print run is not given); no more than
+about 60,000 copies of Pushkin in fifty years and 1,481,275 copies in 1887 (Aizenshtok and Pavlenkov, through
+Levitt); the three thousand roubles for "The Fountain of Bakhchisarai" ("Russky Invalid", 8 March 1824, through the
+chronicle); Pushkin's debts of 138,988 roubles (Belykh 2019; the mortgage not counted; who paid them is not said in
+the text); the seven tales of November 1824 (the academic chronicle; that the first of them is the Saltan plot is
+the usual matching); Runge and the Grimm tale; the Stationers' perpetual right before 1710; the Ljubljana Marshes
+wheel (5,100–5,350 years) and the Bronocice pot; the Ig Nobel prize of 2001 (that Keogh was a patent lawyer is from
+the writer's memory of the press reports); Thomson Reuters v. Ross, 3d Cir., 29 September 2026 (through a law blog);
+the senator's fund of June 2026 (Roll Call); the clause of OpenAI's terms; the world book trade ("something like a
+hundred to a hundred and fifty billion a year": commercial estimates, methods not public; WIPO gives 76.3 billion
+for 28 countries in 2022). The author's sources: the comments of 28 October 2011 under 07 (the reader's "он должен
+быть в доле, пока лопата работает"; the digging stick and "Кому платить дивиденды за использование колеса, если
+изобретатель колеса тысячелетия назад почил в бозе?"), of 27 November 2011 under 12 ("Почему не с приматов, не с
+позвоночных, не с прокариот"; "Производит тот, кто именно производит"; the macrosystem "человек с лопатой" and the
+split of its super-profit), and under the SETI talk (the tumbleweed, the dung beetle, the lever in the muscles).
+Invented for the frame (Oleg's side): the dream, the wheelbarrow and its price, the template of 1984 and the forty
+roubles, the bottle on Semyonych's birthday. Not used: Newton's "shoulders of giants"; Salk and "Could you patent
+the sun?"; the Web put into the public domain in 1993; Volvo's seat belt; Donaldson v. Becket; the Venetian statute
+of 1474; the HarperCollins licence of 2024 (5,000 dollars a title, halved with the author) and the other licensing
+deals; Getty v. Stability; the music labels; the Disney deal; Gartner's and the AI Index's totals; the names of
+Solow, Romer, Nordhaus, Abramovitz, Jefferson, Paine, Alsup, Chhabria, Suvorin and of all companies.
+
+**Figures**: `dividends-have-a-term` (bars on a scale of years: the wheel, a book of 1710, a patent, Pushkin, a book
+today), `where-the-gain-came-from` (two bars of 100%: Solow's one eighth and seven eighths, Nordhaus's 2.2% and about
+98%; the remainder is called a remainder in the note), `price-of-everything-written` (390 billion against about 413
+in 2025 and about 730 planned for 2026; "paid once", and not a price for learning).
+
+**Left for later**: a mind that has read everything and touched nothing, the stick and the story of 1989 → 58 (Oleg's
+last doubt: it "has read... every book there is about barrows. Has it ever pushed one?"; the teaser ends on finding
+the path by feel, which is where the plan's 58 opens; 57 does not touch the model of intelligence); the shares in a
+discovery made by the pair of man and machine (left open by 53) → 60, not 57 (57 says only that the union's gain is
+divided between those in it); the payment to everybody stays the mark of 30 for the autumn of 2036 at one in two,
+to be checked with the list (67); things to watch, not marks: whether a court or a law makes learning itself (not
+the taking of copies) a thing to be paid for, and whether it is paid once or for as long as the thing works; whether
+the contracts that guard a machine's answers hold against other machines; "to bargain" (52) is touched from one
+side only: the writers' suit is the first bargaining by title, and what else people hold is left for 65 and 66; the
+row "knowledge" of the portrait (carried in once, copied, nobody's from the first day, guarded by contract and not
+by a term) → 64; the outcome of Oleg's court is still free for a later opening.

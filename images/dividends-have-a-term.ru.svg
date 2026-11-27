@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="424" viewBox="0 0 760 424" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Сколько лет закон платит тому, кто придумал</title>
+
+<rect x="0.5" y="0.5" width="759" height="423" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Сколько лет закон платит тому, кто придумал</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Годы исключительного права. Когда срок выходит, вещь принадлежит всем.</text>
+<line x1="262.0" y1="88.0" x2="262.0" y2="336.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="262.0" y="354.0" font-size="11.5" fill="#8a8985" text-anchor="middle">0</text>
+<line x1="326.5" y1="88.0" x2="326.5" y2="336.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="326.5" y="354.0" font-size="11.5" fill="#8a8985" text-anchor="middle">20</text>
+<line x1="391.0" y1="88.0" x2="391.0" y2="336.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="391.0" y="354.0" font-size="11.5" fill="#8a8985" text-anchor="middle">40</text>
+<line x1="455.5" y1="88.0" x2="455.5" y2="336.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="455.5" y="354.0" font-size="11.5" fill="#8a8985" text-anchor="middle">60</text>
+<line x1="520.0" y1="88.0" x2="520.0" y2="336.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="520.0" y="354.0" font-size="11.5" fill="#8a8985" text-anchor="middle">80 лет</text>
+<text x="248.0" y="112.0" font-size="13.5" fill="#0b0b0b" text-anchor="end" font-weight="600">колесо</text>
+<text x="248.0" y="128.0" font-size="11" fill="#8a8985" text-anchor="end">около 5500 лет назад</text>
+<rect x="260.0" y="102.0" width="4.0" height="24.0" rx="1" fill="#8a8985"/>
+<text x="272.0" y="119.0" font-size="12.5" fill="#0b0b0b" font-weight="600">никому и никогда</text>
+<text x="248.0" y="162.0" font-size="13.5" fill="#0b0b0b" text-anchor="end" font-weight="600">новая книга, Англия, 1710</text>
+<text x="248.0" y="178.0" font-size="11" fill="#8a8985" text-anchor="end">первый закон об авторском праве</text>
+<rect x="262.0" y="152.0" width="45.1" height="24.0" rx="2" fill="#eb6834" fill-opacity="0.9"/>
+<rect x="307.1" y="152.0" width="45.1" height="24.0" rx="2" fill="#eb6834" fill-opacity="0.4"/>
+<text x="362.3" y="169.0" font-size="12.5" fill="#0b0b0b" font-weight="600">14 лет и ещё 14, если автор жив</text>
+<text x="248.0" y="212.0" font-size="13.5" fill="#0b0b0b" text-anchor="end" font-weight="600">изобретение, сегодня</text>
+<text x="248.0" y="228.0" font-size="11" fill="#8a8985" text-anchor="end">патент</text>
+<rect x="262.0" y="202.0" width="64.5" height="24.0" rx="2" fill="#eb6834" fill-opacity="0.9"/>
+<text x="336.5" y="219.0" font-size="12.5" fill="#0b0b0b" font-weight="600">20 лет со дня заявки</text>
+<text x="248.0" y="262.0" font-size="13.5" fill="#0b0b0b" text-anchor="end" font-weight="600">Пушкин</text>
+<text x="248.0" y="278.0" font-size="11" fill="#8a8985" text-anchor="end">умер в 1837 году</text>
+<rect x="262.0" y="252.0" width="161.2" height="24.0" rx="2" fill="#eb6834" fill-opacity="0.9"/>
+<text x="433.2" y="269.0" font-size="12.5" fill="#0b0b0b" font-weight="600">50 лет после смерти: до 1887 года</text>
+<text x="248.0" y="318.0" font-size="13.5" fill="#0b0b0b" text-anchor="end" font-weight="600">книга, сегодня</text>
+<rect x="262.0" y="302.0" width="225.8" height="24.0" rx="2" fill="#eb6834" fill-opacity="0.9"/>
+<text x="497.8" y="319.0" font-size="12.5" fill="#0b0b0b" font-weight="600">жизнь автора и ещё 70 лет</text>
+<line x1="262.0" y1="88.0" x2="262.0" y2="336.0" stroke="#52514e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="28.0" y="372.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Статут королевы Анны (1710); статья 33 соглашения ТРИПС; российский закон 1857 года; сегодняшний срок в США,</tspan><tspan x="28.0" dy="14.4">Евросоюзе и России. Счёт идёт от издания (1710), от заявки (патент) или от смерти автора</tspan><tspan x="28.0" dy="14.4">(Пушкин, сегодняшняя книга).</tspan></text>
+</svg>

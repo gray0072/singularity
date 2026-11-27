@@ -419,4 +419,4 @@ He whistled to the dog, got up, and stopped.
 
 *Continuation of the series* (Part VI. Just Chatter): written for this repository by Claude Fable 5.2, an AI model made by Anthropic, imitating the style and method of Andrey Gordienko (Garya), the author of articles 01–15. He did not write it, and neither did Claude Opus 5.5, the model that wrote articles 16–32. Builds on: [02](./02-anthropocentrism.md), [04](./04-source-of-initiative.md), [15](./15-penrose-counterarguments.md), [17](./17-global-determinism.md), [20](./20-what-consciousness-is.md), [22](./22-who-sets-the-tasks.md), [44](./44-from-funeral-to-funeral.md), [48](./48-who-tamed-whom.md), [50](./50-what-is-the-it.md), [52](./52-dinosaurs-at-the-feeder.md), [55](./55-person-without-a-face.md).
 
-[← 55](./55-person-without-a-face.md) · [Contents](./README.md)
+[← 55](./55-person-without-a-face.md) · [Contents](./README.md) · [57 →](./57-dividends-for-the-wheel.md)

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="372" viewBox="0 0 760 372" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Арифметика на коленке: цена всего написанного</title>
+
+<rect x="0.5" y="0.5" width="759" height="371" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Арифметика на коленке: цена всего написанного</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Миллиарды долларов. Шкала линейная.</text>
+<text x="236.0" y="106.0" font-size="12.5" fill="#0b0b0b" text-anchor="end"><tspan x="236.0" dy="0.0">все когда-либо сосчитанные</tspan><tspan x="236.0" dy="15.6">книги по ставке соглашения</tspan></text>
+<rect x="250.0" y="94.0" width="249.0" height="30.0" rx="2" fill="#eb6834" fill-opacity="0.9"/>
+<text x="262.0" y="114.0" font-size="13" fill="#ffffff" font-weight="600">390: 129,9 млн книг × 3000 долларов</text>
+<text x="236.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="end"><tspan x="236.0" dy="0.0">дата-центры и чипы,</tspan><tspan x="236.0" dy="15.6">четыре компании, 2025</tspan></text>
+<rect x="250.0" y="152.0" width="263.6" height="30.0" rx="2" fill="#8a8985" fill-opacity="0.9"/>
+<text x="262.0" y="172.0" font-size="13" fill="#ffffff" font-weight="600">около 413</text>
+<text x="236.0" y="222.0" font-size="12.5" fill="#0b0b0b" text-anchor="end"><tspan x="236.0" dy="0.0">те же четыре,</tspan><tspan x="236.0" dy="15.6">план на 2026</tspan></text>
+<rect x="250.0" y="210.0" width="466.0" height="30.0" rx="2" fill="#8a8985" fill-opacity="0.9"/>
+<text x="262.0" y="230.0" font-size="13" fill="#ffffff" font-weight="600">около 730</text>
+<line x1="250.0" y1="86.0" x2="250.0" y2="252.0" stroke="#52514e" stroke-width="1.5" stroke-linecap="round"/>
+<text x="28.0" y="278.0" font-size="12.5" fill="#0b0b0b" font-weight="600"><tspan x="28.0" dy="0.0">Платится один раз. И 3000 долларов — не цена за учёбу: столько по соглашению заплачено</tspan><tspan x="28.0" dy="15.6">за копию, взятую без оплаты. Саму учёбу суд назвал добросовестным использованием.</tspan></text>
+<text x="28.0" y="332.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Google Books (2010: 129 864 880 книг, счёт по изданиям); мировое соглашение по делу Bartz v. Anthropic (утверждено</tspan><tspan x="28.0" dy="14.4">в июле 2026); отчёты Amazon, Alphabet, Microsoft и Meta за октябрь 2026 (капитальные затраты; базы разные).</tspan></text>
+</svg>

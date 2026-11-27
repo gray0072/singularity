@@ -5342,6 +5342,144 @@ def the_movable_line(lang):
     return f
 
 
+# --- 57. Dividends for the Wheel ---------------------------------------------------------------
+
+@figure("dividends-have-a-term")
+def dividends_have_a_term(lang):
+    t = {
+        "en": dict(title="For how long the law pays the one who made it",
+                   sub="Years of exclusive right. When the term runs out, the thing belongs to everybody.",
+                   rows=[("the wheel", "about 5,500 years ago", 0, 0, "nobody, never"),
+                         ("a new book, England, 1710", "the first copyright law", 14, 14,
+                          "14 years, and 14 more if the author is alive"),
+                         ("an invention, today", "a patent", 20, 0, "20 years from the application"),
+                         ("Pushkin", "died in 1837", 50, 0, "50 years after his death: until 1887"),
+                         ("a book, today", "", 70, 0, "the author's life and 70 years more")],
+                   axis="years",
+                   src="The Statute of Anne (1710); article 33 of the TRIPS agreement; the Russian law of 1857; the term of today in the\n"
+                       "United States, the European Union and Russia. Counted from publication (1710), from the application (a patent)\n"
+                       "or from the author's death (Pushkin, a book today)."),
+        "ru": dict(title="Сколько лет закон платит тому, кто придумал",
+                   sub="Годы исключительного права. Когда срок выходит, вещь принадлежит всем.",
+                   rows=[("колесо", "около 5500 лет назад", 0, 0, "никому и никогда"),
+                         ("новая книга, Англия, 1710", "первый закон об авторском праве", 14, 14,
+                          "14 лет и ещё 14, если автор жив"),
+                         ("изобретение, сегодня", "патент", 20, 0, "20 лет со дня заявки"),
+                         ("Пушкин", "умер в 1837 году", 50, 0, "50 лет после смерти: до 1887 года"),
+                         ("книга, сегодня", "", 70, 0, "жизнь автора и ещё 70 лет")],
+                   axis="лет",
+                   src="Статут королевы Анны (1710); статья 33 соглашения ТРИПС; российский закон 1857 года; сегодняшний срок в США,\n"
+                       "Евросоюзе и России. Счёт идёт от издания (1710), от заявки (патент) или от смерти автора\n"
+                       "(Пушкин, сегодняшняя книга)."),
+    }[lang]
+    f = Fig(760, 424, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, vmax, row, y0 = 262, 520, 80, 50, 92
+    for v in (0, 20, 40, 60, 80):
+        x = x0 + v / vmax * (x1 - x0)
+        f.line(x, y0 - 4, x, y0 + 5 * row - 6, color=GRID, width=1)
+        f.text(x, y0 + 5 * row + 12, str(v) if v < 80 else f"80 {t['axis']}", size=11.5, color=MUTED, anchor="middle")
+    for i, (name, who, v, extra, shown) in enumerate(t["rows"]):
+        y = y0 + i * row
+        f.text(x0 - 14, y + (20 if who else 26), name, size=13.5, color=INK, anchor="end", weight="600")
+        if who:
+            f.text(x0 - 14, y + 36, who, size=11, color=MUTED, anchor="end")
+        w = v / vmax * (x1 - x0)
+        if v:
+            f.rect(x0, y + 10, w, 24, fill=ORANGE, r=2, opacity=0.9)
+        else:
+            f.rect(x0 - 2, y + 10, 4, 24, fill=MUTED, r=1)
+        if extra:
+            f.rect(x0 + w, y + 10, extra / vmax * (x1 - x0), 24, fill=ORANGE, r=2, opacity=0.4)
+            w += extra / vmax * (x1 - x0)
+        f.text(x0 + w + 10, y + 27, shown, size=12.5, color=INK, weight="600")
+    f.line(x0, y0 - 4, x0, y0 + 5 * row - 6, color=INK2, width=1.5)
+    f.text(28, 372, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+def _split_bar(f, x0, x1, y, h, share, colors, labels):
+    """One bar of 100% split into a small first part and the rest, each with its label."""
+    w = (x1 - x0) * share
+    f.rect(x0, y, w, h, fill=colors[0], r=2, opacity=0.9)
+    f.rect(x0 + w + 2, y, x1 - x0 - w - 2, h, fill=colors[1], r=2, opacity=0.9)
+    f.text(x0 + w + 16, y + h / 2 + 5, labels[1], size=13.5, color="#ffffff", weight="600")
+    f.line(x0 + w / 2, y + h, x0 + w / 2, y + h + 12, color=INK2, width=1.2)
+    f.text(x0, y + h + 28, labels[0], size=12.5, color=INK, weight="600")
+
+
+@figure("where-the-gain-came-from")
+def where_the_gain_came_from(lang):
+    t = {
+        "en": dict(title="Where the growth came from, and who kept it",
+                   sub="Two counts made by economists; each bar is a whole, split in two.",
+                   a="Output per hour of work doubled (the United States, 1909–1949). What it came from:",
+                   a_labels=["⅛: more machines per worker", "⅞: everything else. Solow called it “technical change”"],
+                   b="The gain from new inventions (the United States, 1948–2001). Who kept it:",
+                   b_labels=["2.2%: those who invented", "about 98%: everybody else, as lower prices"],
+                   src="Solow (1957); Nordhaus (2004), whose estimates run from 1.3% to 3.3%. The seven eighths are a remainder:\n"
+                       "what the growth of machines and of hours worked does not explain. A colleague of Solow's called it\n"
+                       "“some sort of measure of our ignorance”."),
+        "ru": dict(title="Откуда взялся рост и кому он достался",
+                   sub="Два подсчёта экономистов; каждая полоса — целое, разделённое надвое.",
+                   a="Выработка за час труда удвоилась (США, 1909–1949). Откуда это взялось:",
+                   a_labels=["⅛: больше машин на работника", "⅞: всё остальное. Солоу назвал это «техническим прогрессом»"],
+                   b="Выигрыш от новых изобретений (США, 1948–2001). Кому он достался:",
+                   b_labels=["2,2%: тем, кто изобрёл", "около 98%: всем остальным, дешевизной"],
+                   src="Солоу (1957); Нордхаус (2004), оценки которого лежат между 1,3% и 3,3%. Семь восьмых — это остаток:\n"
+                       "то, чего не объясняет рост числа машин и отработанных часов. Коллега Солоу назвал его\n"
+                       "«своего рода мерой нашего незнания»."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    f.text(28, 100, t["a"], size=13, color=INK2)
+    _split_bar(f, 28, 732, 112, 34, 1 / 8, [MUTED, BLUE], t["a_labels"])
+    f.text(28, 212, t["b"], size=13, color=INK2)
+    _split_bar(f, 28, 732, 224, 34, 0.022, [MUTED, GREEN], t["b_labels"])
+    f.text(28, 318, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("price-of-everything-written")
+def price_of_everything_written(lang):
+    t = {
+        "en": dict(title="Arithmetic on the knee: the price of everything written",
+                   sub="Billions of dollars. The scale is linear.",
+                   rows=[("every book ever counted,\nat the rate of the settlement", 390,
+                          "390: 129.9 million books × 3,000 dollars"),
+                         ("data centres and chips,\nfour companies, 2025", 413, "about 413"),
+                         ("the same four,\nthe plan for 2026", 730, "about 730")],
+                   note="Paid once. And the 3,000 dollars is not a price for learning: it is what the settlement paid\n"
+                        "for a copy taken without paying. The court called the learning itself fair use.",
+                   src="Google Books (2010: 129,864,880 books, counted by editions); the settlement in Bartz v. Anthropic (approved in July\n"
+                       "2026); the reports of Amazon, Alphabet, Microsoft and Meta of October 2026 (capital spending; the bases differ)."),
+        "ru": dict(title="Арифметика на коленке: цена всего написанного",
+                   sub="Миллиарды долларов. Шкала линейная.",
+                   rows=[("все когда-либо сосчитанные\nкниги по ставке соглашения", 390,
+                          "390: 129,9 млн книг × 3000 долларов"),
+                         ("дата-центры и чипы,\nчетыре компании, 2025", 413, "около 413"),
+                         ("те же четыре,\nплан на 2026", 730, "около 730")],
+                   note="Платится один раз. И 3000 долларов — не цена за учёбу: столько по соглашению заплачено\n"
+                        "за копию, взятую без оплаты. Саму учёбу суд назвал добросовестным использованием.",
+                   src="Google Books (2010: 129 864 880 книг, счёт по изданиям); мировое соглашение по делу Bartz v. Anthropic (утверждено\n"
+                       "в июле 2026); отчёты Amazon, Alphabet, Microsoft и Meta за октябрь 2026 (капитальные затраты; базы разные)."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, vmax, row, y0 = 250, 716, 730, 58, 88
+    colors = [ORANGE, MUTED, MUTED]
+    for i, (name, v, shown) in enumerate(t["rows"]):
+        y = y0 + i * row
+        f.text(x0 - 14, y + 18, name, size=12.5, color=INK, anchor="end")
+        w = v / vmax * (x1 - x0)
+        f.rect(x0, y + 6, w, 30, fill=colors[i], r=2, opacity=0.9)
+        f.text(x0 + 12, y + 26, shown, size=13, color="#ffffff", weight="600")
+    f.line(x0, y0 - 2, x0, y0 + 3 * row - 10, color=INK2, width=1.5)
+    f.text(28, 278, t["note"], size=12.5, color=INK, weight="600")
+    f.text(28, 332, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
