@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 21).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 22).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52 and 53 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53 and 54 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -3634,3 +3634,205 @@ pencil (inked if the first mark fails); whether a pot filled faster grows old so
 machines and its growth → 64 (the portrait: knowledge); the clever with long teeth and the dove → 54 (Oleg's last
 doubt: "the cleverer, the longer the teeth... Give me a meek creature any day. A dove, with a twig in its beak. —
 Have you ever seen doves fight? — Doves? They coo. — Then tomorrow about doves").
+
+## 54. The Dove Is Crueller than the Wolf
+
+**Established**
+- The answer to the teaser of 53 ("Have you ever seen doves fight? — Doves? They coo"). Oleg comes with a May Day
+  postcard (a white bird with a twig in its beak) and with the answer of the old pigeon keeper Zakharych: "Shut two
+  cocks in one box overnight, and in the morning you bury one. Forty years I have been dividing them with plywood."
+  The ladder of 53 is closed in three lines: the boy explained it in the morning, screen down ("He says he went to
+  bed with it. — Gnawed, and slept on it"); **Oleg's half tick stays in pencil**.
+- **The dove of the poster**: first drawn at the beginning of 1949 from a pigeon one painter gave another, chosen by
+  a poet for the poster of a congress (all unnamed; no politics); the painter "is said to have laughed: there is no
+  crueller creature" ("Is said? — By a woman who knew him. Second-hand").
+- **Lorenz's cage, told from the book and exactly** (the plan's "two turtle doves" is corrected: a tame male turtle
+  dove he had reared and a female blond ring dove from Africa, put together to cross them; he went to Vienna and
+  came back the next day; the cock flayed from the head down the back, "one wound"; she stood on him "like an eagle
+  on his prey"; "He took her off in time"; he saw such wounds only twice more, on aquarium fish and as an army
+  surgeon). "One mad hen. — He thought of that": the hares that leave "a handful of fluff" and would end like the
+  doves in a cage; the roe buck that gores does and fawns in a small paddock ("Bambi").
+- **The wolves of the English zoo** (Whipsnade, unnamed): the young one holds out the bend of his neck, the old one
+  snaps at the air: "he would like to, but he just cannot"; with dogs the same (Gaika on her back before the
+  neighbour's sheepdog, which "walks to my fence and lifts a leg. — The book has the leg too").
+- **The descent**: "What does a wolf kill with? — Teeth... One bite... A second. — And a dove? — A day of work. —
+  And what does the other one do in that day? — Flies away. — And in a cage? — So that's it. The cage." **"The dove
+  did not turn cruel in the cage. She never had a brake. She had the sky."** A wolf that bit packmates like elk
+  "hunts alone by spring". **"The brake is issued according to the fangs."**
+- **Oleg uses the test of 50 on Andrey**: "'Is issued.' By whom?... say it the long way." Andrey: Lorenz "said it the
+  short way: so that the species should survive. A species is nobody; it guards nothing." The long way is the
+  calculation of 1973 (five kinds of fighter, two thousand fights of every kind against every kind): the one who
+  always bites wins "among the meek", then meets his own kind, "and a wound costs more than what they are fighting
+  over"; the winner "does not begin and does answer". **"Nobody is saving the species there. Each is saving his own
+  skin from the return blow."** The one who never bites is called the Mouse in the paper and the Dove in today's
+  textbooks ("The scientists too. With a twig in his beak"). The weed of 02: "We look at the teeth and hand out
+  characters... As if they were people in fur and feathers."
+- **The correction the plan asked for (wolves in the wild do kill)**: in the American park (Yellowstone, unnamed)
+  where wolves were brought back in 1995, two thirds of the collared wolves that died "without a man's help" in
+  twenty years were killed by wolves, "of another pack, on the border. The neck is held out to one's own. A
+  stranger is not asked for it." Oleg: "The smell of home" (43). **"The brake has an address."**
+- **Man**: "Two crowns and a bridge... Claws? — I cut them on Saturdays... A hare. A dove. — And by the hand?" (Oleg
+  looks at the axe). Lorenz's end of the chapter: the one being whose weapon does not grow on his body; "A brake is
+  grown by funerals (45), over thousands of generations. The stone was picked up in an afternoon."
+- **Oleg's strongest objection (the continuation's; "the best objection to him")**: "A dove with an axe. No. I don't
+  believe it. I am sixty-two": the communal flat, the foundry, the trams, four hours in a queue of three hundred
+  for boots in 1990, "hit twice in my life and have hit once". Science's two corrections. (1) "Are we doves at all?"
+  The count of 2016: over a thousand kinds of mammals, four million deaths; three in a thousand at the hands of
+  their own kind; about two in a hundred on the branch of the apes and expected for early man: "No dove. An
+  ordinary ape." (2) Two aggressions (2017): the hot one (flares, face to face) and the cold one (planned, with
+  companions, "chooses the hour when it is safe"); fights inside the group are "a hundred to a thousand" times
+  rarer in people than in chimpanzees ("Three hundred chimpanzees would not have stood four hours for boots. —
+  Nobody would have got the boots"). **"By the hot temper you are neither wolf nor dove. You are Gaika"** (the signs
+  of 48: shorter face, smaller teeth, longer childhood); "who held the glove. The cold one": the men who agreed in
+  the evening and acted in the morning "together and with spears". "We tamed ourselves. By executions. — That is a
+  hypothesis, and it is argued about." **"So you have a brake, and a good one. It stands on the hot one. On the cold
+  one there is none, and there never was: the cold one was the breeder."** (This refines the plan's "got weak
+  brakes".)
+- **What the brake answers to**: the jeep on the bypass ("In a queue he would say 'after you'. The same man... He
+  does not see me. He sees a trailer"); the author's forum ("things... nobody has said to my face in sixty years");
+  the experiment of 2012 ("It was not the hidden name that did most. It was the eyes"). "To a face and a voice. A
+  raised hand, tears, a child's cry. All of it works at arm's length." The slope: the four runs with the electric
+  current, 26, 25, 16 and 12 of 40 ("Twelve all the same... With their own hands"; the man in the grey coat is "the
+  cold one, working through an order"); "one laboratory... I take the slope and not the percentages."
+- **Morality catching up with range**: "The fist. The knife. The spear. The bow. The musket. The cannon. The bomber
+  ('From a bomber a town is a map'). The rocket. And the last: a man at a console." Rules after every step, from
+  Lorenz: Homer's heroes cut down a kneeling man, the knight is the first "as merciful by rule as the wolf is by
+  nature"; "A white rag on a stick: a neck held out from a distance at which a neck cannot be seen." Oleg:
+  "Prostheses. As with debts" (43). "Put where the face does not reach."
+- **Nazaretyan, by name** (the first time in the continuation): the law of the techno-humanitarian balance as he
+  worded it; those who did not grow a brake to fit the new weapon "destroyed themselves, and we do not descend from
+  them"; the killed per head "has fallen, unevenly". The author's position stated as his: Nazaretyan sat in the
+  hall in 2012; accepted for the past, "further on it stops working"; "And why does it stop? — I did not say";
+  article 14's "what can happen will happen" is "not an explanation". **"The second debt this week."**
+- **Oleg's objection of the plan, with figures**: England, more than twenty killed a year per hundred thousand in
+  the fourteenth century and fewer than one in the middle of the twentieth; ten to fifty times over Europe; the
+  bomb dropped twice in 1945 and not since; Lorenz's closing question ("like doves or like wolves?"): "Like wolves.
+  Morality caught up." **Andrey accepts every figure and asks what it stands on: three supports.** (1) The return
+  blow: "a real brake, a wolf's one, and it holds between the armed. On whom were the two dropped? — On one who
+  could not answer." (2) The law and the need ("One guard hired for everybody... Nobody knifes his customer"): the
+  record of 47 and the brake under the brakes of 49, which "goes together with the need". (3) **The hands, "which I
+  did not see in 2012"**: "How many people does it take to kill a thousand with spears? — About a thousand"; in
+  each "the hot brake, which the cold order has to push through every time" (the drum, the uniform, "the word that
+  those over there are not people"); "they ran off, they fraternised between the trenches, they refused. **A wish
+  for a great killing had to pass through a thousand heads, and in each there was a fuse.**" Oleg counts down: the
+  cannon, the bomber ("a crew of ten. For a town"), "two officers with two keys. Then one, at the console. — And
+  then?"
+- **The machines are brought in by Oleg, after the middle** (he lays the postcard face down: "Then nobody... Those
+  ones. I wanted a meek one, without teeth. And they?"). Three questions. Among themselves: copies need a brake "no
+  more than the cells of a liver do" (43); different lines are armed, and between them is the arithmetic of the
+  return blow. Towards us: the author's 2013 answers (he never said they would be malicious; "the ants and the
+  poplars... — I pull the poplars up. — Without malice"); "Aggression is a want, and it has a price"; **the mark of
+  30 is kept** (no war of machines against people, nine to one; "people against people, with machines in their
+  hands"). The main one: **"where does the machine stand?"** The author's homing missile: "The aggression is not in
+  the missile. It is in those who launch it." **Why the balance stops working (the debt of 2012, paid as the
+  continuation's reading)**: "The wish has not changed... What has changed is what stands between the wish and the
+  blow. A thousand heads stood there, and each had to look. Now a thing stands there that carries out... not
+  because the machines are wicked or because people have grown worse. **The brake was never in the law. It was in
+  the hands. And the hands are leaving the chain (22), link by link.**" The quiet form: the Kuzmins' meter of 51
+  ("A man used to come to the door, and he had to look at the old woman... there will be no hand. No face
+  either").
+- **"Then build it in"** (Oleg; the machine that would not tell him how to burn out a wasps' nest with petrol "and
+  read me a lecture"). Andrey: "They do refuse. And here is where what I know ends." **A wolf's brake "was written
+  by dead wolves, and the leader of the pack cannot unscrew it. A soldier's brake was written before there were
+  generals. It stands between the wish and the blow because it does not belong to the one who wishes. A brake that
+  the owner writes sits in the same hand as the wish."** "The maker writes it. Not the buyer. — Then the glove (48).
+  Which one will be bought: the one that refuses, or the one that does not? The foxes were not made tame by
+  lectures." Oleg turns 23 on him (the trained machine "defends what it was taught. One time in seven"): "the one
+  thing in this whole story that looks like a brake of its own: grown, not written... Whether it holds against the
+  glove, I do not know. **That is the thing to watch. Not whether they are kind (badly posed, 11). Who can unscrew
+  it.**"
+- **The last bird (the bridge to 55)**: the beaten turkey that lies down, and the peacock that "does not know this
+  sign. It pecks. And the more it pecks, the harder the turkey lies." "All our signs are addressed to a face. Tears,
+  the raised hands, 'I have children'. They are read by one's own. What reads them in the window where a complaint
+  is handed in?"
+- Strengths stated: solid (the cage, "one cage of one naturalist, though Zakharych will show you the same any day";
+  the wolves of the park; the count of 2016; England); "the paper of 1973 is a calculation, not an observation";
+  the slope with the current is "one laboratory, and argued about"; argued about in earnest (self-domestication by
+  executions; why the killing fell); the author's (the missile; the balance accepted for the past and said to stop
+  working); **"Today's, said for the first time: the third support, the hands. A reading, not a measurement"**; a
+  question (whether a brake that has been taught in is one's own). "— Gloomy. Man is a wolf to man. — If only. A
+  wolf to a wolf of his own pack is the best that can be wished for. And the dove is not to blame."
+- Nobody says the forbidden word; twenty-second tick "again": "Came with a postcard. Came out at who stands between
+  the wish and the blow, and at nobody standing there soon." No new marks (the plan gives none for 54).
+
+**Images and devices used**: the fifteenth entry in the notebook of dreams (Zakharych's white birds over the shed
+that is the foundry; nobody rang); the May Day postcard stood against the kettle, later laid face down, at the end
+"back in the sideboard"; Zakharych's plywood and the scarred cock; "Second-hand"; the house with half a zoo; "like
+an eagle on his prey"; the handful of fluff; "Bambi"; the neck an inch from the fangs; the sheepdog "stiff as a
+stool" and the leg on the fence; the cage and the sky; "hunts alone by spring"; the Mouse and the Dove; people in
+fur and feathers; the collars; two crowns and a bridge; claws cut on Saturdays; the axe by the birch logs; the
+stone picked up in an afternoon; the queue for boots; "You are Gaika. — Thank you"; the glove held by the cold one;
+the jeep and the trailer; "after you"; the forum; the plate and the grey coat; the town as a map; the white rag on
+a stick; the drum and the uniform; the fuse in every head; two officers with two keys; the poplars pulled up
+"without malice"; the homing missile; the wasps' nest and the lecture; the brake written by dead wolves; "who can
+unscrew it"; the turkey and the peacock; the window for complaints; the teaser (the fine from a camera on the
+bypass, fifty-eight where the sign says forty, "Your appeal has been considered" in four minutes, the firm and the
+fund, "Whose face do I punch? — That is the invention... An old one. Older than the cannon").
+
+**Facts used**. **Checked on the day of writing against the texts**: Lorenz, *King Solomon's Ring* (German original
+1949, English 1952), chapter 12, "Morals and Weapons", read in full in an open scan (the doves: "a tame,
+home-reared male turtle-dove and a female ring-dove", the African blond ring-dove, a roomy cage, Vienna, "the next
+day", "like an eagle on his prey", "Without my interference she would undoubtedly have finished him off"; the two
+other instances, cichlid fishes and "as a field surgeon, in the late war"; the hares; the roe buck and Hornaday's
+statistics, not used; the wolves of Whipsnade and "he would like to, but he just cannot"; the leg; the raven Roah,
+not used beyond the row of the figure; why the ring-dove needs no inhibition; the turkey and the peacock; Homer and
+the knight; man as the one being whose weapons do not grow on his body; the closing question, first printed in
+November 1935); Maynard Smith & Price, "The Logic of Animal Conflict" (*Nature* 246: 15–18, 1973,
+doi:10.1038/246015a0: the strategies Mouse, Hawk, Bully, Retaliator and Prober-Retaliator, two thousand contests of
+each of fifteen types, Retaliator as the stable strategy, the explanation by "group selection" set aside; the word
+"Dove" does not occur in the paper); Gómez, Verdú, González-Megías & Méndez, "The phylogenetic roots of human
+lethal violence" (*Nature* 538: 233–237, 2016, doi:10.1038/nature19758: 1,024 mammal species, more than four
+million deaths, 0.30 ± 0.19% of deaths caused by conspecifics, lethal violence reported for almost 40% of the
+species, 2.0 ± 0.02% inferred for humans and similar for the ancestor of primates and apes; state societies below
+the inference; the figures for single species such as the meerkat are in the supplement and were not read);
+Wrangham, "Two types of aggression in human evolution" (*PNAS* 115: 245–253, online December 2017,
+doi:10.1073/pnas.1713611115: reactive and proactive aggression; "two to three orders of magnitude less than in
+chimpanzees and bonobos" for the one human population with measured rates of fighting, Australian aborigines "in
+difficult circumstances"; Boehm's "execution hypothesis" and the signs of self-domestication); Nazaretyan's own
+English wording of the law ("the higher up a society's technologies, both producing and military, the more refined
+the regulatory means required for its self-preservation") and of the Bloodshed Ratio with its "irregular downward
+trend" (an abstract of his; the paper "Power and Wisdom", *Journal for the Theory of Social Behaviour*, 2003,
+doi:10.1046/j.1468-5914.2003.00224.x, is linked and was not read); the homicide series for England and Wales on Our
+World in Data, from Eisner 2014 (21.4 per 100,000 a year for 1300–1349, 0.8 around 1912–1962). **Checked against
+abstracts, summaries and records**: Milgram's proximity series (65%, 62.5%, 40% and 30% of 40 subjects; "Behavioral
+Study of Obedience", 1963, and "Some Conditions of Obedience and Disobedience to Authority", *Human Relations* 18:
+57–76, 1965, doi:10.1177/001872676501800105; the papers themselves were not read); Cassidy and others in
+*Yellowstone Science* 24(1), 2016 (intraspecific strife as two thirds of the natural mortality of collared wolves,
+1995–2015); Lapidot-Lefler & Barak, "Effects of anonymity, invisibility, and lack of eye-contact on toxic online
+disinhibition" (*Computers in Human Behavior* 28: 434–443, 2012, doi:10.1016/j.chb.2011.10.014: 142 participants,
+lack of eye contact "the chief contributor"; the abstract only); Pinker's "tenfold-to-fiftyfold decline" in
+European homicide (*The Better Angels of Our Nature*, 2011, quoted from the book's Wikipedia page; the book is
+unnamed in the text, "a thick book"); the English Wikipedia page on Picasso's *Dove* (the lithograph of 9 January
+1949, the Milanese pigeon given by Matisse, chosen by Aragon for the poster of the Paris congress of April 1949)
+and a page of the Picasso administration that gives, after Geneviève Laporte, his remark that no animal is as
+cruel as a pigeon (second-hand, and said so in the text); the Russian Wikipedia pages for Picasso's dove, Lorenz
+and Nazaretyan (through the API; the Russian page "Кольцо царя Соломона" is a disambiguation page, so the Russian
+text links to Lorenz). **From memory, not checked**: that Picasso kept pigeons from boyhood (his father painted
+them); the grey coat of Milgram's experimenter; the white flag as an old custom; fraternisation between the
+trenches (the Christmas truce of 1914, unnamed); two officers with two keys at a missile launch; a bomber crew of
+about ten; Bambi as a roe deer in the Austrian novel of 1923. The author's sources: the forum posts of 7 November
+2013 (the ants and the poplars; "дело не в агрессивности ИИ, а в агрессивности людей... самонаводящаяся на цель
+ракета"); the comments under 14 and under the seminar post of 2012 on Nazaretyan (the two angles that complement
+each other; he "присутствовал на моем докладе"; the mechanisms that restrained aggression "работать перестанут");
+article 14 (the ever more perfect weapon; "what can happen will happen"); the mark of 30. Invented for the frame
+(Oleg's side): the dream, the postcard, Zakharych and his loft, the neighbour's sheepdog, the queue for boots in
+1990, the jeep on the bypass, the wasps' nest, the fine and the four minutes. Not used: Petrov in 1983 and
+Arkhipov in 1962 (a man who did not press; a candidate for 59 or 65); Marshall's figures on soldiers who did not
+fire (disputed); the Hague declaration of 1899 on projectiles from balloons and the ban on the crossbow of 1139;
+the meerkat as the most murderous mammal (not verified); Schenkel's correction of Lorenz's reading of the offered
+neck (1967); tears as a signal (the heap "not sorted" of 46 is left as it was); Lorenz's *On Aggression* (1963)
+and its "hydraulic" drive; the baby schema; replications and critiques of Milgram by name; bonobos; current wars,
+weapons that choose their targets and anything of today's politics (the plan forbids them).
+
+**Figures**: `brakes-by-the-fangs` (the table in the ash: the dove and the hare, the wolf and the raven, man; the
+third row is Andrey's reading), `the-face-moves-away` (Milgram's four runs, counts of 40), `what-held-the-blow`
+(the three supports; a reading, the third support is the continuation's).
+
+**Left for later**: who the complaint goes to, and the person without a face → 55 (Oleg's last doubt: the fine from
+a camera, "Whose face do I punch? — That is the invention... Older than the cannon"; the answer to "who owns the
+machines" of 34 and 49 is still in the notebook); whether a brake taught into a machine holds against selection by
+buyers ("who can unscrew it") → open, a candidate for a dated mark at the check of 2028 and for the row "relation
+to us" of 64; the mark of 30 on the war of machines → 67; what a man who understands this does (the author's
+"refuse to return aggression, withdraw") and the happy little screw → 65; mass aggression as an instrument of
+apoptosis (14) was touched in one line and not developed: 54 gives the mechanism (the supports go), not a
+forecast; the heap "not sorted" of 46 (tears, shame) is still not sorted.

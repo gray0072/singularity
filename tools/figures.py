@@ -4905,6 +4905,141 @@ def with_the_machine_and_screen_down(lang):
     return f
 
 
+# --- 54. The Dove Is Crueller than the Wolf ---------------------------------------------------
+
+def _ash_table(f, t, cols, top, row_h, last_colors, fail_second_line=False):
+    """A table 'in the ash': a name column and three cells per row; the last column is coloured."""
+    head_h = 30
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 20, label, size=12, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, *cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(28, y, cols[3], y, color=GRID, width=1.2)
+        f.text(40, y + row_h / 2 - 3, name, size=14, color=INK, weight="600")
+        f.text(40, y + row_h / 2 + 14, who, size=11, color=MUTED)
+        for k, cell in enumerate(cells):
+            cx = (cols[k] + cols[k + 1]) / 2
+            lines = cell.split("\n")
+            y0 = y + row_h / 2 + 5 - (len(lines) - 1) * 8.5
+            for j, line in enumerate(lines):
+                last = k == 2
+                if last and fail_second_line:
+                    color, weight = (last_colors[i], "600") if j == 0 else (RED, "normal")
+                elif last:
+                    color, weight = last_colors[i], "600"
+                else:
+                    color, weight = INK, "normal"
+                f.text(cx, y0 + j * 17, line, size=12, color=color, anchor="middle", weight=weight)
+    bottom = top + head_h + len(t["rows"]) * row_h
+    f.line(28, bottom, cols[3], bottom, color=GRID, width=1.2)
+    return bottom
+
+
+@figure("brakes-by-the-fangs")
+def brakes_by_the_fangs(lang):
+    t = {
+        "en": dict(title="The brake is issued according to the fangs",
+                   sub="A table in the ash: with what one kills one's own, whether there is a brake, and what saves the loser.",
+                   head=["kills its own with", "the brake", "what saves the loser"],
+                   rows=[("the dove, the hare", "unarmed", "a day of work", "none",
+                          "the sky, the legs\nbut not in a cage"),
+                         ("the wolf, the raven", "armed", "one blow", "there is one:\nfor its own",
+                          "the neck held out\nbut not on the border of the pack"),
+                         ("man", "unarmed in body, armed in hand", "the body: a day of work\nthe hand: one blow",
+                          "on hot anger:\nanswers to a face", "a face at arm's length\nbut not at a distance")],
+                   src="Rows 1 and 2: Lorenz (1949), with two corrections: the wolves of Yellowstone, 1995–2015 (two thirds of natural\n"
+                       "deaths are the work of wolves of other packs), and Maynard Smith and Price (1973). Row 3 is Andrey's reading."),
+        "ru": dict(title="Тормоз выдаётся по клыкам",
+                   sub="Таблица на золе: чем убивают своих, есть ли тормоз и что спасает проигравшего.",
+                   head=["чем убивает своих", "тормоз", "что спасает проигравшего"],
+                   rows=[("голубь, заяц", "безоружные", "сутки работы", "нет",
+                          "небо, ноги\nно не в клетке"),
+                         ("волк, ворон", "вооружённые", "один удар", "есть:\nдля своих",
+                          "подставленная шея\nно не на границе стаи"),
+                         ("человек", "телом безоружен, рукой вооружён", "телу — сутки работы\nруке — один удар",
+                          "на горячей злости:\nсрабатывает на лицо", "лицо на расстоянии руки\nно не издали")],
+                   src="Строки 1 и 2: Лоренц (1949) с двумя поправками: волки Йеллоустона, 1995–2015 (две трети естественных\n"
+                       "смертей — дело волков чужих стай), и Мейнард Смит и Прайс (1973). Строка 3 — прочтение Андрея."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    bottom = _ash_table(f, t, [236, 404, 548, 736], 84, 68, [GREEN, GREEN, GREEN], fail_second_line=True)
+    f.text(28, bottom + 24, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("the-face-moves-away")
+def the_face_moves_away(lang):
+    t = {
+        "en": dict(title="The further the face, the weaker the brake",
+                   sub="How many of 40 men went on, when ordered, to the last switch: 450 volts.",
+                   rows=["the pupil is behind a wall:\nonly his pounding is heard",
+                         "behind a wall:\nhis voice is heard",
+                         "in the same room,\nwithin arm's reach",
+                         "the man himself presses\nthe pupil's hand to the plate"],
+                   of="of 40",
+                   src="Milgram (1963, 1965): four runs of 40 men each at an American university; the pupil was an actor and no current\n"
+                       "flowed. One laboratory, and argued about to this day: read the slope, not the percentages."),
+        "ru": dict(title="Чем дальше лицо, тем слабее тормоз",
+                   sub="Сколько человек из 40 дошли по приказу до последнего рубильника: 450 вольт.",
+                   rows=["ученик за стеной:\nслышен только стук",
+                         "за стеной:\nслышен голос",
+                         "в той же комнате,\nна расстоянии руки",
+                         "руку ученика надо самому\nприжимать к пластине"],
+                   of="из 40",
+                   src="Милгрэм (1963, 1965): четыре серии по 40 человек в американском университете; ученик был актёром, тока\n"
+                       "не было. Одна лаборатория, и спорят о ней до сих пор: читать надо наклон, а не проценты."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    values = [26, 25, 16, 12]
+    colors = [RED, RED, ORANGE, YELLOW]
+    x0, scale, bar, row = 268, 10.4, 30, 58
+    f.line(x0 + 40 * scale, 84, x0 + 40 * scale, 84 + 4 * row, color=GRID, width=1.5, dash="5 5")
+    f.text(x0 + 40 * scale, 84 + 4 * row + 16, "40", size=11.5, color=MUTED, anchor="middle")
+    for i, (label, v) in enumerate(zip(t["rows"], values)):
+        y = 90 + i * row
+        f.text(40, y + 13, label, size=12.5, color=INK)
+        f.rect(x0, y, v * scale, bar, fill=colors[i], r=2, opacity=0.9)
+        f.text(x0 + v * scale + 10, y + 20, f"{v} {t['of']}", size=13.5, color=INK, weight="600")
+    f.line(x0, 84, x0, 84 + 4 * row, color=INK2, width=1.5)
+    f.text(28, 340, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-held-the-blow")
+def what_held_the_blow(lang):
+    t = {
+        "en": dict(title="What held the blow back",
+                   sub="Three supports of the balance between the weapon and the brake, and what is happening to each.",
+                   head=["rests on", "holds", "what happens to it"],
+                   rows=[("the return blow", "the wolf's brake", "each saves\nhis own skin", "between the armed",
+                          "holds; has never\ncovered the unarmed"),
+                         ("the need", "people's need for people", "nobody beats\nthe one he needs",
+                          "between those who\nneed each other", "goes together\nwith the need"),
+                         ("the hands", "those between the wish and the blow", "a thousand heads,\na brake in each",
+                          "wherever\na face is seen", "fewer hands for one blow\nwith every new weapon")],
+                   src="Supports 1 and 2 are Oleg's objection, which Andrey accepts (the second is the evenings 47 and 49). Support 3 is\n"
+                       "the reading of this evening, not a measurement: a thing that carries out takes the place of those who had to look."),
+        "ru": dict(title="Что удерживало удар",
+                   sub="Три опоры баланса между оружием и тормозом, и что происходит с каждой.",
+                   head=["на чём стоит", "где держит", "что с ней происходит"],
+                   rows=[("ответный удар", "волчий тормоз", "каждый спасает\nсвою шкуру", "между вооружёнными",
+                          "держит; безоружных\nне прикрывал никогда"),
+                         ("потребность", "потребность людей в людях", "нужного\nне бьют",
+                          "между теми, кто\nдруг другу нужен", "уходит вместе\nс потребностью"),
+                         ("руки", "те, кто между желанием и ударом", "тысяча голов,\nв каждой тормоз",
+                          "там, где\nвидно лицо", "с каждым новым оружием\nрук на удар всё меньше")],
+                   src="Опоры 1 и 2 — возражение Олега, которое Андрей принимает (вторая — вечера 47 и 49). Опора 3 — прочтение\n"
+                       "этого вечера, а не измерение: то, что исполняет, встаёт на место тех, кому приходилось смотреть."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    bottom = _ash_table(f, t, [262, 406, 556, 736], 84, 68, [INK2, ORANGE, RED])
+    f.text(28, bottom + 24, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

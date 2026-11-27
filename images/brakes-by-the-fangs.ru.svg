@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="372" viewBox="0 0 760 372" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Тормоз выдаётся по клыкам</title>
+
+<rect x="0.5" y="0.5" width="759" height="371" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Тормоз выдаётся по клыкам</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Таблица на золе: чем убивают своих, есть ли тормоз и что спасает проигравшего.</text>
+<text x="320.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">чем убивает своих</text>
+<text x="476.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">тормоз</text>
+<text x="642.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">что спасает проигравшего</text>
+<line x1="28.0" y1="114.0" x2="736.0" y2="114.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="145.0" font-size="14" fill="#0b0b0b" font-weight="600">голубь, заяц</text>
+<text x="40.0" y="162.0" font-size="11" fill="#8a8985">безоружные</text>
+<text x="320.0" y="153.0" font-size="12" fill="#0b0b0b" text-anchor="middle">сутки работы</text>
+<text x="476.0" y="153.0" font-size="12" fill="#0b0b0b" text-anchor="middle">нет</text>
+<text x="642.0" y="144.5" font-size="12" fill="#008300" text-anchor="middle" font-weight="600">небо, ноги</text>
+<text x="642.0" y="161.5" font-size="12" fill="#e34948" text-anchor="middle">но не в клетке</text>
+<line x1="28.0" y1="182.0" x2="736.0" y2="182.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="213.0" font-size="14" fill="#0b0b0b" font-weight="600">волк, ворон</text>
+<text x="40.0" y="230.0" font-size="11" fill="#8a8985">вооружённые</text>
+<text x="320.0" y="221.0" font-size="12" fill="#0b0b0b" text-anchor="middle">один удар</text>
+<text x="476.0" y="212.5" font-size="12" fill="#0b0b0b" text-anchor="middle">есть:</text>
+<text x="476.0" y="229.5" font-size="12" fill="#0b0b0b" text-anchor="middle">для своих</text>
+<text x="642.0" y="212.5" font-size="12" fill="#008300" text-anchor="middle" font-weight="600">подставленная шея</text>
+<text x="642.0" y="229.5" font-size="12" fill="#e34948" text-anchor="middle">но не на границе стаи</text>
+<line x1="28.0" y1="250.0" x2="736.0" y2="250.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="281.0" font-size="14" fill="#0b0b0b" font-weight="600">человек</text>
+<text x="40.0" y="298.0" font-size="11" fill="#8a8985">телом безоружен, рукой вооружён</text>
+<text x="320.0" y="280.5" font-size="12" fill="#0b0b0b" text-anchor="middle">телу — сутки работы</text>
+<text x="320.0" y="297.5" font-size="12" fill="#0b0b0b" text-anchor="middle">руке — один удар</text>
+<text x="476.0" y="280.5" font-size="12" fill="#0b0b0b" text-anchor="middle">на горячей злости:</text>
+<text x="476.0" y="297.5" font-size="12" fill="#0b0b0b" text-anchor="middle">срабатывает на лицо</text>
+<text x="642.0" y="280.5" font-size="12" fill="#008300" text-anchor="middle" font-weight="600">лицо на расстоянии руки</text>
+<text x="642.0" y="297.5" font-size="12" fill="#e34948" text-anchor="middle">но не издали</text>
+<line x1="28.0" y1="318.0" x2="736.0" y2="318.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="342.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Строки 1 и 2: Лоренц (1949) с двумя поправками: волки Йеллоустона, 1995–2015 (две трети естественных</tspan><tspan x="28.0" dy="14.4">смертей — дело волков чужих стай), и Мейнард Смит и Прайс (1973). Строка 3 — прочтение Андрея.</tspan></text>
+</svg>

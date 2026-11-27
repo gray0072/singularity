@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–53 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `54`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–54 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `55`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–53.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–54.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -378,6 +378,17 @@ articles as closely as possible. In practice:
 | грызть или спрашивать | to gnaw or to ask | the wolf's and the dog's way with a closed box (48), turned on pupils: "the liquid goes in only through the gnawing; when he asks, it is poured past the pot"; the school in Turkey and the course at Harvard (53) |
 | экраном вниз | the screen down | Andrey's test of whose a piece of knowledge is: what a man can explain with the phone lying screen down is in his pot, what he cannot is in the pot of the pair "man and machine", and the shares are counted as in 12 (52, 53) |
 | конденсаторы параллельно | capacitors in parallel | the author's 2013 arithmetic of the symbiosis: one microfarad joined to a hundred gives a hundred and one; to the small one the large is nearly everything, to the large one the small is one per cent: "who needs whom" (53) |
+| тормоз по клыкам | the brake issued according to the fangs | Lorenz's observation (1949): whoever can kill its own at one blow carries a brake (the wolf that cannot bite a neck held out), whoever cannot has no use for one; said the long way (50) by the calculation of 1973: "nobody is saving the species: each is saving his own skin from the return blow"; "the dove is not cruel and the wolf is not noble" (54) |
+| клетка и небо | the cage and the sky | why the turtle dove was flayed in a day: "the dove did not turn cruel in the cage. She never had a brake. She had the sky": the unarmed get by on the loser's leaving (54) |
+| у тормоза есть адрес | the brake has an address | the neck is held out to one's own: in the wild two thirds of the wolves that die without a man's help are killed by wolves of other packs; the smell of home of 43; the turkey lies down and the peacock "does not know this sign" (54) |
+| ответный удар | return blow | the first support of the balance: the winner of the 1973 calculation is the one who does not begin and does answer; "a wolf's brake", it holds between the armed and has never covered the unarmed (54) |
+| горячая и холодная агрессия | hot and cold aggression | Wrangham's two kinds (2017): the hot one flares face to face and is hundreds of times rarer in people than in chimpanzees ("you are Gaika"); the cold one is planned, shared and safe; in the series, "the brake stands on the hot one; on the cold one there is none, and there never was: the cold one was the breeder" (the hypothesis of self-domestication by executions is argued about) (54) |
+| тормоз срабатывает на лицо | the brake answers to a face | a face and a voice at arm's length: the jeep behind glass, the forum, eye contact (2012), the four runs with the electric current (26, 25, 16 and 12 of 40): "I take the slope and not the percentages" (54) |
+| мораль догоняет дальнобойность | morality catching up with range | every weapon from the fist to the console moved the face a step further off, and rules were put "where the face does not reach": the knight, the rules of war, the white rag ("a neck held out from a distance at which a neck cannot be seen"); prostheses, as with debts (43; 54) |
+| техно-гуманитарный баланс | techno-humanitarian balance | Nazaretyan's law: the more powerful a society's technologies of production and war, the finer the means of restraint it needs to survive; the author accepted it for the past and said in 2012 that it would stop working, without saying why (54) |
+| три опоры (баланса) | three supports (of the balance) | the return blow, people's need for people (47, 49), and the hands: "a wish for a great killing had to pass through a thousand heads, and in each there was a fuse"; the third is the continuation's reading (54) |
+| между желанием и ударом | between the wish and the blow | where the thousand heads stood and where a thing that carries out now stands: "the brake was never in the law. It was in the hands"; the author's 2013 line, "the aggression is not in the missile but in those who launch it", read as: the machine takes the place not of the one who wishes but of those who had to look (54) |
+| кто может отвинтить | who can unscrew it | the test for a machine's brake: a wolf's was "written by dead wolves", a soldier's "before there were generals", so neither belongs to the one who wishes; "a brake that the owner writes sits in the same hand as the wish"; the taught-in refusal of 23 is "grown, not written", and whether it holds against the glove of 48 is left open (54) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
