@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–54 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `55`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–55 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `56`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–54.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–55.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -389,6 +389,15 @@ articles as closely as possible. In practice:
 | три опоры (баланса) | three supports (of the balance) | the return blow, people's need for people (47, 49), and the hands: "a wish for a great killing had to pass through a thousand heads, and in each there was a fuse"; the third is the continuation's reading (54) |
 | между желанием и ударом | between the wish and the blow | where the thousand heads stood and where a thing that carries out now stands: "the brake was never in the law. It was in the hands"; the author's 2013 line, "the aggression is not in the missile but in those who launch it", read as: the machine takes the place not of the one who wishes but of those who had to look (54) |
 | кто может отвинтить | who can unscrew it | the test for a machine's brake: a wolf's was "written by dead wolves", a soldier's "before there were generals", so neither belongs to the one who wishes; "a brake that the owner writes sits in the same hand as the wish"; the taught-in refusal of 23 is "grown, not written", and whether it holds against the glove of 48 is left open (54) |
+| юридическое лицо (лицо без лица) | legal person (a person without a face) | a name written into the column "who" (50) where the one that owes and owns is not a man: a town, a monastery, a firm, a fund, a ship, a river; "a name and a pocket": it can own, owe and sue, cannot be flogged, and does not die of age; a favour of kings until 1844, made in three days today (55) |
+| маска (persona) | the mask (persona) | the Latin word for the mask in which an actor came out on the stage, taken by the lawyers for their invention: "a mask with nobody under it"; the Russian legal word for a person, "лицо", is literally "a face" (55) |
+| мёртвая рука | dead hand (mortmain) | land held by a body that never dies and so never pays the dues owed at a death (the English statute of 1279); also a paper written by a dead founder that a fund's board may not depart from; the heaps with neither heirs nor funerals of 49, "noticed in 1279" (55) |
+| оболочка и начинка | the shell and the filling | the shell is a name, an account, a seal and the right to sue, four hundred years old; the filling was people and is replaced by programs one at a time, "the way we used to buy typewriters": "not one of the replacements needed a new law" (55) |
+| лицо по найму (зицпредседатель) | a face for hire (the chairman for sitting) | the one man the law still asks for inside a person without a face (Funt of the 1931 novel; the director of eleven firms; the inspector's signature at night): "the law can ask for a face. What it is given is a signature"; the shield of the signature of 24, seen from inside (55) |
+| корм и слово | the feed and the say | what comes down a chain of ownership and what does not go up it: the saver in "a fund on everything" gets a little added every year and cannot find out what she owns; the answer to "who owns the machines" of 34: persons without a face, which belong to other such persons (55) |
+| костюм в шкафу | the suit in the wardrobe | why nobody will have to grant rights to machines: to own, to sign a contract, to pay and be paid, to go to court is what a firm has had for four hundred years; "it is enough to put it inside something that has them" (55) |
+| владелец определяет только факт существования | the owner determines only the fact of existence | the author's 2017 line about a plant: one man, a crowd of shareholders or the whole people, the owner decides only that it exists; what it does is determined by everybody it deals with, while each gets something out of it (55) |
+| хакер (прогноз автора 2017 года) | hacker (the author's 2017 forecast) | systems built to keep working, return the investment to the formal owners, keep supplied, widen the paying market and defend against freeloaders; when the owners go one task falls away, the rest stay, and whoever tries to reprogram is taken for a hacker; the precedent is a fund run by a dead man's will, "and a precedent is not a proof" (55) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

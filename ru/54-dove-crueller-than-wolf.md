@@ -333,4 +333,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [02](./02-anthropocentrism.md), [11](./11-symbiosis-and-parasitism.md), [14](./14-apoptosis-of-humanity.md), [22](./22-who-sets-the-tasks.md), [23](./23-machine-for-making-people-good.md), [30](./30-the-last-campfire.md), [33](./33-use-of-sleep.md), [43](./43-why-ants-do-not-strike.md), [45](./45-lamarck-was-right.md), [47](./47-money-as-memory.md), [48](./48-who-tamed-whom.md), [49](./49-yard-sale.md), [50](./50-what-is-the-it.md), [51](./51-week-without-a-socket.md), [53](./53-million-mendeleevs.md).
 
-[← 53](./53-million-mendeleevs.md) · [Оглавление](./README.md)
+[← 53](./53-million-mendeleevs.md) · [Оглавление](./README.md) · [55 →](./55-person-without-a-face.md)

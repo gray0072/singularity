@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 22).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 23).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53 and 54 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54 and 55 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -3836,3 +3836,258 @@ to us" of 64; the mark of 30 on the war of machines → 67; what a man who under
 "refuse to return aggression, withdraw") and the happy little screw → 65; mass aggression as an instrument of
 apoptosis (14) was touched in one line and not developed: 54 gives the mechanism (the supports go), not a
 forecast; the heap "not sorted" of 46 (tears, shame) is still not sorted.
+
+## 55. A Person Without a Face
+
+**Established**
+- The answer to the teaser of 54 ("Whose face do I punch? — That is the invention... Older than the cannon"). Oleg
+  comes with the envelope of the fine. **The fine is made exact, and 54 is not contradicted**: the letter says
+  "Speed recorded: fifty-eight. Speed permitted: twenty"; the sign says forty (he drove out to look); in April the
+  road menders stood a temporary "twenty" on a yellow board by the bridge and took it away in May, "and in the
+  camera's table it is still April". By the sign he was eighteen over, "and for less than twenty over nobody is
+  fined at all"; by the table thirty-eight over: 750 roubles, or 562.50 "with a quarter off... A discount for
+  keeping quiet". The form answered in four minutes: "No grounds for cancelling the decision have been found."
+- **Three days looking for a face**: the telephone ("By 'press seven' I understood that she was not a woman"); the
+  turkey of 54 ("a pensioner, hauling firewood. It pecks"); room 312 of a business centre by the station, locked,
+  "some forty firms are registered in that room", the post collected on Thursdays; the register in the boy's phone
+  (the director appointed in March, the owner a fund, "who is behind the fund is not written there"); the road
+  menders are another firm. **"Everybody is right."**
+- The epigraph is answered with the saying credited to an English judge (Thurlow, unnamed): "they have neither
+  bodies to be punished nor souls to be condemned, and so they do as they like."
+- **The descent**: who fined you? The camera ("a piece of iron on a pole"), the firm ("Show it to me. — Room three
+  hundred and twelve"), the director, the owner: the fine stays whichever of them goes. Oleg's plant: in 1996 it
+  owed him three months' wages; not the director ("five directors in those years"), not the walls, not the people
+  ("They were the ones it owed"); the owner changed too (the state, a joint-stock company, the holding of 42),
+  "and the debt to me was one and the same debt". The work-record book of 1982: "The plant. A round seal."
+  **"All your working life you worked for somebody who is not a man, not a wall and not a lathe."**
+- **The word**: "A legal person... I never once thought about the second word." Latin *persona*, the mask of an
+  actor: "The lawyers took the word for a mask and did not hide it. — A mask with nobody under it. — A person
+  without a face." (In the Russian text the pun is native: «юридическое лицо», «лицо без лица».)
+- **Why it was made: the column "who" of 50.** "A court has the same form as a sentence: who owes, who owns, who
+  answers. It is not accepted empty: debts cannot be kept without names" (43). A town: the mayor dies, the townsmen
+  change (Oleg quotes 40: "What remains when the people change... And the form has no line for that"). "So a name
+  was written in the column, and everybody agreed to count the name as somebody. — The deputy for general
+  questions. — With a seal and an account."
+- **The history, in the order told**: the 1240s, "a church lawyer, the best of his day" (Innocent IV, unnamed; no
+  religion argued): he forbade punishing a town or a college as a whole, only the guilty in it, and in his
+  commentary the college "is imagined as one person". "Everything that takes a pocket, yes. Everything that takes a
+  body, no." The English judge of 1612 (Coke): "invisible, immortal"; it cannot be outlawed, "for it has no soul".
+  **The dead hand**: the statute of 1279 ("The hand that does not die was called dead. — Lawyers"); Oleg: "Heaps
+  with neither heirs nor funerals (49). And I thought we had made them up over the matches. — They were noticed in
+  1279... It held badly." The favour of kings: the charter of the last day of 1600 for two hundred-odd London
+  merchants, fifteen years of trade beyond the Cape; two hundred years later "that paper kept an army" (**the
+  plan's "a quarter of a million soldiers in 1800" is made careful**: about two hundred thousand at the start of the
+  nineteenth century and a quarter of a million a little later, twice the crown's; taxes from tens of millions; run
+  from one house in a London street; thirty-five permanent clerks in the head office a hundred years into its
+  history). "Whose was the army? — The shareholders'. — Which of them gave the orders? — None... — Then who ruled
+  India? — Fill in the column. — The Company." Then "the favour became a service": registration in 1844, limited
+  liability in 1855 ("I took it for a warning. — It is one"). **"That is all a person in law is: a name and a
+  pocket"** (the pocket of 47); "The arithmetic came first, and the law was written after it" (24).
+- **Today**: "Three working days and ten thousand roubles of capital. File it through the phone, and there is not
+  even a fee. — And a man? — Nine months. And twenty years of school (53)." The American state with about a
+  million people and more than two million such persons, and the "one low house" that was the address of 285,000 of
+  them in 2012 ("Room three hundred and twelve. — A large one"). Who can be one: a town, a monastery, a
+  university, a firm, a fund, a ship, and **the plan's line to retell, the river** (the Whanganui, 2017: "a legal
+  person, with all the rights, powers, duties and liabilities of one"; two people speak for it, and the act calls
+  the pair "the human face" of the river: "Two deputies for general questions").
+- **"Who owns the tractor" (the line of 34, still in the notebook) is answered and crossed out.** Oleg: "there is
+  always somebody under a mask, or it is not a mask, it is a scarecrow." The chain: the camera is the firm's, the
+  firm the fund's, "that is where the register stops". The count of 2017: in nearly nine of ten of the five hundred
+  largest American companies the largest holder is "three funds, if you count them together" ("Three rich men. —
+  Three persons without a face"); about a fifth of nearly everything and about a quarter of the votes; "they mostly
+  do not choose what to buy... each firm in proportion to its size" ("To him who has" of 49. "— By a table").
+  Whose money: tens of millions of savers; the granddaughter's "fund on everything", two thousand a month: "She
+  cannot even find out which ones they are... A little is added every year. — The feed. And the say?" **"The feed
+  comes down the chain. The say does not go up it"** ("A pet of the pension fund (52), and she is not thirty yet").
+  **"Ownership protects the owner" of 34 is narrowed**: "It does, while the owner holds the wheel. A farmer in 1935
+  owned his tractor: he sat on it." The author's line of June 2017: the owner determines only the fact that the
+  plant exists; what it does is determined by everybody it deals with ("That was against the Marxists. — It was. It
+  fits here as well"). And "people" are not all of us: the richest tenth of American households holds nearly nine
+  tenths of all the shares, the poorer half less than one share in a hundred.
+- **Oleg's objection (the plan's), in three parts, "and every one is true".** (1) *Behind every firm, an owner*:
+  the Nobel money (the owner died in 1896; a fund of 1900 with "no owners at all: no shares, no heirs. It has a
+  paper written by a dead man, and a board that may not depart from the paper"); the furniture shops that belong to
+  a fund set up by the founder in 1982, which by its own papers has no owners ("The founder died in 2018, and the
+  shops did not notice"); the profit "stays inside" (the recipient of 37). "So the owner can be a paper. — A paper
+  written by a dead man. That... is the other thing lawyers call the dead hand." (2) *The director answers in
+  person*: "It is the place where the law still asks for a face"; the camera firm's director is listed in eleven
+  more firms: **"Funt. The chairman for sitting"** (the 1931 novel, quoted); "A face for hire. A trade, and an old
+  one: the law asks for a signature, and it gets one" (the woman on a Caribbean island listed as running more than
+  twelve hundred companies, 2012). The shield of the signature of 24: "He signs. Does he decide? — He doesn't know
+  where the camera stands." **A refinement of 52's "right of signature"**: "There is a quieter way: the signature
+  stays, and the hand that makes it decides nothing." The law does not ask for a face everywhere: in Russia a
+  director's powers may be handed to a managing organisation; the American state's law of 2021 ("managed by a
+  program"), softened a year later, "And a member it must have. At least one." "A heap lives where it pays less
+  (49). And a person in law is born where it is asked the fewest questions." (3) *The state closes them*: in 1772
+  the Company could not pay "and the state did not close it. The state lent it money: too much hung on it" (Oleg:
+  "The cord", 51); in 1858 the crown took India: "The clerks were the same, the army the same, the taxes the same.
+  The name on the door was different"; struck off in 1874, "and hardly anybody noticed"; the oil firm cut in 1911
+  into thirty-odd pieces that together were worth more than the whole. **Conceded in full**: "A person in law lives
+  by a line in a register, and whoever keeps the register can strike the line out. That is more power than anybody
+  has over a man." But who used it: "Another person without a face, and the oldest of them all: the crown, the
+  treasury" ("The state is people. — Which ones? They change, and the treaties and the debts stay. Fill in the
+  column"), and when: "when it could do the job itself. The rule of the switch" (51). "A law is a want written
+  down (24)... It is written by those who are needed, for as long as they are needed" (25).
+- **"Then let us write one. There shall be a window, and a face in it."** It has been written (Europe, 2018: the
+  right not to be judged by a program alone). "And what does the law get? Often enough, a man past whom the
+  program's decisions run, with a button 'agree' under each" (the keepers of that law had to write that a man put
+  there for show does not count). "Funt again." **"The law can ask for a face. What it is given is a signature."**
+- **The symmetry test**: Oleg: "For thirty suppliers the plant was me... We are the ones who hold the tool. — What
+  was the name of the office that took you on? — The personnel department... Later they renamed it. 'Human
+  resources.' — The spade had its say."
+- **The machines are brought in by Oleg, after the middle.** "How many people are there in the firm that fined
+  you? — 'Average number of employees: four'... And its cameras stand over half the region." The work is counted:
+  the camera saw, a program read the plate, a machine printed and sealed ("Nobody licks forty thousand envelopes"),
+  "Who took the complaint? Who answered it in four minutes? — One of those. I'll say it, since you are sitting with
+  your mouth shut again." The four: "The one who sits. A bookkeeper. And two who climb the poles." **The lock with
+  54**: "the hands are leaving the chain. This is where the chain is kept. A person in law was always made of
+  people, and those people were its face." The captain of twenty years ago ("go home, father. Two minutes"); "He
+  might have said: come on Thursday... Or dropped a hint. This one drops no hints... It is the same for everybody.
+  — I am not saying it is worse. I am saying what it is. The captain was a face inside a person that has none: a
+  head with a brake in it, and eyes that could go and look at the sign." **"Which of the replacements needed a new
+  law? — None. The firm bought a program the way we used to buy typewriters... — The shell is the same. The filling
+  is different."**
+- **Nobody will grant rights to machines.** Oleg: "A program is a thing... it would have to be given rights. A
+  passport. And who will vote for that? I shan't." The European Parliament's request of 2017 ("electronic person"),
+  the letter of some hundreds of specialists, "the idea went no further"; several American states have written the
+  opposite into law. "They were arguing whether to sew a new suit, and decided not to." What one of those needs: "To
+  own. To sign a contract. To pay and to be paid. To go to court. — Four things. And who has had all four for four
+  hundred years?" **"The suit is hanging in the wardrobe. Three days and ten thousand roubles. Nobody has to grant
+  a machine any rights. It is enough to put it inside something that has them."** Whether there is anybody inside
+  to be pitied is "another question" (20), "and the law will come to it late. To own, nobody's pity is needed."
+- **The wallet with no person behind it (the thing to watch of 47) gets its portrait and stays a thing to watch**:
+  "It will not look like a robot with a purse. It will look like a line in a register: a name, an account, somebody
+  who sits. And inside, copies." The lawyer's argument of 2014 (a firm left with no members, the charter says "do
+  what the program decides"); "Lawyers dispute whether a court would let it stand, and no court has been asked. I
+  know of no clean case: wherever a program 'runs a firm' today, there is a man behind it, and the account is in
+  his name"; the draft of the summer of 2026 in "the state with the low house" (a firm whose daily affairs are
+  managed by a program, with one member who answers for it): "A draft... Only note what would be new in it. Not
+  the shell." **No mark and no date** (the plan gives none for 55).
+- **The author's forecast of January 2017, quoted as his**: systems built to keep working, return the investment to
+  the formal owners, keep supplied, widen the paying market, defend against freeloaders ("That is the charter of
+  any firm. — It is"); if the owners disappear, one task falls away, the rest stay, "and anybody who tries to
+  reprogram the system it will take for a hacker". Oleg: "And me? — You come under the fifth point... — A
+  freeloader. At sixty-two." **The continuation's reading**: "It read like a film script then. And I was only
+  describing the fund with the prize... With one difference. The fund's board is made of people, and any one of
+  them can still say: this is not what he meant."
+- **Oleg uses the test of 50 on Andrey again** ("'The firm wants.' Who? The long way"). The long way: nobody at the
+  plant wanted the plan, and the plan was met ("Mostly"), "because the plant was put together that way"; the firms
+  put together otherwise "are not there to be looked at" (half of all firms gone in ten years, 40): "What is left
+  looks as if it wanted." And the charter: in 1600 the paper named the job, today's says "Any activity not
+  forbidden by law"; what is left when the job is taken out: "To keep going. To have the means. To bring in more
+  than it spends. — Wants that nobody set" (22). The writer of 2017 (Stross, unnamed): artificial minds beside us
+  for centuries, "very old and very slow". Oleg: "I sat in the meetings they think with. — Now the meetings are
+  being taken out of them. That is all the news there is."
+- **The debt of 49 is paid** ("at the end the box may be held not by a man"): "This is what I meant: by a line in
+  a register."
+- Strengths stated: solid (the invention and its dates; the Company and its army; the river; the three funds; the
+  register and its three days); argued about (who first said "an imagined person" and what he meant; "whether one
+  who buys everything by a table is an owner at all, for the funds do vote"; whether a court would let a firm with
+  no members stand); the author's (the owner determines only the fact that the plant exists; the tasks stay when
+  the owners go, and whoever reprograms is a hacker); today's (the shell and the filling; nobody will have to grant
+  anything): "It has a precedent, the fund with the dead man's paper. A precedent is not a proof, and I give no
+  date." "— Gloomy. — You were fined by a table, and you call me gloomy."
+- **What Oleg does with the fine**: "There is still one face in the chain, by law": the decision is signed
+  "Inspector, senior lieutenant..." electronically, "at fourteen minutes past three in the morning" ("A hard-working
+  man. A judge does not sign at three in the morning yet. Take it to court"). "Half a day in a corridor for seven
+  hundred and fifty roubles. With five hundred and sixty-two on offer for silence. — That is the arithmetic. **A
+  face has become dearer than the discount.** — I'll go. To have a look at a face." (The outcome is not told.)
+- Nobody says the forbidden word; twenty-third tick "again": "Came with a fine. Came out at those ones needing no
+  rights, because the suit has hung in the wardrobe for four hundred years." Oleg crosses out the line about the
+  tractor and writes beside it: "A person without a face. And that one belongs to another."
+
+**Images and devices used**: the sixteenth entry in the notebook of dreams (the pay office of the plant, a hand
+pushing a slip through the hatch, nobody behind the hand; nobody rang); the envelope with a window; the yellow
+board; "in the camera's table it is still April"; "press seven"; room 312 and the post on Thursdays; "a discount
+for keeping quiet"; iron on a pole; five directors; the round seal in the work-record book; "the second word"; the
+mask and the scarecrow; the form with no line; the dead hand; the paper that kept an army; "Fill in the column";
+"limited liability" on the suppliers' letterheads; nine months and twenty years; the low house; the river's two
+speakers; the granddaughter's "fund on everything"; the feed and the say; the farmer who sat on his tractor; the
+Nobel money; the furniture shops; Funt; the name on the door; the window with a face and the button "agree";
+"Human resources"; forty thousand envelopes; the two who climb the poles; the captain ("go home, father"); the
+typewriters; the suit in the wardrobe; the robot with a purse; the fifth point and the freeloader; the film script;
+the plan nobody wanted; "Any activity not forbidden by law"; the meetings; the line in a register; the signature at
+fourteen minutes past three; the corridor; the teaser (the boy's article on the electron and the two slits: "It
+behaves differently when it is looked at... Physics itself has put man in the middle, and you have been weeding him
+out since the spring. — Looked at with what? — With eyes. With an instrument. What is the difference? —
+Tomorrow").
+
+**Facts used**. Checked on the day of writing by three research passes (primary texts where they could be opened;
+the wording of each source is in the session's reports, not in the repository). **Read in the source**: КоАП РФ
+ст. 12.9 (part 1 repealed in 2013, so up to 20 km/h over is not fined; part 2: 750 roubles for more than 20 and not
+more than 40, since 1 January 2025, law 490-ФЗ of 26.12.2024) and ст. 32.2 ч. 1.3 (75% if paid within thirty days
+of the decision: 562.50); ч. 3 ст. 28.6 and ст. 24.9 (the decision is issued without the driver and may be an
+electronic document signed with an electronic signature); ст. 30.1 (appeal to a superior or to a district court);
+law 129-ФЗ ст. 13 п. 3 (registration within three working days), law 14-ФЗ ст. 14 (charter capital of at least
+10,000 roubles), ст. 40 and 42 with ГК ст. 65.3 (the sole executive body may be a manager that is a legal entity),
+НК ст. 333.35 (no fee for electronic filing); Wyoming SF0038 of 2021 (W.S. 17-31-104 and 17-31-109: "member
+managed" or "algorithmically managed", management vested "in the smart contract, if algorithmically managed") and
+the summary of SF0068 of 2022 (management vested in the members or the members and any applicable smart contracts;
+a DAO shall have one or more members); the European Parliament's resolution of 16 February 2017, paragraph 59(f)
+("electronic persons"), which asks the Commission to consider the option; the open letter of 2018 (more than 150
+signatories at launch, more than 270 now); Stross's keynote of December 2017 ("the very old, very slow AIs we call
+corporations"; "clearly artificial, but legally they're people"), read in a mirror of his page; Poynder's
+*Literary Extracts* (1844), where the saying is given to Thurlow ("neither bodies to be punished, nor souls to be
+condemned; they therefore do as they like"; attributed, and disputed); the Statute of Mortmain of 1279 (Yale
+Avalon: forbidden "under pain of forfeiture"); Fichtner, Heemskerk & Garcia-Bernardo, "Hidden power of the Big
+Three?" (*Business and Politics* 19, 2017, doi:10.1017/bap.2017.6: together the largest shareholder in 88% of the
+S&P 500, data of 2015); the Federal Reserve's Distributional Financial Accounts through FRED (second quarter of
+2026: the top tenth 88.1% of corporate equities and mutual fund shares, the bottom half 0.6%); Delaware's Division
+of Corporations (2,287,728 entities at the end of 2025) and the census (1.06 million inhabitants); the Nobel
+Foundation's own pages ("a private institution established in 1900 on the basis of the will"); Ingka's page (the
+Stichting INGKA Foundation, 1982, has "no owners and no beneficial owners"); ICIJ, 2012 (a nominee director
+"controlling more than 1,200 companies"); the Fortune article of 14 July 2026 on the Delaware draft ("a separate
+legal entity whose day-to-day affairs are managed by an AI agent rather than a person", a single member, a
+regulatory sandbox; a proposal by its authors, not a law). **Through secondary sources or summaries**: Innocent IV
+(the ban on excommunicating a universitas is in the Liber Sextus, from a constitution of 1246, later filed under
+the Council of Lyon; its stated reason is the danger to the innocent members, and "has no soul" is the later
+summary, here given to Coke; the phrase "fingatur una persona" is attributed to his commentary on the Decretals and
+was not read there; Dewey 1926 for "promulgated if not originated"); Coke in the Case of Sutton's Hospital, 1612
+(quoted from Wikipedia's text of the report: "invisible, immortal", "may not... be outlawed, nor excommunicate, for
+they have no souls"); the East India Company (Dalrymple: 260,000 men by 1803 in his 2015 essay, "nearly 200,000"
+in the 2019 book, hence the careful wording; the National Army Museum: 250,000 in the early nineteenth century;
+"only 35 permanent employees in its head office" a hundred years into its history; the loan of £1,400,000 in 1773;
+the Crown in 1858; dissolved on 1 June 1874); the Joint Stock Companies Act 1844 and the Limited Liability Act 1855
+(Wikipedia); 1209 North Orange Street as the address of at least 285,000 businesses in 2012; the Whanganui River
+act of 2017 (section 14 and "the human face of Te Awa Tupua" of section 18, quoted through guides; the statute
+site refuses scripts); Standard Oil (1911; 34 companies by the usual count, other sources give 33 to 43, hence
+"thirty-odd"; Rockefeller's fortune rose after the break-up); Bebchuk & Hirst for the three funds' share of S&P 500
+companies (about a fifth of the shares and a quarter of the votes cast, 2017–2021); Bayern, "Of Bitcoins,
+Independently Wealthy Software, and the Zero-Member LLC" (2014; abstracts and his own 2019 summary; LoPucki 2018
+takes it as a danger; no court test found); GDPR Article 22 and the regulators' guidance that token human
+involvement does not count; the American states that barred legal personhood for AI (Idaho 2022, North Dakota
+2023, Utah 2024); *persona* as a mask (Etymonline; the derivation from "sounding through" is traditional and
+doubted, and is not used). **From memory, not checked**: Nobel's death in 1896 and the small share left to his
+relatives; Kamprad's death in 2018 and that the fund's group runs nearly all the shops; the action in rem against
+a ship; "The king is dead, long live the king" as the same invention (Kantorowicz, unnamed); the monopoly "beyond
+the Cape"; the general legal capacity of a Russian company ("any activity not forbidden by law", ГК ст. 49); the
+Funt quotation from *The Little Golden Calf* (1931); personnel departments renamed "human resources". The
+author's sources: the forum posts of 26 January 2017 (the built-in tasks, the owners who disappear, "неправомочные
+злобные хакеры"), of 25 January 2017 (systems that cut people off, pointed at only through 51), and of 2 June 2017
+("Владелец же завода определяет лишь факт существования этого завода, и всё"). Invented for the frame (Oleg's
+side): the dream, the temporary sign, the four minutes and the wording of the refusal, room 312, the register
+extract, the director of eleven more firms, the four employees, the granddaughter's fund, the personnel
+department, the captain, the charter read out by the boy, the signature at 3:14, the boy's article. Not used: the
+Robert Bosch Stiftung (drafted and replaced: sources differ on its share, 92% or 94%); Novo Nordisk and Carlsberg
+(there "nobody can buy control" is accurate, "no owner" is not); Stora Kopparberg's deed of 1288; the Russian
+register's 3.05 million legal entities (1 November 2026, down from 4.8 million in 2015), the address with 1,801
+firms and the director of 415 firms in the tax service's open data; the "electronic complaint" articles of the
+code; the cameras' concession contracts and payment per fine; Coase and "an island with no money on it" (47 has
+them); Santa Clara and Citizens United (politics); deodands and trials of animals; idols as legal persons
+(religion); Truth Terminal, Freysa and the "zero-human companies" of 2026 (in each a human holds the account);
+the Argentine bill of 2026; buy-backs and cross-holdings; Scherer's objection by name.
+
+**Figures**: `two-kinds-of-persons` (the table in the ash: a man and a person in law; how each is made, what can
+be done to it, how it ends), `the-feed-comes-down` (the farmer and his tractor against the saver, the fund, the
+firm and the machine; a scheme, with the 88% of 2017 in the note), `same-shell-other-filling` (one person in law at
+three moments, people replaced by programs; a scheme, not data).
+
+**Left for later**: the observer in physics and "looked at with what" → 56 (Oleg's last doubt, the boy's article
+on the two slits; the debt of 02 and 04); who is to be paid for the knowledge the machines were raised on, and the
+dividends for the wheel → 57 (not touched: 55 says only that a paper-owned firm's profit "stays inside"); the
+wallet with no person behind it, now pictured as "a line in a register... somebody who sits. And inside, copies",
+is still a thing to watch and a candidate for a dated mark at the check of 2028 (a registered firm with no human
+who decides; a law that lets a program manage one), together with the Delaware draft of 2026; the row "body" of the
+portrait ("the first shell is legal") → 64 (55 gives the shell, 47 the missing pocket inside: between lines a
+pocket and a name, inside a line neither); whether Oleg's court had a face in it is not told (free for a later opening);
+"to bargain" (52) is untouched: a person in law is what people would have to bargain with.

@@ -5040,6 +5040,151 @@ def what_held_the_blow(lang):
     return f
 
 
+# --- 55. A Person Without a Face ---------------------------------------------------------------
+
+@figure("two-kinds-of-persons")
+def two_kinds_of_persons(lang):
+    t = {
+        "en": dict(title="Two kinds of persons",
+                   sub="Both can own, owe, sign a contract and go to court. The difference is in the rest.",
+                   head=["how it is made", "what can be done to it", "how it ends"],
+                   rows=[("a man", "a person with a face", "is born: nine months,\nthen twenty years of school",
+                          "fined, locked up,\nlooked in the eye", "dies; the heirs\ndivide the heap"),
+                         ("a person in law", "a town, a firm, a fund, a ship, a river",
+                          "is entered in a register:\nthree working days",
+                          "fined, struck off the register;\nno body, no eyes", "no death of age:\nclosed or swallowed")],
+                   src="The second row is the invention of the thirteenth-century lawyers: a name in the column “who”, with a pocket.\n"
+                       "Three working days is the term for registering a limited company in Russia; a river is such a person\n"
+                       "in New Zealand (2017)."),
+        "ru": dict(title="Два рода лиц",
+                   sub="Оба могут владеть, быть должны, подписать договор и пойти в суд. Разница в остальном.",
+                   head=["как появляется", "что с ним можно сделать", "чем кончает"],
+                   rows=[("человек", "лицо с лицом", "рождается: девять месяцев\nи двадцать лет учёбы",
+                          "оштрафовать, посадить,\nпосмотреть в глаза", "умирает; наследники\nделят кучку"),
+                         ("юридическое лицо", "город, фирма, фонд, корабль, река",
+                          "вносится в реестр:\nтри рабочих дня",
+                          "оштрафовать, вычеркнуть;\nни тела, ни глаз", "от старости не умирает:\nзакрывают или глотают")],
+                   src="Вторая строка — изобретение юристов тринадцатого века: имя в графе «кто», и при нём карман.\n"
+                       "Три рабочих дня — срок регистрации общества с ограниченной ответственностью в России; река — такое\n"
+                       "лицо в Новой Зеландии (2017)."),
+    }[lang]
+    f = Fig(760, 318, t["title"])
+    heading(f, t["title"], t["sub"])
+    bottom = _ash_table(f, t, [258, 424, 590, 736], 84, 68, [INK2, RED])
+    f.text(28, bottom + 24, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("the-feed-comes-down")
+def the_feed_comes_down(lang):
+    t = {
+        "en": dict(title="Who owns the tractor",
+                   sub="Two chains of ownership. The feed comes down both. The say goes up only the short one.",
+                   y1935="1935", now="today",
+                   farmer="the farmer", tractor="the tractor",
+                   saver="the saver", fund="a fund", firm="a firm", machine="the machine",
+                   fund_sub="buys everything,\nby a table", firm_sub="a name, an account,\na director",
+                   wheel="holds the wheel himself",
+                   feed="the feed: a little is added every year",
+                   say="the say: the saver cannot even find out what he owns",
+                   src="Three index funds taken together were the largest holder in 88% of the 500 largest American companies\n"
+                       "(Fichtner, Heemskerk and Garcia-Bernardo, 2017). A scheme of the argument, not data."),
+        "ru": dict(title="Чей трактор",
+                   sub="Две цепочки владения. Корм приходит по обеим. Слово доходит только по короткой.",
+                   y1935="1935", now="сегодня",
+                   farmer="фермер", tractor="трактор",
+                   saver="вкладчик", fund="фонд", firm="фирма", machine="машина",
+                   fund_sub="покупает всё подряд,\nпо таблице", firm_sub="имя, счёт,\nдиректор",
+                   wheel="сам держит руль",
+                   feed="корм: каждый год немного прибавляется",
+                   say="слово: вкладчик не может даже узнать, чем владеет",
+                   src="Три индексных фонда, если считать их вместе, были крупнейшим держателем в 88% из 500 крупнейших\n"
+                       "американских компаний (Фихтнер, Хемскерк и Гарсия-Бернардо, 2017). Схема рассуждения, а не данные."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    bw, bh = 132, 60
+    xs = [112 + i * 164 for i in range(4)]
+    # the short chain
+    f.text(40, 126, t["y1935"], size=14, color=INK2, weight="600")
+    f.box(xs[0], 90, bw, bh, t["farmer"], weight="600")
+    f.box(xs[3], 90, bw, bh, t["tractor"], stroke=BLUE, weight="600")
+    f.line(xs[0] + bw + 8, 122, xs[3] - 10, 122, color=GREEN, width=2, arrow=True)
+    f.text((xs[0] + bw + xs[3]) / 2, 112, t["wheel"], size=12.5, color=GREEN, anchor="middle", weight="600")
+    # the long chain
+    y = 190
+    f.text(40, y + 36, t["now"], size=14, color=INK2, weight="600")
+    f.box(xs[0], y, bw, bh, t["saver"], weight="600")
+    f.box(xs[1], y, bw, bh, t["fund"], weight="600", sub=t["fund_sub"], stroke=MUTED, size=13)
+    f.box(xs[2], y, bw, bh, t["firm"], weight="600", sub=t["firm_sub"], stroke=MUTED, size=13)
+    f.box(xs[3], y, bw, bh, t["machine"], stroke=BLUE, weight="600")
+    for i in range(3):
+        # the feed comes back towards the saver; the say does not get through
+        f.line(xs[i + 1] - 6, y + 20, xs[i] + bw + 8, y + 20, color=GREEN, width=2, arrow=True)
+        f.line(xs[i] + bw + 6, y + 42, xs[i + 1] - 6, y + 42, color=RED, width=1.6, dash="4 4")
+        cx = (xs[i] + bw + xs[i + 1]) / 2
+        f.line(cx - 5, y + 37, cx + 5, y + 47, color=RED, width=1.8)
+        f.line(cx - 5, y + 47, cx + 5, y + 37, color=RED, width=1.8)
+    f.line(64, 282, 40, 282, color=GREEN, width=2, arrow=True)
+    f.text(74, 286, t["feed"], size=12.5, color=INK)
+    f.line(40, 304, 64, 304, color=RED, width=1.6, dash="4 4")
+    f.line(47, 299, 57, 309, color=RED, width=1.8)
+    f.line(47, 309, 57, 299, color=RED, width=1.8)
+    f.text(74, 308, t["say"], size=12.5, color=INK)
+    f.text(28, 340, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("same-shell-other-filling")
+def same_shell_other_filling(lang):
+    t = {
+        "en": dict(title="The shell is the same, the filling is different",
+                   sub="One person in law at three moments. Not one of the replacements needed a new law.",
+                   shell="name · account · seal · right to sue",
+                   caps=["every part is a man:\na head, a brake, a pair of eyes",
+                         "the parts are replaced one at a time,\nas a typewriter is bought",
+                         "one signature is left:\na face for hire"],
+                   man="a man", prog="a program",
+                   src="A scheme, not data. The shell is four hundred years old; what is new is only that the filling\n"
+                       "need not be made of people."),
+        "ru": dict(title="Оболочка та же, начинка другая",
+                   sub="Одно юридическое лицо в три разных момента. Ни одна замена не потребовала нового закона.",
+                   shell="имя · счёт · печать · право на иск",
+                   caps=["каждая деталь — человек:\nголова, тормоз, пара глаз",
+                         "детали меняют по одной,\nкак покупают пишущую машинку",
+                         "осталась одна подпись:\nлицо по найму"],
+                   man="человек", prog="программа",
+                   src="Схема, а не данные. Оболочке четыреста лет; ново только то, что начинка может быть\n"
+                       "не из людей."),
+    }[lang]
+    f = Fig(760, 356, t["title"])
+    heading(f, t["title"], t["sub"])
+    people = [20, 10, 1]
+    w, h, gap = 212, 132, 34
+    for k, n in enumerate(people):
+        x = 28 + k * (w + gap)
+        f.rect(x, 86, w, h, fill="none", stroke=INK2, width=1.8, r=10)
+        f.line(x, 112, x + w, 112, color=INK2, width=1.2)
+        f.text(x + w / 2, 104, t["shell"], size=11, color=INK2, anchor="middle", weight="600")
+        for i in range(20):
+            cx = x + 30 + (i % 5) * 38
+            cy = 134 + (i // 5) * 22
+            if i < n:
+                f.circle(cx, cy, 7, fill=ORANGE)
+            else:
+                f.rect(cx - 6.5, cy - 6.5, 13, 13, fill=BLUE, r=2)
+        f.text(x + w / 2, 240, t["caps"][k], size=11, color=INK, anchor="middle")
+        if k < 2:
+            f.line(x + w + 6, 152, x + w + gap - 7, 152, color=INK2, width=1.8, arrow=True)
+    f.circle(40, 292, 7, fill=ORANGE)
+    f.text(54, 296, t["man"], size=12.5, color=INK)
+    px = 140 if lang == "en" else 150
+    f.rect(px, 285.5, 13, 13, fill=BLUE, r=2)
+    f.text(px + 22, 296, t["prog"], size=12.5, color=INK)
+    f.text(28, 324, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

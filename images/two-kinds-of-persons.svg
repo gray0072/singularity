@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="318" viewBox="0 0 760 318" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Two kinds of persons</title>
+
+<rect x="0.5" y="0.5" width="759" height="317" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Two kinds of persons</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Both can own, owe, sign a contract and go to court. The difference is in the rest.</text>
+<text x="341.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">how it is made</text>
+<text x="507.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">what can be done to it</text>
+<text x="663.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">how it ends</text>
+<line x1="28.0" y1="114.0" x2="736.0" y2="114.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="145.0" font-size="14" fill="#0b0b0b" font-weight="600">a man</text>
+<text x="40.0" y="162.0" font-size="11" fill="#8a8985">a person with a face</text>
+<text x="341.0" y="144.5" font-size="12" fill="#0b0b0b" text-anchor="middle">is born: nine months,</text>
+<text x="341.0" y="161.5" font-size="12" fill="#0b0b0b" text-anchor="middle">then twenty years of school</text>
+<text x="507.0" y="144.5" font-size="12" fill="#0b0b0b" text-anchor="middle">fined, locked up,</text>
+<text x="507.0" y="161.5" font-size="12" fill="#0b0b0b" text-anchor="middle">looked in the eye</text>
+<text x="663.0" y="144.5" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">dies; the heirs</text>
+<text x="663.0" y="161.5" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">divide the heap</text>
+<line x1="28.0" y1="182.0" x2="736.0" y2="182.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="213.0" font-size="14" fill="#0b0b0b" font-weight="600">a person in law</text>
+<text x="40.0" y="230.0" font-size="11" fill="#8a8985">a town, a firm, a fund, a ship, a river</text>
+<text x="341.0" y="212.5" font-size="12" fill="#0b0b0b" text-anchor="middle">is entered in a register:</text>
+<text x="341.0" y="229.5" font-size="12" fill="#0b0b0b" text-anchor="middle">three working days</text>
+<text x="507.0" y="212.5" font-size="12" fill="#0b0b0b" text-anchor="middle">fined, struck off the register;</text>
+<text x="507.0" y="229.5" font-size="12" fill="#0b0b0b" text-anchor="middle">no body, no eyes</text>
+<text x="663.0" y="212.5" font-size="12" fill="#e34948" text-anchor="middle" font-weight="600">no death of age:</text>
+<text x="663.0" y="229.5" font-size="12" fill="#e34948" text-anchor="middle" font-weight="600">closed or swallowed</text>
+<line x1="28.0" y1="250.0" x2="736.0" y2="250.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="274.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">The second row is the invention of the thirteenth-century lawyers: a name in the column “who”, with a pocket.</tspan><tspan x="28.0" dy="14.4">Three working days is the term for registering a limited company in Russia; a river is such a person</tspan><tspan x="28.0" dy="14.4">in New Zealand (2017).</tspan></text>
+</svg>

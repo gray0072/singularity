@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="318" viewBox="0 0 760 318" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Два рода лиц</title>
+
+<rect x="0.5" y="0.5" width="759" height="317" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Два рода лиц</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Оба могут владеть, быть должны, подписать договор и пойти в суд. Разница в остальном.</text>
+<text x="341.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">как появляется</text>
+<text x="507.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">что с ним можно сделать</text>
+<text x="663.0" y="104.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">чем кончает</text>
+<line x1="28.0" y1="114.0" x2="736.0" y2="114.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="145.0" font-size="14" fill="#0b0b0b" font-weight="600">человек</text>
+<text x="40.0" y="162.0" font-size="11" fill="#8a8985">лицо с лицом</text>
+<text x="341.0" y="144.5" font-size="12" fill="#0b0b0b" text-anchor="middle">рождается: девять месяцев</text>
+<text x="341.0" y="161.5" font-size="12" fill="#0b0b0b" text-anchor="middle">и двадцать лет учёбы</text>
+<text x="507.0" y="144.5" font-size="12" fill="#0b0b0b" text-anchor="middle">оштрафовать, посадить,</text>
+<text x="507.0" y="161.5" font-size="12" fill="#0b0b0b" text-anchor="middle">посмотреть в глаза</text>
+<text x="663.0" y="144.5" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">умирает; наследники</text>
+<text x="663.0" y="161.5" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">делят кучку</text>
+<line x1="28.0" y1="182.0" x2="736.0" y2="182.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="40.0" y="213.0" font-size="14" fill="#0b0b0b" font-weight="600">юридическое лицо</text>
+<text x="40.0" y="230.0" font-size="11" fill="#8a8985">город, фирма, фонд, корабль, река</text>
+<text x="341.0" y="212.5" font-size="12" fill="#0b0b0b" text-anchor="middle">вносится в реестр:</text>
+<text x="341.0" y="229.5" font-size="12" fill="#0b0b0b" text-anchor="middle">три рабочих дня</text>
+<text x="507.0" y="212.5" font-size="12" fill="#0b0b0b" text-anchor="middle">оштрафовать, вычеркнуть;</text>
+<text x="507.0" y="229.5" font-size="12" fill="#0b0b0b" text-anchor="middle">ни тела, ни глаз</text>
+<text x="663.0" y="212.5" font-size="12" fill="#e34948" text-anchor="middle" font-weight="600">от старости не умирает:</text>
+<text x="663.0" y="229.5" font-size="12" fill="#e34948" text-anchor="middle" font-weight="600">закрывают или глотают</text>
+<line x1="28.0" y1="250.0" x2="736.0" y2="250.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="274.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Вторая строка — изобретение юристов тринадцатого века: имя в графе «кто», и при нём карман.</tspan><tspan x="28.0" dy="14.4">Три рабочих дня — срок регистрации общества с ограниченной ответственностью в России; река — такое</tspan><tspan x="28.0" dy="14.4">лицо в Новой Зеландии (2017).</tspan></text>
+</svg>
