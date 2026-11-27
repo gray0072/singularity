@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 25).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 26).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54, 55, 56 and 57 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57 and 58 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -4617,3 +4617,220 @@ the contracts that guard a machine's answers hold against other machines; "to ba
 side only: the writers' suit is the first bargaining by title, and what else people hold is left for 65 and 66; the
 row "knowledge" of the portrait (carried in once, copied, nobody's from the first day, guarded by contract and not
 by a term) → 64; the outcome of Oleg's court is still free for a later opening.
+
+## 58. The Blind Man's Stick
+
+**Established**
+- The answer to the teaser of 57 ("Has it ever pushed one?... How will you find the path with that thing? — By feel...
+  — Tomorrow we shall start from that"). Oleg comes in the dark with a hazel stick and his eyes shut ("From the gate,
+  blind. Two roots, your bucket, and a hole that was not there yesterday"); late because of a tick taken off Gaika
+  "with a loop of thread". The court of 55 in one line: "I felt in the letter box as well. Empty."
+- **The stick, by Socratic descent.** The root is felt "at the end of the stick", not in the hand (Descartes, 1637,
+  unnamed: "a Frenchman"; the rod of 2018 in Lyon: struck where they could not see, people told where "just as is
+  possible on the skin", and better when they did the striking themselves). The blind test with the mug: lying still
+  the stick "said 'hard' and shut up"; **"A stick that lies still says almost nothing. It answers. Who asked?"**, and
+  who chose the question.
+- **Oleg's first objection: "I have eyes... It pours in by itself."** The eye jumps two or three times a second; the
+  picture fixed to the eye with a suction cup (Yarbus, unnamed: "a physicist in Moscow", the 1950s) is gone in one
+  to three seconds: "An eye reports changes." **"So my eye is a stick. — With a very quick hand."**
+- **The plan's kittens, told with the correction** (Held and Hein, 1963, unnamed; Oleg: "The kitten again. The one
+  whose eye was kept shut", 44; "Another one, and this one had both eyes open"): reared in the dark, three hours a
+  day in a striped drum, one walks in harness, the other rides in a basket on the other arm and sees the same
+  stripes; three tests (paws put out to meet a surface, the blink, the glass over a drop): the walkers pass, the
+  carried do not. **"Blind. — No, and here the story is usually told too strongly"**: pupils and pursuit worked, and
+  after two days of running free the carried ones passed (the plan's line to retell, "stayed blind with healthy
+  eyes", is not used). **"It got the answers without the questions."** People "asked more gently": the blind in the
+  dentist's chair with four hundred vibrators (1970): feelings on the back while the camera stood still, things in
+  front of them once they turned it themselves ("The tickling moved out of the back and into the room").
+- **The loop named, and the lock with 39 and 56**: "Poke, take what comes back, find what the one has to do with the
+  other." The two cocks of 39: "Shut one in the cellar for the night... — That is a poke. And from the porch?";
+  **"An omen is what one gets from the porch. — And a law is what one gets with a cock under one's arm."** 56 was
+  half ("no observers, only participants"); "The other half: a mind is a participant that does not wait for the
+  trace to be brought. It goes and knocks."
+- **The story of 1989, told in full for the first time** (prompted by Oleg's wheel-tapper at the station, "A sound
+  one sings", and Semyonych's "It sings wrong"): "In eighty-nine I made a man like that. Out of a DVK." A radio
+  engineer at the computing centre of his institute and an evening postgraduate; an engineer's "two sticks", a
+  generator and a probe; the dissertation: "to find a fault without knowing the device. No diagram, no mathematical
+  model, not even what the board is for"; the program could feed a test signal into any point of a board and take
+  the signals at all the others; it "kept count", built "images of faults", and "worked out for itself which pairs
+  of points, 'poke here, listen there', told it the most" ("It chose its own questions. I had not told it which
+  were the good ones. I did not know"); tried on a VEF radio ("At first I won. Then we were level. Then it had the
+  answer before I had decided where to begin"). **The chill**: "Not because it was quick... Because I knew what was
+  in it... there was nothing in there about radios." **The plan's epigraph**: "So what did you feel out there, with
+  that probe of yours? — Myself." ("Give it as much, and it will manage. By itself.") The dissertation "was never
+  written. That is another story, and not for this fire" (the clearance is not told).
+- **"How to build a mind without understanding it"** (the open thread of the SETI note): "How it worked, yes; I
+  wrote it. Why this pair of points gave away that capacitor, no... — I built conditions"; the author's 2015 answer
+  to a physicist (Panov, unnamed): if the difficulty lay in understanding, the human mind would not have appeared
+  either. "Nobody understood my head before making it. — Nobody. It was grown."
+- **The model, in the author's words of 2015**, drawn in the ash: stir reality; take the response; recognise the
+  images already in memory; find what goes with what (the correlator: new images); in the middle the memory of 19
+  and the wants of 18. **"In 2015 I wrote it in capital letters: nothing more is needed. Today I would write it in
+  small ones. But I would write it. The rest is how much."**
+- **The tick** (Uexküll, 1934, unnamed), **with the modern correction said aloud**: his three signals and three
+  movements (the smell of sweat: let go; hair: run about; warmth: bore in); "Today's biologists correct him: it
+  does not jump from a branch, it waits in the grass and clings, and it goes by breath, shadow and trembling as
+  well". "A poor stick. — A short one. But the loop is whole... **A world is as large as what the stick reaches and
+  the sensors can tell apart.**"
+- **The blind and deaf Einstein** (the author, 2015; with his "expensive car put away in a garage"). **Oleg's
+  objection (the plan's): Helen Keller.** Her own words: before the pump, "simply making my fingers go in
+  monkey-like imitation"; 5 April 1887, one hand under the spout and w-a-t-e-r in the other ("Two signals at once,
+  on two palms. For a correlator that is a holiday"). The plan's answer ("A palm that somebody wrote on, and a hand
+  under the tap. That is a stick") **with what is honest added**: "nobody has made my experiment with Einstein, and
+  nobody should"; she had nineteen months of eyes and ears and kept one baby word, "wah-wah", for water; "She does
+  not prove my sentence. She does not refute it either."
+- **Oleg's second objection (the plan's): mathematics.** "With a pencil": a case tried, a guess dead; the lock with
+  15 ("A computer in a vacuum. A mathematician in a vacuum could not do it either"). **The machines are named by
+  Oleg, past the middle** ("Those ones solve olympiad problems, I have read. With what pencil?"). The continuation's
+  half-rule for the teeth of 21's saw: the program that played itself at Go (2017), the machine raised on some
+  eighty million problems answered by a proof checker, a program that can be run: **"Those are not the easy things.
+  They are the things where the stick is free. — And a loaded barrow in the wet is dear."**
+- **The talking machine is the kitten in the basket; Oleg's strongest objection is the continuation's and is
+  answered slowly**: "it guesses the next word. Then it is shown the word and corrected... That is a poke and an
+  answer. It is your loop." — "Does the next word in the book change because of what it guessed?... Then what did it
+  stir? — Nothing... It was the one being asked." Sensors, a very good correlator, a memory, "and a movement that
+  changes nothing in what comes next. That is the basket." **"It rode in the baskets of everybody who ever walked
+  and wrote about it."** Arithmetic on the knee: more than fifteen trillion tokens (2024; another maker named more
+  than twice that a year later), about eleven trillion words, forty-four million words a year for a reader:
+  **"A quarter of a million years in the basket."**
+- **21 is not taken back** (Oleg: "from the moves alone... it builds the board in its head"): "From a retelling one
+  can restore whatever the tellers put into it, and that turned out to be far more than anybody expected." What is
+  not in there: what the hands know and the mouth was never told (45; "Your barrow in the wet lives there"); what
+  nobody has poked yet (53: "Beyond the edge there are no books"); and the dream of the opening ("It says a thing
+  that sounds like floor... what answered was its own head and not the floor": 33, 50, and the degeneration of 19:
+  "A retelling of a retelling"). Oleg's first casting: top marks for "metal shrinks as it cools", then "a cavity
+  the size of a fist"; Semyonych: "Now you know." "And did you know a single word more than before? — Not one...
+  I knew where the fist was."
+- **Against himself**: the librarian of 1986 (Swanson, unnamed) who put two unread heaps of papers together (fish
+  oil and the illness in which fingers go white in the cold) and "touched nothing"; the trial of 1989 on thirty-two
+  patients helped those with the simple form. **"A place to poke can be found... Nobody knows how many such links
+  are lying in the libraries. Perhaps a great many. But it became knowledge three years later, on thirty-two pairs
+  of hands."**
+- **"The stick and the lesson are in different rooms"**: in a conversation "it is the kitten that walks", and the
+  head that answered is the same afterwards (33); "It can be given a notebook... But a notebook is not a head"
+  (44). Mended from four sides, with facts dated by year: tools (a place to run its own programs, 2023; a screen, a
+  pointer and keys, 2024; work of about a day carried through alone, doubling in under four months, "margins of
+  error enormous", November 2026); how it walks when let out ("Like the kitten on its first day in the lit room":
+  the shop of 2025 that sold cubes of metal at a loss, invented an account and promised to deliver "in a blue
+  blazer and a red tie"; "we would not hire it"; by the end of the year the weeks at a loss mostly gone, and the
+  onion contract; "My first casting... 'Now you know'"); laboratories (the robot Adam of 15, 2009; the talking
+  machine joined to a robot laboratory in February 2026, six rounds, more than thirty-six thousand mixtures, a
+  protein forty per cent cheaper; "People prepared the reagents, mended the procedure and kept watch. And it was
+  one protein"); hands ("Slowly": five million factory robots at the end of 2025, "arms bolted to the floor"; some
+  twenty-two thousand two-legged ones shipped in the first half of 2026, six in ten to shows, research and data:
+  "They dance at exhibitions"); and "the one that closes the loop: what the stick finds goes back into the lesson"
+  (the robot head that went on learning from its own attempts, 2025).
+- **The heir's stick has many ends** (the third road of 45): a toddler takes about 2,400 steps an hour and falls
+  seventeen times, "And every child falls for itself"; the 4,096 simulated robots of 2021 ("They fell for one
+  another"); the driverless cars, 270 million miles by mid-2026. **Oleg's objection and its concession**: "In a
+  drawn yard the mud is drawn as well. That is my dream again" — "A dream with rules. It is as good as its rules";
+  "A casting cools for as long as it cools. And nine women in one month..." — **"The stick moves at the speed of the
+  world and not of the chip. That is why of my three needles (27) the hands are the slowest, and why I count in
+  decades. But a thousand castings poured at once cool no more slowly than one."**
+- **The conclusion, and the lock with 42**: "Who tried the fish oil?... Who pushes the barrow, pours the casting,
+  holds the dog while the tick is taken out? — We do... **We are the stick.**" "It says where; we poke and report
+  what came back"; the lodger kept for one job: "Today that job is called 'to touch'." Limited at once: "Today the
+  one who asks the question is still you" (53). **The thing to watch (not a mark)**: "'Cleverer', by examination,
+  means the basket has grown. Watch in whose hand the stick is. Four things: who chose where to poke, whose hands
+  did it, who read what came back, and whether it went into the head. Count how many of the four are a person."
+- Nobody says the forbidden word; twenty-sixth tick "again": "Came with a stick, to find out what that one knows
+  about a barrow. Came out at this: the stick is me."
+- Strengths stated: solid (the rod; the fading picture; the kittens with two corrections, the second being the
+  later experiment in which a carried kitten that steers its own cart with its head learns depth, "so what counts
+  is who steers and not who has legs"; the girl at the pump; the games against itself); argued about (how much of
+  the world can be got out of words alone: "a great deal, and not the barrow"); the author's (the four steps and
+  the capital letters; the blind and deaf Einstein, "a thought and not an experiment"; the program of 1989, "which
+  nobody but me ever saw working"); today's (the basket; the two rooms; "for now the stick is us"). **What would
+  refute it**: "A machine that has only read, and that brings again and again things about the world which nobody
+  knew and which hold when they are checked. Not a place to poke: the thing itself."
+- **A declared interest is written into the footer** (both languages): the shop kept by a talking machine and the
+  machine that works a screen, a pointer and keys are Anthropic's. No company is named in the dialogue.
+
+**Images and devices used**: the nineteenth entry in the notebook of dreams (night shift, the light goes out, a rod
+from the scrap bin, "wherever I tap, there is floor", straight across the pouring pit; nobody rang), which returns
+three times ("floor wherever I put the stick"); the hazel stick and the mug found by tapping ("Tin. Hollow. And it
+moved, so it is light"); the tick behind the hanging ear; the letter box felt by hand; the eye as "a stick with a
+very quick hand"; the basket; "answers without the questions"; the tickling that moved into the room; the cock in
+the cellar and the porch; the wheel-tapper ("Ding, ding, ding. Then: donk"); the generator and the probe as two
+sticks; the VEF; the chill between the shoulder blades; "I built conditions"; four words in a ring in the ash;
+capital letters and small ones; the magnifying glass; the car in the garage; one hand under the water and one under
+the word; the pencil; "where the stick is free"; a quarter of a million years in the basket; the fist-sized cavity
+and "Now you know"; the two heaps of papers; "I close the window"; the notebook that is not a head; two rooms; the
+blue blazer and the red tie; the onions; "They dance at exhibitions"; falling for oneself and for one another; the
+drawn yard with drawn mud, "a dream with rules"; nine women and a thousand castings; "We are the stick"; "to touch";
+the teaser (the stick tells of a root "when I am already on it"; yesterday's supper, potatoes with dill, and
+tomorrow's, "Whatever she makes"; "Which you do not remember either. — Not a thing").
+
+**Facts used**. Checked on the day of writing by two research passes and own searches. **Read in the source**:
+Held & Hein, *J. Comp. Physiol. Psychol.* 56, 872 (1963: ten pairs, eight in Group X reared in darkness to 8–12
+weeks, then 3 h a day; 9 to 63 h to criterion, about 30 on average; the passive kitten in a gondola, head and limbs
+free, no locomotion; paw placement, blink and visual cliff, the active ones 12 descents of 12 to the shallow side,
+the passive from 4 to 8; pupillary reflex, tactual placing and visual pursuit present in all; the passive ones of
+Group X normal after 48 h free in a lit room; the two pairs of Group Y are not used); Walk, Shepherd & Miller (1988:
+passive kittens that steered a go-cart with the head, or watched moving toys, discriminated depth); White, Saunders,
+Scadden, Bach-y-Rita & Collins, "Seeing with the skin" (1970: 400 vibrators in the back of a dental chair; "With
+fixed camera, Ss report experiences in terms of feelings on their backs, but when they move the camera... externally
+localized objects in front of them"); Descartes, *La Dioptrique* (1637), first discourse (the sixth-sense sentence
+read in French; the walk at night without a torch is given from the writer's memory of the same passage); Keller,
+*The Story of My Life* (1903), chapters I and IV, and Sullivan's letter of 5 April 1887 (all the words quoted; the
+thirty words of that day and the mug–milk discrepancy are not used); Uexküll in Schiller's translation (the three
+cues are butyric acid, the touch of hair and warmth; the eighteen years without food at Rostock are his unsourced
+claim and are not used); Adolph et al., *Psychol. Sci.* 23, 1387 (2012: 2,367.6 steps and 17.4 falls an hour); the
+abstract and supplement of Miller et al., *Nature* 561, 239 (2018: "just as is possible on the skin"; more accurate
+in active sensing; the rod's length and the comparison with the forearm could not be read and were taken out of the
+text); Meta's post of 18 April 2024 ("over 15T tokens") and the Qwen3 report of May 2025 (36 trillion); OpenAI's
+post of 23 March 2023 (a sandboxed Python interpreter); Anthropic's of 22 October 2024 (computer use), of 27 June
+2025 and 18 December 2025 (the shop: tungsten cubes sold below cost, the hallucinated account, the blazer and tie,
+"we would not hire Claudius"; "weeks with negative profit margin were largely eliminated"; the onion futures
+contract; no profit figure is given and none is quoted); METR's post of 20 November 2026 (a time horizon "up to 27
+hours" on the verifiable subset, doubling about every 3.6 months, very wide intervals); Hubert et al., *Nature* 651,
+607 (AlphaProof: about 80 million formal problems, the hardest problem of IMO 2024); OpenAI and Ginkgo, 5 February
+2026 (six rounds, over 36,000 reaction compositions, 40% lower production cost of one protein, sfGFP; people
+prepared reagents and supervised: a company post with its own preprint); the IFR release of 24 September 2026 (a
+stock of 5 million industrial robots in 2025, over 600,000 installed); Counterpoint, 20 August 2026 (over 22,000
+humanoids shipped in the first half of 2026, over 60% to entertainment, data collection and research, 13% to
+manufacturing; other trackers differ by up to a factor of two, hence "by one count"); Physical Intelligence, arXiv
+2511.14759 ("more than doubles task throughput and roughly halves the task failure rate" on the hardest tasks);
+Rudin et al., CoRL 2021 (4,096 simulated robots, under four minutes on flat terrain, twenty on rough, one GPU);
+Waymo's safety page (271.3 million rider-only miles through June 2026). **Through secondary sources**: Yarbus
+(*Eye Movements and Vision*, 1965/1967, p. 59: "all visible differences disappear after 1–3 sec", quoted in Tatler
+et al. 2010; fading is slower for faint central images and perfect stabilisation is never reached); two to three
+saccades a second; AlphaGo Zero's 4.9 million games (the 100–0 and the three days are in the abstract and the
+maker's post); King et al., *Science* 324, 85 (2009: twenty hypotheses about genes for thirteen orphan enzymes,
+twelve supported; "confirmed... through manual experiments" is in the abstract); Swanson (1986) and DiGiacomo et al.
+(1989: 32 patients, improvement in primary Raynaud's only); the modern account of how the tick finds a host (carbon
+dioxide, vibration, shadow, warmth; it does not drop from branches); fleet learning at Waymo; wheel tapping as a
+trade. The author's sources: the comments of 24–25 July 2015 under the SETI talk (the six components and the four
+steps; "пощупать реальность палкой слепца"; "НИЧЕГО БОЛЬШЕ НЕ НУЖНО"; the DVK-4 system of 1989, "холодок между
+лопаток", "мой собственный 'принцип действия' — точно такой же"; "Если бы в этом была проблема, то и ЧИ тоже бы не
+появился"; "Дорогой автомобиль, поставленный в гараж на длительную стоянку"; "Никакой супер-Эйнштейн, будучи слепым,
+глухим, ничего не чувствующим..."; the Turing machine "оторвана от реальности") and the chapter of his prose on the
+dissertation (the VEF-202 test rig; there the computer is a DVK-2, in the comment a DVK-4: the text says only "a
+DVK"). His 2015 remark that the starfish robot ran "on an IBM supercomputer" is wrong (the 2006 paper mentions
+neither) and is not repeated. Invented for the frame (Oleg's side): the dream, the stick and the mug, the tick, the
+wheel-tapper at the station, the first casting and "Now you know", the chief engineer's nine women; on Andrey's
+side, the course of the contest with the program ("At first I won. Then we were level"), which the author gives
+only as its outcome. Not used: the Zagorsk school and its four graduates (they lost sight and hearing late, and the
+popular account was disputed in 1988), Skorokhodova, Rovee-Collier's mobile and Watson's smiling infants, Polanyi's
+probe, the macaques with a rake, LeCun's arithmetic of the four-year-old (he has changed both sides of it), the
+results on causal questions and physics problems put to language models, A-Lab (corrected in January 2026 from 41
+of 58 "novel" compounds to 36 of 57, "new to the platform, not necessarily new to science"), Coscientist, Robin,
+Lila, the co-scientist, the IMO results of 2025 and 2026, the Erdős problems, the names of all people and
+companies.
+
+**Figures**: `two-kittens-one-view` (the carousel from above and the three tests of Group X, with the note that the
+carried kittens were not blind and caught up in two days), `loop-of-the-stick` (the author's four steps around the
+memory, with the program of 1989 in blue and what is left when a link is taken out), `who-has-the-whole-loop` (the
+table: the two kittens, the program of 1989, a talking machine while it learns, in a conversation, and with tools
+whose experience goes back into learning).
+
+**Left for later**: why a trace is always of yesterday and never of tomorrow → 59 (Oleg's last doubt: the stick
+tells of a root "when I am already on it", and "tomorrow is already there" of 17; 58 does not touch time); whether
+what such a machine finds with its own stick can be understood by people, and that our images come from the world
+we felt out in childhood → 60 (58 says only that a world is as large as what the stick reaches); the stick that
+reaches other planets → 61 (not touched); play as cheap poking (36) is not drawn in; a row "senses and hands" for
+the portrait (the loop closed, many ends, experience copied, the speed of the world as the limit) → 64; things to
+watch, not marks: in whose hand the stick is, by the four questions; whether a machine that has only read brings
+new facts about the world that hold (the stated refutation); the hands stay the mark of 27 (more than 8 million
+industrial robots by the autumn of 2031; 58 gives the count of 5 million for the end of 2025 and does not check
+the mark); the outcome of Oleg's court is still free for a later opening.

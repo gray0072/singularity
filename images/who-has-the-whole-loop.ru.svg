@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>У кого петля целая</title>
+
+<rect x="0.5" y="0.5" width="759" height="519" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">У кого петля целая</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Таблица на золе: те же четыре шага и у кого какого не хватает.</text>
+<text x="326.0" y="108.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">тычет</text>
+<text x="442.0" y="99.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600"><tspan x="442.0" dy="0.0">получает ответ</tspan><tspan x="442.0" dy="15.0">на свой тычок</tspan></text>
+<text x="558.0" y="108.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600">находит связь</text>
+<text x="674.0" y="99.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="600"><tspan x="674.0" dy="0.0">голова хранит</tspan><tspan x="674.0" dy="15.0">найденное</tspan></text>
+<line x1="28.0" y1="124.0" x2="732.0" y2="124.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="149.0" font-size="13" fill="#0b0b0b" font-weight="600">котёнок, который ходил</text>
+<text x="34.0" y="166.0" font-size="11" fill="#8a8985">1963</text>
+<text x="326.0" y="157.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="442.0" y="157.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="558.0" y="157.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="674.0" y="157.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<line x1="28.0" y1="180.0" x2="732.0" y2="180.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="205.0" font-size="13" fill="#0b0b0b" font-weight="600">котёнок в корзинке</text>
+<text x="34.0" y="222.0" font-size="11" fill="#8a8985">те же глаза, та же картина</text>
+<text x="326.0" y="199.0" font-size="13" fill="#e34948" text-anchor="middle" font-weight="600">нет</text>
+<text x="326.0" y="214.0" font-size="10.5" fill="#52514e" text-anchor="middle">его возят</text>
+<text x="442.0" y="199.0" font-size="13" fill="#e34948" text-anchor="middle" font-weight="600">нет</text>
+<text x="442.0" y="214.0" font-size="10.5" fill="#52514e" text-anchor="middle"><tspan x="442.0" dy="0.0">то, что он видит,</tspan><tspan x="442.0" dy="13.1">от него не зависит</tspan></text>
+<text x="558.0" y="199.0" font-size="13" fill="#e34948" text-anchor="middle" font-weight="600">нет</text>
+<text x="558.0" y="214.0" font-size="10.5" fill="#52514e" text-anchor="middle">связывать нечего</text>
+<text x="674.0" y="213.0" font-size="13" fill="#e34948" text-anchor="middle" font-weight="600">нет</text>
+<line x1="28.0" y1="236.0" x2="732.0" y2="236.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="261.0" font-size="13" fill="#0b0b0b" font-weight="600">программа 1989 года</text>
+<text x="34.0" y="278.0" font-size="11" fill="#8a8985">платы и их неисправности</text>
+<text x="326.0" y="269.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="442.0" y="269.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="558.0" y="269.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="674.0" y="269.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<line x1="28.0" y1="292.0" x2="732.0" y2="292.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="316.0" font-size="13" fill="#0b0b0b" font-weight="600"><tspan x="34.0" dy="0.0">говорящая машина,</tspan><tspan x="34.0" dy="16.2">пока учится по книгам</tspan></text>
+<text x="326.0" y="311.0" font-size="13" fill="#e34948" text-anchor="middle" font-weight="600">нет</text>
+<text x="326.0" y="326.0" font-size="10.5" fill="#52514e" text-anchor="middle"><tspan x="326.0" dy="0.0">её догадка ничего</tspan><tspan x="326.0" dy="13.1">не меняет в книге</tspan></text>
+<text x="442.0" y="311.0" font-size="13" fill="#e34948" text-anchor="middle" font-weight="600">нет</text>
+<text x="442.0" y="326.0" font-size="10.5" fill="#52514e" text-anchor="middle"><tspan x="442.0" dy="0.0">следующее слово</tspan><tspan x="442.0" dy="13.1">написано давно</tspan></text>
+<text x="558.0" y="325.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="674.0" y="325.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<line x1="28.0" y1="348.0" x2="732.0" y2="348.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="372.0" font-size="13" fill="#0b0b0b" font-weight="600"><tspan x="34.0" dy="0.0">та же машина</tspan><tspan x="34.0" dy="16.2">в разговоре</tspan></text>
+<text x="326.0" y="381.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="442.0" y="381.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="558.0" y="381.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="674.0" y="367.0" font-size="13" fill="#e34948" text-anchor="middle" font-weight="600">нет</text>
+<text x="674.0" y="382.0" font-size="10.5" fill="#52514e" text-anchor="middle"><tspan x="674.0" dy="0.0">сама сеть</tspan><tspan x="674.0" dy="13.1">не меняется</tspan></text>
+<line x1="28.0" y1="404.0" x2="732.0" y2="404.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="421.0" font-size="13" fill="#0b0b0b" font-weight="600"><tspan x="34.0" dy="0.0">машина с инструментами, чей</tspan><tspan x="34.0" dy="16.2">опыт возвращается в обучение</tspan></text>
+<text x="34.0" y="454.0" font-size="11" fill="#8a8985">строится</text>
+<text x="326.0" y="437.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="442.0" y="437.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="558.0" y="437.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<text x="674.0" y="437.0" font-size="13" fill="#008300" text-anchor="middle" font-weight="600">да</text>
+<line x1="28.0" y1="460.0" x2="732.0" y2="460.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="486.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Прочтение этого вечера, а не измерение. Котята: Хелд и Хайн (1963). Говорящая машина может вести записи</tspan><tspan x="28.0" dy="14.4">между разговорами; строка говорит лишь о том, что сеть, которая отвечает, от разговора не меняется.</tspan></text>
+</svg>

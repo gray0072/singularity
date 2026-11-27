@@ -5480,6 +5480,200 @@ def price_of_everything_written(lang):
     return f
 
 
+# --- 58. The Blind Man's Stick -----------------------------------------------------------------
+
+@figure("two-kittens-one-view")
+def two_kittens_one_view(lang):
+    yes, no = ("yes", "no") if lang == "en" else ("да", "нет")
+    t = {
+        "en": dict(title="Two kittens, one view",
+                   sub="The carousel of 1963, seen from above: one kitten walks, the other is carried, and both see the same stripes.",
+                   walks="walks", carried="is carried\nin a basket", wall="a drum with striped walls",
+                   head=["walked", "was carried"],
+                   rows=["puts out its paws\nto meet a surface", "blinks at a hand\ncoming at its face",
+                         "steps off the glass over a drop\non the shallow side"],
+                   cells=[("all 8", "none of 8"), ("yes", "no"), ("12 times of 12", "4 to 8 of 12")],
+                   after="The carried kittens were not blind: the pupil narrowed, the eye followed a moving hand.\n"
+                         "After two days of running free in a lit room they passed the same tests.",
+                   src="Held and Hein (1963): eight pairs reared in the dark to the age of 8–12 weeks, then three hours a day in the\n"
+                       "apparatus, 9 to 63 hours in all (about 30 on average); a pair was tested when its walking kitten first put out its paws."),
+        "ru": dict(title="Два котёнка, одна картина",
+                   sub="Карусель 1963 года, вид сверху: один котёнок ходит, другого возят, и оба видят одни и те же полосы.",
+                   walks="ходит", carried="едет\nв корзинке", wall="барабан с полосатыми стенками",
+                   head=["ходил", "возили"],
+                   rows=["вытягивает лапы\nнавстречу поверхности", "моргает на руку,\nлетящую к морде",
+                         "сходит со стекла над обрывом\nна мелкую сторону"],
+                   cells=[("все 8", "ни один из 8"), ("да", "нет"), ("12 раз из 12", "от 4 до 8 из 12")],
+                   after="Котята, которых возили, слепыми не были: зрачок сужался, глаз следил за рукой.\n"
+                         "После двух суток свободной беготни в освещённой комнате они прошли те же проверки.",
+                   src="Хелд и Хайн (1963): восемь пар выращены в темноте до 8–12 недель, затем по три часа в день в установке,\n"
+                       "всего от 9 до 63 часов (в среднем около 30); пару проверяли, когда ходивший котёнок впервые вытягивал лапы."),
+    }[lang]
+    f = Fig(760, 462, t["title"])
+    heading(f, t["title"], t["sub"])
+    # the drum from above
+    cx, cy, R = 168, 214, 112
+    f.circle(cx, cy, R, fill="none", stroke=INK2, width=1.5)
+    for k in range(36):
+        a = 2 * math.pi * k / 36
+        f.line(cx + (R + 2) * math.cos(a), cy + (R + 2) * math.sin(a),
+               cx + (R + 12) * math.cos(a), cy + (R + 12) * math.sin(a),
+               color=INK if k % 2 == 0 else GRID, width=5, cap="butt")
+    ang = math.radians(-24)
+    ax, ay = cx - 74 * math.cos(ang), cy - 74 * math.sin(ang)
+    px, py = cx + 74 * math.cos(ang), cy + 74 * math.sin(ang)
+    f.line(ax, ay, px, py, color=INK2, width=3)
+    f.circle(cx, cy, 5, fill=INK2)
+    # the walking kitten: a body, a head and four paws
+    f.ellipse(ax, ay, 15, 9, fill=GREEN)
+    f.circle(ax + 6, ay + 15, 6, fill=GREEN)
+    for dx, dy in ((-9, -9), (-9, 9), (8, -10), (10, 5)):
+        f.circle(ax + dx - 5, ay + dy, 2.6, fill=GREEN)
+    # the carried one: a basket with a head
+    f.rect(px - 14, py - 11, 28, 22, fill=SURFACE, stroke=ORANGE, width=2.2, r=4)
+    f.circle(px - 5, py - 16, 6, fill=ORANGE)
+    f.text(ax - 6, ay - 22, t["walks"], size=12.5, color=GREEN, anchor="middle", weight="600")
+    f.text(px + 4, py + 30, t["carried"], size=12.5, color=ORANGE, anchor="middle", weight="600")
+    f.text(cx, cy + R + 32, t["wall"], size=11.5, color=MUTED, anchor="middle")
+    # the three tests
+    x0, c1, c2, top, row = 336, 566, 668, 96, 58
+    f.text(c1, top + 8, t["head"][0], size=13, color=GREEN, anchor="middle", weight="600")
+    f.text(c2, top + 8, t["head"][1], size=13, color=ORANGE, anchor="middle", weight="600")
+    for i, name in enumerate(t["rows"]):
+        y = top + 24 + i * row
+        f.line(x0, y, 732, y, color=GRID, width=1.2)
+        f.text(x0 + 4, y + 25, name, size=12.5, color=INK)
+        f.text(c1, y + 33, t["cells"][i][0], size=13, color=INK, anchor="middle", weight="600")
+        f.text(c2, y + 33, t["cells"][i][1], size=13, color=RED, anchor="middle", weight="600")
+    f.line(x0, top + 24 + 3 * row, 732, top + 24 + 3 * row, color=GRID, width=1.2)
+    f.text(28, 388, t["after"], size=12.5, color=INK, weight="600")
+    f.text(28, 432, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("loop-of-the-stick")
+def loop_of_the_stick(lang):
+    t = {
+        "en": dict(title="The loop: poke, take the response, find the link",
+                   sub="Drawn in the ash. The four steps are the author's list of 2015; in blue, his program of 1989.",
+                   world=("reality", "a path in the dark,\na board,\na casting"),
+                   steps=[("1. Poke", "motor action: stir reality", "a test signal into any point of the board"),
+                          ("2. Take the response", "the sensors", "the signals at all the other points"),
+                          ("3. Recognise", "the images already in memory", "is this a fault it has met before?"),
+                          ("4. Find the link", "the correlator: new images", "which pair “poke here, listen there” tells most")],
+                   memory=("Memory", "images are born, compete and are written off;\nwants decide what to keep and where to poke next",
+                           "images of faults, corrected at every diagnosis"),
+                   out="Take one link out and the loop stops. No poke of one's own: the kitten in the basket.\n"
+                       "No response from outside: a dream. Nothing kept: a talk that leaves no trace in the head.",
+                   src="A scheme of the argument, not data. After the author's comments of 24–25 July 2015 under his SETI talk."),
+        "ru": dict(title="Петля: ткнул, получил отклик, нашёл связь",
+                   sub="Нарисовано на золе. Четыре шага — список автора 2015 года; синим — его программа 1989 года.",
+                   world=("реальность", "тропинка в темноте,\nплата,\nотливка"),
+                   steps=[("1. Ткнуть", "моторика: пошевелить реальность", "пробный сигнал в любую точку платы"),
+                          ("2. Принять отклик", "сенсорика", "сигналы во всех остальных точках"),
+                          ("3. Распознать", "образы, которые уже есть в памяти", "эту неисправность уже встречали?"),
+                          ("4. Найти связь", "коррелятор: новые образы", "какая пара «ткнуть — слушать» скажет больше")],
+                   memory=("Память", "образы рождаются, соперничают и списываются;\nхотелки решают, что хранить и куда ткнуть дальше",
+                           "образы неисправностей, с поправкой при каждой проверке"),
+                   out="Выньте одно звено, и петля встанет. Нет своего тычка — котёнок в корзинке.\n"
+                       "Нет отклика снаружи — сон. Ничего не сохранилось — разговор, не оставивший следа в голове.",
+                   src="Схема рассуждения, а не данные. По комментариям автора от 24–25 июля 2015 года под его докладом в SETI."),
+    }[lang]
+    f = Fig(760, 458, t["title"])
+    heading(f, t["title"], t["sub"])
+    bw, bh = 248, 76
+    xl, xr, yt, yb = 206, 484, 88, 268
+    # the world on the left
+    f.rect(28, 118, 136, 196, fill="none", stroke=INK2, width=1.5, r=10, dash="6 4")
+    f.text(96, 196, t["world"][0], size=14, color=INK, anchor="middle", weight="600")
+    f.text(96, 218, t["world"][1], size=11.5, color=INK2, anchor="middle")
+    spots = [(xl, yt), (xl, yb), (xr, yb), (xr, yt)]
+    for (x, y), (name, term, prog) in zip(spots, t["steps"]):
+        f.rect(x, y, bw, bh, fill=SURFACE, stroke=INK2, r=8)
+        f.text(x + 14, y + 24, name, size=14, color=INK, weight="600")
+        f.text(x + 14, y + 44, term, size=11.5, color=INK2)
+        f.text(x + 14, y + 62, prog, size=11.5, color=BLUE)
+    # memory in the middle
+    mx, my, mw, mh = 300, 176, 340, 80
+    f.rect(mx, my, mw, mh, fill="#f3f2ee", stroke=MUTED, width=1.2, r=8)
+    f.text(mx + 14, my + 22, t["memory"][0], size=13.5, color=INK, weight="600")
+    f.text(mx + 14, my + 40, t["memory"][1], size=11, color=INK2)
+    f.text(mx + 14, my + 72, t["memory"][2], size=11, color=BLUE)
+    # the ring of arrows
+    f.line(xl - 2, yt + bh / 2, 168, 150, color=ORANGE, width=2.2, arrow=True)
+    f.line(168, 284, xl - 4, yb + bh / 2, color=ORANGE, width=2.2, arrow=True)
+    f.line(xl + bw + 2, yb + bh / 2, xr - 5, yb + bh / 2, color=ORANGE, width=2.2, arrow=True)
+    f.line(xr + bw - 44, yb - 2, xr + bw - 44, yt + bh + 5, color=ORANGE, width=2.2, arrow=True)
+    f.line(xr - 2, yt + bh / 2, xl + bw + 5, yt + bh / 2, color=ORANGE, width=2.2, arrow=True)
+    f.text(28, 386, t["out"], size=12.5, color=INK, weight="600")
+    f.text(28, 440, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("who-has-the-whole-loop")
+def who_has_the_whole_loop(lang):
+    yes, no = ("yes", "no") if lang == "en" else ("да", "нет")
+    t = {
+        "en": dict(title="Who has the whole loop",
+                   sub="A table in the ash: the same four steps, and who is missing which.",
+                   head=["pokes", "gets an answer\nto its own poke", "finds the link", "the head keeps\nwhat it found"],
+                   rows=[("the kitten that walked", "1963", [(1, ""), (1, ""), (1, ""), (1, "")]),
+                         ("the kitten in the basket", "the same eyes, the same view",
+                          [(0, "it is carried"), (0, "what it sees does\nnot depend on it"), (0, "nothing to link"), (0, "")]),
+                         ("the program of 1989", "boards and their faults", [(1, ""), (1, ""), (1, ""), (1, "")]),
+                         ("a talking machine,\nwhile it learns from books", "",
+                          [(0, "its guess changes\nnothing in the book"), (0, "the next word was\nwritten long ago"), (1, ""), (1, "")]),
+                         ("the same machine,\nin a conversation", "",
+                          [(1, ""), (1, ""), (1, ""), (0, "the network itself\ndoes not change")]),
+                         ("a machine with tools, whose\nexperience goes back into learning", "being built",
+                          [(1, ""), (1, ""), (1, ""), (1, "")])],
+                   src="The evening's reading, not a measurement. The kittens: Held and Hein (1963). A talking machine can keep notes\n"
+                       "between conversations; the row says only that the network which answers is not changed by the talk."),
+        "ru": dict(title="У кого петля целая",
+                   sub="Таблица на золе: те же четыре шага и у кого какого не хватает.",
+                   head=["тычет", "получает ответ\nна свой тычок", "находит связь", "голова хранит\nнайденное"],
+                   rows=[("котёнок, который ходил", "1963", [(1, ""), (1, ""), (1, ""), (1, "")]),
+                         ("котёнок в корзинке", "те же глаза, та же картина",
+                          [(0, "его возят"), (0, "то, что он видит,\nот него не зависит"), (0, "связывать нечего"), (0, "")]),
+                         ("программа 1989 года", "платы и их неисправности", [(1, ""), (1, ""), (1, ""), (1, "")]),
+                         ("говорящая машина,\nпока учится по книгам", "",
+                          [(0, "её догадка ничего\nне меняет в книге"), (0, "следующее слово\nнаписано давно"), (1, ""), (1, "")]),
+                         ("та же машина\nв разговоре", "",
+                          [(1, ""), (1, ""), (1, ""), (0, "сама сеть\nне меняется")]),
+                         ("машина с инструментами, чей\nопыт возвращается в обучение", "строится",
+                          [(1, ""), (1, ""), (1, ""), (1, "")])],
+                   src="Прочтение этого вечера, а не измерение. Котята: Хелд и Хайн (1963). Говорящая машина может вести записи\n"
+                       "между разговорами; строка говорит лишь о том, что сеть, которая отвечает, от разговора не меняется."),
+    }[lang]
+    f = Fig(760, 520, t["title"])
+    heading(f, t["title"], t["sub"])
+    x_name, x0, cw, top, head_h, row_h = 28, 268, 116, 84, 40, 56
+    for k, label in enumerate(t["head"]):
+        lines = label.split("\n")
+        f.text(x0 + cw * k + cw / 2, top + (24 if len(lines) == 1 else 15), label, size=12, color=INK2,
+               anchor="middle", weight="600")
+    for i, (name, who, cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(x_name, y, x0 + 4 * cw, y, color=GRID, width=1.2)
+        lines = name.split("\n")
+        ny = y + row_h / 2 + 4 - (len(lines) - 1) * 8 - (7 if who else 0)
+        f.text(x_name + 6, ny, name, size=13, color=INK, weight="600")
+        if who:
+            f.text(x_name + 6, ny + len(lines) * 16 + 1, who, size=11, color=MUTED)
+        for k, (ok, why) in enumerate(cells):
+            cx = x0 + cw * k + cw / 2
+            if why:
+                f.text(cx, y + 19, yes if ok else no, size=13, color=GREEN if ok else RED, anchor="middle", weight="600")
+                f.text(cx, y + 34, why, size=10.5, color=INK2, anchor="middle")
+            else:
+                f.text(cx, y + row_h / 2 + 5, yes if ok else no, size=13, color=GREEN if ok else RED,
+                       anchor="middle", weight="600")
+    bottom = top + head_h + len(t["rows"]) * row_h
+    f.line(x_name, bottom, x0 + 4 * cw, bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

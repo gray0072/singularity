@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–57 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `58`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–58 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `59`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–57.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–58.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -421,6 +421,18 @@ articles as closely as possible. In practice:
 | читатель не делает миллион копий себя | a reader does not make a million copies of himself | Andrey's answer to Oleg's symmetry test ("I learned for nothing; why should it pay?"): in the reading there is no difference, the difference is after it; a human reader was the next carrier and the next mouth, this one "carries it all in once, and after that it is copied" (57) |
 | один раз (цена, а не дивиденд) | once (a price, not a dividend) | every book ever counted (129,864,880) at the rate of the fine comes to 390 billion dollars, about half of what four companies spend on data centres in 2026; "a dividend is paid for as long as the thing works. This is paid once"; Oleg's forty roubles for a template that still hangs on its nail (57) |
 | тот, кто придумал колесо, — это мы | the man who thought of the wheel is us | the conclusion of 57: "whoever uses keeps the gain, and whoever thought of it drops out of the count"; people found that natural while the user was they; "the arrangement has not changed. We are changing places in it" |
+| палка слепого (палка слепца) | the blind man's stick | the author's 2015 image: to "feel reality with a blind man's stick" is to act on it in order to get a response that the sensors can take; a stick lying still says almost nothing, "it answers", and whoever holds it chooses the question; "an eye is a stick with a quick hand" (58) |
+| петля (ткнул, отклик, связь) | the loop (poke, response, link) | the author's four steps of 2015: stir reality, take the response, recognise the images already in memory, find the correlations and make new images; with a memory where images live and die, and wants that decide where to poke next; "nothing more is needed", written in capitals in 2015 and in small letters in 58; the rest is "how much" |
+| тычок | a poke | an action taken to get an answer: the tap of a stick, a jump of the eye, a test signal into a board, a cock shut in the cellar; what tells a law from an omen (39): "an omen is what one gets from the porch" (58) |
+| программа 1989 года | the program of 1989 | the author's self-learning fault diagnosis on a DVK, told in full in 58: a test signal into any point of a board, the signals at all the others, images of faults built from the count, and its own choice of the pairs "poke here, listen there" that tell most; "there was nothing in there about radios"; what he felt out with it was "myself" |
+| построить условия | to build the conditions | how a mind is made without being understood: close the loop and give it room; the author's 2015 answer that if understanding were needed the human mind would not have appeared either; "Nobody understood my head before making it. — Nobody. It was grown" (58) |
+| котёнок в корзинке | the kitten in the basket | Held and Hein, 1963: of two kittens that saw the same stripes for the same hours, the one that walked learned to guide its paws by sight and the one that was carried did not (it was not blind, and caught up in two days of running free); "it got the answers without the questions"; in 58, a talking machine while it learns from books |
+| слепоглухой Эйнштейн | the blind and deaf Einstein | the author's 2015 sentence: no super-Einstein who is blind, deaf and feels nothing would raise his mind above a newborn's; "a thought and not an experiment"; Helen Keller neither proves nor refutes it: "a palm that somebody wrote on, and a hand under the tap. That is a stick" (58) |
+| где палка бесплатная | where the stick is free | where reality answers a poke at once and for nothing (a game played against oneself, a proof checker, a program that runs or falls over), machines went ahead first; "half a rule" for the teeth of the jagged frontier of 21 (58) |
+| пересказ чужого опыта | a retelling of somebody else's experience | what a mind has when the stick is taken away: everything that those who walked put into words; missing from it are what the hands never told (45), what nobody has poked yet (53), and any check ("a floor wherever the stick is put": the dream of 33) (58) |
+| палка и урок в разных комнатах | the stick and the lesson are in different rooms | a talking machine: while it learns it has no stick (its guess changes nothing in the book), and in a conversation it has a stick and the network does not change; mended by tools, laboratories, hands, and experience that goes back into the learning (58) |
+| палка о многих концах | a stick with many ends | the heir's stick: four thousand simulated robots that "fell for one another", a fleet of cars taught by one update; what one end finds all know (the third road of 45); it still moves "at the speed of the world and not of the chip" (58) |
+| палка — это мы | the stick is us | for now people are the machine's hands and sensors: "It says where; we poke and report what came back"; the lodger's one job (42) is today called "to touch"; the thing to watch is in whose hand the stick is: who chose where to poke, whose hands did it, who read the answer, and whether it went into the head (58) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

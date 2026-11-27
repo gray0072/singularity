@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="458" viewBox="0 0 760 458" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>The loop: poke, take the response, find the link</title>
+<defs><marker id="arrow-eb6834" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#eb6834"/></marker></defs>
+<rect x="0.5" y="0.5" width="759" height="457" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">The loop: poke, take the response, find the link</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Drawn in the ash. The four steps are the author's list of 2015; in blue, his program of 1989.</text>
+<rect x="28.0" y="118.0" width="136.0" height="196.0" rx="10" fill="none" stroke="#52514e" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="96.0" y="196.0" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">reality</text>
+<text x="96.0" y="218.0" font-size="11.5" fill="#52514e" text-anchor="middle"><tspan x="96.0" dy="0.0">a path in the dark,</tspan><tspan x="96.0" dy="14.4">a board,</tspan><tspan x="96.0" dy="14.4">a casting</tspan></text>
+<rect x="206.0" y="88.0" width="248.0" height="76.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="220.0" y="112.0" font-size="14" fill="#0b0b0b" font-weight="600">1. Poke</text>
+<text x="220.0" y="132.0" font-size="11.5" fill="#52514e">motor action: stir reality</text>
+<text x="220.0" y="150.0" font-size="11.5" fill="#2a78d6">a test signal into any point of the board</text>
+<rect x="206.0" y="268.0" width="248.0" height="76.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="220.0" y="292.0" font-size="14" fill="#0b0b0b" font-weight="600">2. Take the response</text>
+<text x="220.0" y="312.0" font-size="11.5" fill="#52514e">the sensors</text>
+<text x="220.0" y="330.0" font-size="11.5" fill="#2a78d6">the signals at all the other points</text>
+<rect x="484.0" y="268.0" width="248.0" height="76.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="498.0" y="292.0" font-size="14" fill="#0b0b0b" font-weight="600">3. Recognise</text>
+<text x="498.0" y="312.0" font-size="11.5" fill="#52514e">the images already in memory</text>
+<text x="498.0" y="330.0" font-size="11.5" fill="#2a78d6">is this a fault it has met before?</text>
+<rect x="484.0" y="88.0" width="248.0" height="76.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="498.0" y="112.0" font-size="14" fill="#0b0b0b" font-weight="600">4. Find the link</text>
+<text x="498.0" y="132.0" font-size="11.5" fill="#52514e">the correlator: new images</text>
+<text x="498.0" y="150.0" font-size="11.5" fill="#2a78d6">which pair “poke here, listen there” tells most</text>
+<rect x="300.0" y="176.0" width="340.0" height="80.0" rx="8" fill="#f3f2ee" stroke="#8a8985" stroke-width="1.2"/>
+<text x="314.0" y="198.0" font-size="13.5" fill="#0b0b0b" font-weight="600">Memory</text>
+<text x="314.0" y="216.0" font-size="11" fill="#52514e"><tspan x="314.0" dy="0.0">images are born, compete and are written off;</tspan><tspan x="314.0" dy="13.8">wants decide what to keep and where to poke next</tspan></text>
+<text x="314.0" y="248.0" font-size="11" fill="#2a78d6">images of faults, corrected at every diagnosis</text>
+<line x1="204.0" y1="126.0" x2="168.0" y2="150.0" stroke="#eb6834" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+<line x1="168.0" y1="284.0" x2="202.0" y2="306.0" stroke="#eb6834" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+<line x1="456.0" y1="306.0" x2="479.0" y2="306.0" stroke="#eb6834" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+<line x1="688.0" y1="266.0" x2="688.0" y2="169.0" stroke="#eb6834" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+<line x1="482.0" y1="126.0" x2="459.0" y2="126.0" stroke="#eb6834" stroke-width="2.2" stroke-linecap="round" marker-end="url(#arrow-eb6834)"/>
+<text x="28.0" y="386.0" font-size="12.5" fill="#0b0b0b" font-weight="600"><tspan x="28.0" dy="0.0">Take one link out and the loop stops. No poke of one's own: the kitten in the basket.</tspan><tspan x="28.0" dy="15.6">No response from outside: a dream. Nothing kept: a talk that leaves no trace in the head.</tspan></text>
+<text x="28.0" y="440.0" font-size="11.5" fill="#8a8985">A scheme of the argument, not data. After the author's comments of 24–25 July 2015 under his SETI talk.</text>
+</svg>
