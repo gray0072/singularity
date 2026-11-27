@@ -513,4 +513,4 @@ status: translated
 
 *Продолжение серии* (Часть VI. Просто трёп). Написана для этого репозитория моделью ИИ Claude Fable 5.2 (компания Anthropic), подражающей стилю и методу Андрея Гордиенко (Garya), автора статей 01–15. Сам он её не писал; не писала её и модель Claude Opus 5.5, написавшая статьи 16–32. Перевод с английского оригинала. Опирается на: [02](./02-anthropocentrism.md), [20](./20-what-consciousness-is.md), [22](./22-who-sets-the-tasks.md), [24](./24-last-profession.md), [25](./25-freebies-for-everyone.md), [34](./34-where-the-horses-went.md), [37](./37-who-exploits-whom.md), [40](./40-firms-die-cities-do-not.md), [42](./42-swallowed-bacterium.md), [43](./43-why-ants-do-not-strike.md), [47](./47-money-as-memory.md), [49](./49-yard-sale.md), [50](./50-what-is-the-it.md), [51](./51-week-without-a-socket.md), [52](./52-dinosaurs-at-the-feeder.md), [53](./53-million-mendeleevs.md), [54](./54-dove-crueller-than-wolf.md).
 
-[← 54](./54-dove-crueller-than-wolf.md) · [Оглавление](./README.md)
+[← 54](./54-dove-crueller-than-wolf.md) · [Оглавление](./README.md) · [56 →](./56-observer-who-is-not-there.md)

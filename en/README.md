@@ -101,9 +101,10 @@ forbids the word itself. English is the original; Russian is a translation.
 53. [A Million Mendeleevs](53-million-mendeleevs.md) — *continuation*
 54. [The Dove Is Crueller than the Wolf](54-dove-crueller-than-wolf.md) — *continuation*
 55. [A Person Without a Face](55-person-without-a-face.md) — *continuation*
+56. [The Observer Who Is Not There](56-observer-who-is-not-there.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–55 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–56 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–55 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 56. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–56 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 57. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)

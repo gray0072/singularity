@@ -5185,6 +5185,163 @@ def same_shell_other_filling(lang):
     return f
 
 
+# --- 56. The Observer Who Is Not There ---------------------------------------------------------
+
+def _photon(f, x, y, length, angle, waves, amp, color, width=1.5):
+    """A wavy arrow for a grain of light: `waves` full waves along `length`, turned by `angle` degrees."""
+    a = math.radians(angle)
+    body = length - 8
+    steps = max(24, int(waves * 14))
+    pts = []
+    for i in range(steps + 1):
+        s = body * i / steps
+        off = amp * math.sin(2 * math.pi * waves * i / steps)
+        pts.append((x + s * math.cos(a) - off * math.sin(a), y + s * math.sin(a) + off * math.cos(a)))
+    f.path("M" + " L".join(f"{px:.1f},{py:.1f}" for px, py in pts), color=color, width=width)
+    f.line(pts[-1][0], pts[-1][1], x + length * math.cos(a), y + length * math.sin(a), color=color,
+           width=width, arrow=True)
+
+
+@figure("stripes-fade-with-heat")
+def stripes_fade_with_heat(lang):
+    t = {
+        "en": dict(title="A molecule can be “seen” simply by heating it",
+                   sub="The same molecule of seventy carbon atoms, the same gratings. Only the knob of the laser is turned.",
+                   temps=["not heated", "heated more", "about 3,000 K"],
+                   light=["long waves of heat light:\nthey cannot tell which path",
+                          "more grains of light,\nshorter waves",
+                          "each grain could tell\nwhere the molecule was"],
+                   screen=["stripes", "paler stripes", "no stripes"],
+                   wall="the light goes into the walls of the chamber: no eye, no counter, no film",
+                   src="After Hackermüller, Hornberger, Brezger, Zeilinger and Arndt (2004). A scheme of the experiment, not its data:\n"
+                       "the number of grains of light and the paleness of the stripes are illustrative."),
+        "ru": dict(title="Молекулу можно «увидеть», просто нагрев её",
+                   sub="Та же молекула из семидесяти атомов углерода, те же решётки. Крутят только ручку лазера.",
+                   temps=["без нагрева", "нагрели сильнее", "около 3000 К"],
+                   light=["длинные волны теплового света:\nпо ним не понять, каким путём",
+                          "крупинок света больше,\nволны короче",
+                          "каждая крупинка могла бы\nсказать, где была молекула"],
+                   screen=["полосы", "полосы бледнее", "полос нет"],
+                   wall="свет уходит в стенки камеры: ни глаза, ни счётчика, ни плёнки",
+                   src="По работе Хакермюллера, Хорнбергера, Брецгера, Цайлингера и Арндта (2004). Схема опыта, а не его данные:\n"
+                       "число крупинок света и бледность полос условны."),
+    }[lang]
+    f = Fig(760, 420, t["title"])
+    heading(f, t["title"], t["sub"])
+    w, gap = 220, 22
+    shots = [[(-150, 1.5, 40)],
+             [(-155, 3, 38), (-30, 3, 38), (95, 3.5, 34)],
+             [(-172, 7, 36), (-128, 7, 32), (-52, 7, 32), (-8, 7, 36), (55, 7, 32), (125, 7, 32)]]
+    colors = [RED, ORANGE, YELLOW]
+    contrast = [0.95, 0.45, 0.0]
+    for k in range(3):
+        x = 28 + k * (w + gap)
+        cx, cy = x + w / 2, 160
+        f.rect(x, 84, w, 262, fill="none", stroke=GRID, width=1.2, r=10)
+        f.text(cx, 106, t["temps"][k], size=13.5, color=INK, anchor="middle", weight="600")
+        for angle, waves, length in shots[k]:
+            a = math.radians(angle)
+            _photon(f, cx + 17 * math.cos(a), cy + 17 * math.sin(a), length, angle, waves, 3.2, colors[k])
+        f.circle(cx, cy, 13, fill=BLUE, opacity=0.85)
+        f.text(cx, 226, t["light"][k], size=11.5, color=INK2, anchor="middle")
+        # the screen: 45 thin bars, their darkness follows 1 + V·cos
+        sx, sy, sw, sh, n = x + 20, 262, 180, 40, 45
+        for i in range(n if contrast[k] else 0):
+            level = (1 + contrast[k] * math.cos(2 * math.pi * 5 * (i + 0.5) / n)) / 2
+            f.add(f'<rect x="{sx + i * sw / n:.1f}" y="{sy}" width="{sw / n + 0.3:.1f}" height="{sh}" '
+                  f'fill="{BLUE}" fill-opacity="{0.08 + 0.8 * level:.2f}"/>')
+        f.rect(sx, sy, sw, sh, fill="none" if contrast[k] else BLUE, stroke=INK2, width=1.2, r=2,
+               opacity=None if contrast[k] else 0.48)
+        f.text(cx, 326, t["screen"][k], size=13, color=INK, anchor="middle", weight="600")
+        if k < 2:
+            f.line(x + w + 3, 215, x + w + gap - 5, 215, color=INK2, width=1.8, arrow=True)
+    f.text(380, 368, t["wall"], size=12.5, color=INK, anchor="middle")
+    f.text(28, 392, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-stands-behind-the-observer")
+def what_stands_behind_the_observer(lang):
+    t = {
+        "en": dict(title="What stands where the word “observer” stands",
+                   sub="A table in the ash: four places in science, what the sentence says and what is actually there.",
+                   head=["the sentence says", "what is there", "an example"],
+                   rows=[("relativity", "since 1905", "an observer\non the platform", "a clock and a ruler",
+                          "four atomic clocks\nin aeroplane seats, 1971"),
+                         ("engineering", "since 1964", "an observer\nof the state", "a formula that works out\nwhat cannot be measured",
+                          "in the computer of the ship\nthat flew to the Moon"),
+                         ("quantum mechanics", "since the 1920s", "the electron\nis observed", "something keeps a trace\nof the path",
+                          "light that went\ninto the wall, 2004"),
+                         ("cosmology", "since 1973", "a universe\nfit for observers", "whoever is there\nto ask the question",
+                          "everybody at a class\nreunion is alive")],
+                   src="In every row the word can be taken out and the thing put in, and not one formula changes.\n"
+                       "The rows are the evening's reading of Einstein (1905), Luenberger (1964), Zeh (1970) and Carter (1973)."),
+        "ru": dict(title="Что стоит там, где стоит слово «наблюдатель»",
+                   sub="Таблица на золе: четыре места в науке, что сказано в предложении и что там на самом деле.",
+                   head=["в предложении сказано", "что там на самом деле", "пример"],
+                   rows=[("теория относительности", "с 1905 года", "наблюдатель\nна перроне", "часы и линейка",
+                          "четверо атомных часов\nв креслах самолёта, 1971"),
+                         ("техника", "с 1964 года", "наблюдатель\nсостояния", "формула, которая вычисляет\nто, чего не измерить",
+                          "в компьютере корабля,\nлетавшего на Луну"),
+                         ("квантовая механика", "с 1920-х годов", "за электроном\nнаблюдают", "что-то хранит след\nпути",
+                          "свет, ушедший\nв стенку, 2004"),
+                         ("космология", "с 1973 года", "Вселенная, пригодная\nдля наблюдателей", "тот, кто оказался на месте\nи задал вопрос",
+                          "на встрече выпускников\nвсе живы")],
+                   src="В каждой строке слово можно вынуть и поставить вещь, и ни одна формула не изменится.\n"
+                       "Строки — прочтение этого вечера: Эйнштейн (1905), Люенбергер (1964), Цее (1970), Картер (1973)."),
+    }[lang]
+    f = Fig(760, 440, t["title"])
+    heading(f, t["title"], t["sub"])
+    bottom = _ash_table(f, t, [222, 376, 560, 736], 84, 68, [INK2, INK2, INK2, INK2])
+    f.text(28, bottom + 24, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("the-movable-line")
+def the_movable_line(lang):
+    t = {
+        "en": dict(title="Where does “what is observed” end and “who observes” begin?",
+                   sub="The line can be drawn after any link of the chain, and the numbers come out the same (von Neumann, 1932).",
+                   links=["the\nmolecule", "a grain\nof light", "the wall,\na counter", "the record", "the eye", "the brain", "“I”"],
+                   first="the stripes go here:\nthe heated molecule, 2004",
+                   last="the popular article\ndraws the line here",
+                   between="between the first link and the last no laboratory has found anything to happen",
+                   open="Not solved: why the molecule lands in one place. That is the measurement problem, and it is open.",
+                   src="A scheme of the argument, not data. The chain is von Neumann's, with the links of the two-slit experiment."),
+        "ru": dict(title="Где кончается «то, за чем наблюдают» и начинается «тот, кто наблюдает»?",
+                   sub="Черту можно провести после любого звена цепочки, и числа выйдут те же (фон Нейман, 1932).",
+                   links=["молекула", "крупинка\nсвета", "стенка,\nсчётчик", "запись", "глаз", "мозг", "«я»"],
+                   first="полосы пропадают здесь:\nнагретая молекула, 2004",
+                   last="популярная статья\nпроводит черту здесь",
+                   between="между первым звеном и последним ни одна лаборатория не нашла, чтобы что-то происходило",
+                   open="Не решено: почему молекула попадает в одно место. Это проблема измерения, и она открыта.",
+                   src="Схема рассуждения, а не данные. Цепочка фон Неймана, со звеньями опыта с двумя щелями."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    f.text(28, 40, t["title"], size=17.5 if lang == "ru" else 19, weight="600")
+    f.text(28, 64, t["sub"], size=13 if lang == "ru" else 13.5, color=INK2)
+    n, bw, bh, y = 7, 82, 54, 150
+    step = (704 - bw) / (n - 1)
+    xs = [28 + i * step for i in range(n)]
+    for i, label in enumerate(t["links"]):
+        f.box(xs[i], y, bw, bh, label, size=12.5, weight="600", stroke=BLUE if i == 0 else INK2)
+        if i < n - 1:
+            gx = (xs[i] + bw + xs[i + 1]) / 2
+            color = GREEN if i == 0 else RED if i == n - 2 else MUTED
+            f.line(gx, y - 22, gx, y + bh + 22, color=color, width=2 if color != MUTED else 1.4, dash="5 4")
+    g0 = (xs[0] + bw + xs[1]) / 2
+    g5 = (xs[5] + bw + xs[6]) / 2
+    f.text(g0 + 8, 104, t["first"], size=12, color=GREEN, weight="600")
+    f.text(g5 - 8, 104, t["last"], size=12, color=RED, weight="600", anchor="end")
+    f.line(g0 + 10, 248, g5 - 10, 248, color=MUTED, width=1.4)
+    f.line(g0 + 10, 242, g0 + 10, 254, color=MUTED, width=1.4)
+    f.line(g5 - 10, 242, g5 - 10, 254, color=MUTED, width=1.4)
+    f.text((g0 + g5) / 2, 270, t["between"], size=12, color=INK2, anchor="middle")
+    f.text(28, 312, t["open"], size=13, color=INK, weight="600")
+    f.text(28, 344, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

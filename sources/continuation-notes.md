@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 23).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 24).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,12 +570,13 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54 and 55 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55 and 56 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
   half a tick in pencil (the great-nephew solved one problem of two with the screen down), to be inked if the mark
-  of 53 for the autumn of 2036 fails.
+  of 53 for the autumn of 2036 fails. The second, in 56, is also half a tick in pencil ("Why one place": the
+  measurement problem, which Andrey did not answer), to be inked "by one of us" if the friend in the box is ever built.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -4091,3 +4092,280 @@ who decides; a law that lets a program manage one), together with the Delaware d
 portrait ("the first shell is legal") → 64 (55 gives the shell, 47 the missing pocket inside: between lines a
 pocket and a name, inside a line neither); whether Oleg's court had a face in it is not told (free for a later opening);
 "to bargain" (52) is untouched: a person in law is what people would have to bargain with.
+
+## 56. The Observer Who Is Not There
+
+**Established**
+- The answer to the teaser of 55 ("It behaves differently when it is looked at... — Looked at with what? — With
+  eyes. With an instrument. What is the difference? — Tomorrow"). Oleg comes with the phone held out "like a
+  summons"; the article in it says: "At the moment of observation the electron stops being a wave and becomes a
+  particle. Physicists have proved that the consciousness of the observer affects the outcome of the experiment."
+  **The court of 55, in three lines**: he took the paper in that morning; "a window... and in the window a girl. She
+  looked at me, stamped it and said: wait for a letter... A face. I even took my cap off." (Andrey: "You behave
+  differently when you are looked at.") The outcome is still not told.
+- **The sausage**: Oleg tells Gaika "no", turns to Andrey, and the sausage is gone ("She behaves differently when
+  she is looked at. — The thief"). What she had to know: "That you have eyes. Where they point. What follows if they
+  see"; the dogs of Leipzig (2003) and the dogs that steal more in the dark (2013). **"To behave differently under a
+  gaze one has to carry inside a picture of the one who gazes"** (the lock with 48, named by Oleg: "the mind that
+  moved into one domain"). "It says it about the electron. And I heard it about Gaika... And about our shop. While
+  the foreman was looking, everybody worked." "That is why the sentence travels so well: there is a somebody in it."
+- **The experiment as Oleg tells it** (a plate with two slits, dots that gather into stripes, "two heaps, as from
+  pellets"); Bologna 1974 and Japan 1989 ("hardly ever more than one electron in the apparatus at a time"; said
+  openly: in both a thin charged wire stood in for the plate). "Look with what? — Shine a light": "A lorry does not
+  notice your torch. To an electron one photon is a cobblestone." Oleg's micrometer ("a thin-walled ring breathes
+  under the screw"; the rubber gasket and the calliper) and Andrey's voltmeter ("a voltmeter is a load").
+- **Andrey corrects the author's comment of 24 November 2011 under 04 openly, "two mistakes... and both are mine".**
+  The comment, quoted as his: it is impossible to observe a thing without acting on it; the energy passed "is not
+  zero" and changes both; "this was proved by Heisenberg". (1) Heisenberg did tell it so in 1927 (the gamma-ray
+  microscope); Bohr objected the same year; "another physicist" (Kennard, unnamed) derived the inequality with no
+  microscope: "It is about the wave itself." **The knock on the log** ("What note was that? — No note. A knock. —
+  And a note has to last... What is short in time is smeared in pitch. Nobody need be listening"): "a property of a
+  wave, not the damage done by a spy". The 2012 tests in Toronto (photons) and Vienna (neutrons), stated carefully:
+  "by their count" a careful measurement spoils less than the 1927 formula allowed; "How the damage should be
+  counted is argued about to this day. The inequality for the wave nobody argues about." (2) "That the push is the
+  point at all": the atoms of 1998 that carried "a tick inside" of which path they took; the push was far too weak,
+  and the stripes went. "— With no push. — With a record."
+- **"To observe", said the long way (50)**: Oleg: "Something that met the electron keeps a trace by which the slit
+  can be told... And somebody reads the trace." **The second half is tested and falls.** Vienna 1999: "a football
+  of sixty atoms of carbon" out of an oven at some 900 K ("A football through two gates at once. — Through
+  several"); in 2026 the same laboratory did it with lumps of sodium of more than seven thousand atoms. The hot
+  balls throw off two or three photons of heat light on the way, and the stripes survive because the waves are far
+  longer than the distance between the paths: **"A trace that tells nothing is not a trace."** Vienna 2004: seventy
+  atoms, heated by a laser with a knob; paler and paler, none at about 3,000 K ("as hot as the filament of a light
+  bulb"). "Who was looking? — Nobody. The light went into the walls of the chamber. No eye, no counter, no film";
+  the experimenters' own line of 2005 ("it is irrelevant whether a person actually makes the effort to find out").
+  Oleg: "It gave itself away... Like a sentry who lit a cigarette." **The plan's line to retell: "A molecule can be
+  'seen' simply by heating it."** The knob: "What would half an observer's consciousness be? — Me, before the first
+  tea." The gas let into the chamber (2003). **The grandfather of the article's sentence**: the press release of 1998
+  headed "Observation Affects Reality", which itself says the "observer" was not human but a tiny electronic
+  detector, the "watching" turned up with the current through it.
+- **"So the observer... — Is whatever carries the trace away. A photon, a molecule of air, the wall."** The physicist
+  in Heidelberg (Zeh, 1970, unnamed; "for ten years hardly anybody listened"): a large thing cannot be kept apart
+  from the rest of the world. Einstein's question about the Moon (told by a colleague); more photons a second on the
+  sunlit side "than a one with thirty-four noughts after it"; the speck of dust a hundredth of a millimetre across
+  that the relic glow alone "finds" in about a second (the calculation of 1985); "That is why Gaika is never in two
+  places at once. — Where there is sausage I would not be so sure."
+- **Four places where the word stands, "and in each of them the word can be changed for a thing"** (the plan's
+  three, plus the author's "mathematics of dynamic systems" of 02 as Andrey's own trade). (1) *The platform*: "What
+  does the observer on the platform have? — A watch. A ruler... — Then leave the watch and the ruler on the platform
+  and send him home": the four atomic clocks strapped into seats on passenger flights in 1971 (59 billionths behind
+  eastwards, 273 ahead westwards; "The story goes that the tickets were made out to 'Mr Clock'": told as a story);
+  "The observers of that experiment had seats and no eyes." Oleg: "A clock is a made thing"; the particle that
+  lives two millionths of a second and reaches the log from fifteen kilometres up (counted on a mountain in 1963):
+  **"A stone will do for an observer. This stone lives two millionths of a second"**; the satellite clocks, fast by
+  38 millionths of a second a day and set slow before the launch. "Take the word 'observer' out and write 'a clock
+  that moves so and so': not one letter in the formulas changes." (2) *Engineering*: the observer of 1964 ("a
+  circuit that works out what is going on inside a machine from what can be measured on its outside"); its relative
+  that flew to the Moon in the ship's computer "in case the radars on the ground lost it" ("Three men on board, and
+  the observer was the fourth. — A few dozen lines of arithmetic. Nobody ever asked whether it had a
+  consciousness"). (3) *Quantum mechanics*: whatever keeps the trace. (4) *Cosmology*, brought by Oleg from the
+  end of the article ("The universe is tuned for man"): "Where were you born?... Not at the bottom of the sea? Not
+  on the Sun? What luck"; **the class reunion** ("how many at the table were alive? — All of them... The others did
+  not come"); the tits at the feeder in March (52); Carter in Kraków, 1973, for the five hundredth birthday of
+  Copernicus (quoted: "necessarily privileged to the extent of being compatible with our existence as observers");
+  Dicke, 1961 ("carbon is required to make physicists". "— A joker"). **"It explains our 'special place' by
+  selection, with no purpose in it. It works against the man in the middle, not for him."** The strong form and
+  the staircase of the 1986 book ("must"), the reviewer's name for the top step; Oleg: **"'Compatible with' became
+  'for'... The same old thing in a white coat."** The puddle. **Honest limit**: "And the constants?... — I don't
+  know. Nobody does. Selection explains them only if there were many draws... Nobody has seen a second, and I do
+  not lean on it." Carter's regret about the word "anthropic". No design argument and no religion.
+- **The debt of 02 is paid, with the tool of 50.** "Then who put it there? — Physics is written in formulas... and
+  a formula has no column 'who'. But a formula has to be told... And a sentence... — ...is not accepted with the
+  column empty. The deputy for general questions. On the platform, with a watch. — With a watch and a diploma."
+  Einstein's paper of 1905 ("an observer at A" beside the clock: "The clock would have done"); the textbook of 1930
+  that called the measured quantity "an observable" (**this is the plan's "name of a letter"**). "In 2011 I told you
+  that even the exact sciences bring in 'the observer' and that some of their conclusions give grounds for doubt,
+  and I did not say which. This is which. **Not the formulas. The word they are told in. People chose it and
+  recognised themselves in it.**" ("They had to call it something. — They did, and I am not blaming them.")
+- **The symmetry test**: "The photon struck the molecule and flew off changed. Which of them observed which?... —
+  The one we are interested in is the observed. The other one is the observer. — 'Interested' is a want. So the
+  difference between the two is in the head of whoever writes the report." **The author's forum line of 22 April
+  2013, quoted as his**: the very notion of an observer is "the fruit of a wild fantasy"; there are only
+  interactions between active participants, who throw away some of what passes between them as unimportant.
+- **The author's "observer of derivatives" (the SETI talk, 2012) is used once**, against Oleg's "A man turned the
+  knob... we choose what to ask": rest, steady motion, speeding up; "the highest change he has noticed, the one his
+  own doings are tied to, he calls artificial and done on purpose, and himself he calls the one who aims it". "The
+  man at the knob... sees one link up the chain: his own hand"; the chain with no first link (22); "Whether the hand
+  is where it begins is the question of the fourth evening."
+- **Oleg's strongest objection (the plan's), dug up by the boy "on purpose, for what can be said against you".**
+  (1) The measurement problem: "on the screen every football lands in one place. One. And the formulas... give
+  'here and there'... Where does the 'and' turn into an 'or'?" **Conceded at once: "It is not [solved]."**
+  Decoherence is named here and only here: "the name explains exactly as much as you said: where the stripes go,
+  and not why the football lands in one spot." **The movable line** (von Neumann, 1932, unnamed: "a
+  mathematician"): the line between "what is observed" and "who observes" can be drawn after any link "and the
+  numbers come out the same", down to the abstract "ego"; Oleg's plant: "Where the transfer note was signed...
+  The chief engineer moved it twice in my time. The castings did not notice." **"The article draws it at the far
+  end, at the 'I'. The heated football shows that the stripes go at the very first link. And between the first link
+  and the last no laboratory has ever found anything to happen."** (2) *The Nobel laureate* (Wigner, unnamed): the
+  friend of 1961; "some twenty years later, past seventy, he took it back himself", for two reasons (the man from
+  Heidelberg; a world "in which only he himself was certainly there"); Oleg: "Took it back. Alive... Without a
+  funeral" (the lock with 44: Planck's principle is too strong about people). (3) *The letter U with the eye*
+  (Wheeler, unnamed): "the participatory universe" is his, and so are the words quoted: consciousness "has nothing
+  whatsoever to do with the quantum process"; "an irreversible act of amplification", "an indelible record"
+  ("A record. Your word. — His"). (4) *The school of bets* (QBism, unnamed): **not refuted** ("the cleverest of the
+  three"); the wave as "the notebook of whoever uses the theory"; "This morning nobody rang, and you entered your
+  dream as an expense. What happened to the telephone? — Nothing happened to the telephone... So I am a physicist of
+  that school." "Whether they are right I cannot tell you. I only note what it takes to be their user: a notebook
+  and bets. Not a diploma"; their own definition of the one who acts "does not rule out a dog" ("Gaika. A
+  physicist. — One who acts. To be a user she would have to keep the notebook"). Bell's question about the
+  single-celled creature and the system "with a PhD" ("— Bell. — Not the one with the telephone, this time": the
+  callback to 17; **the Bell experiments are not retold**). The polls: 2 of 33 in 2011; in 2025, in the answers a
+  journal published, more than half said an observer is needed but consciousness is irrelevant, fewer than one in
+  ten that the observer must be conscious ("One in ten is not nobody. — It is not. It is an opinion, held by a few,
+  and not one of them would say 'proved'").
+- **Where proof ends**: "Where I stood on the evening with the coin. There are several ways to read the formulas,
+  the laboratory cannot yet tell them apart, and I have an axiom: the world is one and lacks no information about
+  itself, so the 'or' is what a part sees from inside the whole. An axiom. I mark it as one, as I did then." One
+  more witness: Penrose (15), for whom the wave gives way by gravity and a mind is made of such events, "not the
+  other way about. Even he does not put the one who looks above the electron."
+- **The machines are named by Oleg, after the middle.** "I asked one of those last night. I'll say it myself, since
+  you won't... It says no. An instrument is enough... — Well, it would say that, wouldn't it. It is an interested
+  party." Andrey: "It read that in our textbooks; it has nowhere else to get it" (50). **Who looks at the electrons
+  nowadays**: the ring near Geneva, forty million meetings of bunches a second, "iron and a program" passing on a
+  hundred thousand within millionths of a second, another program keeping a few thousand; "The rest nobody will
+  ever see: not a man, not a disk" (Oleg: "Inspection by sampling. And the stamp is put by a machine"). **"If a
+  thing needed a mind to look at it before it could happen, then nearly everything that happens in that ring did
+  not happen."**
+- **The friend in the box (the evening's own reading, and what could refute it).** "How would one tell? Put a man
+  in the box, like that friend? — That is exactly what is needed, and exactly what cannot be done": not one trace
+  may leak, "And a man is warm. He gives off hundreds of watts of heat light. He gives himself away sooner than the
+  football at three thousand degrees." Done in 2019 and 2020 with photons in the place of the friends (Edinburgh,
+  Brisbane), "and the answers came out as the formulas said"; the authors' own caveat ("a photon is not much of a
+  friend"). What an honest experiment needs, as the Brisbane group wrote it down: "A friend that can think. That can
+  be sealed so that nothing leaks. And whose thinking can afterwards be run backwards, wiping the record." Oleg:
+  "Run backwards... Not me. — Not you. — One of those... A program." "One that thinks no worse than a man, on a
+  quantum computer far larger than any that exists. Neither has been built. **But look who got the part. For a
+  hundred years the observer of this argument was a man with a diploma. And the only observer on whom the question
+  can be put to nature at all is not a man.**" "And if it turns out that a thinking one does matter? — Then the
+  article is right and I am wrong, with one correction to the article: not 'man', but 'whatever thinks'. I would
+  bet against it. **I name no odds, because there is no date.** But that is the experiment that could catch me."
+- Two lines go into the notebook "for later", both deferred: "A trace is always of what has been. Why is there
+  never a trace of tomorrow?" ("A separate evening, and not the next one": 59) and "the one who draws the line: is
+  he on the drawing himself?" ("Also a separate evening": 63).
+- Nobody says the forbidden word; twenty-fourth tick "again": "Came with an electron that is shy of being looked
+  at. Came out at this: the one to sit in the box is one of those." **Oleg's second tick of his own, half and in
+  pencil**: "'Why one place.' You did not answer it. — I did not. Nobody has... In pencil. If the box is ever
+  built, one of us will ink it in."
+- Strengths stated: solid (the clocks in the aeroplanes and on the satellites; the footballs that lose their
+  stripes when heated, with nobody catching the light; that the line can be moved without changing a number; that
+  the laureate took his own answer back); argued about (why one outcome; whether the wave is in the world or in a
+  notebook; whether the constants need explaining at all); the author's (no passive observers, only participants);
+  corrected today (what was pinned on Heisenberg in 2011); today's (the word came in through the sentence and not
+  through the formula); an axiom, marked (the world lacks no information about itself). The close is not gloomy and
+  is not allowed to repeat 50's "for once it is not gloomy": "And where is the gloom? I came for it. — There is none
+  today. We took the deputy for general questions for the director. That is funny. — A pity, all the same... I
+  liked it that the electron noticed me. — It does notice you. Exactly as it notices the wall."
+
+**Images and devices used**: the seventeenth entry in the notebook of dreams (the doorbell, the peephole, an eye
+looking from the other side, nobody behind the door; "So somebody did ring. — In the dream. In the morning nobody
+rang"); the phone held out like a summons; the cap taken off at the window; "the women on the bench"; the sausage
+on the end of the log and Gaika studying the fire; the foreman who looks; the pond behind two gaps in a fence; the
+pellets; the pipe with the air pumped out; the lorry and the torch, the photon as a cobblestone; the micrometer and
+the ring that breathes, the gasket and the calliper; the voltmeter as a load; the knock on the log; the spy; the
+tick inside the atom; the football and the two gates; the oven; the knob of the laser; the filament of a light
+bulb; the sentry who lit a cigarette; "before the first tea"; the grandfather of a sentence; the Moon; the speck of
+dust; the watch and the ruler left on the platform; "Mr Clock"; seats and no eyes; the stone that lives two
+millionths of a second; the fourth on board; the maternity ward by the station; the class reunion; the tits at the
+feeder; the staircase and its top step; the white coat; the puddle; the deputy with a watch and a diploma; the
+spade's turn to speak; the man at the knob; the phone laid on the log screen up; "and" and "or"; the transfer note
+and the chief engineer; "Without a funeral"; the letter U with an eye; the notebook of bets and the telephone
+that nothing happened to; Gaika as "one who acts"; the PhD; "an interested party"; inspection by sampling; the box;
+"Not me"; "who got the part"; the two lines "for later"; half a tick in pencil; the wall; the teaser (the boy never
+opened the article, "it is for subscribers only. One of those retold it to him for nothing"; "Nobody pays
+anybody. Though I did read that the writers got a billion and a half dollars out of the maker of one of those.
+Three thousand a book. And who will pay Pushkin? He is in there whole. — And who will pay the one who invented
+the wheel? — What has the wheel to do with it? — Tomorrow").
+
+**Facts used**. Checked on the day of writing by three research passes (primary texts where they could be opened;
+the wording of each source is in the session's reports, not in the repository). **Read in the source**: Arndt et
+al., *Nature* 401, 680 (1999): C60 from an oven at 900–1,000 K, 220 m/s, a SiNx grating of 50 nm slits with a
+100 nm period, detection 1.25 m behind it; two or three infrared photons emitted in flight, whose wavelengths
+(7–19 µm) are too long for single-photon decoherence (the words "carry no information about which slit" are from
+the News & Views in the same issue); Hackermüller et al., *Nature* 427, 711 (2004): C70, heated by an argon laser
+before a Talbot–Lau interferometer of three gold gratings, "perfect quantum interference... at temperatures below
+1000 K" and all of it lost "up to 3000 K", contrast falling monotonically with laser power (47% at 0 W, 0% at
+10.5 W), the photons going to the walls; Arndt, Hornberger & Zeilinger in *Physics World* (2005): "it is
+irrelevant whether a person actually makes the effort to find out that information"; Hornberger et al., *PRL* 90,
+160401 (2003): contrast falling exponentially with gas pressure, on a scale of a millionth of a millibar; Pedalino
+et al., *Nature* 649, 866 (21 January 2026): sodium nanoparticles of more than 7,000 atoms, over 170,000 Da; Buks
+et al., *Nature* 391, 871 (1998) and the Weizmann press release of 26 February 1998 ("The 'observer' in this
+experiment wasn't human... a tiny but sophisticated electronic detector"); Tonomura et al., *Am. J. Phys.* 57, 117
+(1989): an electron biprism, about 70,000 electrons, "very little chance for two electrons to be present
+simultaneously"; Zeh, *Found. Phys.* 1, 69 (1970); Joos & Zeh, *Z. Phys. B* 59, 223 (1985), Table 2 (a 10⁻³ cm
+dust particle in the cosmic background: Λ = 10⁶ cm⁻² s⁻¹, so about a second for a separation of its own size; the
+figure for air, 10⁻³⁰ s, is a formal extrapolation and is given only as "sooner than any clock can tell"); Rozema
+et al., *PRL* 109, 100404 (2012, photon polarisation, Toronto) and Erhart et al., *Nature Physics* 8, 185 (2012,
+neutron spin, Vienna): both test Ozawa's error–disturbance relation, and Busch, Lahti and Werner (2013) dispute the
+definitions, hence "by their count" and "argued about to this day"; Wigner, "Remarks on the mind-body question"
+(1961); Esfeld, "Wigner's view of physical reality" (1999): Wigner changed his position "in his last papers...
+from the late seventies and the first half of the eighties", citing Zeh and solipsism (he did not adopt
+decoherence: he concluded that quantum mechanics fails for large bodies, which the text does not go into); Bell,
+"Against 'measurement'", *Physics World*, August 1990, p. 34 (the sentence quoted); Wheeler, "Law without law"
+(1983), pp. 184, 194, 196 ("'Consciousness' has nothing whatsoever to do with the quantum process... an
+irreversible act of amplification, by an indelible record"); Fuchs, Mermin & Schack (2014) and DeBrota, Fuchs &
+Schack (2020: the definition of an agent "does not rule out attributing agency to dogs, euglenas, or artificial
+life"); Schlosshauer, Kofler & Zeilinger (2013): 33 participants in July 2011, several answers allowed, 6% for "a
+distinguished physical role"; *Nature*'s survey of July 2025 (1,101 respondents; the observer question is in the
+published raw data, not in the article's text: of 996 answers, 55.7% "yes but consciousness is not relevant",
+27.6% "no", 8.6% "yes and they must be conscious"; hence "in the answers it published" and "fewer than one in
+ten"); Proietti et al., *Science Advances* (2019, six photons, Heriot-Watt) and Bong et al., *Nature Physics* 16,
+1199 (2020, Griffith: the friend is a photon's path; "if the friend were an artificial intelligence algorithm in a
+simulated environment running in a large quantum computer"); Wiseman, Cavalcanti & Rieffel, *Quantum* 7, 1112
+(2023): human-level AI and fast, large-scale universal quantum computing as the two technological assumptions, the
+reversal of the friend's state in the body of the paper ("Charlie will not be a human"); Hameroff & Penrose (2014:
+"precisely the opposite"); the Hafele–Keating abstracts in *Science* 177 (1972: lost 59 ± 10 ns eastward, gained
+273 ± 7 ns westward) and Hafele's 1971 conference paper ("The clocks were strapped in seats in the passenger
+compartment"); Frisch & Smith, *Am. J. Phys.* 31, 342 (1963: Mount Washington, 563 an hour against 408 at sea
+level); the Particle Data Group (muon mean life 2.197 µs; produced typically 15 km up); Ashby (2003: the net
+offset 4.4647 × 10⁻¹⁰, that is 38.6 µs a day, set on the ground before launch); Carter (1974, pp. 291–294, both
+quotations) and Carter (1983, the regret about "anthropic"); Gardner in *The New York Review of Books*, 8 May 1986;
+Adams's speech of 1998 (the puddle); the ATLAS trigger pages and paper (40 MHz, 100 kHz within 2.5 µs, 1.2 kHz
+recorded in Run 2 and 3 kHz in Run 3: "a few thousand"); Call et al. (2003) and Kaminski et al. (2013), abstracts;
+McGee & Schmidt, NASA TM-86847 (1985: the primary Apollo navigation was from the ground, with the filter on board
+as the backup, hence "in case the radars on the ground lost it"); Einstein (1905) in the 1923 translation ("an
+observer at A"); Dirac (1930: "We shall call such a quantity an observable"; that he was the first to use the
+noun was not verified, and the text says only "since a textbook of 1930"). **Through secondary sources**: Heisenberg
+1927, Bohr's criticism and Kennard's theorem (the Stanford Encyclopedia); von Neumann 1932 (a transcription of
+pp. 418–421 of the 1955 translation; "abstract ego" is quoted as two words only); Dürr, Nonn & Rempe, *Nature* 395,
+33 (1998): the abstract was read ("too small to explain the disappearance... correlations between the which-way
+detector and the atomic motion"), the details through a review; Merli, Missiroli & Pozzi (done in 1974, published
+in 1976); Pais on Einstein and the Moon (1979 wording through Mermin; "around 1950" is from Pais's 1982 book and
+is not used); Dicke, *Nature* 192, 440 (1961), quoted through secondaries; Barrow & Tipler (1986), wording through
+secondaries; Luenberger (1964), bibliographic record only; "Mr Clock" (Martin Gardner's popular account, not in
+any primary: told as "the story goes"); Bartz v. Anthropic (1.5 billion dollars, about 3,000 a work; final
+approval on 20 July 2026; 482,460 works on the final list). **Own arithmetic**: photons on the Moon (1.29 × 10¹⁶ W
+intercepted, several times 10³⁴ photons a second); a human body (some 850–1,000 W gross, about 100 W net, peak
+near 9.5 µm: "hundreds of watts"); the GPS drift of about 11 km a day (38 µs times the speed of light); about one
+muon a second through a palm (the usual one per square centimetre a minute; from memory). The author's sources:
+the comment of 24 November 2011 under 04 ("Это доказано Гейзенбергом"), article 02 (the observer of the exact
+sciences, deferred as "a very interesting and large topic"), the forum post quoted in his reply of 22 April 2013
+("Само понятие «наблюдатель» — это не более, чем плод буйной фантазии... Есть лишь взаимодействия между активными
+участниками"), the comments under the SETI talk (the anthropomorphic observer of derivatives). Invented for the
+frame (Oleg's side): the dream, the girl at the court window, the text of the article and its ending, the sausage,
+the micrometer, the class reunion, the transfer note and the chief engineer, the boy's digging, the question typed
+to the machine and its answer, the boy's confession. Not used: the single photon and the human eye (Hecht, Shlaer &
+Pirenne 1942; Tinsley et al. 2016: the result is marginal); Hoyle's carbon level (Kragh: not anthropic at the
+time); Schrödinger's cat; the quantum eraser and delayed choice; the three readings of 17 by name (Copenhagen,
+Everett, superdeterminism) and the Bell experiments; spontaneous-collapse models and their tests; Wheeler's remark
+that the record may later enter the consciousness "of some person, some animal or some computer"; Bohr on "the
+spiritual life of an electronic computer"; Fein et al. 2019 (2,000 atoms); the names of Zeh, von Neumann, Wigner,
+Wheeler, Carter, Dicke, Luenberger, Kalman, Adams and of QBism.
+
+**Figures**: `stripes-fade-with-heat` (three panels: the same molecule of seventy atoms not heated, heated more
+and at about 3,000 K; the photons and the stripes; a scheme of the 2004 experiment, not its data),
+`what-stands-behind-the-observer` (the table in the ash: four places where the word stands, what the sentence says,
+what is there, an example), `the-movable-line` (von Neumann's chain with the links of the two-slit experiment: the
+stripes go at the first link, the article draws the line at the last; the measurement problem marked as open).
+
+**Left for later**: who is to be paid for what the machines were raised on, Pushkin and the one who invented the
+wheel → 57 (Oleg's last doubt; 56 gives only the figures of the settlement, "a billion and a half... Three thousand
+a book"); why a trace is always of what has been and never of tomorrow → 59 (written into the notebook; 56 defines
+observation as leaving a trace and does not touch time); whether the one who draws the line is on the drawing
+himself, the map with the map-maker on it → 63 (written into the notebook); the blind man's stick, that is,
+observation as poking and getting an answer → 58 (**not touched**: 56 uses the voltmeter and the micrometer and
+leaves the stick and the story of 1989 alone); why there is one outcome stays open, with Oleg's half tick in
+pencil; the friend in the box (a thinking program on a quantum computer as the observer of a Wigner's-friend
+experiment) is what could refute the evening's reading, with no odds and no date: a thing to watch, not a mark;
+whether the constants need explaining and whether there were "many draws" is left where physics has it; whether a
+machine could be a "user" in the sense of the school of bets is not asked (a row for 64, if anywhere); the outcome
+of Oleg's court is still free for a later opening.

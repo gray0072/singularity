@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–55 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `56`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–56 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `57`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–55.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–56.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -398,6 +398,16 @@ articles as closely as possible. In practice:
 | костюм в шкафу | the suit in the wardrobe | why nobody will have to grant rights to machines: to own, to sign a contract, to pay and be paid, to go to court is what a firm has had for four hundred years; "it is enough to put it inside something that has them" (55) |
 | владелец определяет только факт существования | the owner determines only the fact of existence | the author's 2017 line about a plant: one man, a crowd of shareholders or the whole people, the owner decides only that it exists; what it does is determined by everybody it deals with, while each gets something out of it (55) |
 | хакер (прогноз автора 2017 года) | hacker (the author's 2017 forecast) | systems built to keep working, return the investment to the formal owners, keep supplied, widen the paying market and defend against freeloaders; when the owners go one task falls away, the rest stay, and whoever tries to reprogram is taken for a hacker; the precedent is a fund run by a dead man's will, "and a precedent is not a proof" (55) |
+| «смотрят чем?» | "looked at with what?" | Andrey's question to "an electron behaves differently when it is looked at": the sentence has a somebody in it (the dog that takes the sausage when the master turns away, the shop that works while the foreman looks), and the electron knows nothing about eyes (56) |
+| наблюдатель (в физике) | observer (in physics) | not the one who understands but whatever keeps the trace: a clock and a ruler in relativity, a formula in engineering, a photon or a wall in quantum mechanics, whoever is there to ask in cosmology; "people chose the word and recognised themselves in it"; the debt of 02 (56) |
+| след (запись) | trace (record) | what "to observe" comes down to: any meeting after which something in the world keeps a record of what happened, whether or not anybody reads it; "a trace that tells nothing is not a trace"; not to be confused with a mark, the dated forecast (56; why there is never a trace of tomorrow is 59) |
+| молекулу можно «увидеть», просто нагрев её | a molecule can be "seen" simply by heating it | the Vienna experiment of 2004: a molecule of seventy carbon atoms heated by a laser throws off light with shorter and shorter waves, and its stripes fade with the knob; the light goes into the walls and nobody catches it; "what would half an observer's consciousness be?" (56) |
+| участники (наблюдателей нет) | participants (there are no observers) | the author's 2013 line: every gain of information is a physical interaction, so there are no passive observers, only active participants; which of two that met is "the observer" is decided by the want of whoever writes the report (56) |
+| название буквы | the name of a letter | where the anthropocentrism of physics sits: not in nature and not in the equations but in the words the formulas are told in ("an observer", "an observable"); a formula has no column "who", a sentence is not accepted with it empty (50, 56) |
+| проблема измерения («и» и «или») | measurement problem ("and" and "or") | Oleg's strongest objection in 56: the formulas give "here and there", the screen shows one place; decoherence explains where the stripes go, not why there is one outcome; not solved, and Andrey marks his axiom of 17 |
+| подвижная черта | the movable line | von Neumann, 1932: the line between "what is observed" and "who observes" can be drawn after any link of the chain and the numbers come out the same; "The chief engineer moved it twice. The castings did not notice"; the stripes go at the first link, and nothing has been found to happen at the last (56) |
+| отбор без цели (слабый антропный принцип) | selection with no purpose (the weak anthropic principle) | Carter, 1973: our place is privileged only "to the extent of being compatible with our existence as observers", the way everybody at a class reunion is alive; it works against the man in the middle; in the strong form "compatible with" becomes "for", "the same old thing in a white coat" (56) |
+| друг в ящике | the friend in the box | Wigner's friend as an experiment: the observer must be sealed so that no trace leaks and then run backwards; a man is too warm, so the part goes to a thinking program on a quantum computer, neither built yet; "the only observer on whom the question can be put to nature is not a man"; what could refute Andrey's reading (56) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
