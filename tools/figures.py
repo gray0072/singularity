@@ -5835,6 +5835,212 @@ def what_a_forecast_is_made_of(lang):
     return f
 
 
+# --- 60. Science with No One to Understand It ------------------------------------------------------
+
+@figure("eight-noughts-of-forty-six")
+def eight_noughts_of_forty_six(lang):
+    t = {
+        "en": dict(title="Eight noughts of forty-six",
+                   sub="The scale of sizes in metres, logarithmic: every step to the right is ten times larger.",
+                   band="the middle world: felt out with hands and eyes",
+                   marks=[(-19, "what a collider\ntells apart"), (-15, "a proton"), (-10, "an atom"), (-6, "a bacterium"),
+                          (-4, "a hair"), (0.2, "a man"), (3.7, "the horizon"), (7.1, "the Earth"),
+                          (11.2, "to the Sun"), (21, "the Galaxy"), (26.9, "the edge of\nthe visible world")],
+                   axis="noughts: before the one to the left of the middle, after it to the right",
+                   out="All the images to which we reduce a new thing come from the green strip.\n"
+                       "Science calculates along the whole line.",
+                   src="Rounded figures: a hair 0.1 mm, the horizon about 5 km, a collider about 10⁻¹⁹ m, the visible world about 9·10²⁶ m\n"
+                       "across. “The middle world” is a biologist's name for the strip (2005)."),
+        "ru": dict(title="Восемь нулей из сорока шести",
+                   sub="Шкала размеров в метрах, логарифмическая: каждый шаг вправо — в десять раз больше.",
+                   band="средний мир: нащупано руками и глазами",
+                   marks=[(-19, "что различает\nускоритель"), (-15, "протон"), (-10, "атом"), (-6, "бактерия"),
+                          (-4, "волос"), (0.2, "человек"), (3.7, "горизонт"), (7.1, "Земля"),
+                          (11.2, "до Солнца"), (21, "Галактика"), (26.9, "край\nвидимого мира")],
+                   axis="нули: слева от середины — перед единицей, справа — после неё",
+                   out="Все образы, к которым мы сводим новое, взяты из зелёной полосы.\n"
+                       "Наука считает вдоль всей линии.",
+                   src="Округлённые числа: волос 0,1 мм, горизонт около 5 км, ускоритель около 10⁻¹⁹ м, видимый мир около 9·10²⁶ м\n"
+                       "в поперечнике. «Средний мир» — название, которое дал этой полосе один биолог (2005)."),
+    }[lang]
+    f = Fig(760, 380, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y = 70, 700, 200
+
+    def sx(e):
+        return x0 + (x1 - x0) * (e + 19) / 46
+
+    f.rect(sx(-4), y - 16, sx(3.7) - sx(-4), 32, fill=GREEN, r=4, opacity=0.22)
+    f.text((sx(-4) + sx(3.7)) / 2, y - 98, t["band"], size=12.5, color=GREEN, anchor="middle", weight="600")
+    f.line(sx(-4), y - 90, sx(-4), y - 18, color=GREEN, width=1.2)
+    f.line(sx(3.7), y - 90, sx(3.7), y - 18, color=GREEN, width=1.2)
+    f.line(sx(-4), y - 90, sx(3.7), y - 90, color=GREEN, width=1.2)
+    f.line(x0, y, x1, y, color=INK2, width=2)
+    for e in range(-19, 28):
+        big = e % 5 == 0
+        f.line(sx(e), y - (5 if big else 3), sx(e), y + (5 if big else 3), color=INK2 if big else MUTED, width=1)
+    for e in (-15, -10, -5, 0, 5, 10, 15, 20, 25):
+        f.text(sx(e), y + 74, str(abs(e)), size=11, color=MUTED, anchor="middle")
+    f.text(x0, y + 92, t["axis"], size=11, color=MUTED)
+    # side (+1 above the line, -1 below) and level of every label, so that neighbours do not run together
+    place = [(-1, 0), (1, 0), (-1, 0), (1, 0), (1, 1), (1, 2), (1, 1), (-1, 0), (1, 0), (-1, 0), (1, 0)]
+    for (e, label), (side, level) in zip(t["marks"], place):
+        inside = -4 <= e <= 3.7
+        f.circle(sx(e), y, 4, fill=GREEN if inside else INK)
+        lines = label.splitlines()
+        if side > 0:
+            ty = y - 26 - level * 17 - (len(lines) - 1) * 14
+            f.line(sx(e), y - 6, sx(e), ty + (len(lines) - 1) * 14 + 5, color=GREEN if inside else GRID, width=1)
+        else:
+            ty = y + 30
+            f.line(sx(e), y + 6, sx(e), ty - 12, color=GRID, width=1)
+        anchor = "start" if e < -17 else ("end" if e > 25 or e == -6 else "middle")
+        f.text(sx(e) + (6 if e == -6 else 0), ty, label, size=12, color=INK, anchor=anchor)
+    f.text(28, 322, t["out"], size=13, color=INK, weight="600")
+    f.text(28, 362, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("time-to-read-and-time-to-check")
+def time_to_read_and_time_to_check(lang):
+    t = {
+        "en": dict(title="How long a reading takes, and how long a check",
+                   sub="A logarithmic scale of time, from a minute to a century.",
+                   ticks=[(60, "a minute"), (3600, "an hour"), (86400, "a day"), (2.63e6, "a month"),
+                          (3.156e7, "a year"), (3.156e8, "10 years"), (3.156e9, "100 years")],
+                   rows=[("the fastest checking program", "17 million lines, November 2026", 195, "3 min 15 s", 0),
+                         ("the slowest and most careful one", "the same lines", 72.3 * 3600, "3 days", 0),
+                         ("twelve referees on the oranges", "250 pages; “99% certain”, not certified", 4 * 3.156e7,
+                          "4 years", 1),
+                         ("the oranges rewritten for a program", "2003–2014, and then accepted", 11.6 * 3.156e7,
+                          "11 years", 1),
+                         ("the conjecture of 2012", "some 700 pages; still not agreed", 14 * 3.156e7, "14 years", 1),
+                         ("one reader, ten pages a day", "the same 17 million lines as 250,000 pages", 68.5 * 3.156e7,
+                          "68 years", 2)],
+                   legend=["programs", "people", "Oleg's count on the back of the sheet"],
+                   src="The checks: the page of verification files (A. Sutherland, MIT). The oranges: Nature 424 (2003) and the formal proof (2017).\n"
+                       "The last row is an estimate, not a measurement: nobody has tried."),
+        "ru": dict(title="Сколько длится чтение и сколько проверка",
+                   sub="Логарифмическая шкала времени, от минуты до века.",
+                   ticks=[(60, "минута"), (3600, "час"), (86400, "сутки"), (2.63e6, "месяц"),
+                          (3.156e7, "год"), (3.156e8, "10 лет"), (3.156e9, "100 лет")],
+                   rows=[("самая быстрая проверяющая программа", "17 миллионов строк, ноябрь 2026", 195, "3 мин 15 с", 0),
+                         ("самая медленная и придирчивая", "те же строки", 72.3 * 3600, "3 суток", 0),
+                         ("двенадцать рецензентов и апельсины", "250 страниц; «уверены на 99%», не подтвердили",
+                          4 * 3.156e7, "4 года", 1),
+                         ("апельсины, переписанные для программы", "2003–2014, после чего принято", 11.6 * 3.156e7,
+                          "11 лет", 1),
+                         ("гипотеза 2012 года", "около 700 страниц; согласия нет до сих пор", 14 * 3.156e7, "14 лет", 1),
+                         ("один читатель, десять страниц в день", "те же 17 миллионов строк как 250 000 страниц",
+                          68.5 * 3.156e7, "68 лет", 2)],
+                   legend=["программы", "люди", "счёт Олега на обороте листа"],
+                   src="Проверки: страница с файлами проверки (Э. Сазерленд, MIT). Апельсины: Nature 424 (2003) и формальное доказательство (2017).\n"
+                       "Последняя строка — оценка, а не измерение: никто не пробовал."),
+    }[lang]
+    f = Fig(760, 470, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, top, row_h = 330, 720, 96, 46
+    n = len(t["rows"])
+
+    def sx(v):
+        return log_x(v, 60, 3.156e9, x0, x1)
+
+    for v, label in t["ticks"]:
+        f.line(sx(v), top - 6, sx(v), top + n * row_h, color=GRID, width=1)
+        f.text(sx(v), top + n * row_h + 18, label, size=11, color=MUTED, anchor="middle")
+    colors = [BLUE, ORANGE, MUTED]
+    for i, (name, who, v, val, kind) in enumerate(t["rows"]):
+        y = top + i * row_h
+        f.text(28, y + 19, name, size=13, color=INK, weight="600")
+        f.text(28, y + 35, who, size=11, color=MUTED)
+        f.rect(x0, y + 10, max(sx(v) - x0, 3), 20, fill=colors[kind], r=3, opacity=0.55 if kind == 2 else None)
+        if sx(v) > 640:
+            f.text(sx(v) - 8, y + 25, val, size=12, color="#ffffff" if kind != 2 else INK, anchor="end", weight="600")
+        else:
+            f.text(sx(v) + 8, y + 25, val, size=12, color=INK, weight="600")
+    ly = top + n * row_h + 46
+    lx = 28
+    for k, label in enumerate(t["legend"]):
+        f.rect(lx, ly - 10, 14, 12, fill=colors[k], r=2, opacity=0.55 if k == 2 else None)
+        f.text(lx + 20, ly, label, size=12, color=INK2)
+        lx += 40 + len(label) * 7.2
+    f.text(28, ly + 34, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("who-asked-found-checked-understood")
+def who_asked_found_checked_understood(lang):
+    t = {
+        "en": dict(title="Who asked, who found, who checked, who understood",
+                   sub="A table in the ash: the same four questions under five proofs.",
+                   head=["who asked", "who found", "who checked", "who understood"],
+                   rows=[("the root of two is no fraction", "a school proof",
+                          ("a man", 0), ("a man", 0), ("any reader", 0), ("any schoolchild", 0)),
+                         ("the four pencils", "1852 → 1976",
+                          ("a man", 0), ("men cut the cases,\na machine went through them", 1),
+                          ("another program;\nin 2005 a checker", 1), ("why four:\nnobody", 2)),
+                         ("the oranges", "1611 → 1998 → 2014",
+                          ("a man", 0), ("a man, with\nprograms", 0),
+                          ("12 referees: “99%”;\nthen a checker", 1), ("the author\nand a few", 0)),
+                         ("the conjecture of 2012", "14 years",
+                          ("a man", 0), ("a man", 0), ("not agreed;\nthe checker stopped", 2),
+                          ("the author\nand a few", 0)),
+                         ("the Riemann hypothesis", "1859 → November 2026",
+                          ("a man", 0), ("a man led; at the\nfinish, a machine", 1),
+                          ("several checkers, in a day;\nmen read the statement", 1), ("nobody yet", 2))],
+                   legend=["a man", "a man and a machine", "nobody, or not agreed"],
+                   src="The evening's reading, not a measurement. The last row as it stood on 28 November 2026: the short version of the proof says\n"
+                       "“no mathematician has read it through”."),
+        "ru": dict(title="Кто спросил, кто нашёл, кто проверил, кто понял",
+                   sub="Таблица на золе: одни и те же четыре вопроса под пятью доказательствами.",
+                   head=["кто спросил", "кто нашёл", "кто проверил", "кто понял"],
+                   rows=[("корень из двух не дробь", "школьное доказательство",
+                          ("человек", 0), ("человек", 0), ("любой читатель", 0), ("любой школьник", 0)),
+                         ("четыре карандаша", "1852 → 1976",
+                          ("человек", 0), ("случаи нарезали люди,\nперебрала машина", 1),
+                          ("другая программа;\nв 2005-м — проверяющая", 1), ("почему четыре:\nникто", 2)),
+                         ("апельсины", "1611 → 1998 → 2014",
+                          ("человек", 0), ("человек,\nс программами", 0),
+                          ("12 рецензентов: «99%»;\nпотом проверяющая", 1), ("автор\nи немногие", 0)),
+                         ("гипотеза 2012 года", "14 лет",
+                          ("человек", 0), ("человек", 0), ("согласия нет;\nпроверяющая встала", 2),
+                          ("автор\nи немногие", 0)),
+                         ("гипотеза Римана", "1859 → ноябрь 2026",
+                          ("человек", 0), ("вёл человек,\nу финиша — машина", 1),
+                          ("несколько программ за сутки;\nформулировку читали люди", 1), ("пока никто", 2))],
+                   legend=["человек", "человек и машина", "никто или нет согласия"],
+                   src="Прочтение этого вечера, а не измерение. Последняя строка — по состоянию на 28 ноября 2026 года: в короткой версии\n"
+                       "доказательства сказано: «ни один математик не прочёл его целиком»."),
+    }[lang]
+    f = Fig(760, 478, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [200, 290, 432, 600, 736]
+    top, head_h, row_h = 84, 30, 60
+    colors = [GREEN, BLUE, RED]
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 20, label, size=12, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, *cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(28, y, cols[-1], y, color=GRID, width=1.2)
+        f.text(34, y + row_h / 2 - 3, name, size=13, color=INK, weight="600")
+        f.text(34, y + row_h / 2 + 14, who, size=11, color=MUTED)
+        for k, (cell, kind) in enumerate(cells):
+            cx = (cols[k] + cols[k + 1]) / 2
+            lines = cell.split("\n")
+            y0 = y + row_h / 2 + 5 - (len(lines) - 1) * 8
+            for j, line in enumerate(lines):
+                f.text(cx, y0 + j * 16, line, size=11.5, color=colors[kind], anchor="middle", weight="600")
+    bottom = top + head_h + len(t["rows"]) * row_h
+    f.line(28, bottom, cols[-1], bottom, color=GRID, width=1.2)
+    lx = 28
+    for k, label in enumerate(t["legend"]):
+        f.circle(lx + 6, bottom + 22, 5, fill=colors[k])
+        f.text(lx + 18, bottom + 26, label, size=12, color=INK2)
+        lx += 44 + len(label) * 7.2
+    f.text(28, bottom + 54, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

@@ -140,8 +140,9 @@ Claude Opus 5.5, which wrote 16–32.
 | 57 | Dividends for the Wheel | [en](en/57-dividends-for-the-wheel.md) | [ru](ru/57-dividends-for-the-wheel.md) |
 | 58 | The Blind Man's Stick | [en](en/58-blind-mans-stick.md) | [ru](ru/58-blind-mans-stick.md) |
 | 59 | A Memory of Tomorrow | [en](en/59-memory-of-tomorrow.md) | [ru](ru/59-memory-of-tomorrow.md) |
+| 60 | Science with No One to Understand It | [en](en/60-science-with-no-one-to-understand.md) | [ru](ru/60-science-with-no-one-to-understand.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–59 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 60. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–60 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 61. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 

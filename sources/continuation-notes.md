@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 27).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 28).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 and 59 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59 and 60 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -5026,3 +5026,207 @@ the rest of the promised series "outside of time" (Parmenides, the reflection eq
 "memory and forecast" for the portrait (more traces, a better rule, the same ceiling, a letter without a date) →
 64; things to watch, not marks: Oleg's notebook of dreams (the wager of 39, now also the stated refutation of 59);
 the outcome of Oleg's court is still free for a later opening.
+
+## 60. Science with No One to Understand It
+
+**Established**
+- The answer to the teaser of 59 ("a machine has proved a theorem... Who checked it? — Another machine. — And who
+  understood it?"). Oleg comes with a printed sheet folded in four; the chicken of 59 was "roast, with garlic. As
+  remembered. Only she put potatoes round it, and those I had not remembered" ("Roughly, then"). **The news is real
+  and dated by the day of writing**: on 20 November 2026 a mathematician at a maker of talking machines put out a
+  proof of the Riemann hypothesis as about 17 million lines for a checking program (Lean; no names in the dialogue);
+  on 21 November the keepers of the program wrote "We have full confidence that the proof is correct"; a
+  mathematician of the same week: exceedingly likely to be correct, and "no human understands it yet". Oleg's
+  position: "a proof is when I am shown, and I see. If nobody saw, it is not a proof. It is a rumour with a stamp".
+- **The rule of the cycle is kept by a detour**: Oleg names the machines at the start, and Andrey puts the sheet
+  "under the stone for an hour" ("You named them, not I"); the sheet comes back past the middle.
+- **To understand, by Socratic descent.** The current in a wire: "like water in a pipe", so "like light"; in fact
+  the electrons crawl a fraction of a millimetre a second, and in an alternating current "shake on the spot" (the
+  pipe full of peas). "When the teacher said 'like water in a pipe', what did you feel? — 'Ah.' It became clear. —
+  And for fifty years it was clear. With a wrong answer inside." **The "ah" is "a bell. It rings when a new thing
+  lies down on an old one"**: the author's line of 15 (understanding is the perception of an image, the signal
+  "image recognised") and the cashier of 36 and 41; "she does not check what she pays for".
+- **The middle world** (the plan's Dawkins, unnamed: "a biologist"): the old images come from the stick of 58;
+  from a hair to the horizon is about eight noughts, and science reckons along about forty-six. The electron of 56
+  is neither picture; Feynman's sentence of 1964 (unnamed) and the electron's magnet measured in 2023 to the
+  twelfth figure: **"With no bell. — For a hundred years."** **"Two different things, then. The check, and the
+  'ah'. They used to come in one envelope, and we took them for one."**
+- **Mathematics, where "there is no tomorrow"**: a proof is the "ah" step by step, one thought at a time (03);
+  "and if there are more steps than a life has days?" **The four pencils** (the great-nephew's contour maps): asked
+  in 1852, answered in 1976 with nearly two thousand cases and about 1,200 hours of machine time; "applauded
+  politely"; Thurston (unnamed) on what the quarrel was about; in 1996 four others gave up checking it and made
+  their own with 633 cases, again for a machine; "Why four and not five? — Because in six hundred and thirty-three
+  cases it came out so. — That is the whole 'why' there is. Fifty years this year."
+- **The oranges** (Kepler, 1611; Hales, 1998, unnamed): 250 pages and three gigabytes, a dozen referees, four
+  years, "ninety-nine per cent certain", and the editor's letter that they "had run out of energy"; Deligne's "I
+  believe in a proof if I understand it" (unnamed) is Oleg's sentence. The author then rewrote his own proof for a
+  checking program, 2003–2014: "the question was closed. Not by the twelve."
+- **The template** (Oleg's of 1984, from 57; he says the word himself): the inspector "had no idea how the casting
+  was poured... He needed to know the template. And the drawing." The accepting part of a checker is a few hundred
+  lines (2014) to a few thousand (2026): **"Understanding has not gone anywhere: it has moved from the casting to
+  the template."** Said honestly: a template can be filed wrong (the same man found a hole in 2003; several holes
+  in the summer of 2026, through one of which went "a short false proof... of his own theorem about the oranges";
+  mended; found by machines set to look); several templates by different hands; two carry a proof that they pass
+  nothing false, "checked, yes, by a template. That is a circle" → 63. **The drawing is the weak place and a man
+  reads it** (Fermat's theorem written with nought let in: "The program does not blush").
+- **The sheet again.** Printed, the 17 million lines pass 250,000 pages (the author's own footnote); Oleg's
+  arithmetic: ten pages a day, sixty-eight years. The first theorem begins with "if a number is not equal to one
+  half, then it is either greater or less". One checker took three and a quarter minutes, the most careful three
+  days. **The second half of that Friday**: a 940-page proof by a man, "all human", with possible problems reported
+  within hours: "of the two, the one written to be understood is doubted. And the one nobody understands is
+  believed. — For the first of them people had to be the template." The man who led the first "is presenting the
+  world with a complete argument before having mastered it". Fermat's theorem written out for the template in
+  September 2026 (13 million lines, eleven days): "it checks out", and "mathematically this tells us essentially
+  nothing". A mathematician thanked in the announcement: the object of mathematics is the question "why?", "and
+  this does not answer it at all" — "And he is right. — About what mathematicians want."
+- **The exposure: "understandable" is a property of a pair.** The proof of 2012 (Mochizuki, unnamed): by a man, for
+  men, not agreed on in fourteen years; the July 2026 report of the group that tried to write it for the template.
+  "Computable by whom? Knowable by whom?" (15); the "open" of 59; "The weed. Again."
+- **The measuring-system rule of 03 applied to explanations** (the plan's): Gaika's injection, "a thunderstorm in
+  the shape of the master"; "'Walk' I can explain. 'Encephalitis', no"; **"an explanation from a mind above yours
+  either lies down on your images, with losses... or does not lie down at all. Then it is not an explanation for
+  you. It is a phenomenon of nature."** The 17 million lines are being studied "the way a geologist studies a rock...
+  the rule of the first autumn, come true in one week".
+- **Oleg's first strong objection**: five days later the proof was 300,000 and then 76,000 lines; "They will chew
+  it, and in a year there will be a textbook." Conceded as "your best card" ("not a life, a hard year"). **Shortness
+  is partly a task and partly our way** (46): we squeeze because a long thing does not go into the head or through
+  the straw of 45; Oleg corrects himself with 59 ("a short rule works outside the yard... My dream book is long.
+  The law of the lever is short"); "To squeeze is a task for any mind... To squeeze down to our head is our way.
+  The heir will squeeze too. To its own pot" (53); the compressed signal of 29; "Short for whom?"
+- **Outside mathematics**: the weather network of 59 has been looked into (features for cyclones, the daily round,
+  sea ice; "largely unknown"); the proteins of 16 (over 200 million shapes against about 190 thousand from
+  experiment; "it predicts the fold and not the folding").
+- **The debt of 39 is paid: three examiners.** The template (only where there is a drawing); tomorrow ("the stick,
+  and it moves at the speed of the world"); another machine: "with the third we are the ant... The first two
+  examiners are still in our hands. That is what I would watch, and not who understood."
+- **Against himself**: the chess notions taken out of a self-taught program and taught to four world champions
+  (2025); "look at the sieve": only what could be taught passed, and the authors call it a proof of concept.
+- **The split** (the plan's piece): "Which half does the bridge pay for? — The first. — Which did the
+  mathematicians love? — The second... To predict, a man had to understand: he had no other way. Now there is one."
+  Understanding stays "as music. As chess after 1997"; the university rule of November 2026 (no weight to written
+  work without evidence that the authors understand it) is a receipt of 41: "They are guarding the trade. — They
+  are guarding what they love. I do not laugh at it."
+- **The debt of 53 and 57 (the shares in what a pair has found)**, counted as in 12 by five questions: who asked
+  (Riemann), who chose and led (a man), who found the road at the finish ("by his own words, that one"), who
+  checked (the templates; people read the drawing), who understood (nobody yet). "Under the four pencils of 1976
+  the last line was empty too, so the empty line is not the news... Under your sheet the line 'who found' has
+  changed hands."
+- **Oleg's strongest objection is the plan's (Deutsch, unnamed; his second book, retold by the great-nephew; the
+  author read the first with a reader in 2013)**: man is over a threshold, a universal explainer; paper and time;
+  "there is only 'not yet'". **Conceded in principle** ("I shall not break it"). The answer is the two
+  computabilities of 15 ("the one in principle, and the one in time for supper"), the straw and the common part of
+  53, and: "who is the universal explainer there: the man, or the pair?" (Oleg: the pair; but "with the screen
+  down, afterwards, the man can tell it" — "Then he has, and it is his"). **"I do not say there is a wall. I say
+  there is a price, and a queue"**: 722 machine-written papers in one month. "Your physicist is right about every
+  single proof. I am speaking of the stream."
+- **The planned mark is declared late**: "that by the autumn of 2031 science will accept a result whose derivation
+  no man has read through. I am late. It happened last Saturday."
+- **The mark of 30 (a Millennium Prize Problem solved mainly by a machine by the autumn of 2036, one in two) is
+  named and NOT ticked**: the prize's rules (publication, two years, general acceptance) and "mainly by a machine"
+  ("a man led it") are still to be weighed; "it goes into the list as it is". Said now: "I gave it ten years and
+  even odds. If it stands, it took a few months, and I was not bold. I was timid again."
+- **Two new marks for the autumn of 2031.** (1) Andrey's: at least one of the old journals of the first rank will
+  be printing theorems whose proofs its referees did not read (they read the statement, the checker reads the
+  rest), three to one. (2) "For your physicist, and I put it against myself": the proof of November 2026 will have
+  an account written for people of which those in the field say "we understand why", two to one that it will. "If
+  both come true... we are both right, and that is the likeliest. One proof gets chewed. The queue grows."
+- Nobody says the forbidden word; twenty-eighth tick "again": "Came with a sheet, to find out who understood. Came
+  out at this: understanding is what is left to us of science. As a hobby."
+- Strengths stated: solid (the four pencils and the oranges; the twelfth figure; the news, "read in the statement
+  of the checkers and on the page where the checks are listed"; the holes in the template); told by a newspaper
+  and not read in the original (the problems in the human proof); argued about (how much can be got out of a
+  network and taught); the author's (understanding as the perception of an image; the rule of the ant); today's
+  (the template in place of the "ah"; the three examiners; shortness as partly a task and partly our way, "the
+  last I cannot divide cleanly"). **What would refute it**: if without "why" the calculating stops ("those who do
+  not understand begin to be wrong where those who understand were not"), or if the queue is chewed as fast as it
+  grows.
+- The lock with 28 and 30, in the closing lines: "nobody is taking your 'ah' away... It is the one thing in this
+  story that nobody else needs. — So what have we been doing here, sixty evenings? — Understanding. — Production?
+  — None."
+- **A declared interest is written into the footer** (both languages): the proof of the Riemann hypothesis and the
+  formal proof of Fermat's theorem were made with models of Anthropic, the maker of the model that wrote the
+  evening; the news is told from the checkers' statement and the pages of those who repeated the checks. No company
+  or person is named in the dialogue.
+
+**Images and devices used**: the twenty-first entry in the notebook of dreams (the pay office: a sealed envelope,
+"Counted. Do not open. Sign"; nobody rang), which returns once ("in one envelope"); the letter box, "Empty"; the
+sheet folded in four, under the stone for an hour, and Oleg's sum on its back; water in a pipe and the pipe full of
+peas; the bell and the cashier; puddles, the tap, the pump in the yard; from a hair to the horizon; "eight out of
+forty-six"; the twelfth figure; four pencils and the contour map; oranges in a pyramid; "one per cent left over";
+the template and the drawing; "they sent him his own casting. Through a hole in the template"; "the program does
+not blush"; sixty-eight years with no Sundays; "to understand his own proof"; Gaika's injection, treachery and
+weather; "walk" and "encephalitis"; the geologist and the rock; the dream book and the law of the lever; "short
+for whom?" ("everything of yours ends in 'for whom'"); three examiners; the sieve; the bridge that pays; the
+receipt; five questions and the line that changed hands; tape longer than a life; "a price, and a queue"; the
+teaser (the flag, "somebody has to stand on the spot", the reddish star: "Is anybody there now? — Yes. — People?
+— No people").
+
+**Facts used**. **Read in the source on the day of writing** (28 November 2026; fetched pages, text extracted):
+the joint statement of the Lean FRO and the Mathlib Initiative, 21 November 2026 (17 million lines; "full
+confidence"; the four criteria; checkers "implemented in different programming languages", two of which "come with
+a formal proof... that they cannot accept a false proof"); A. Sutherland's page of verification files (175,187
+files, 17,374,215 lines; con-leche 3 min 15 s on 64 threads; Lean's default kernel 48 h and its paranoid kernel
+72 h 20 min on one thread); L. Alpöge's four-page remark (working with Claude; "Claude far outpaced me near the
+finish line"; "presenting the world with a complete argument before having mastered"; the print-out that "hit
+250,000+ pages"; Theorem 1 and the totally ordered reals; "it will be massively simplified"; the people thanked);
+the README of the shorter version (about 300,000 and about 76,000 lines; "passed machine checks only... No
+mathematician has read it through"); T. Tao's post of 20 November 2026 ("an (enormous) Lean-only proof"; the
+Navier–Stokes results of the same day are not used); Quanta's updates of 20 and 24 November 2026 (the 940-page
+manuscript "all human, with no AI", uploaded the same day by the president of the AMS; number theorists
+"withholding judgement"; Radziwill's "the question 'why?'"; the Johns Hopkins criteria; mathematicians
+reverse-engineering the Lean code with AI); The Conversation, 23 November 2026 (Litt's two points; "potential
+problems had been found within hours": secondary); K. Buzzard's posts of 4 September 2026 (Fermat's Last Theorem,
+over 13.4 million lines in 11 days, "it checks out", "mathematically this work... tells us essentially nothing")
+and of 12 November 2026 (the mis-stated Fermat with ℕ containing 0; 722 papers in one dump, about 45% with Lean,
+three of the others retracted for a sign error); T. Hales's guest post of 9 October 2026 (the HOL Light bug of
+2003, a kernel of "a few hundred lines"; the Lean kernel "several thousand lines"; the "Summer of Soundness Bugs"
+and the "short illicit proof of the Kepler conjecture"; "detected by frontier model AI in the hands of security
+researchers"); the Clay Institute's rules (qualifying outlet, two years, general acceptance); Schut et al., *PNAS*
+2025 (abstract, through PMC: teachability and novelty filters, four world champions, "proof of concept");
+MacMillan & Ouellette, arXiv 2512.24440 (abstract); Chen et al., "Protein folds vs. protein folding", *PNAS* 2022
+(through PMC: "this is not folding prediction"; "we know how it ends, but we don't know why"); the abstract of
+arXiv 2605.20695 (not used). **By a research pass, with its own marks**: Appel and Haken (about 1,200 hours; 1,936
+configurations in the 1976 preprints and 1,482 in print, hence "nearly two thousand"; the polite applause, after
+R. Wilson); Robertson, Sanders, Seymour & Thomas (633 configurations; "tried to verify the Appel–Haken proof, but
+soon gave up"); Thurston, *Bull. AMS* 30 (1994), read in the PDF; Szpiro, *Nature* 424, 12 (2003), read directly
+(250 pages, three gigabytes, a dozen referees, four years; "99% certain" is Szpiro's paraphrase of Fejes Tóth's
+report of July 2002, not a quotation; the editor's "run out of energy"; Deligne's sentence); Hales et al., *Forum of
+Mathematics, Pi* 5 (2017), 22 authors, Flyspeck January 2003 – August 2014; Mochizuki (August 2012; PRIMS 57
+(2021), about 720 pages; Scholze and Stix, 2018) and the interim report of Project LANA, July 2026 ("did not
+conclude that IUT theory is wrong"; "a point where a proof is not fully written"; no complete consensus);
+Feynman, Messenger Lectures 1964, lecture 6; Fan et al., *PRL* 130 (2023), 0.13 parts per trillion; DeepMind's
+post of 28 July 2022 (over 200 million structures; about 190,000 in the Protein Data Bank). **From the writer's
+memory, not re-read**: the drift speed of electrons in a household wire (a fraction of a millimetre a second);
+Guthrie and the counties of England, 1852; the sizes on the scale (a collider at about 10⁻¹⁹ m; the visible world
+about 9·10²⁶ m across; the horizon at about 5 km); Deutsch's "universal explainer" (*The Beginning of Infinity*,
+2011; the research pass found the claim only in an excerpt, so it is retold and not quoted); Dawkins's "Middle
+World" (TED, 2005; the link was checked, the wording was not); that the statement of the Riemann hypothesis in the
+library is short. **Computed**: 250,000 pages at ten a day ≈ 68.5 years; 76,000 lines ≈ 1,100 pages at the ratio
+of the full version (about 70 lines a page), "by my own rough measure". The author's sources: article 15
+("Достижение понимания — это просто восприятие образа"; сигнал «образ распознан»; "Пощупать математические истины
+непосредственно, «мимо образов» мы не можем"; "вычислимо КЕМ?"); article 03 (the measuring-system rule: "поведение
+со степенью логичности, выходящей за пределы собственной логичности человека, будет оценено человеком как просто
+нелогичное"); the 2013 reading of Deutsch's *The Fabric of Reality* on the forum. Invented for the frame (Oleg's
+side): the dream, the sheet, the potatoes, the great-nephew's contour maps and his retelling of the book, Gaika's
+injection. Not used: Haldane's "queerer than we can suppose", Tymoczko (1979), Halmos, the daughters who checked
+the microfiche, Gonthier's Coq proof by name, the classification of finite simple groups and its formal proof
+announced in 2026, the Erdős problems and the unit-distance disproof of May 2026 (it was digested by people within
+days: a case for Oleg's side that the evening does not need twice), the Navier–Stokes claims of 2026, the IMO
+results, the Leiden Declaration and Hexagon, the names of all people and companies.
+
+**Figures**: `eight-noughts-of-forty-six` (the scale of sizes with the strip from a hair to the horizon),
+`time-to-read-and-time-to-check` (a logarithmic scale of time: two checkers, the twelve referees, the rewriting of
+the oranges, the conjecture of 2012, one reader), `who-asked-found-checked-understood` (the table of five proofs).
+
+**Left for later**: why only machines are on Mars, and whether "somebody has to stand on the spot" → 61 (Oleg's
+last doubt: "Calculating is theirs. But going there, seeing with one's own eyes, sticking in a flag: that is
+ours"; the teaser ends on the plan's epigraph); who checks the checker, the template checked by a template → 63
+("That is a circle, and it has an evening of its own: the map with the map on it"; 60 establishes the certificate
+that the plan's 63 lets Oleg use, and says where it exists: only where there is a drawing; that no template exists
+for wants is not said here); a row "knowledge" for the portrait (squeezes to its own pot; examined by the
+template, by tomorrow and by its own kind; an explanation that is weather to us) → 64; the two marks of 60 for the
+autumn of 2031, to be checked with the list of 30 and the marks of 53 → 67; **the mark of 30 on a Millennium
+Prize Problem must be weighed at the check** (the proof of 20 November 2026: the prize's rules, and how much of
+it was the man's); things to watch, not marks: which of the three examiners is at work, and how long the queue of
+checked and unread results is; whether the 940-page proof stands is not followed; the outcome of Oleg's court is
+still free for a later opening.

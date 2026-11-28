@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–59 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `60`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–60 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `61`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–59.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–60.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -443,6 +443,18 @@ articles as closely as possible. In practice:
 | письмо, которое не знает, когда его вскроют | a letter that does not know when it will be opened | a talking machine asked what year it is with nothing to look at: its records break off at some day, so it has "an excellent yesterday and a guess about today" until it is given a stick (58, 59) |
 | следы мои, а память о моём завтра — у них | the traces are mine, and the memory of my tomorrow is theirs | the bank's program that put Oleg's tomorrow together from thirty years of his bills, better than he did; whoever has more traces and a better rule remembers tomorrow further, "and today that is no longer us" (59) |
 | гипотеза прошлого (фабрика) | the past hypothesis (the factory) | the count of ways alone gives no direction (Loschmidt's objection, 1876): the direction comes from one fact added to it, that at one end the deck lay by suits; named in 2000; Penrose's one part in ten to the power of ten to the power of 123; "there it lies for everybody: nobody knows" (59) |
+| звонок («а-а») | the bell (the "ah") | the feeling of having understood: the signal "image recognised" (the author, 15), paid when a new thing lies down on an old image; "she does not check what she pays for": current "like water in a pipe" rang for fifty years "with a wrong answer inside" (60) |
+| средний мир | the middle world | a biologist's name (2005) for the strip of sizes and speeds that hands and eyes have felt out, "from a hair to the horizon": about eight noughts of the forty-six along which science calculates; all our old images are from there, "because the stick did not reach further" (58, 60) |
+| проверка и «а-а» в одном конверте | the check and the "ah" in one envelope | the two things a science seemed to stand on; quantum mechanics has gone a hundred years with the first and without the second ("with no bell", to the twelfth figure); "they used to come in one envelope, and we took them for one" (60) |
+| шаблон (проверяющая программа) | the template (a checking program) | Oleg's template of 1984 (57) turned on proofs: the inspector need not know how the casting was poured, only the template and the drawing; the part of a proof checker that says "accepted" is a few hundred to a few thousand lines, which a man can read: "understanding has not gone anywhere: it has moved from the casting to the template"; it can be filed wrong (the holes of 2003 and of the summer of 2026), so several are used (60) |
+| чертёж (формулировка) | the drawing (the statement) | what the template measures against, and the weak place: "whether the drawing is of the part that was ordered, it does not know"; a man reads it (Fermat's theorem written with nought let in); "the program does not blush" (60) |
+| «понятное» — свойство пары | "understandable" is a property of a pair | not of a truth but of a truth and a head: the oranges are understandable to their author, to twelve referees to 99 per cent, to Oleg not, to Gaika not; the proof of 2012, by a man for men, not agreed on in fourteen years; the author's "computable by whom? knowable by whom?" (15) and the "open" of 59 (60) |
+| объяснение как явление природы | an explanation as a phenomenon of nature | the measuring-system rule of 03 applied to explanations: one from a mind above ours either lies down on our images with losses or is not an explanation for us at all; Gaika's injection, "a thunderstorm in the shape of the master"; the seventeen million lines studied "the way a geologist studies a rock" (60) |
+| сжимать — задача, до нашей головы — способ | to squeeze is a task, to squeeze to our head is a way | the task and the way of 46 applied to the shortness of a theory: what is squeezed reaches further (59), so any mind squeezes; the size it squeezes to is its own pot (53); "short for whom?" (60; the compressed signal of 29) |
+| три экзаменатора | three examiners | who examines a machine when we cannot follow it (the debt of 39): the template (only where there is a drawing), tomorrow (the stick, "at the speed of the world") and another machine; "with the third we are the ant"; the first two are still in our hands: "that is what I would watch, and not who understood" (60) |
+| наука расходится надвое | science comes apart | "is it true" and "what will happen" go to whoever calculates better; "why" stays with people "as music", a pleasure and not production; while both lived in one head, to predict one had to understand, "now there is another way" (60) |
+| цена и очередь | a price and a queue | Andrey's answer to the universal explainer: "I do not say there is a wall. I say there is a price, and a queue": every single proof can in principle be chewed, the stream (722 machine-written papers in one month of 2026) cannot; the two computabilities of 15, "in principle" and "in time for supper" (60) |
+| универсальный объяснитель | universal explainer | a physicist's claim (2011): whoever can build explanations can in principle understand anything explicable, given paper and time; conceded in principle in 60, and asked back: "who is the universal explainer there: the man, or the pair?" (the screen down, 53) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

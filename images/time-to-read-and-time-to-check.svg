@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>How long a reading takes, and how long a check</title>
+
+<rect x="0.5" y="0.5" width="759" height="469" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">How long a reading takes, and how long a check</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">A logarithmic scale of time, from a minute to a century.</text>
+<line x1="330.0" y1="90.0" x2="330.0" y2="372.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="330.0" y="390.0" font-size="11" fill="#8a8985" text-anchor="middle">a minute</text>
+<line x1="419.8" y1="90.0" x2="419.8" y2="372.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="419.8" y="390.0" font-size="11" fill="#8a8985" text-anchor="middle">an hour</text>
+<line x1="489.5" y1="90.0" x2="489.5" y2="372.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="489.5" y="390.0" font-size="11" fill="#8a8985" text-anchor="middle">a day</text>
+<line x1="564.5" y1="90.0" x2="564.5" y2="372.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="564.5" y="390.0" font-size="11" fill="#8a8985" text-anchor="middle">a month</text>
+<line x1="619.0" y1="90.0" x2="619.0" y2="372.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="619.0" y="390.0" font-size="11" fill="#8a8985" text-anchor="middle">a year</text>
+<line x1="669.5" y1="90.0" x2="669.5" y2="372.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="669.5" y="390.0" font-size="11" fill="#8a8985" text-anchor="middle">10 years</text>
+<line x1="720.0" y1="90.0" x2="720.0" y2="372.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="720.0" y="390.0" font-size="11" fill="#8a8985" text-anchor="middle">100 years</text>
+<text x="28.0" y="115.0" font-size="13" fill="#0b0b0b" font-weight="600">the fastest checking program</text>
+<text x="28.0" y="131.0" font-size="11" fill="#8a8985">17 million lines, November 2026</text>
+<rect x="330.0" y="106.0" width="25.9" height="20.0" rx="3" fill="#2a78d6"/>
+<text x="363.9" y="121.0" font-size="12" fill="#0b0b0b" font-weight="600">3 min 15 s</text>
+<text x="28.0" y="161.0" font-size="13" fill="#0b0b0b" font-weight="600">the slowest and most careful one</text>
+<text x="28.0" y="177.0" font-size="11" fill="#8a8985">the same lines</text>
+<rect x="330.0" y="152.0" width="183.7" height="20.0" rx="3" fill="#2a78d6"/>
+<text x="521.7" y="167.0" font-size="12" fill="#0b0b0b" font-weight="600">3 days</text>
+<text x="28.0" y="207.0" font-size="13" fill="#0b0b0b" font-weight="600">twelve referees on the oranges</text>
+<text x="28.0" y="223.0" font-size="11" fill="#8a8985">250 pages; “99% certain”, not certified</text>
+<rect x="330.0" y="198.0" width="319.4" height="20.0" rx="3" fill="#eb6834"/>
+<text x="641.4" y="213.0" font-size="12" fill="#ffffff" text-anchor="end" font-weight="600">4 years</text>
+<text x="28.0" y="253.0" font-size="13" fill="#0b0b0b" font-weight="600">the oranges rewritten for a program</text>
+<text x="28.0" y="269.0" font-size="11" fill="#8a8985">2003–2014, and then accepted</text>
+<rect x="330.0" y="244.0" width="342.7" height="20.0" rx="3" fill="#eb6834"/>
+<text x="664.7" y="259.0" font-size="12" fill="#ffffff" text-anchor="end" font-weight="600">11 years</text>
+<text x="28.0" y="299.0" font-size="13" fill="#0b0b0b" font-weight="600">the conjecture of 2012</text>
+<text x="28.0" y="315.0" font-size="11" fill="#8a8985">some 700 pages; still not agreed</text>
+<rect x="330.0" y="290.0" width="346.9" height="20.0" rx="3" fill="#eb6834"/>
+<text x="668.9" y="305.0" font-size="12" fill="#ffffff" text-anchor="end" font-weight="600">14 years</text>
+<text x="28.0" y="345.0" font-size="13" fill="#0b0b0b" font-weight="600">one reader, ten pages a day</text>
+<text x="28.0" y="361.0" font-size="11" fill="#8a8985">the same 17 million lines as 250,000 pages</text>
+<rect x="330.0" y="336.0" width="381.7" height="20.0" rx="3" fill="#8a8985" fill-opacity="0.55"/>
+<text x="703.7" y="351.0" font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600">68 years</text>
+<rect x="28.0" y="408.0" width="14.0" height="12.0" rx="2" fill="#2a78d6"/>
+<text x="48.0" y="418.0" font-size="12" fill="#52514e">programs</text>
+<rect x="125.6" y="408.0" width="14.0" height="12.0" rx="2" fill="#eb6834"/>
+<text x="145.6" y="418.0" font-size="12" fill="#52514e">people</text>
+<rect x="208.8" y="408.0" width="14.0" height="12.0" rx="2" fill="#8a8985" fill-opacity="0.55"/>
+<text x="228.8" y="418.0" font-size="12" fill="#52514e">Oleg's count on the back of the sheet</text>
+<text x="28.0" y="452.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">The checks: the page of verification files (A. Sutherland, MIT). The oranges: Nature 424 (2003) and the formal proof (2017).</tspan><tspan x="28.0" dy="14.4">The last row is an estimate, not a measurement: nobody has tried.</tspan></text>
+</svg>
