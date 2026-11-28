@@ -5674,6 +5674,167 @@ def who_has_the_whole_loop(lang):
     return f
 
 
+@figure("one-order-and-all-the-rest")
+def one_order_and_all_the_rest(lang):
+    t = {
+        "en": dict(title="One order and all the rest",
+                   sub="A deck of thirty-six cards on a logarithmic scale: every step to the right is a hundred thousand times more.",
+                   rows=[("“by suits”", "one way", 0, "1"),
+                         ("seconds since the beginning of the world", "13.8 billion years", 17.64, "4 with 17 noughts"),
+                         ("ways thirty-six cards can lie in a row", "36 × 35 × 34 × … × 1", 41.57, "37 with 40 noughts")],
+                   axis="number of noughts",
+                   out="Shuffling once a second since the beginning, one would have gone through\n"
+                       "one part in a million billion billion of the ways.",
+                   small="With two cards the order comes back on every second shuffle: a bead in water can run the wrong way\n"
+                         "for a moment. A cup and the floor under it hold more molecules than a 1 with 25 noughts.",
+                   src="An exact count: 36! ≈ 3.72·10⁴¹; 13.8 billion years ≈ 4.35·10¹⁷ seconds. The bead: Wang and others (2002)."),
+        "ru": dict(title="Один порядок и всё остальное",
+                   sub="Колода в тридцать шесть карт на логарифмической шкале: каждый шаг вправо — в сто тысяч раз больше.",
+                   rows=[("«по мастям»", "один способ", 0, "1"),
+                         ("секунд от начала мира", "13,8 миллиарда лет", 17.64, "4 и 17 нулей"),
+                         ("способов, какими 36 карт ложатся в ряд", "36 × 35 × 34 × … × 1", 41.57, "37 и 40 нулей")],
+                   axis="число нулей",
+                   out="Тасуя раз в секунду с самого начала, перебрал бы\n"
+                       "одну миллион-миллиард-миллиардную часть способов.",
+                   small="С двумя картами порядок возвращается на каждом втором тасовании: шарик в воде может на миг побежать\n"
+                         "не туда. В чашке и в полу под ней молекул больше, чем единица с 25 нулями.",
+                   src="Точный счёт: 36! ≈ 3,72·10⁴¹; 13,8 миллиарда лет ≈ 4,35·10¹⁷ секунд. Шарик: Ван и другие (2002)."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, top, row_h = 300, 700, 96, 50
+
+    def sx(e):
+        return x0 + (x1 - x0) * e / 45
+
+    for e in range(0, 46, 5):
+        f.line(sx(e), top - 6, sx(e), top + 3 * row_h, color=GRID, width=1)
+        f.text(sx(e), top + 3 * row_h + 18, str(e), size=11, color=MUTED, anchor="middle")
+    f.text(x0, top + 3 * row_h + 36, t["axis"], size=11, color=MUTED)
+    colors = [GREEN, INK2, BLUE]
+    for i, (name, who, e, val) in enumerate(t["rows"]):
+        y = top + i * row_h
+        f.text(28, y + 20, name, size=13, color=INK, weight="600")
+        f.text(28, y + 37, who, size=11, color=MUTED)
+        if e == 0:
+            f.circle(sx(0), y + 22, 5, fill=colors[i])
+        else:
+            f.rect(x0, y + 12, sx(e) - x0, 20, fill=colors[i], r=3)
+        if sx(e) > 600:
+            f.text(sx(e) - 10, y + 27, val, size=12, color="#ffffff", anchor="end", weight="600")
+        else:
+            f.text(sx(e) + 10, y + 27, val, size=12, color=INK, weight="600")
+    f.text(28, 306, t["out"], size=13, color=INK, weight="600")
+    f.text(28, 348, t["small"], size=12, color=INK2)
+    f.text(28, 386, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("traces-lie-on-one-side")
+def traces_lie_on_one_side(lang):
+    t = {
+        "en": dict(title="Traces lie on one side",
+                   sub="A scheme in the ash: the pages of the printed book, from the end where all is by suits to the shuffled end.",
+                   now="now", left="more order", right="more shuffled",
+                   solid="Traces: a print, shards, a dirty plate, a recollection.\n"
+                         "Made by the event itself; bought with a clean place and paid for with heat.",
+                   dashed="A forecast: made by the head, out of the same traces and a rule.\n"
+                          "It costs nothing extra, and it can be wrong.",
+                   out="The side the solid arrows come from is the one people named the past.",
+                   src="A scheme of the argument, not data. Why one end of the row lay by suits is not explained by anybody."),
+        "ru": dict(title="Следы лежат по одну сторону",
+                   sub="Схема на золе: страницы напечатанной книги от конца, где всё по мастям, до перетасованного конца.",
+                   now="сейчас", left="порядка больше", right="перетасовано сильнее",
+                   solid="Следы: отпечаток, осколки, грязная тарелка, воспоминание.\n"
+                         "Сделаны самим событием; куплены за чистое место и оплачены теплом.",
+                   dashed="Прогноз: его делает голова из тех же следов и правила.\n"
+                          "Сверх них он ничего не стоит и может ошибаться.",
+                   out="Сторону, с которой приходят сплошные стрелки, люди и назвали прошлым.",
+                   src="Схема рассуждения, а не данные. Почему один конец ряда лежал по мастям, не объясняет никто."),
+    }[lang]
+    f = Fig(760, 440, t["title"])
+    heading(f, t["title"], t["sub"])
+    n, pw, ph, gap, x_first, y = 7, 70, 70, 26, 57, 168
+    now = 4
+
+    def cx(i):
+        return x_first + pw / 2 + i * (pw + gap)
+
+    for i in range(n):
+        x = x_first + i * (pw + gap)
+        f.rect(x, y, pw, ph, fill="#f3f2ee" if i != now else SURFACE, stroke=INK if i == now else MUTED,
+               width=2.2 if i == now else 1.2, r=6)
+        for k in range(9):
+            gx, gy = x + 17 + (k % 3) * 18, y + 17 + (k // 3) * 18
+            j = i * 3.2
+            px = min(max(gx + j * math.sin(k * 2.7 + i * 1.3), x + 7), x + pw - 7)
+            py = min(max(gy + j * math.cos(k * 1.9 + i * 2.1), y + 7), y + ph - 7)
+            f.circle(px, py, 2.6, fill=INK2)
+    f.text(cx(now), y + ph + 20, t["now"], size=13, color=INK, anchor="middle", weight="600")
+    f.text(x_first, y + ph + 20, t["left"], size=12, color=MUTED)
+    f.text(x_first + n * pw + (n - 1) * gap, y + ph + 20, t["right"], size=12, color=MUTED, anchor="end")
+    for i in range(now):
+        x_a, x_b = cx(i), cx(now) - 30 + i * 11
+        h = 30 + (now - i) * 19
+        f.path(f"M{x_a:.1f},{y - 3} Q{(x_a + x_b) / 2:.1f},{y - h} {x_b:.1f},{y - 5}", color=ORANGE, width=2.2,
+               arrow=True)
+    for i in range(now + 1, n):
+        x_a, x_b = cx(now) + 12 + (i - now) * 8, cx(i)
+        h = 30 + (i - now) * 19
+        f.path(f"M{x_a:.1f},{y - 3} Q{(x_a + x_b) / 2:.1f},{y - h} {x_b:.1f},{y - 5}", color=BLUE, width=2,
+               dash="6 5", arrow=True)
+    f.line(28, 298, 62, 298, color=ORANGE, width=2.2, arrow=True)
+    f.text(74, 302, t["solid"], size=12.5, color=INK)
+    f.line(28, 346, 62, 346, color=BLUE, width=2, dash="6 5", arrow=True)
+    f.text(74, 350, t["dashed"], size=12.5, color=INK)
+    f.text(28, 400, t["out"], size=13, color=INK, weight="600")
+    f.text(28, 424, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-a-forecast-is-made-of")
+def what_a_forecast_is_made_of(lang):
+    t = {
+        "en": dict(title="What a forecast is made of",
+                   sub="A table in the ash: a memory of tomorrow is put together from traces of yesterday and a rule.",
+                   head=["the traces", "the rule", "how far it reaches"],
+                   rows=[("the flower before the rain", "the first autumn", "the damp in the air",
+                          "written in by the flowers\nthat did not close in time", "hours"),
+                         ("Oleg and the chicken", "tomorrow's supper", "forty years of suppers",
+                          "“boiled is for Sundays”", "one supper,\nroughly"),
+                         ("the sunrise", "nobody says “I predict”", "every morning so far",
+                          "so good that it cannot\nbe told from a recollection", "years ahead,\nto the minute"),
+                         ("the weather network", "2023", "about forty years of\nrecords of the weather",
+                          "found by itself;\nno equations given", "ten days,\nin under a minute"),
+                         ("the bank's program", "the loan for the greenhouse", "thirty years of pay,\nbills and one fine",
+                          "found by itself", "“will pay”"),
+                         ("a prophetic dream", "the claim", "none: “tomorrow\npressed me”", "none", "not found\nso far")],
+                   src="The evening's reading, not a measurement. The weather network: Lam and others (2023); its training records\n"
+                       "and the first page of every forecast are prepared by the older physical program."),
+        "ru": dict(title="Из чего сделан прогноз",
+                   sub="Таблица на золе: память о завтрашнем дне собирают из следов вчерашнего и правила.",
+                   head=["следы", "правило", "как далеко достаёт"],
+                   rows=[("цветок перед дождём", "первая осень", "сырость в воздухе",
+                          "вписано цветами, которые\nне закрылись вовремя", "часы"),
+                         ("Олег и курица", "завтрашний ужин", "сорок лет ужинов",
+                          "«варёная — по воскресеньям»", "один ужин,\nпримерно"),
+                         ("восход", "никто не говорит «предсказываю»", "все утра до сих пор",
+                          "такое хорошее, что не\nотличить от воспоминания", "на годы вперёд,\nдо минуты"),
+                         ("погодная сеть", "2023", "записи погоды\nпримерно за сорок лет",
+                          "нашла сама;\nуравнений не давали", "десять суток,\nменьше чем за минуту"),
+                         ("программа банка", "кредит на теплицу", "тридцать лет зарплаты,\nквитанции и один штраф",
+                          "нашла сама", "«заплатит»"),
+                         ("вещий сон", "заявка", "нет: «меня\nвдавило завтра»", "нет", "пока\nне найдено")],
+                   src="Прочтение этого вечера, а не измерение. Погодная сеть: Лам и другие (2023); записи, по которым она училась,\n"
+                       "и первую страницу каждого прогноза готовит прежняя физическая программа."),
+    }[lang]
+    f = Fig(760, 500, t["title"])
+    heading(f, t["title"], t["sub"])
+    bottom = _ash_table(f, t, [236, 404, 572, 736], 84, 56, [GREEN, GREEN, GREEN, BLUE, BLUE, RED])
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

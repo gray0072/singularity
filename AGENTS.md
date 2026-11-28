@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–58 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `59`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–59 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `60`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–58.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–59.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -433,6 +433,16 @@ articles as closely as possible. In practice:
 | палка и урок в разных комнатах | the stick and the lesson are in different rooms | a talking machine: while it learns it has no stick (its guess changes nothing in the book), and in a conversation it has a stick and the network does not change; mended by tools, laboratories, hands, and experience that goes back into the learning (58) |
 | палка о многих концах | a stick with many ends | the heir's stick: four thousand simulated robots that "fell for one another", a fleet of cars taught by one update; what one end finds all know (the third road of 45); it still moves "at the speed of the world and not of the chip" (58) |
 | палка — это мы | the stick is us | for now people are the machine's hands and sensors: "It says where; we poke and report what came back"; the lodger's one job (42) is today called "to touch"; the thing to watch is in whose hand the stick is: who chose where to poke, whose hands did it, who read the answer, and whether it went into the head (58) |
+| след и заготовка | a trace and a preparation | the dirty plate and the chicken thawing in the sink: about the supper that has been eaten there are five things in the house and each says the same, exactly; about the one that has not there is one, and it says "roughly" (59) |
+| счёт способов (энтропия) | the count of ways (entropy) | Boltzmann, 1877: in how many ways the parts can be laid out so that the thing looks the same; thirty-six cards lie "by suits" in one way out of a 37 with 40 noughts; "You are not shuffling towards a mess. You are shuffling anywhere at all"; the second law is "not a ban", it is bookkeeping (59) |
+| чистая страница (чистое место) | a clean page (a clean place) | what a record needs: smooth ash, the empty pages of the notebook, a memory cell wiped clean; itself an order, "a deck by suits"; a print is "a small order, bought with a clean place and paid for with heat" (59; the least price of wiping a cell is Landauer's, 29) |
+| прошлое (сторона, с которой следы) | the past (the side the traces are from) | "a bill can be paid only towards the end where the shuffling is greater", so prints, shards and recollections all lie on one side of what they are prints of; "not 'traces remain from the past'" but "the past is the side the traces are from" (59) |
+| причина как более упорядоченный конец связи | a cause as the more ordered end of a link | the author's 2013 line, "causes determine effects no more than effects determine causes": one end fixes the other both ways (an inquiry restores the fall from the shards); the cause is the end where things are gathered, the effect the end where it has spread; the second law "begets" such links (59) |
+| «открыто» значит «нет следа» | "open" means "no trace" | "the future is open" and "time flows" are properties of the one who keeps the traces, ascribed to the world; the openness of tomorrow is the lack of information of 17 "under a prouder name"; "A second per second. That is not a speed. That is a one" (59) |
+| память, развёрнутая в другую сторону (память о завтрашнем дне) | a memory turned the other way (a memory of tomorrow) | a mind: a forecast is put together out of prints of yesterday and a rule, "the only recollection of tomorrow that nature permits"; made by the head and not by the event, so it is free and can be wrong; with a good rule it cannot be told from a recollection (the sunrise); "a way of saying, not a theorem" (59) |
+| письмо, которое не знает, когда его вскроют | a letter that does not know when it will be opened | a talking machine asked what year it is with nothing to look at: its records break off at some day, so it has "an excellent yesterday and a guess about today" until it is given a stick (58, 59) |
+| следы мои, а память о моём завтра — у них | the traces are mine, and the memory of my tomorrow is theirs | the bank's program that put Oleg's tomorrow together from thirty years of his bills, better than he did; whoever has more traces and a better rule remembers tomorrow further, "and today that is no longer us" (59) |
+| гипотеза прошлого (фабрика) | the past hypothesis (the factory) | the count of ways alone gives no direction (Loschmidt's objection, 1876): the direction comes from one fact added to it, that at one end the deck lay by suits; named in 2000; Penrose's one part in ten to the power of ten to the power of 123; "there it lies for everybody: nobody knows" (59) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

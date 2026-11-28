@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 26).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 27).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,13 +570,15 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57 and 58 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 and 59 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
   half a tick in pencil (the great-nephew solved one problem of two with the screen down), to be inked if the mark
   of 53 for the autumn of 2036 fails. The second, in 56, is also half a tick in pencil ("Why one place": the
   measurement problem, which Andrey did not answer), to be inked "by one of us" if the friend in the box is ever built.
+  The third, in 59, is again half a tick in pencil ("Who laid the deck by suits": why there was more order at one end of the world), to be inked if it is
+  ever answered.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -4834,3 +4836,193 @@ watch, not marks: in whose hand the stick is, by the four questions; whether a m
 new facts about the world that hold (the stated refutation); the hands stay the mark of 27 (more than 8 million
 industrial robots by the autumn of 2031; 58 gives the count of 5 million for the end of 2025 and does not check
 the mark); the outcome of Oleg's court is still free for a later opening.
+
+## 59. A Memory of Tomorrow
+
+**Established**
+- The answer to the teaser of 58 ("Why do I remember yesterday's supper and not tomorrow's?... Whatever she
+  makes"). Oleg comes with the supper known "down to the bay leaf" (mushroom soup with barley) and a parcel: the
+  shards of his blue cup, dropped by his wife while drying up ("seven shards and a handle"). The question, from 17
+  and "in the notebook since the electron" (56): "a book I can open at either end. Why do I remember in one
+  direction only?"
+- **A trace and a preparation.** The eaten soup is in five places (in Oleg, the pot, the plate, the smell, the
+  head), "and each of them says the same, and exactly"; tomorrow's supper is in one, a chicken thawing in the
+  sink, and it says "roughly". The plate is the trace of 56; the chicken Oleg names "a preparation".
+- **The film, by Socratic descent.** One billiard stroke with the cue and the slowing cut off cannot be told
+  forwards from backwards; the break of the pyramid can ("I would laugh... all together they would have had to
+  agree beforehand"; he begins to laugh "somewhere around five" balls): **"So the difference is not in the law of
+  the blow. — It is in the count."** The cup backwards: "Which of those things is forbidden? — Separately, I
+  suppose, none"; "The equations of mechanics do not tell yesterday from tomorrow."
+- **The count** (arithmetic at home, checked): a new deck of thirty-six comes from the factory by suits; 36 cards
+  lie in a row in "a thirty-seven with forty noughts" ways; the world is "a four with seventeen noughts" seconds
+  old; shuffling once a second from the beginning covers "one part in a million billion billion". **"You are not
+  shuffling towards a mess. You are shuffling anywhere at all. There is simply almost nothing there except mess."**
+  Boltzmann, 1877 (unnamed: "a physicist in Vienna"); entropy is introduced as the logarithm of the count, the
+  second law as "your shuffling". **"So it is not a ban. It is bookkeeping"**: the bead of 2002 that ran the wrong
+  way over short stretches; a deck of two cards; the cup and the floor hold more molecules than a 1 with 25 noughts.
+- **The trace, said the long way (the test of 50).** Gaika's paw print in the ash: "How do you know that she walked
+  there, and not that she will?" Oleg catches himself: "I am explaining time by the word 'before'", and restates it
+  by pages of the printed book: the print is on every page on one side of the page with the paw, "the side where
+  the ash is more trampled". A record needs a clean place (smooth ash; the notebook's "empty pages. About thirty"),
+  and "a clean page is a deck by suits"; the push went into heat. **"A print is a small order, bought with a clean
+  place and paid for with heat, and heat is shuffling."** Landauer, 1961 (unnamed; the lock with 29) and the
+  measurement of 2012 "again on a bead in water". **"A bill can be paid only towards the end where the shuffling is
+  greater... That side is the one people named the past." — "So it is not 'traces remain from the past'. It is
+  'the past is the side the traces are from'. — The first is how it is said. The second is what it means."** The
+  head is "a print like any other, and a dear one: twenty watts" (35).
+- **Cause and effect** (the author, 24 April 2013: "causes determine effects no more than effects determine
+  causes", and the second law as the factor that begets such links). One end fixes the other both ways: the demon
+  of 17 from the fall, an inquiry from the shards (the ladle that came off the crane, "put together to the second").
+  The difference: "One thing at one end, a crowd at the other, and the whole crowd tells the same story"; the
+  stone in the pond and the shore that would have to push at once. **"What we call the cause is the end of the
+  link where things are gathered: fewer of them, and in better order. The effect is the end where it has spread."**
+  The lock with 39: no "common effect" makes two things agree ("Two streams run into one river, but they did not
+  agree about it"); Reichenbach, unnamed ("In the 1950s a philosopher noticed that the fork always opens one
+  way"). The vase of 17 stands; added: "on the vase one can tell which end is which. By where the prints lie."
+- **The exposure.** Oleg: "Yesterday cannot be changed, and tomorrow can." The choice of 17 is not taken away
+  (real, not free). "Open for whom? — For me. — About which of the two do you have a plate, and about which a
+  chicken? — **'Open' means that I have no trace.**" It is the lack of information of 17 "under a prouder name";
+  the author's 2013 margin notes on Deutsch (unnamed: "a physicist's book"): "anthropocentrism has crawled out
+  again", then "hurrah, common sense has returned". "Time flows" — "At what speed? — A second per... Per second.
+  That is not a speed. That is a one." The author's 2011 sentence (the comment of 21 December 2011 under 14): we
+  are drawn in the frames of a script frozen in eternity as perceiving the earlier frames and not the later ones;
+  said the long way: "as carrying prints of the frames on the side of order... A property of the one who keeps
+  the records, ascribed to the world. — The weed. — An old acquaintance."
+- **The definition the series did not have** (the plan's). The chicken tells: "Roast, with garlic. She boils on
+  Sundays, and tomorrow is Thursday... Forty years of suppers": tomorrow's supper is made "out of traces. And a
+  rule: what comes after what". The 2011 sentence goes on (able "to make certain suppositions about the frames of
+  the future"). The sunrise: "Did you remember that, or foretell it? — I cannot find the difference" — **"When the
+  rule is good, a forecast cannot be told from a recollection."** The flowers that close before the rain (03, the
+  author's example): "A trace of what has been, and a rule written into it by all the flowers that did not close
+  in time." **"A mind is a memory turned the other way. — A memory of tomorrow. — The only one that nature
+  permits. It is made out of prints of yesterday, so it costs nothing extra. And it is made by the head and not by
+  the event, so it can be wrong."**
+- **What memory is for**: "What can you do with yesterday's soup? — Nothing... — Then why does the head pay twenty
+  watts to keep it? — So as to know what the chicken will be"; "The wants do not pay for a museum" (18, 19). The
+  man of 1981 (K.C., unnamed) who lost every recollection of his own life and could not say what he would do
+  tomorrow, "the same emptiness"; the five in London (2007) asked to imagine a beach: scraps "and no place in
+  which it all stands". "So yesterday and tomorrow are kept in one cupboard. — They are made on one machine tool"
+  (and yesterday is put together afresh too: the report of 50).
+- **The prophetic dream of 39, in one exchange** (the plan's): "A claim to more than a forecast. A prophetic dream
+  says: I was not put together out of yesterday, tomorrow pressed me... the dream turned out to be a forecast that
+  had forgotten what it was made of." The wager of 39 is kept and sharpened: ten calls, and "tomorrow can press,
+  and I go for firewood and rewrite this evening. I do not say 'forbidden'. A cup is not forbidden to jump back
+  either."
+- **The machines are named by Oleg, past the middle** ("Tomorrow, rain from three... I read that the weather is
+  now done by those ones"). The weather network of 2023 (GraphCast, unnamed): about forty years of records, "not
+  one equation of the air", ten days in under a minute, more exact "on nine measures in ten" than the best
+  physical program; in 2025 the European centre put its own network on duty beside it. **Said honestly**: the
+  records it learned from and the first page of every forecast are prepared by the old physical program. "A
+  memory turned the other way. Made of iron." The talking machine is the same (58: guess the next word): "All
+  the traces people have left in writing, turned forwards"; asked what year it is with nothing to look at, it
+  names the last year it read much about: **"a letter that does not know when it will be opened"** (Oleg: "My
+  grandmother's clock. The weight hangs still, and the pendulum goes"); with a stick (58), a calendar, it finds
+  out.
+- **Whose memory of tomorrow reaches further**: it depends "on how many traces there are and how good the
+  correlator is" (33). Oleg's knee that aches before rain: "a good instrument. It knows one yard." **The bank**:
+  the loan for the greenhouse answered in a minute from "thirty years of pay, the bills, the fine for the fence"
+ ; "Whose memory of your tomorrow was the better one? — Theirs, I suppose. They gave it... **So
+  the traces are mine, and the memory of my tomorrow is theirs.**" 03 restated: a mind is measured "by how far its
+  memory of tomorrow reaches, and how seldom it is wrong. Whoever remembers tomorrow further acts sooner."
+- **The ceiling is not in the head**: the week or two of weather (17) "the network has not moved by much"; and
+  the forecaster "is himself in the book. A forecast that has been heard becomes one of the causes" (17: the bank
+  forecast that Oleg would pay, "and so there is a greenhouse, and so I pay").
+- Nobody says the forbidden word; twenty-seventh tick "again": "Came with yesterday's soup. Came out at this: my
+  tomorrow is remembered better by those ones."
+- **Oleg's strongest objection is held back until after the tick, and it is Loschmidt's (1876, unnamed: "his own
+  colleague")**: by the same count a half-shuffled deck was more shuffled a minute ago as well; "The count does
+  not know which way I am asking." Conceded whole: "The count alone gives no direction." The direction comes
+  "from one fact added to the count: at one end the deck lay by suits. — The factory": the past hypothesis (named
+  in 2000); Penrose's one part in ten to the power of ten to the power of 123, "in the very book you once brought
+  me" (15); "hot soup, the same everywhere" is a mess for a gas in a jar and an order for matter that pulls itself
+  together; the earliest light even to a hundred-thousandth; **the debt of 35 is paid as far as it can be** ("the
+  hot Sun in the cold sky, which I owed you from the evening of the pot. The whole of our flow is that deck being
+  shuffled"). **The plan's objection and answer**: "So you have moved the riddle. From my kitchen to the beginning
+  of the world... — I have moved it. And there it lies for everybody: nobody knows." Boltzmann's way out (an
+  accidental piece of order) and the answer by his own count: one head "with a recollection of soup that never
+  was"; Andrey does not believe it ("a count that makes a recollection of soup more likely than the soup saws off
+  the branch it sits on") and takes the factory "as a fact with no explanation". His old answer of 2011 ("why"
+  asks for a cause, causes live inside time, the page before the first) is marked: "I cannot prove that this takes
+  the riddle away. It is an axiom, the same one as in the autumn."
+- **Hegel (the open thread of 08)**: "One sentence, and I have never unfolded it. I cannot unfold it honestly
+  today either, so it stays a sentence. I shall not put a filling into it after the fact."
+- **Oleg's third tick of his own**, half and in pencil: "Who laid the deck by suits"; "If it is ever answered,
+  one of us will ink it."
+- Strengths stated: solid (the count of the cards; the second law as a count, with the bead; the price of a clean
+  cell; K.C. and the five in London, "who were not all alike: one of them managed"; one correction to "mechanics
+  does not tell": the lopsidedness found in 1964 and seen directly in 2012, which "lives in rare particles and
+  breaks no cups"); accepted by most and argued in the details (that memory is tied to the side of order;
+  Mlodinow and Brun, 2014, unnamed); open for everybody (why the deck lay by suits); the author's (the second law
+  begets cause and effect, "said in one paragraph on a forum"; the frozen script; Hegel); today's ("a mind is a
+  memory turned the other way... a way of saying, not a theorem"). **What would refute it**: "A record of tomorrow
+  that could not have been put together out of yesterday. Your ten calls would do."
+- **A declared interest is written into the footer** (both languages): the talking machine that does not know
+  what year it is is a machine of the same kind as the model that wrote the evening.
+
+**Images and devices used**: the twentieth entry in the notebook of dreams (the grandmother's wall clock with
+weights: the weight pulled up does not come down, "and the pendulum goes all the same"; nobody rang), which returns
+once (the letter that does not know when it is opened); the letter box looked into "with my eyes now"; the blue
+cup, the seven shards and the handle, the parcel left on the log ("Bury it yourself"); the soup in five places and
+the chicken in the sink; the trace and the preparation; the billiard stroke and the break of the pyramid; the tea
+towel that flies back with the cup; the deck of thirty-six, "fool", the factory; the paw print; "before" caught;
+the pages of the printed book; the empty pages of the notebook; a record as a paid bill; the ladle and the
+commission; the stone in the pond; two streams and one river; the vase with prints on it; fishing; "a second per
+second... a one"; the weed; roast on Thursday, boiled on Sundays; the sunrise a little after four; the flowers
+before the rain; the museum; the white beach; one cupboard and one machine tool; a forecast that forgot what it was
+made of; the telephone with rain from three; the knee that knows one yard; the telephone screen down; the
+greenhouse loan; "the flower has closed, and you are still looking at the sky"; the half-shuffled deck a minute
+ago; the number that cannot be written; hot soup the same everywhere; one head and no soup; the branch sawn off;
+the page before the first; the teaser ("Which you remember? — Roughly. The chicken is in the sink").
+
+**Facts used**. **Read in the source on the day of writing** (abstracts): Wang, Sevick, Mittag, Searles & Evans,
+*Phys. Rev. Lett.* 89, 050601 (2002: a colloidal particle in an optical trap translated relative to the water;
+"entropy consumption can occur over colloidal length and time scales"; the text gives no duration); Bérut et al.,
+*Nature* 483, 187 (2012: a single colloidal particle in a double-well potential; the mean dissipated heat saturates
+at the Landauer bound); Hassabis, Kumaran, Vann & Maguire, *PNAS* 104, 1726 (2007: patients with bilateral
+hippocampal damage "markedly impaired" at imagining new experiences, which "lacked spatial coherence"); Lam et al.,
+arXiv 2212.12794 (GraphCast: trained from reanalysis data, 10 days at 0.25° "in under one minute", better than the
+most accurate operational deterministic system on 90% of 1,380 targets); Lees et al. (BaBar), arXiv 1207.5832 (the
+first direct observation of T violation, 2012); Mlodinow & Brun, arXiv 1310.1095 (the psychological arrow aligns
+with the thermodynamic one "even if the memory system itself is completely reversible and non-dissipative");
+Wikipedia for Loschmidt (1876), the past hypothesis (the term coined by David Albert in 2000), Kent Cochrane (the
+motorcycle accident of 1981; semantic memory intact, no episodic memory, unable to say what he would be doing
+later), ECMWF (in 2025 the AIFS became its first purely data-driven operational model). **Computed**: 36! ≈
+3.72·10⁴¹; 13.8 billion years ≈ 4.35·10¹⁷ s; their ratio ≈ 8.5·10²³. **From the writer's memory, not re-read**:
+Boltzmann's counting of 1877; Landauer (1961, IBM); Penrose's 1 in 10^(10^123) (*The Emperor's New Mind*, 1989);
+the smoothness of the microwave background to about 1 part in 100,000; the Boltzmann brain argument; Reichenbach's
+fork (*The Direction of Time*, 1956); CP violation in neutral kaons (1964); that one of the five London patients
+performed normally; K.C.'s chess and his "same kind of blankness" (Tulving, 1985); GraphCast's training on ERA5
+for 1979–2017 at six-hour steps and its start from the ECMWF analysis; that the practical horizon of weather
+forecasts stays near two weeks; that language models asked the date tend to name a year near the end of their
+training data; a cup and a patch of floor hold more than 10²⁵ molecules (own estimate). The author's sources: the
+comment of 21 December 2011 under 14 ("Мы, люди, являемся нарисованными в кадрах застывшего в вечности сценария.
+И мы 'изображены' в этих кадрах воспринимающими предыдущие кадры... и не воспринимающими последующие, но по
+отслеживанию математических зависимостей между содержимым кадров, могущими делать определенные предположения о
+содержимом кадров из будущего"; "За пределами времени законы причинно-следственных отношений не работают"); the
+forum, 24 April 2013 ("Причины определяют следствия не больше, чем следствия определяют причины"; "Такая
+взаимосвязь проявляется в силу действия ВНТ... ВНТ становится тем самым фактором, который порождает подобные
+взаимосвязи"; on Deutsch: "Опять полез антропоцентризм", "Здравый смысл вернулся, ура!"); article 03 ("Когда цветы
+сворачиваются перед дождем... прогнозируя наступление тех или иных событий в будущем"); article 08 (Hegel's law as
+"фактор существования времени как такового"). Invented for the frame (Oleg's side): the dream, the cup, the soup
+and the chicken, the ladle and the commission, the knee, the greenhouse loan; on Andrey's side, the deck in the
+jacket. Not used: "the parabola simply is" (the plan's material; the printed book and the frames carry the same
+point), Eddington's "arrow of time" (the word "arrow" is not used at all), Maxwell's demon, Hawking's three arrows,
+Popper's pond (the image is used without the name), the Andromeda paradox (17), Petrov and Arkhipov, weather
+models after GraphCast, any figure for the Landauer bound, the names of all people and companies.
+
+**Figures**: `one-order-and-all-the-rest` (a logarithmic scale: one way "by suits", the seconds since the beginning
+of the world, the orders of thirty-six cards), `traces-lie-on-one-side` (seven pages from order to shuffled, solid
+arrows of traces into "now" from one side, dashed arrows of a forecast to the other), `what-a-forecast-is-made-of`
+(the table: the flower, Oleg and the chicken, the sunrise, the weather network, the bank's program, a prophetic
+dream).
+
+**Left for later**: whether anybody understands what such a machine does, and a proof that one machine made and
+another checked → 60 (Oleg's last doubt: "With weather, tomorrow does come... Who checked it? — Another machine. —
+And who understood it?"; 59 says only that the weather network is checked against tomorrow and that nobody
+understands it "in the sense you mean"); the map with the map-maker on it, that is, the forecaster who "is himself
+in the book" → 63 (one sentence here); the weapon of 59 turned on Andrey's own forecasts ("a memory of tomorrow...
+can be wrong") → 66; why the deck lay by suits stays open, with Oleg's half tick; Hegel's law stays a sentence;
+the rest of the promised series "outside of time" (Parmenides, the reflection equations) is not touched; a row
+"memory and forecast" for the portrait (more traces, a better rule, the same ceiling, a letter without a date) →
+64; things to watch, not marks: Oleg's notebook of dreams (the wager of 39, now also the stated refutation of 59);
+the outcome of Oleg's court is still free for a later opening.
