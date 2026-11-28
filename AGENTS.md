@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–60 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `61`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–61 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `62`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–60.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–61.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -455,6 +455,17 @@ articles as closely as possible. In practice:
 | наука расходится надвое | science comes apart | "is it true" and "what will happen" go to whoever calculates better; "why" stays with people "as music", a pleasure and not production; while both lived in one head, to predict one had to understand, "now there is another way" (60) |
 | цена и очередь | a price and a queue | Andrey's answer to the universal explainer: "I do not say there is a wall. I say there is a price, and a queue": every single proof can in principle be chewed, the stream (722 machine-written papers in one month of 2026) cannot; the two computabilities of 15, "in principle" and "in time for supper" (60) |
 | универсальный объяснитель | universal explainer | a physicist's claim (2011): whoever can build explanations can in principle understand anything explicable, given paper and time; conceded in principle in 60, and asked back: "who is the universal explainer there: the man, or the pair?" (the screen down, 53) |
+| фора (прежней платформы) | head start (of the former platform) | on the Earth nearly everything is there for us for nothing (air, weight, the staircase cut to our step), and the machine "plays away from home, on a field built for us and by us"; space is the one place where both arrive as strangers, and the score there has been known for half a century (61) |
+| кусок Земли (везти с собой озеро) | a piece of the Earth (carrying the lake along) | our way of doing the task "get there, look, poke, report": "a man does not go into space. A small piece of the Earth goes, with a man inside"; a spacesuit is "the Earth cut to his size"; over a hundred tonnes in orbit a head in the plan of 2008 (61) |
+| полоска условий | the strip of conditions | the sister of the middle world of 60: a few kilometres of air, some tens of degrees, one weight and a roof against radiation; not noticed for the reason Oleg did not put air on his fishing list (61) |
+| «наши глаза» | "our eyes" | what we call a machine that went where we cannot: the column "who" of 50 filled in with ourselves; said the long way, "people wanted to know; machines flew, looked, chose the road and went; people read the report"; "Were you at the sea? — No. I saw the sea. — We have seen Mars" (61) |
+| ошибка в арифметике (переселение) | an error of arithmetic (resettlement) | the debt of 07 (a reader's "surplus people can go to the oceans and to space", which the author meant to dispute): mankind grows by about 189 thousand a day (2026) and about 650 people have reached orbit in 65 years; Antarctica, with free air, has no settlers; and "a man whom nobody needs here does not become needed there" (61) |
+| термос, а не холодильник | a thermos, not a refrigerator | Andrey's open correction of "cold for free" in orbit: in a vacuum heat leaves only as light from a surface, so a data centre of one megawatt needs over a thousand square metres of radiator (61) |
+| орбита — цех, где второе число равно нулю | orbit, the workshop where the second number is nought | the second number of 51 (for how long the technosphere needs human hands) is "decades" on the ground; in orbit hands do not reach from the first day, so whatever lives there must mend itself or be made to be thrown away; "that is why I would watch it. Not for the haiku" (61) |
+| сырой сарай | the damp shed | the Earth as it looks to a thing of metal and silicon: water and oxygen (rust) at the bottom of a deep pit of gravity; Mars is "a clean, dry workshop"; "a habitable planet" is habitable for whom; Andrey: "I like it too much, so check it twice" (61) |
+| «оставьте Землю нам» (ниша размером с планету) | "leave the Earth to us" (a niche the size of a planet) | Oleg's strongest objection in 61 (a reader's of 2015 under 11): the heir will simply leave; answered with the author's line of 2012 (building takes material that at the beginning is only here; it grows on the Earth because it has been growing here for about a million years) and the row "a niche" of 52: "it could. Partly, I think, it will. But I shall promise nothing" |
+| новая форма жизни с памятью о человеке | a new form of life with a memory of the man | what goes into space, in place of "a man with tools": the gilded disc a light-day away, 10.9 million names on three chips, our wants ("find out whether there was water"); the row "a descendant" of 52 at work; Oleg: "our suitcase flies, and we are the ones seeing it off" (61) |
+| флаг как расписка | the flag as a receipt | "the Moon does not read flags": a crewed flight is a receipt of 41 for those who watch from the Earth, as the horse of 34 became a way to be glad; "then fly. Only do not call it settling"; of what was left on the Moon, what works is the mirror (61) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

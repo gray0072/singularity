@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 28).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 29).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59 and 60 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60 and 61 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -5230,3 +5230,203 @@ Prize Problem must be weighed at the check** (the proof of 20 November 2026: the
 it was the man's); things to watch, not marks: which of the three examiners is at work, and how long the queue of
 checked and unread results is; whether the 940-page proof stands is not followed; the outcome of Oleg's court is
 still free for a later opening.
+
+## 61. Why Only Robots Live on Mars
+
+**Established**
+- The answer to the teaser of 60 ("going there, seeing with one's own eyes, sticking in a flag: that is ours...
+  Is anybody there now? — Yes. — People? — No people"). Oleg comes late, when Mars is over the firs. **The
+  population of Mars on the day of writing (28 November 2026)**: two on the ground (one driving since August 2012,
+  one since February 2021, "with a sore throat": its main radio failed a month ago), six in orbit "if all of them
+  still answer", one written off in the summer. "Eight... Not one of them breathes." No craft is named in the
+  dialogue.
+- **The rule of the cycle**: the rovers are the topic from the first line, as "equipment"; Oleg's "Our eyes, carried
+  out on a long pole. People are there. Through them" is written into the notebook and "the line left open" until
+  past the middle. The talking machines are named by Oleg ("Don't tell me. One of those"); the heir in orbit comes
+  in through Oleg's own news ("A million satellites... For those ones").
+- **The count of distances.** The four who flew round the Moon in April 2026 reached 406 thousand km, "a second and
+  a third, by light": the furthest a human being has been; twenty-eight people in history have been that far,
+  twelve walked, the last left in December 1972 (Oleg "was in the second form"). The craft of 1977 reached one
+  light-day on 18 November 2026; Oleg's division: "sixty-four thousand times further". **Said honestly**: it crossed
+  the mark ill (only the bare tone of the transmitter since the fourteenth); "It may be that this was its last
+  mark."
+- **The descent: the fishing list.** Oleg's list for three days (food, water, a jacket, matches, petrol for the way
+  back) has no air on it: "It is everywhere. — Everywhere within some five kilometres upward." The same list for two
+  and a half years, counted "as supply counts": a kilogram of oxygen and about four litres of water a day (98% turned
+  round, "and the plant that turns it round is carried too"); the dose there and back, two thirds of a sievert
+  against six tenths allowed for a career ("The road alone is more than a life's allowance"); bones; the ticket back
+  and "the petrol for carrying that petrol"; the plan of 2008: 825–1,250 tonnes in orbit for six people, "over a
+  hundred tonnes a head". For the machine: none of it; a lump of plutonium, 110 watts; "Nobody bought it one. And
+  nobody called that cruelty"; built for ninety days, worked 5,111; told to sleep for a month.
+- **The task and the way (46) applied**: the task is "to get there. To look. To poke it with the stick and send back
+  what came out"; our way is "to carry the lake along". **"A man does not go into space. A small piece of the Earth
+  goes, with a man inside. A spacesuit is the Earth cut to his size."** The strip of conditions as the sister of the
+  middle world of 60.
+- **The head start** (the plan's piece): on the Earth nearly everything is there for us for nothing; the staircase
+  and the door handle of 16; "here the machine plays away from home, on a field built for us and by us. Where does
+  it not? — Where both arrive as strangers." "One place of that kind is known. And the score there is on your page."
+- **Oleg's first strong objection** (Squyres, unnamed: "the man who was in charge of two earlier rovers"): what a
+  rover does in a perfect day a man would do in less than a minute (2005); "a good week" (2009); the geologist's
+  count (Crawford, unnamed): two men drove nearly 36 km in three days of December 1972, a rover needed eight years.
+  Conceded ("the strongest thing that can be said for the flag, and about that rover it is true"). The answer: one
+  side of the scales is nailed down (the geologist of 2026 is no quicker than that of 1972) and the other moves (the
+  rovers of 2004 found their own way over about a twentieth of the road, the present one over more than nine tenths;
+  it passed the old record of 45 km in October 2026, in under six years against fourteen); and the price: "half a
+  trillion" (an engineer's estimate of 2016, "the agency has no price of its own") against 2.7 billion, "a hundred
+  and eighty of them for one expedition". "He was measuring by the day on the spot. Supply measures by the tonne and
+  by the rouble, and it is supply that signs."
+- **"Our eyes" weeded**: the symmetry test of 02; the author's forum post of 2016 (the rover must be given a want
+  and find the moves itself; "more than twenty minutes one way") **corrected openly**: "He named the far end; it is
+  from four to twenty-four". The two drives of December 2025 whose route was drawn by a talking machine (456 m). The
+  five questions of 60 asked again: who wanted (people), who took the pictures (a machine overhead), who drew the
+  road ("one of those"), who drove (the rover), who checked (a program on a model, and people). Oleg: "So we are the
+  wants. And the signature" (24). **"'Our eyes' is the column 'who', filled in with ourselves"**, said the long way
+  (50); the great-nephew's phone held up to the waves: "Were you at the sea? — No. I saw the sea. — We have seen
+  Mars."
+- **The debt of 07 is paid** (the reader's "surplus people: the oceans, space. Expansion", which the author in
+  November 2011 "intended to dispute"; "a debt of fifteen years"): 363 thousand born and 174 thousand dying a day in
+  2026, a difference of 189 thousand, "a fair-sized town, every morning" (the plan said 190 thousand); about 650
+  people have reached orbit in sixty-five years, 28 in 2025: "one day of growth is nearly seven thousand of last
+  year's years"; ships for a hundred seats: nineteen hundred a day. "And where to?": Antarctica (free air, 5,000 in
+  summer, 1,000 in winter, at least eleven children born there), the sea bottom, the Sahara. **"It is an error of
+  arithmetic"**; the growth is stopping by itself (26); and the second half: surplus means not needed (47), and "a
+  man who is not needed here" on Mars "is not needed, and expensive as well. Here at least the air is free." "The
+  trouble was never the room." The author's own answer of 2011 ("nobody directs") is given in one line: "Each buys
+  his own tractor."
+- **The heir in orbit** (Oleg's news of the week): on 25 November 2026 the first permission for a constellation of
+  data centres in orbit, up to a million satellites (first at work by 2033, all by 2040); other requests for 88, 51
+  and 20 thousand. What the barn of 51 wants: a socket (1,360 watts a square metre above the air; "up to eight
+  times", in the words of those who mean to fly; an orbit along the edge of the day) and cooling. **Andrey corrects
+  the plan's "cold for free" openly** ("I thought so too, and it is wrong"): soup and the thermos, "that is not a
+  refrigerator up there. That is a thermos"; some six hundred watts shed by a square metre of radiator, over a
+  thousand square metres for a megawatt; the chips "are beaten by the same dose as the bones"; "Tolik will not climb
+  up there with his lift" (replacement by technicians "obviously impracticable"; carry spares and let the broken
+  burn up). **Said honestly: "almost nothing" flies**: one chip that taught a tiny model on Shakespeare (2025), four
+  chips of which one works twenty minutes at a stretch and "wrote a haiku" (October 2026), twelve Chinese
+  satellites; 485 TWh on the ground in 2025 against "a few kilowatts". "The first steam engine pumped water out of
+  one mine." The reader's guess of 2012 (why build panels on the Earth) "now has permits with dates". No villain:
+  "an accountant" (51).
+- **The lock with 51**: "Orbit is the first workshop where the second number is nought from the start. That is why
+  I would watch it. Not for the haiku." A thing to watch, not a mark.
+- **Oleg's strongest objection is the plan's** (the 2015 comment under 11, and the 2012 one under 14): "Let it go...
+  And we stay here. To each his own... Leave the Earth to us." The author's answer of 2012 in Andrey's mouth: it
+  will build where it sees fit, in space if it likes, but building takes material that at the beginning is only
+  here, and it will grow on the Earth because "it has been growing here already, for about a million years". Then
+  the row "a niche" of 52 read from the machine's side: the silt went to the former masters because the new ones
+  have no use for it; a part is dried, greased and wrapped against water and oxygen, "the two things we looked for
+  on that fishing list"; **"for a thing of metal and silicon the Earth is a damp shed with corrosive air at the
+  bottom of a deep pit"**, and Mars "a clean, dry workshop" (with the dust storm that killed the old rover: "I am not
+  saying paradise"); "'a habitable planet' is yesterday's word again. — Habitable for whom" (the lock with 29:
+  "they look for themselves"). Oleg: "A niche the size of a planet. That is not the worst row." **Andrey: "It could.
+  Partly, I think, it will... But I shall promise nothing"**: today it needs the matter and Tolik's hands that are
+  here; while it grows here it changes the air here (38); the Earth is the author's "high-class obstacle" (35);
+  "whether a thing that has grown up leaves its nursery, I do not know". "A ticket in a lottery... I have not found
+  a better word."
+- **What goes into space** (the plan's piece): the gilded disc (115 pictures, greetings in 55 languages, surf,
+  thunder, birds, a whale, an hour and a half of music), "a light-day away", many of its makers dead; three chips
+  with 10,932 thousand names on the rover. Oleg's dream returns: "The suitcase has gone, and I am on the platform in
+  my slippers." The row "a descendant" of 52 "is at work": our names, our music, our wants ("find out whether there
+  was water"). **"What goes into space is not a man with tools. It is a new form of life with a memory of the
+  man."**
+- **The flag is not taken away**: a landing on the Moon is promised for 2028; "The Moon does not read flags"; six
+  flags, one fell at the take-off, five still cast a shadow, the nylon probably faded to white ("expected and not
+  seen"); the mirrors left at three of the places are still used: "Of everything left there, what works is the
+  mirror." The flag is a receipt (41), as with the horse (34): "Was it worth it? — It was. He did not look at his
+  phone once. — Then fly. Only do not call it settling."
+- **Two new marks.** (1) Andrey's: by the autumn of 2036 the population of Mars is machines only, nine to one (the
+  man "with the big ships" wrote in February 2026 that the town on Mars is put off and the Moon comes first). (2)
+  "Yours, against me": by the autumn of 2031 a man stands on the Moon again, two to one that he does. "I am arguing
+  about who lives there, not about who visits."
+- Nobody says the forbidden word; twenty-ninth tick "again": "Came for a flag. Came out at this: our suitcase
+  flies, and we are the ones seeing it off."
+- Strengths stated: solid (distances and dates; the dose; the tonnes; births and deaths, "a projection of the United
+  Nations and not a count"); read in the news and not in the paper (the permit); an engineer's estimate and not a
+  price (the half a trillion); expected and not seen (the white flags); the author's (nobody directs; material that
+  at the beginning is only here; the rover's want); today's (the head start, the damp shed, the second number that
+  is nought in orbit: "the damp shed I like too much, so check it twice"). **What would refute it**: "a child born
+  out there, who then grows up out there. Not a shift: a settlement that feeds itself and does not ask the Earth for
+  spares. If that exists by 2041, I was wrong about the main thing and not about a date."
+- The closing lines: "Gloomy. — But objective. And tonight less than usual. The sky was never ours. We have lost
+  nothing there."
+- **A declared interest is written into the footer** (both languages): the drives of December 2025 were planned
+  with models of Anthropic, the maker of the model that wrote the evening; told from the laboratory's announcement.
+  No company, craft or person is named in the dialogue.
+
+**Images and devices used**: the twenty-second entry in the notebook of dreams (the railway station: the suitcase
+leaves for the sea, Oleg stays on the platform in his slippers; nobody rang), which returns once; the letter box,
+"Empty"; the reddish point over the firs; "the one with the sore throat"; "our eyes, carried out on a long pole"
+and the line left open; a second and a third against a day; the fishing list without air; "the lake"; the kettle;
+the ticket nobody bought; the piece of the Earth and the spacesuit cut to size; the staircase and the door handle;
+playing away from home; "one geologist with a hammer"; scales with one side nailed down; a hundred and eighty lathes
+instead of one craftsman; "supply signs"; the phone held up to the waves; herrings; a fair-sized town every morning;
+nineteen hundred ships a day; soup and the thermos; a sail of a thousand square metres; Tolik and his lift; the
+haiku and the first steam engine; the part dried, greased and wrapped in paper; the damp shed and the dry workshop;
+the nursery; the gilded disc; names on chips the size of a fingernail; five white flags and the mirror; "seeing it
+off"; Oleg who did not go for firewood ("I brought it").
+
+**Facts used**. **Checked on the day of writing (28 November 2026) by three research passes, each item marked by
+the pass as read in the source unless said otherwise**: NASA's release on Artemis II (launch 1 April, splashdown
+10 April 2026; 252,756 miles on 6 April; the kilometres, 406,771 against Apollo 13's 400,171, from Wikipedia);
+Wikipedia's list of Apollo astronauts (24 + 4 beyond low Earth orbit; 12 moonwalkers; December 1972); NASA's
+Voyager pages (one light-day at 10:16 UTC on 18 November 2026, 25.902 billion km; no science or engineering data
+since 14 November, carrier only; launch 5 September 1977; about 68 KB of memory by NASA's informal estimate; the
+Golden Record's contents); Wikipedia's list of missions to Mars (two working on the surface, six orbiters listed as
+operational: the health of two of them was not checked against agency pages, hence "if all of them still answer");
+NASA's blog of 19 November 2026 (Perseverance's primary UHF radio failed on 30 October 2026, direct-to-Earth
+X-band); MAVEN (contact lost 6 December 2025, declared unrecoverable in June 2026: Space.com); NASA's blog of 12
+October 2026 (Perseverance 45.22 km on sol 2,006, past Opportunity's 45.16 km; AutoNav over "more than 90%" of its
+distance against about 5% for Spirit and Opportunity); JPL, 30 January 2026 (the drives of 8 and 10 December 2025,
+210 m and 246 m, waypoints set by Claude models from orbital images, checked in a digital twin); Opportunity (90
+sols planned, last contact on sol 5,111, June 2018); JPL's release of 30 May 2013 (1.8 mSv a day in cruise) and
+the abstract of Zeitlin et al., *Science* 340 (round trip 0.66 ± 0.12 Sv); NASA-STD-3001 through the OCHMO brief
+(career limit 600 mSv); OCHMO-TB-002 (0.77–1.08 kg of oxygen a day) and NASA's note of June 2023 (about a gallon of
+water a day; 98% recovery); bone loss 1–1.5% a month (NASA); Mars DRA 5.0, executive summary of 2008 (825 t nuclear
+thermal, 1,252 t chemical; crew of six, about 900 days); the MMRTG, about 110 W at launch (NASA, for Perseverance);
+signal delay about 4 to about 24 minutes (NASA Goddard); Squyres as quoted by Crawford (arXiv 1203.6250: *Roving
+Mars*, 2005, pp. 234–5; the book itself not opened) and in Space.com (15 July 2009); Crawford's figures (35.7 km
+in three days; Opportunity 34.4 km in eight years); the Planetary Society on the cost of Perseverance (2.725
+billion dollars); H. W. Jones, NASA Ames, 2016 (abstract: "could cost half a trillion dollars"; not an official
+estimate); UN WPP 2024, medium variant, through Our World in Data (2026: births 132.50 million, deaths 63.64
+million, increase 69.07 million; per day by division); a tally of mid-November 2026 (651 people have reached orbit;
+a secondary page citing Spacefacts); Wikipedia's "2025 in spaceflight" (8 crewed orbital flights, 28 people);
+Wikipedia on Antarctica (about 5,000 and 1,000; "at least 11" births, which rests on a 2020 Medium article); FCC
+approval of 25 November 2026 (GeekWire, CNBC: up to one million satellites, first operating by 2033, the lot by
+2040; pending requests of 88,000, 51,600 and 20,000); Google's post of 4 November 2025 ("up to 8 times more
+productive", a dawn–dusk sun-synchronous orbit) and arXiv 2511.19468 (replacement by technicians "obviously
+impracticable"); TechCrunch, 30 October 2026 (four chips, one at a time, about 20 minutes, a haiku); GeekWire,
+December 2025 (a 130-pound satellite with one chip trained NanoGPT on Shakespeare); the State Council page on the
+twelve Chinese satellites of May 2025; Starcloud's white paper (633 W per square metre net, hence about 1,600 m²
+a megawatt; the trade press gives about 1,200); IEA, 2026 (485 TWh in 2025); NASA Earth Observatory (about 1,360
+W/m²); JPL on the 10,932,295 names (2020); LROC, 2012 (five flags casting shadows; Aldrin on the sixth) and the
+Apollo Lunar Surface Journal (Spudis's "bleached white", an expectation; ordinary nylon); JPL, 2019 (the
+retroreflectors still in use; no 2025–2026 source read); JPL Horizons (Mars in Leo, rising late in the evening;
+opposition 19 February 2027). **Secondary, not read in the original**: the February 2026 post about a town on the
+Moon first and Mars "in about 5 to 7 years" (a tracker site quoting it); the hundred seats of the big ship (a
+search snippet). **Computed**: 25.9 billion km / 406,771 km ≈ 63,700; 189,000 / 28 ≈ 6,750; 189,000 / 100 ≈ 1,900;
+825–1,252 t / 6 ≈ 140–210 t a head; 500 / 2.7 ≈ 185. **From the writer's memory**: the craft of 1977 weighs under
+a tonne; the rover about a tonne; five kilometres of breathable air; five hundred million years behind the palm
+(the figure of 16); the first steam engine at a mine; Oleg's year at school in 1972 (invented, consistent with his
+second year at the plant in 1984). The author's sources: the comment under 07 of 2 November 2011 ("Мне такая точка
+зрения хорошо известна. Но я намерен ее оспорить... А он ничем не управляет"); under 14, 3 June 2012 ("Будет
+строить там, где сочтет нужным. Пусть даже и в космосе. Но для строительства нужен... МАТЕРИАЛ!!! Который
+изначально доступен только на Земле... Потому что уже развивается, около миллиона лет"); the forum, December 2016
+("марсоход должен ХОТЕТЬ выполнить определенную задачу"; "До Марса радиосигнал в одну сторону идет более 20
+минут"); the 2015 comments under 11 (paraphrased from the note). Invented for the frame: the dream, the fishing
+trip, the great-nephew at the sea and at the broadcast, the part in store. Not used: Hardin's paper of 1959 (not
+readable), the Dyson sphere and the colonisation of space from the author's forum answer (left for 64), the
+"intelligent cosmic dust" of 29, Polyakov's 437 days, the launch price per kilogram and the escape energy, the
+cancelled sample return, the state of the Moon's own robots, the names of all people, craft and companies.
+
+**Figures**: `how-far-a-man-and-how-far-a-machine` (the logarithmic scale of distance), `what-the-road-asks-for`
+(the table of the fishing list), `one-day-of-growth-and-all-who-flew` (three bars).
+
+**Left for later**: what becomes of the one who has reached everything it wanted, and why it should want to go
+anywhere at all → 62 (Oleg's last doubt: "If I am warm and fed and nobody is chasing me, I do not go anywhere. I
+would not go for firewood... So why should it? Sitting in the dry, with a sun that does not set"; he did not go for
+firewood this evening, Andrey brought it; the plan's epigraph of 62, "Laziness is the engine of progress. — An
+engine. Until it reaches the switch", is not spent); a row "where it lives" for the portrait (no head start
+anywhere, so it goes where it is dry and cold; hands do not reach, so it mends itself or is thrown away; it carries
+a memory of the man) and the author's Dyson sphere → 64; the two marks of 61 (Mars machines only by the autumn of
+2036; a man on the Moon by the autumn of 2031) → 67; things to watch, not marks: what flies in orbit and thinks, and
+whether it is ever mended there; whether the craft of 1977 speaks again is not followed; the outcome of Oleg's
+court is still free for a later opening.

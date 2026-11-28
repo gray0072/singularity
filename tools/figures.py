@@ -6041,6 +6041,182 @@ def who_asked_found_checked_understood(lang):
     return f
 
 
+# --- 61. Why Only Robots Live on Mars ---------------------------------------------------------
+
+@figure("how-far-a-man-and-how-far-a-machine")
+def how_far_a_man_and_how_far_a_machine(lang):
+    t = {
+        "en": dict(title="How far a man has been, and how far a machine",
+                   sub="Distance from the Earth in kilometres, a logarithmic scale: every step to the right is a hundred times further.",
+                   ticks=[(1e3, "1,000 km"), (1e5, "100,000"), (1e7, "10 million"), (1e9, "1 billion"),
+                          (1e11, "100 billion km")],
+                   rows=[("the orbital stations", "about a dozen people live there today", 400, "400 km", 0),
+                         ("the Moon: the furthest a man has been", "April 2026; 28 people in all of history", 406771,
+                          "406,771 km · 1.36 light-seconds", 0),
+                         ("Mars, at its furthest", "8 working machines, no people", 4.0e8,
+                          "56–400 million km", 1),
+                         ("the craft launched in 1977", "reached on 18 November 2026", 2.59e10,
+                          "25.9 billion km · one light-day", 1)],
+                   legend=["people have been there", "machines only"],
+                   src="The record of April 2026 and the mark of 18 November 2026: the space agency's releases. The count on Mars: two on the ground\n"
+                       "and six in orbit listed as working on 28 November 2026; one of the two is talking to the Earth on a backup radio."),
+        "ru": dict(title="Как далеко бывал человек и как далеко машина",
+                   sub="Расстояние от Земли в километрах, логарифмическая шкала: каждый шаг вправо — в сто раз дальше.",
+                   ticks=[(1e3, "1000 км"), (1e5, "100 000"), (1e7, "10 млн"), (1e9, "1 млрд"),
+                          (1e11, "100 млрд км")],
+                   rows=[("орбитальные станции", "сегодня там живёт около дюжины человек", 400, "400 км", 0),
+                         ("Луна: дальше человек не бывал", "апрель 2026; 28 человек за всю историю", 406771,
+                          "406 771 км · 1,36 световой секунды", 0),
+                         ("Марс, в самой дальней точке", "8 работающих машин, людей нет", 4.0e8,
+                          "56–400 млн км", 1),
+                         ("аппарат, запущенный в 1977 году", "достигнуто 18 ноября 2026", 2.59e10,
+                          "25,9 млрд км · один световой день", 1)],
+                   legend=["там бывали люди", "только машины"],
+                   src="Рекорд апреля 2026 года и отметка 18 ноября 2026 года — по сообщениям космического агентства. Счёт на Марсе: двое на грунте\n"
+                       "и шестеро на орбите числятся рабочими на 28 ноября 2026 года; один из двоих говорит с Землёй по запасному радио."),
+    }[lang]
+    f = Fig(760, 402, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, top, row_h = 300, 720, 96, 50
+    n = len(t["rows"])
+
+    def sx(v):
+        return log_x(v, 100, 1e11, x0, x1)
+
+    for v, label in t["ticks"]:
+        f.line(sx(v), top - 6, sx(v), top + n * row_h, color=GRID, width=1)
+        f.text(sx(v), top + n * row_h + 18, label, size=11, color=MUTED,
+               anchor="end" if v == 1e11 else "middle")
+    colors = [ORANGE, BLUE]
+    for i, (name, who, v, val, kind) in enumerate(t["rows"]):
+        y = top + i * row_h
+        f.text(28, y + 21, name, size=13, color=INK, weight="600")
+        f.text(28, y + 37, who, size=11, color=MUTED)
+        f.rect(x0, y + 12, max(sx(v) - x0, 3), 20, fill=colors[kind], r=3)
+        if sx(v) > 560:
+            f.text(sx(v) - 8, y + 27, val, size=12, color="#ffffff", anchor="end", weight="600")
+        else:
+            f.text(sx(v) + 8, y + 27, val, size=12, color=INK, weight="600")
+    ly = top + n * row_h + 46
+    lx = 28
+    for k, label in enumerate(t["legend"]):
+        f.rect(lx, ly - 10, 14, 12, fill=colors[k], r=2)
+        f.text(lx + 20, ly, label, size=12, color=INK2)
+        lx += 44 + len(label) * 7.2
+    f.text(28, ly + 32, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-the-road-asks-for")
+def what_the_road_asks_for(lang):
+    t = {
+        "en": dict(title="What the road asks for",
+                   sub="A table in the ash: Oleg's fishing list, written out for a road of two and a half years.",
+                   head=["a man", "a machine"],
+                   rows=[("air", "on the Earth it is there for nothing", "about 1 kg of oxygen a day", "none"),
+                         ("water and food", "98% of the water is turned round",
+                          "about 4 litres a day,\nand the plant that turns it round", "a lump of plutonium:\n110 watts"),
+                         ("the dose, there and back", "measured on the road in 2011–2012",
+                          "0.66 sievert;\nthe limit for a career is 0.6", "minds it less;\nnobody counts its career"),
+                         ("waiting", "when there is nothing to do", "eats and breathes\nevery day", "sleeps for a month"),
+                         ("the way back", "and the fuel for it", "has to have one", "none was bought"),
+                         ("in all", "before the start", "825–1,250 tonnes in orbit\nfor six people",
+                          "about a tonne on the ground:\none rover")],
+                   src="Oxygen, water and the career limit: the space agency's technical briefs (2023). The dose: the instrument inside the rover\n"
+                       "of 2012. The tonnes: the agency's plan of 2008 for six people and about 900 days. The rover's tonne is a rounded figure."),
+        "ru": dict(title="Что просит дорога",
+                   sub="Таблица на золе: рыбацкий список Олега, расписанный на дорогу в два с половиной года.",
+                   head=["человек", "машина"],
+                   rows=[("воздух", "на Земле он даром", "около 1 кг кислорода в сутки", "не нужен"),
+                         ("вода и еда", "98% воды идёт по кругу",
+                          "около 4 литров в сутки\nи установка, которая гонит по кругу", "кусок плутония:\n110 ватт"),
+                         ("доза, туда и обратно", "измерена в дороге в 2011–2012 годах",
+                          "0,66 зиверта;\nпредел на всю карьеру — 0,6", "переносит легче;\nкарьеру ей не считают"),
+                         ("ожидание", "когда делать нечего", "ест и дышит\nкаждый день", "спит месяц"),
+                         ("дорога назад", "и топливо на неё", "обязательна", "билет не покупали"),
+                         ("итого", "до старта", "825–1250 тонн на орбите\nна шестерых",
+                          "около тонны на грунте:\nодин марсоход")],
+                   src="Кислород, вода и предел на карьеру — технические записки космического агентства (2023). Доза — прибор внутри марсохода\n"
+                       "2012 года. Тонны — план агентства 2008 года на шестерых и около 900 суток. Тонна марсохода — округление."),
+    }[lang]
+    f = Fig(760, 492, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [250, 500, 736]
+    top, head_h, row_h = 84, 30, 56
+    colors = [ORANGE, BLUE]
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 20, label, size=12.5, color=colors[k], anchor="middle", weight="600")
+    for i, (name, who, *cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        last = i == len(t["rows"]) - 1
+        f.line(28, y, cols[-1], y, color=INK2 if last else GRID, width=1.2)
+        f.text(34, y + row_h / 2 - 3, name, size=13.5, color=INK, weight="600")
+        f.text(34, y + row_h / 2 + 14, who, size=11, color=MUTED)
+        for k, cell in enumerate(cells):
+            cx = (cols[k] + cols[k + 1]) / 2
+            lines = cell.split("\n")
+            y0 = y + row_h / 2 + 5 - (len(lines) - 1) * 8
+            for j, line in enumerate(lines):
+                f.text(cx, y0 + j * 16, line, size=12, color=colors[k] if last else INK, anchor="middle",
+                       weight="600" if last else "normal")
+    bottom = top + head_h + len(t["rows"]) * row_h
+    f.line(28, bottom, cols[-1], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("one-day-of-growth-and-all-who-flew")
+def one_day_of_growth_and_all_who_flew(lang):
+    t = {
+        "en": dict(title="One day of growth, and everybody who ever flew",
+                   sub="People, a logarithmic scale: every step to the right is ten times more.",
+                   ticks=[(10, "10"), (100, "100"), (1e3, "1,000"), (1e4, "10,000"), (1e5, "100,000"), (1e6, "a million")],
+                   rows=[("added to mankind in one day", "2026: 363 thousand born, 174 thousand died", 189000,
+                          "189,000", 0),
+                         ("reached orbit in all 65 years", "from April 1961 to November 2026", 651, "about 650", 1),
+                         ("launched into orbit in a year", "2025, eight flights", 28, "28", 1)],
+                   out="To stop the growth by carrying people away, the upper bar would have to lift off every day.",
+                   src="Births and deaths: the United Nations' projection (2024 revision, medium variant). Those who reached orbit: a tally of\n"
+                       "mid-November 2026. The year 2025: a count of crewed orbital flights."),
+        "ru": dict(title="Один день прироста и все, кто когда-либо летал",
+                   sub="Люди, логарифмическая шкала: каждый шаг вправо — в десять раз больше.",
+                   ticks=[(10, "10"), (100, "100"), (1e3, "1000"), (1e4, "10 000"), (1e5, "100 000"), (1e6, "миллион")],
+                   rows=[("прибавилось людей за один день", "2026: 363 тысячи родились, 174 тысячи умерли", 189000,
+                          "189 000", 0),
+                         ("побывали на орбите за все 65 лет", "с апреля 1961-го по ноябрь 2026-го", 651, "около 650", 1),
+                         ("запущено на орбиту за год", "2025, восемь полётов", 28, "28", 1)],
+                   out="Чтобы остановить рост вывозом, верхняя полоса должна стартовать каждый день.",
+                   src="Рождения и смерти — прогноз ООН (пересмотр 2024 года, средний вариант). Побывавшие на орбите — подсчёт на середину\n"
+                       "ноября 2026 года. 2025 год — счёт пилотируемых орбитальных полётов."),
+    }[lang]
+    f = Fig(760, 356, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, top, row_h = 300, 720, 96, 52
+    n = len(t["rows"])
+
+    def sx(v):
+        return log_x(v, 10, 1e6, x0, x1)
+
+    for v, label in t["ticks"]:
+        f.line(sx(v), top - 6, sx(v), top + n * row_h, color=GRID, width=1)
+        f.text(sx(v), top + n * row_h + 18, label, size=11, color=MUTED,
+               anchor="end" if v == 1e6 else ("start" if v == 10 else "middle"))
+    colors = [RED, ORANGE]
+    for i, (name, who, v, val, kind) in enumerate(t["rows"]):
+        y = top + i * row_h
+        f.text(28, y + 22, name, size=13, color=INK, weight="600")
+        f.text(28, y + 38, who, size=11, color=MUTED)
+        f.rect(x0, y + 13, max(sx(v) - x0, 3), 20, fill=colors[kind], r=3)
+        if sx(v) > 600:
+            f.text(sx(v) - 8, y + 28, val, size=12, color="#ffffff", anchor="end", weight="600")
+        else:
+            f.text(sx(v) + 8, y + 28, val, size=12, color=INK, weight="600")
+    by = top + n * row_h + 50
+    f.text(28, by, t["out"], size=13, color=INK, weight="600")
+    f.text(28, by + 30, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="402" viewBox="0 0 760 402" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Как далеко бывал человек и как далеко машина</title>
+
+<rect x="0.5" y="0.5" width="759" height="401" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Как далеко бывал человек и как далеко машина</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Расстояние от Земли в километрах, логарифмическая шкала: каждый шаг вправо — в сто раз дальше.</text>
+<line x1="346.7" y1="90.0" x2="346.7" y2="296.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="346.7" y="314.0" font-size="11" fill="#8a8985" text-anchor="middle">1000 км</text>
+<line x1="440.0" y1="90.0" x2="440.0" y2="296.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="440.0" y="314.0" font-size="11" fill="#8a8985" text-anchor="middle">100 000</text>
+<line x1="533.3" y1="90.0" x2="533.3" y2="296.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="533.3" y="314.0" font-size="11" fill="#8a8985" text-anchor="middle">10 млн</text>
+<line x1="626.7" y1="90.0" x2="626.7" y2="296.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="626.7" y="314.0" font-size="11" fill="#8a8985" text-anchor="middle">1 млрд</text>
+<line x1="720.0" y1="90.0" x2="720.0" y2="296.0" stroke="#e9e8e4" stroke-width="1" stroke-linecap="round"/>
+<text x="720.0" y="314.0" font-size="11" fill="#8a8985" text-anchor="end">100 млрд км</text>
+<text x="28.0" y="117.0" font-size="13" fill="#0b0b0b" font-weight="600">орбитальные станции</text>
+<text x="28.0" y="133.0" font-size="11" fill="#8a8985">сегодня там живёт около дюжины человек</text>
+<rect x="300.0" y="108.0" width="28.1" height="20.0" rx="3" fill="#eb6834"/>
+<text x="336.1" y="123.0" font-size="12" fill="#0b0b0b" font-weight="600">400 км</text>
+<text x="28.0" y="167.0" font-size="13" fill="#0b0b0b" font-weight="600">Луна: дальше человек не бывал</text>
+<text x="28.0" y="183.0" font-size="11" fill="#8a8985">апрель 2026; 28 человек за всю историю</text>
+<rect x="300.0" y="158.0" width="168.4" height="20.0" rx="3" fill="#eb6834"/>
+<text x="476.4" y="173.0" font-size="12" fill="#0b0b0b" font-weight="600">406 771 км · 1,36 световой секунды</text>
+<text x="28.0" y="217.0" font-size="13" fill="#0b0b0b" font-weight="600">Марс, в самой дальней точке</text>
+<text x="28.0" y="233.0" font-size="11" fill="#8a8985">8 работающих машин, людей нет</text>
+<rect x="300.0" y="208.0" width="308.1" height="20.0" rx="3" fill="#2a78d6"/>
+<text x="600.1" y="223.0" font-size="12" fill="#ffffff" text-anchor="end" font-weight="600">56–400 млн км</text>
+<text x="28.0" y="267.0" font-size="13" fill="#0b0b0b" font-weight="600">аппарат, запущенный в 1977 году</text>
+<text x="28.0" y="283.0" font-size="11" fill="#8a8985">достигнуто 18 ноября 2026</text>
+<rect x="300.0" y="258.0" width="392.6" height="20.0" rx="3" fill="#2a78d6"/>
+<text x="684.6" y="273.0" font-size="12" fill="#ffffff" text-anchor="end" font-weight="600">25,9 млрд км · один световой день</text>
+<rect x="28.0" y="332.0" width="14.0" height="12.0" rx="2" fill="#eb6834"/>
+<text x="48.0" y="342.0" font-size="12" fill="#52514e">там бывали люди</text>
+<rect x="180.0" y="332.0" width="14.0" height="12.0" rx="2" fill="#2a78d6"/>
+<text x="200.0" y="342.0" font-size="12" fill="#52514e">только машины</text>
+<text x="28.0" y="374.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Рекорд апреля 2026 года и отметка 18 ноября 2026 года — по сообщениям космического агентства. Счёт на Марсе: двое на грунте</tspan><tspan x="28.0" dy="14.4">и шестеро на орбите числятся рабочими на 28 ноября 2026 года; один из двоих говорит с Землёй по запасному радио.</tspan></text>
+</svg>
