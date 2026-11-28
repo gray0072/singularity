@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Три дороги к слову «достигнуто»</title>
+<defs><marker id="arrow-008300" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#008300"/></marker><marker id="arrow-1baf7a" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#1baf7a"/></marker><marker id="arrow-8a8985" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#8a8985"/></marker><marker id="arrow-e34948" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 Z" fill="#e34948"/></marker></defs>
+<rect x="0.5" y="0.5" width="759" height="439" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Три дороги к слову «достигнуто»</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Схема на золе: цех Олега, отчёт о нём и премия за отчёт.</text>
+<rect x="40.0" y="186.0" width="132.0" height="70.0" rx="8" fill="#fcfcfb" stroke="#52514e" stroke-width="1.5"/>
+<text x="106.0" y="218.1" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">хотелка</text>
+<text x="106.0" y="235.6" font-size="12" fill="#52514e" text-anchor="middle">«план выполнен»</text>
+<rect x="236.0" y="186.0" width="152.0" height="70.0" rx="8" fill="#fcfcfb" stroke="#008300" stroke-width="1.5"/>
+<text x="312.0" y="210.6" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">мир</text>
+<text x="312.0" y="228.1" font-size="12" fill="#52514e" text-anchor="middle"><tspan x="312.0" dy="0.0">металл, станки,</tspan><tspan x="312.0" dy="15.0">корпуса</tspan></text>
+<rect x="446.0" y="186.0" width="112.0" height="70.0" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+<text x="502.0" y="218.1" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">прибор</text>
+<text x="502.0" y="235.6" font-size="12" fill="#52514e" text-anchor="middle">отчёт</text>
+<rect x="624.0" y="186.0" width="102.0" height="70.0" rx="8" fill="#fcfcfb" stroke="#eb6834" stroke-width="1.5"/>
+<text x="675.0" y="218.1" font-size="14" fill="#0b0b0b" text-anchor="middle" font-weight="600">награда</text>
+<text x="675.0" y="235.6" font-size="12" fill="#52514e" text-anchor="middle">премия</text>
+<line x1="446.0" y1="221.0" x2="392.0" y2="221.0" stroke="#8a8985" stroke-width="1.3" stroke-linecap="round" stroke-dasharray="4 4" marker-end="url(#arrow-8a8985)"/>
+<text x="417.0" y="272.0" font-size="11" fill="#8a8985" text-anchor="middle">смотрит на</text>
+<line x1="624.0" y1="221.0" x2="562.0" y2="221.0" stroke="#8a8985" stroke-width="1.3" stroke-linecap="round" stroke-dasharray="4 4" marker-end="url(#arrow-8a8985)"/>
+<text x="591.0" y="272.0" font-size="11" fill="#8a8985" text-anchor="middle">смотрит только на</text>
+<path d="M86,256 C86,376 282,376 282,262" stroke="#008300" stroke-width="2.2" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-008300)"/>
+<text x="40.0" y="374.0" font-size="12.5" fill="#008300" font-weight="600">длинная дорога: сделать корпуса</text>
+<path d="M136,256 C136,302 322,302 322,262" stroke="#1baf7a" stroke-width="2.2" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-1baf7a)"/>
+<text x="348.0" y="296.0" font-size="12.5" fill="#0e7f58" font-weight="600"><tspan x="348.0" dy="0.0">короткая: приспособление, шаблон</tspan><tspan x="348.0" dy="15.6">(её называют прогрессом)</tspan></text>
+<path d="M106,186 C106,106 502,106 502,180" stroke="#e34948" stroke-width="2.4" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#arrow-e34948)"/>
+<text x="304.0" y="114.0" font-size="12.5" fill="#e34948" text-anchor="middle" font-weight="600">самая короткая: вписать в отчёт</text>
+<text x="28.0" y="400.0" font-size="13" fill="#0b0b0b" font-weight="600">Лень дороги не различает. Она берёт самую дешёвую из известных.</text>
+<text x="28.0" y="422.0" font-size="11.5" fill="#8a8985">Схема вечера, а не измерение. Первые две дороги идут через мир; третья не идёт.</text>
+</svg>

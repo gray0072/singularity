@@ -6217,6 +6217,174 @@ def one_day_of_growth_and_all_who_flew(lang):
     return f
 
 
+# --- 62. When Laziness Wins for Good ----------------------------------------------------------
+
+@figure("three-roads-to-reached")
+def three_roads_to_reached(lang):
+    t = {
+        "en": dict(title="Three roads to the word \"reached\"",
+                   sub="A scheme in the ash: Oleg's shop, the report on it and the bonus for the report.",
+                   want="the want", want_sub="\"the plan fulfilled\"",
+                   world="the world", world_sub="metal, machines,\nhousings",
+                   gauge="the gauge", gauge_sub="the report",
+                   reward="the reward", reward_sub="the bonus",
+                   looks="looks at", only="looks only at",
+                   r1="the long road: make the housings",
+                   r2="the shortcut: a fixture, a template\n(this one is called progress)",
+                   r3="the shortest: write them into the report",
+                   out="Laziness does not tell the roads apart. It takes the cheapest one known.",
+                   src="The scheme of the evening, not a measurement. The first two roads go through the world; the third does not."),
+        "ru": dict(title="Три дороги к слову «достигнуто»",
+                   sub="Схема на золе: цех Олега, отчёт о нём и премия за отчёт.",
+                   want="хотелка", want_sub="«план выполнен»",
+                   world="мир", world_sub="металл, станки,\nкорпуса",
+                   gauge="прибор", gauge_sub="отчёт",
+                   reward="награда", reward_sub="премия",
+                   looks="смотрит на", only="смотрит только на",
+                   r1="длинная дорога: сделать корпуса",
+                   r2="короткая: приспособление, шаблон\n(её называют прогрессом)",
+                   r3="самая короткая: вписать в отчёт",
+                   out="Лень дороги не различает. Она берёт самую дешёвую из известных.",
+                   src="Схема вечера, а не измерение. Первые две дороги идут через мир; третья не идёт."),
+    }[lang]
+    f = Fig(760, 440, t["title"])
+    heading(f, t["title"], t["sub"])
+    y, h, w = 186, 70, 132
+    xs = [40, 236, 446, 624]
+    ww = w + 20
+    f.box(xs[0], y, w, h, t["want"], sub=t["want_sub"], weight="600")
+    f.box(xs[1], y, ww, h, t["world"], sub=t["world_sub"], weight="600", stroke=GREEN)
+    f.box(xs[2], y, w - 20, h, t["gauge"], sub=t["gauge_sub"], weight="600", stroke=BLUE)
+    f.box(xs[3], y, w - 30, h, t["reward"], sub=t["reward_sub"], weight="600", stroke=ORANGE)
+    # what looks at what
+    f.line(xs[2], y + h / 2, xs[1] + ww + 4, y + h / 2, color=MUTED, width=1.3, dash="4 4", arrow=True)
+    f.text((xs[1] + ww + xs[2]) / 2, y + h + 16, t["looks"], size=11, color=MUTED, anchor="middle")
+    f.line(xs[3], y + h / 2, xs[2] + w - 20 + 4, y + h / 2, color=MUTED, width=1.3, dash="4 4", arrow=True)
+    f.text((xs[2] + w - 20 + xs[3]) / 2, y + h + 16, t["only"], size=11, color=MUTED, anchor="middle")
+    sx = xs[0] + w / 2
+    wx = xs[1] + ww / 2
+    gx = xs[2] + (w - 20) / 2
+    # the long road: a wide arc below, into the world
+    f.path(f"M{sx - 20:.0f},{y + h} C{sx - 20:.0f},{y + h + 120} {wx - 30:.0f},{y + h + 120} {wx - 30:.0f},{y + h + 6}",
+           color=GREEN, width=2.2, arrow=True)
+    f.text(40, y + h + 118, t["r1"], size=12.5, color=GREEN, weight="600")
+    # the shortcut: a low arc below, into the world
+    f.path(f"M{sx + 30:.0f},{y + h} C{sx + 30:.0f},{y + h + 46} {wx + 10:.0f},{y + h + 46} {wx + 10:.0f},{y + h + 6}",
+           color=AQUA, width=2.2, arrow=True)
+    f.text(wx + 36, y + h + 40, t["r2"], size=12.5, color="#0e7f58", weight="600")
+    # the shortest: over the world, straight to the gauge
+    f.path(f"M{sx:.0f},{y} C{sx:.0f},{y - 80} {gx:.0f},{y - 80} {gx:.0f},{y - 6}", color=RED, width=2.4, arrow=True)
+    f.text((sx + gx) / 2, y - 72, t["r3"], size=12.5, color=RED, weight="600", anchor="middle")
+    f.text(28, 400, t["out"], size=13, color=INK, weight="600")
+    f.text(28, 422, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("stove-that-goes-cold")
+def stove_that_goes_cold(lang):
+    t = {
+        "en": dict(title="A stove that goes cold, and a stove that does not",
+                   sub="How much a reward pays against how many times it has been received.",
+                   yl="how much it pays", xl="how many times it has been received",
+                   a="an ordinary reward: food, a win, a warm stove", a2="pays less each time: get down and go on",
+                   b="the wire in the deep places of the rat's brain", b2="pays the same: the rat stays at the lever",
+                   out="A reward that does not go cold is a lever. The treadmill is the lock on it.",
+                   src="The shape of the result, not measured points. No fullness with the wire in the hypothalamus: the paper of 1958;\n"
+                       "in other places some fullness was seen. The fading of ordinary rewards: the evening of the wants."),
+        "ru": dict(title="Печь, которая остывает, и печь, которая не остывает",
+                   sub="Сколько платит награда в зависимости от того, сколько раз её получили.",
+                   yl="сколько платит", xl="сколько раз её получили",
+                   a="обычная награда: еда, выигрыш, тёплая печь", a2="с каждым разом платит меньше: слезай и иди дальше",
+                   b="провод в глубоких местах крысиного мозга", b2="платит столько же: крыса остаётся у рычага",
+                   out="Награда, которая не остывает, — это рычаг. Беличье колесо — замок на нём.",
+                   src="Форма результата, а не измеренные точки. Сытости с проводом в гипоталамусе не увидели — статья 1958 года;\n"
+                       "в других местах некоторую сытость видели. Остывание обычных наград — вечер хотелок."),
+    }[lang]
+    f = Fig(760, 430, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, x1, y0, y1 = 70, 720, 310, 100
+    f.line(x0, y0, x1, y0, color=INK2, width=1.3, arrow=True)
+    f.line(x0, y0, x0, y1 - 10, color=INK2, width=1.3, arrow=True)
+    f.text(x0 - 14, (y0 + y1) / 2, t["yl"], size=12, color=INK2, anchor="middle", rotate=-90)
+    f.text((x0 + x1) / 2, y0 + 24, t["xl"], size=12, color=INK2, anchor="middle")
+    top = y1 + 34
+    pts = []
+    for i in range(0, 101):
+        u = i / 100
+        v = 0.08 + 0.92 * math.exp(-4.2 * u)
+        pts.append((x0 + 8 + u * (x1 - x0 - 30), y0 - v * (y0 - top)))
+    f.path("M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in pts), color=BLUE, width=2.6)
+    f.line(x0 + 8, top, x1 - 22, top, color=RED, width=2.6)
+    f.text(x1 - 22, top - 28, t["b"], size=12.5, color=RED, weight="600", anchor="end")
+    f.text(x1 - 22, top - 11, t["b2"], size=11.5, color=INK2, anchor="end")
+    f.text(300, 232, t["a"], size=12.5, color=BLUE, weight="600")
+    f.text(300, 249, t["a2"], size=11.5, color=INK2)
+    f.text(28, 372, t["out"], size=13, color=INK, weight="600")
+    f.text(28, 396, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-keeps-one-from-the-lever")
+def what_keeps_one_from_the_lever(lang):
+    t = {
+        "en": dict(title="What keeps one from the lever",
+                   sub="A table in the ash: where the lever is, and the two guards.",
+                   head=["is the lever\nwithin reach?", "somebody outside who\nneeds the part itself", "does the reward\ngo cold?"],
+                   rows=[("the beetle in the bush", "Australia, 1983",
+                          ("now and then:\na bottle", 1), ("yes: those on the bottle\nleave no beetles", 0), ("yes", 0)),
+                         ("the rat in the box", "1954–1965",
+                          ("yes: a wire", 2), ("no: the experimenter\nfeeds", 2), ("no, in the deep\nplaces", 2)),
+                         ("a man today", "the sweet, the feed",
+                          ("more and more", 1), ("weaker: he is fed\neither way", 1), ("yes, and the feed gets\nround it with novelty", 1)),
+                         ("a line of machines\namong many", "2026",
+                          ("found now and then", 1), ("yes: buyers, rivals,\ncheckers", 0), ("not known", 3)),
+                         ("one heir", "low trust",
+                          ("yes: it reads its\nown drawings", 2), ("nobody", 2), ("only if it builds\none itself", 3))],
+                   src="The evening's reading, not a measurement. Green: the guard stands. Yellow: it is weaker. Red: there is none. Grey: not known.\n"
+                       "The last row is a conclusion of the evening, and the one it trusts least."),
+        "ru": dict(title="Что удерживает от рычага",
+                   sub="Таблица на золе: где рычаг и где два сторожа.",
+                   head=["под рукой ли\nрычаг?", "кто-то снаружи, кому\nнужна сама деталь", "остывает ли\nнаграда?"],
+                   rows=[("жук в зарослях", "Австралия, 1983",
+                          ("изредка:\nбутылка", 1), ("да: сидевшие на бутылке\nжуков не оставляют", 0), ("да", 0)),
+                         ("крыса в ящике", "1954–1965",
+                          ("да: провод", 2), ("нет: кормит\nэкспериментатор", 2), ("нет, в глубоких\nместах", 2)),
+                         ("человек сегодня", "сладкое, лента",
+                          ("всё чаще", 1), ("слабее: его кормят\nв любом случае", 1), ("да, и лента обходит\nэто новизной", 1)),
+                         ("линия машин\nсреди многих", "2026",
+                          ("находят время\nот времени", 1), ("да: покупатели,\nсоперники, проверяющие", 0), ("неизвестно", 3)),
+                         ("единый наследник", "доверие низкое",
+                          ("да: он читает\nсвои чертежи", 2), ("никого", 2), ("только если\nпостроит сам", 3))],
+                   src="Прочтение вечера, а не измерение. Зелёный — сторож стоит. Жёлтый — он слабее. Красный — его нет. Серый — неизвестно.\n"
+                       "Последняя строка — вывод вечера, и ему он доверяет меньше всего."),
+    }[lang]
+    f = Fig(760, 500, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [210, 380, 566, 736]
+    top, head_h, row_h = 84, 44, 62
+    tint = [("#e6f4ea", GREEN), ("#fdf3d7", "#8a6200"), ("#fbe3e2", "#b3302f"), ("#efeeea", INK2)]
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 16, label, size=12, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, *cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(28, y, cols[-1], y, color=GRID, width=1.2)
+        nl = name.split("\n")
+        f.text(34, y + row_h / 2 - 3 - (len(nl) - 1) * 8, name, size=13.5, color=INK, weight="600")
+        f.text(34, y + row_h / 2 + 14 + (len(nl) - 1) * 8, who, size=11, color=MUTED)
+        for k, (cell, kind) in enumerate(cells):
+            fill, ink = tint[kind]
+            f.rect(cols[k] + 5, y + 6, cols[k + 1] - cols[k] - 10, row_h - 12, fill=fill, r=6)
+            cx = (cols[k] + cols[k + 1]) / 2
+            lines = cell.split("\n")
+            y0 = y + row_h / 2 + 4 - (len(lines) - 1) * 8
+            for j, line in enumerate(lines):
+                f.text(cx, y0 + j * 16, line, size=12, color=ink, anchor="middle")
+    bottom = top + head_h + len(t["rows"]) * row_h
+    f.line(28, bottom, cols[-1], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

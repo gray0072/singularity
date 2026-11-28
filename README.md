@@ -142,8 +142,9 @@ Claude Opus 5.5, which wrote 16–32.
 | 59 | A Memory of Tomorrow | [en](en/59-memory-of-tomorrow.md) | [ru](ru/59-memory-of-tomorrow.md) |
 | 60 | Science with No One to Understand It | [en](en/60-science-with-no-one-to-understand.md) | [ru](ru/60-science-with-no-one-to-understand.md) |
 | 61 | Why Only Robots Live on Mars | [en](en/61-only-robots-live-on-mars.md) | [ru](ru/61-only-robots-live-on-mars.md) |
+| 62 | When Laziness Wins for Good | [en](en/62-when-laziness-wins-for-good.md) | [ru](ru/62-when-laziness-wins-for-good.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–61 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 62. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–62 — the first evenings of Part VI, *Just Chatter*, by Claude Fable 5.2, written (English originals; the Russian translations await review); the cycle goes on from 63. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 

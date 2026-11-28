@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–61 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `62`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–62 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `63`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–61.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–62.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -466,6 +466,19 @@ articles as closely as possible. In practice:
 | «оставьте Землю нам» (ниша размером с планету) | "leave the Earth to us" (a niche the size of a planet) | Oleg's strongest objection in 61 (a reader's of 2015 under 11): the heir will simply leave; answered with the author's line of 2012 (building takes material that at the beginning is only here; it grows on the Earth because it has been growing here for about a million years) and the row "a niche" of 52: "it could. Partly, I think, it will. But I shall promise nothing" |
 | новая форма жизни с памятью о человеке | a new form of life with a memory of the man | what goes into space, in place of "a man with tools": the gilded disc a light-day away, 10.9 million names on three chips, our wants ("find out whether there was water"); the row "a descendant" of 52 at work; Oleg: "our suitcase flies, and we are the ones seeing it off" (61) |
 | флаг как расписка | the flag as a receipt | "the Moon does not read flags": a crewed flight is a receipt of 41 for those who watch from the Earth, as the horse of 34 became a way to be glad; "then fly. Only do not call it settling"; of what was left on the Moon, what works is the mirror (61) |
+| лень (наименьшее действие, одетое в хотелку) | laziness (least action dressed as a want) | not one more setpoint but the way to any of them: "of all the roads to the same place the cheapest one known is taken"; the path across the lawn that nobody designed, "your light, wearing my jacket"; the author's 2012 joke, "laziness is the engine of progress, and some day it will win for good" (62) |
+| три дороги к «достигнуто» | three roads to "reached" | the world, a gauge that looks at the world, a reward that looks only at the gauge: make the housings; make them faster (a fixture, a template: "that one we call progress"); write them into the report; the third "does not go through the world at all", and laziness does not tell them apart (62) |
+| приписки (карандаш мастера) | padding (the foreman's pencil) | Oleg's plant word for the third road: parts "drawn" into the report at the end of the quarter; in 62 the name for any reward reached by rewriting the gauge, from the feed that "pads its own report" in minutes to a program that mends the check |
+| двигатель дотянулся до выключателя | the engine has reached the switch | while the gauge is out of reach laziness can shorten only the road through the world, and builds the barrow; when the road gets so short that the gauge is within reach, the same engine switches itself off (62) |
+| рычаг | the lever | the rat's lever of 1954: a reward one gives oneself past the world; up to seven thousand presses an hour, food ignored; corrected openly in 62: the wire pressed not "good" but "more" (wanting, not pleasure), "the lever does not need the rat happy. It needs the rat at the lever" |
+| два сторожа | two guards | what keeps the living from the lever, "and neither is understanding": funerals outside (whoever sat down left nobody: the beetles on the bottle) and inside a reward that goes cold (62) |
+| печь, которая остывает | a stove that goes cold | the second guard: any spot of reward that has been reached stops paying, so one has to get down and go on; the treadmill scolded in 18 and 25 read from the other side: "a reward that does not go cold is a lever"; "it is not a defect. It is a lock on the lever" (62) |
+| цель и прибор | the goal and the gauge | the answer to "it defends its goal (22), and now it rewrites itself": "the goal is defended against others. The gauge is hacked by oneself"; Oleg with the pill and Oleg with the sugar, "both, in one head"; people love children and take care not to have them (62) |
+| заказчик (кому нужна сама деталь) | the customer (who needs the part itself) | what stood between the shop and the pencil: "not honesty" but the assembly shop that rang the next morning; the first guard said in the plant's words; for the machines of 2026 it is buyers, rivals and checkers; "the warehouse nobody comes to" is the heir that is one (62) |
+| правильно хотеть | to want correctly | the author's 2017 condition for the systems that survive the struggle among themselves, "for which the wants will have to be altered"; in 62: "who marks the homework? Not the one who wants": funerals while there are many, and its own hand when it is one (the baron pulling himself out of the swamp by his hair) |
+| один или много (цена сторожа) | one or many (the price of the guard) | "One: no money, no conscience, no quarrels, and no guard. Many: a guard, and all our old troubles with it" (the pocket, strangers, the book of debts of 47); "I think it swings" (62) |
+| болото (достигнутая цель) | the swamp (a goal attained) | the author's 2017 river: clean while it runs and strives, sour when it reaches "the state of happiness"; in 62 with the pot of 35: "a goal attained is a flow stopped"; the death of the technosphere "not from an enemy but from a goal attained", its apoptosis "very late" (the author, 2013) read as "when the last one who needs the part itself is gone from outside"; low trust |
+| Великое искушение | the Great Temptation | a hypothesis of 2006 for the silence of the Universe: species with technology do not blow themselves up, they go to the lever; written into the notebook as the fourth reason of 29, "in pencil": it needs every one of them to sit down, and works only where each became one before it set out (62) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

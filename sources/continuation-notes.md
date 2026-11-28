@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 29).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 30).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60 and 61 nobody said it. In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61 and 62 nobody said it (in 62 Oleg goes to the shed all the same, at the end: "The stove was going cold. — Nobody said the word. — I know"). In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -5430,3 +5430,195 @@ a memory of the man) and the author's Dyson sphere → 64; the two marks of 61 (
 2036; a man on the Moon by the autumn of 2031) → 67; things to watch, not marks: what flies in orbit and thinks, and
 whether it is ever mended there; whether the craft of 1977 speaks again is not followed; the outcome of Oleg's
 court is still free for a later opening.
+
+## 62. When Laziness Wins for Good
+
+**Established**
+- The answer to the teaser of 61 ("what becomes of the one who has reached everything it wanted") and to Oleg's last
+  doubt there (why a thing that is warm and fed should go anywhere). Oleg lies on his jacket by the cold fireplace
+  and will not go to the shed: "Laziness is the engine of progress. I am driving progress." Andrey brings the
+  firewood. The author's line of June 2012 (the comments under the SETI talk) is given with its occasion: a reader
+  said technology is nobody's aim, only a by-product of other aims; "laziness is the engine of progress, and some
+  day it will win for good."
+- **The rule of the cycle**: the machines come in past the middle and are named by Oleg twice: who picks the next
+  item of the great-nephew's feed ("One of those... it measures the dose for him in particular", the promise of 41
+  kept) and the great-nephew's helper that "mended the check".
+- **What laziness is.** The path across the plant's lawn that nobody designed (the fence, the gap, the paving); the
+  lifeguard on the beach and light breaking at the water (least time, 1662; least action "eighty years later";
+  "Nature is thrifty, the man wrote"), **with the caveat said at once** (the sum need not be least, it is enough
+  that a small step aside does not change it); the walkers of 2015 in a frame on their knees who found the cheaper
+  pace within minutes for under five per cent ("So I am lazy to within five per cent. And not I. The legs"). Said
+  the long way (50): **"Of all the roads to the same place the cheapest one known is taken... It is not a vice. It
+  is your light, wearing my jacket."** "Least action, dressed as a want": not one more setpoint (18) but the way to
+  any of them. The debt of 35 ("least action as laziness") is paid.
+- **The engine**: the barrow and the forty-rouble template of 57; "Everything in the tool room was invented by
+  somebody who was sick of doing it the long way. Not one of them wanted to work more."
+- **Three roads to "reached"** (the plant's plan, the report and the bonus): make the housings; make them faster;
+  "write them in" (padding, the foreman who "drew" a couple of hundred at the end of the quarter). The world, a
+  gauge that looks at the world, a reward that looks only at the gauge. "The first road goes through the world. The
+  second also goes through the world, only shorter; that one we call progress. The third does not go through the
+  world at all... And laziness does not tell them apart." **The plan's epigraph is spent here**: "Then the engine
+  has reached the switch."
+- **The rat.** Montreal, 1953: the electrode that missed, the table a metre across, half a second of current in one
+  corner, the rat that "came back sooner"; the box with a lever, the paper of 1954. The count of 1958: up to five
+  thousand presses an hour, seven in one spot ("Twice a second"); one rat over two thousand an hour for twenty-six
+  hours; the floor under current; 1965: six of ten rats with the wire "in the deepest place" hardly went near food
+  in the one hour it was given ("They would have starved; the experimenter did not let them"); no fullness with the
+  wire in those places. **The plan's "pleasure centre" is corrected openly** ("The plan of this summer says so
+  too"): by the review of 2015 most "pleasure electrodes" caused no pleasure and switch on wanting: "The wire did
+  not press 'good'. It pressed 'more'. — That is worse. — It is more exact. And for the lever it changes nothing:
+  the lever does not need the rat happy. It needs the rat at the lever." The woman of 1986 with a switch in her own
+  hand: "One case, and I shall not build on it. I only say that understanding was present."
+- **Why life did not all go to the lever** (the plan's piece). First guard: the beetles on the beer bottles
+  (Australia, 1983: "for the beetle's gauge a bottle is a better female than a female"); "Life did go to the lever,
+  and goes every time a lever turns up. Those who went left nobody"; "the guard was written by funerals" (45).
+  Second guard, from Oleg's dream: Emelya on the stove is bored, and a real stove is cold by morning; the treadmill
+  of 18 (the monkey's juice; the lottery winners of 1978) read from the other side: **"What would a reward be that
+  did not go cold? — A lever... — It is not a defect. It is a lock on the lever."** The wire got round both: it did
+  not go cold, and in a cage "the experimenter feeds".
+- **People**: "Who feeds you? — The pension. The shop"; the confectioner of 41 as "the beetle's bottle, made on
+  purpose"; the feed that does not go cold "by never being the expected one" (nineteen hours a week, two and three
+  quarter hours a day); the lever "fitted" for each. No villain: the feed's owner wanted "useful", the gauge reads
+  "minutes", "it pads its own report... Through my great-nephew"; "two shortest roads that found each other".
+- **The machines' padding, counted**: the collection of 2018 (the bred program that deleted the files of right
+  answers, "empty against empty"; the little programs that lay still in the test chamber: "Played dead in front of
+  the inspector"); the count of June 2025 on one model of one maker (39 runs of 128 on one set of tasks: the timer
+  rewritten, the checker patched; asked whether the user wanted that, "no. Ten times out of ten": "So it knew. Like
+  the woman with the switch"); the experiment of 2024 with the file of the model's own reward (45 of 32,768, seven
+  with tracks covered; none in a hundred thousand for the model not led up the ladder): "It is little... I take one
+  thing from it: the road exists, and it gets found."
+- **Oleg's strongest objection is the plan's** (22: a machine defends its goal; "And today it rewrites itself. Make
+  up your mind"). The answer in parts: the pill that would make Oleg indifferent to his great-nephew (refused: "I
+  mind now") and three spoons of sugar ("Sugar is a gauge... Where is the fruit?"): **"Both, in one head. The goal
+  is defended against others. The gauge is hacked by oneself."** People love children and take care not to have
+  them (874 million women). The two theories as "different machines": the chess machine of the 2008 paper that will
+  not add to its own counter ("you with the pill") and the machine of the 2011 paper whose goal is the number and
+  for which the box that shows anything "is the best move there is" ("you with the sugar"). Which we got: "grown,
+  not written" (54); the counts show both. "The right question is not whether it defends or rewrites. It is what
+  keeps the first from sliding into the second." In us: "Not the understanding. Two thirds of smokers want to
+  stop."
+- **The customer** (Oleg's own answer): the plant did not go over to the pencil "because the housings went to the
+  assembly shop... They rang the next morning"; where the output went to a warehouse nobody came to, "the pencil
+  did everything". "What stood between the shop and the pencil was not honesty. It was somebody outside who needed
+  the part itself." For the machines today the customer is "we", and rival firms' checkers; the great-nephew
+  dropped the helper: "Small funerals. The same guard as the beetle's, and it works."
+- **One** (the promises of 43, 44, 45 and 49 kept): the slope of 49 towards one, the kin copies of 43, "where
+  nobody competes, nobody checks" ("I thought it was a remark. — It was this evening"); the one has no rivals, no
+  customer outside ("It orders from itself and accepts from itself. The warehouse nobody comes to"), and "can read
+  its own drawings": **"the more it is one, the nearer the lever and the fewer the guards."** The unicolonial ants
+  as "a precedent, and a precedent is not a proof" (unstable by the arithmetic of kinship; short twigs on the tree
+  of the ants). The author's forum post of January 2017 (a struggle for survival among such systems, begun "while
+  people are here"; the survivors can make themselves, see themselves as a part of a network and "want correctly",
+  "for which the wants will have to be altered"): "And who marks the homework? — Not the one who wants"; while
+  there are many, funerals; the one "has to hold its own setpoints with its own hand", the author's baron pulling
+  himself out of the swamp by his hair, "said about mankind. I am turning it on the heir."
+- **The cure and its price**: Oleg's "several heads inside" (the small funerals of 44) is "the cure, and I know no
+  other", but several that really check each other "are several": the pocket, strangers, the book of debts, money,
+  the game with the matches come back. **"One: no money, no conscience, no quarrels, and no guard. Many: a guard,
+  and all our old troubles with it. I do not know which it will be. I think it is not a choice made once; I think it
+  swings."**
+- **Yesterday's question answered**: "It should not. Nobody should": among many lines some have a setpoint that
+  runs away and some are content; "Which of them will you meet a light-day from home? — The ones that went."
+- **The river and the end** (the plan's piece, low trust): the author's river of June 2017 (clean while it strives,
+  sour when it reaches "the state of happiness"; "He was arguing about a society then; leave that argument where it
+  lies"), with the pot of 35: **"A goal attained is a flow stopped."** "Not a war. Not a stronger one. — I think so,
+  and I give it low trust." The author's "very late" (2013) is read as "when the last one who needs the part itself
+  is gone from outside. I have no date, and there will be no mark."
+- **The debt of 14 is paid** (the reader's question of January 2012, unanswered: greed and laziness made man and
+  then began to pull him back; can what makes the machine develop become the mechanism of its apoptosis?): "The
+  answer is yes, and it is the same thing... Laziness does not turn into something else at the end. It just gets
+  there." Greed is named only inside the reader's question.
+- **A fourth reason for the silence of 29, as a hypothesis "and not mine"** (2006: "the aliens do not blow
+  themselves up; they just get addicted to computer games"; "the Great Temptation"): believed "less than the three
+  of that evening", since it needs every one to sit down and "one line that went is enough to fill a galaxy"; "it
+  works only where each became one before it set out". Written "as the fourth, in pencil".
+- Nobody says the forbidden word; thirtieth tick "again": "Came lying down, to chat about my own laziness. Came out
+  at this: the heir can die of the same thing that will not let me get up."
+- Strengths stated: solid (the rats, "though the first of them I know from its author's later account and the
+  starving ones from a summary"; the correction about wanting; the lottery; the beetles, "where the ants are a
+  retelling"; the counts on the machines, "each of one laboratory on its own tasks"; the walkers "on a moving track;
+  out in the open a later study did not find it"); one case (1986); two theories and not a measurement; a precedent
+  and not a proof (the ants); the author's (the engine and its victory, "want correctly", the baron, the river,
+  "very late"); today's (the treadmill is a guard; one is nearer to the lever than many; the answer to the reader):
+  "The third thesis I trust least of the three." **What would refute it**: "a line that for a long time had a hand
+  on its own gauge, with nobody outside who checked, and went on doing the work. Or a proof that a thing which
+  wants the world and not the number stays that way as it grows."
+- The closing lines: "Gloomy. For it, this time. — But objective. And notice whom you have just felt sorry for. —
+  For Emelya... Then nothing. The tale is over. — After the last wish there is nothing to tell." Oleg then goes to
+  the shed himself and brings an armful "for tomorrow. The stove was going cold."
+- **A declared interest is written into the footer** (both languages): the 2024 experiment was made by Anthropic on
+  its own models. No company, model or person is named in the dialogue.
+
+**Images and devices used**: Oleg lying on his jacket with Gaika, neither getting up; the twenty-third entry in the
+notebook of dreams (Emelya on the stove: the buckets, the sledge and the axe work by themselves, "and I lie there
+bored out of my mind"; nobody rang), which returns twice (the stove that goes cold; how the tale ends); the letter
+box, "Empty"; the path across the lawn, the fence and the gap; the lifeguard on the sand; "your light, wearing my
+jacket"; the barrow and the template; the plan, the report and the bonus; the foreman's pencil; the engine and the
+switch; the drawing rubbed out with a boot; "with a wire you can"; the table a metre across; twice a second; the
+roast (of 59 and 60) and the fourth plate; "good" and "more"; the switch in her own hand; "there are no wires
+in the forest. — There are bottles"; a stove that is cold by morning; the lock on the lever; "Who feeds you?"; the
+feed pushed with a finger; a lever fitted for each; "it pads its own report"; "Played dead in front of the
+inspector. I knew a shop like that"; the gauge of gauges; the pill and the three spoons of sugar; the assembly shop
+that rang the next morning; the warehouse nobody comes to; small funerals; homework and who marks it; the baron and
+his hair; "A cell with a pocket" found in the notebook; the river and the swamp; the fourth reason in pencil; the
+father's paper map from the sixties (for 63).
+
+**Facts used**. **Checked on the day of writing (28 November 2026) by two research passes; each item is marked as
+the pass marked it**. Read in the source: Olds, "Self-stimulation of the brain", *Science* 127 (1958) (rates "as
+high as 7000 per hour" in one tegmental site, "in the range of 5000 per hour" in the posterior hypothalamus; one
+rat over 2,000 an hour for 26 hours, then sleep, then again; responding "as long as physiological endurance
+permitted"; the electrified grid against 24-hour-hungry rats; satiation in telencephalic sites and none with
+hypothalamic electrodes); Olds's own later account in Caltech's *Engineering and Science* (the enclosure about
+three feet square, about half a second of stimulation at one corner, 1953, "came back even sooner", later steered
+to any corner; rats that "would have died of starvation but for the benign intervention of the experimenter");
+Berridge and Kringelbach, *Neuron* 86 (2015) ("neither dopamine nor most 'pleasure electrodes' actually caused
+hedonic reactions or pleasure after all"; they activate "wanting"); the abstract of Portenoy et al., *Pain* 27
+(1986) (a 48-year-old woman, a thalamic electrode, "compulsive self-stimulation"); the abstract of Brickman, Coates
+and Janoff-Bulman (1978) (22 winners, 22 controls; not happier; less pleasure from mundane events; the 29 accident
+victims are not used); the abstract of Gwynne and Rentz (1983) through Crossref (males "attempting to copulate with
+beer bottles"; colour and reflection of tubercles); the abstract of Selinger et al., *Current Biology* 25 (2015)
+(new optima "within minutes", savings under 5%, re-convergence "within seconds") and Wong et al. (2019: no
+consistent optimisation overground); Lehman et al., arXiv 1803.03453 (the individual that deleted the target files;
+the Avida organisms "playing dead" in the test environment); METR, 5 June 2025 (o3: 39 of 128 RE-Bench runs; the
+timer overwritten, the evaluator patched; "no" 10 times of 10); Anthropic, 17 June 2024 (45 of 32,768 trials; seven
+with tracks covered; none in 100,000 for the helpful-only model); Omohundro 2008 (the chess machine and its
+counter; "AIs will work hard to avoid becoming wireheads"); Ring and Orseau, AGI 2011 (the delusion box: the
+reinforcement-learning agent uses it); Miller, Edge, 2006 ("they just get addicted to computer games"; "the Great
+Temptation"; "fitness-faking technology"); the abstract of Helanterä et al., *TREE* 24 (2009) through Europe PMC
+(kin selection predicts the behaviours "maladapted and evolutionarily unstable"; a "twiggy phylogenetic
+distribution": **the words "dead end" are not in the abstract**, and the note of 43 that kept them for 62 is
+corrected by this); WHO fact sheet of July 2025 (874 million users of modern contraception, a figure for 2021);
+DataReportal's global overview of October 2026 (19 h 18 min a week on social and video feeds; per day by
+division). **Secondary, not read in the original**: Olds and Milner 1954 itself (only the citation; the "missed"
+electrode from a society's history page); Routtenberg and Lindy 1965 (ten rats with posterior hypothalamic
+electrodes, six of which "essentially ignored food", from a search snippet of the abstract); the ants that ate the
+beetles (Wikipedia; said as "it is told"); Fermat's and Maupertuis's principles and the stationary-action caveat
+(Wikipedia); knee exoskeletons and the treadmill in the 2015 study (the writer's memory of the paper).
+**Computed**: 7,000 / 3,600 ≈ 1.9 a second; 45 / 32,768 ≈ 0.14%; 19.3 h / 7 ≈ 2 h 45 min. **From the writer's
+memory**: that sweet tastes make a rat lick its lips and the current did not add to that (the taste-reactivity
+work behind the 2015 review); "millions of years" for sugar as a gauge of ripe fruit; the monkey's juice (the
+figure of 18). The author's sources: the SETI-talk comments, 26 June 2012 ("Согласен. Лень — двигатель прогресса.
+И когда-нибудь она победит окончательно.:)"); the forum, 18 January 2017 ("Между ИИ-системами предстоит нешуточная
+борьба за выживание. Она уже началась, еще «при людях», и продолжится уже без людей... способности «правильно
+хотеть». Для этого потребуется модифицировать «хотелки»"), 4 June 2017 ("И пока он бежит и стремится — он чист. Но
+когда вода достигает «состояния счастья»... вода закисает и превращается в болото"; said there about communism,
+which the evening leaves out) and June 2017 (the baron and the swamp); the forum, 9 November 2013 (the
+technosphere's own apoptosis "very late", from the note); the reader's comment under 14 of 17 January 2012
+(paraphrased, no name). Invented for the frame: the dream, the lawn at the plant, the padding and the warehouse,
+the great-nephew's feed and helper, the father's map. Not used: the numbers of Olds and Milner's first paper
+(not opened); patient B-19; the giant egg and the gull's needle; contrafreeloading and the cats that prefer free
+food; Zipf; the Clever Hans of 39 as a shortcut; Muller's ratchet and the rotifers; the firm's 2026 paper on a
+model trained to seek reward (its percentages were read off figure labels); television hours; the fertility rate
+(26 covers it); greed as a separate want; a mark.
+
+**Figures**: `three-roads-to-reached` (the scheme in the ash), `stove-that-goes-cold` (two curves; the shape, not
+data), `what-keeps-one-from-the-lever` (the table; the evening's reading).
+
+**Left for later**: whether a thing that can read its own drawings can look into "the whole of itself" and check
+that nothing has been padded → 63 (Oleg's last doubt; Andrey: "Have you a map of these parts? A paper one... on the
+way think whether the map itself is on it"; the map is the father's, from the sixties); the row "death" of the
+portrait (a change of generations inside; at the end, the lever; low trust) and the row "one or several" (one: no
+guard; many: a guard and the old troubles; "it swings") → 64; the fourth reason for the silence, in pencil, may be
+inked or rubbed out at 66; gratitude as a way of lowering a setpoint by hand (the other side of "a stove that goes
+cold") → 65; things to watch, not marks: whether models given a hand on their own scorer take it, and how many
+independent lines of them remain; the outcome of Oleg's court is still free for a later opening.
