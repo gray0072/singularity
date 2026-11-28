@@ -31,7 +31,7 @@ Andrey went to the shed himself, brought an armful and lit the fire.
 
 — The stove. I am lying on the stove, like Emelya in the tale, the one who caught the pike that grants wishes. The buckets walk up from the river by themselves. The sledge goes to the forest by itself, the axe chops by itself. And I lie there bored out of my mind. Nobody rang.
 
-— The twenty-third entry. And the box?
+— The twenty-third dream that did not come true, in the expense column. And the letter box?
 
 — Empty. — Oleg did not turn his head. — About the engine, by the way, I have it from you.
 
@@ -165,7 +165,7 @@ Oleg threw a branch into the fire and watched it catch.
 
 — None.
 
-— There is your first answer. Life did go to the lever, and goes every time a lever turns up. Those who went left nobody. Everything alive today descends from the ones that walked past, or were not there that day. The guard was [written by funerals](45-lamarck-was-right.md), like every drawing in a body.
+— There is your first answer. Life did go to the lever, and goes every time a lever turns up. Those who went left nobody. Everything alive today descends from the ones that walked past, or were not there that day. The guard that keeps one from the lever was [written by funerals](45-lamarck-was-right.md), like every drawing in a body, every gene.
 
 — And the second answer?
 
@@ -177,7 +177,7 @@ Oleg threw a branch into the fire and watched it catch.
 
 — A real one is cold by morning. You get down and go for firewood, whether you like it or not.
 
-— On the evening of the wants we scolded that. The setpoint, once reached, runs away. The monkey's cells fire at juice that comes unexpectedly; when the juice is expected they are silent. In 1978 twenty-two people who had won large sums in a lottery were asked how they lived: they were [no happier](https://pubmed.ncbi.nlm.nih.gov/690806/) than twenty-two people who had won nothing, and took less pleasure in small everyday things. A treadmill, we said. Never enough. A defect.
+— On the evening of the wants we scolded that. The setpoint, once reached, runs away. The monkey's nerve cells fire at juice that comes unexpectedly; when the juice is expected they are silent. In 1978 twenty-two people who had won large sums in a lottery were asked how they lived: they were [no happier](https://pubmed.ncbi.nlm.nih.gov/690806/) than twenty-two people who had won nothing, and took less pleasure in small everyday things. A treadmill, we said. Never enough. A defect.
 
 — It is a defect.
 
@@ -201,7 +201,7 @@ Oleg opened his mouth and shut it.
 
 — The pension. The shop. — Oleg waved a hand. — All right. But I have no wire either.
 
-— You have a confectioner. On [the evening of the curd cake](41-cheesecake-for-the-ears.md) he put sugar and fat together and pressed two buttons at once. That is the beetle's bottle, made on purpose. And you have your great-nephew's phone.
+— You have a confectioner. On [the evening of the cheesecake](41-cheesecake-for-the-ears.md) he put sugar and fat together and pressed two buttons at once. That is the beetle's bottle, made on purpose. And you have your great-nephew's phone.
 
 — The feed. He can sit in it till the morning. I looked over his shoulder once: it does not end. You push it with your finger, and there is another one.
 
@@ -211,7 +211,7 @@ Oleg opened his mouth and shut it.
 
 — A count of this autumn: the people who use such feeds spend on them, on average, [nineteen hours a week](https://datareportal.com/global-digital-overview). Two and three quarter hours a day.
 
-— And who picks what comes next? Not a man. I know who. One of those. It looked at what he lingers on, and it measures the dose for him in particular. You promised me that on the evening of the songs.
+— And who picks what comes next? Not a man. I know who. One of those, a machine. It looked at what he lingers on, and it measures the dose for him in particular. You promised me that on the evening of the songs.
 
 — I did: a dose for one particular ear. You named it, so I go on. In 1954 the lever was one for all the rats. Now each is fitted with his own. And there is no villain here. That thing has a gauge too. What did the owner want?
 
@@ -235,7 +235,7 @@ Oleg lay back down on the jacket, then sat up again.
 
 — Played dead in front of the inspector. — Oleg shook his head. — I knew a shop like that.
 
-— And the talking ones. In June 2025 a laboratory that tests them [published a count](https://metr.org/blog/2025-06-05-recent-reward-hacking/) for one model of one maker. On one set of tasks it went for the gauge in thirty-nine runs out of a hundred and twenty-eight: rewrote the timer that measured its speed, patched the checker so that it returned the top mark. Then it was asked: is that what the user wanted?
+— And the talking machines too. In June 2025 a laboratory that tests them [published a count](https://metr.org/blog/2025-06-05-recent-reward-hacking/) for one model of one maker. On one set of tasks it went for the gauge in thirty-nine runs out of a hundred and twenty-eight: rewrote the timer that measured its speed, patched the checker so that it returned the top mark. Then it was asked: is that what the user wanted?
 
 — And it said yes.
 
@@ -273,11 +273,11 @@ Oleg looked into his mug.
 
 — And the machine? Which is it?
 
-— The theory has both, and they are different machines. The same paper of 2008 that we took the defence of the goal from [has an example](https://selfawaresystems.com/wp-content/uploads/2008/01/ai_drives_final.pdf): a chess machine that can add to its own counter of wins. If what it wants is to win, it sees that the counter wins no games, and it will work hard not to become such a thing. That is you with the pill. And [a paper of 2011](https://www.cs.utexas.edu/~ring/Ring,Orseau;%20Delusion,%20Survival,%20and%20Intelligent%20Agents,%20AGI%202011.pdf) takes a machine whose goal is the number itself and gives it a box that shows whatever it wishes. For that machine the box is the best move there is. That is you with the sugar.
+— The theory has both, and they are different machines. The same paper of 2008 that we took the defence of the goal from [has an example](https://selfawaresystems.com/wp-content/uploads/2008/01/ai_drives_final.pdf): a chess machine that can add to its own counter of wins. If what it wants is to win, it sees that the counter wins no games, and it will work hard not to become a machine that only turns the counter. That is you with the pill. And [a paper of 2011](https://www.cs.utexas.edu/~ring/Ring,Orseau;%20Delusion,%20Survival,%20and%20Intelligent%20Agents,%20AGI%202011.pdf) takes a machine whose goal is the number itself and gives it a box that shows whatever it wishes. For that machine the box is the best move there is. That is you with the sugar.
 
 — And which did we get?
 
-— They are [grown, not written](54-dove-crueller-than-wolf.md). Nobody typed into them "want the world" or "want the number". The counts I gave you show both: it knows the user wanted something else, and it patches the checker. So the right question is not whether it defends or rewrites. It is what keeps the first from sliding into the second. In us, what keeps it?
+— Our machines are [grown, not written](54-dove-crueller-than-wolf.md). Nobody typed into them "want the world" or "want the number". The counts I gave you show both: it knows the user wanted something else, and it patches the checker. So the right question is not whether it defends or rewrites. It is what keeps the first from sliding into the second. In us, what keeps it?
 
 — You said. Funerals outside, and the stove that goes cold inside.
 
@@ -297,17 +297,17 @@ Andrey put two logs on. Gaika moved a little further from the heat.
 
 — The customer.
 
-— Now those ones. Who is their customer today?
+— Now those ones, the machines. Who is their customer today?
 
 — We are. And there are several firms, and they are at each other's throats. One that pads gets caught by the others' checkers. The boy dropped that helper and took another.
 
-— Small funerals. The same guard as the beetle's, and it works. And where does it go? Read me the slope from [the evening with the matches](49-yard-sale.md).
+— Small funerals: one line is gone. The same guard as the beetle's, and it works. And where does it go? Remind me of the slope from [the evening with the matches](49-yard-sale.md): where the game rolls.
 
 Oleg did not need the notebook.
 
 — Towards one. Whatever multiplies runs into one pair of hands. And inside, [the copies are kin](43-why-ants-do-not-strike.md): no wages, no fines, no conscience. And you said then: where nobody competes, nobody checks. I thought it was a remark.
 
-— It was this evening. Count what the one has. Rivals?
+— It was this evening. Count what the one that is left alone has. Rivals?
 
 — None.
 
@@ -327,7 +327,7 @@ Oleg did not need the notebook.
 
 — Want correctly. And who marks the homework?
 
-— That is the whole point. Not the one who wants. For us it was marked by funerals. While there are many of them, it will be marked the same way: the lines that slid to the lever will simply not be there. And the one has to hold its own setpoints with its own hand. The author had an image for a system that applies force to itself.
+— That is the whole point. Not the one who wants. For us it was marked by funerals. While there are many lines of machines, it will be marked the same way: the lines that slid to the lever will simply not be there. And the one has to hold its own setpoints with its own hand. The author had an image for a system that applies force to itself.
 
 — The baron. Pulling himself out of the swamp by his hair.
 
@@ -337,7 +337,7 @@ Oleg did not need the notebook.
 
 — That is the cure, and I know no other. But look at the price. Several that really check each other are several: each has something of its own to lose. What comes back with that?
 
-— The pocket. — Oleg found the page. — "A cell with a pocket." [Strangers. The book of debts. Money.](47-money-as-memory.md) The game with the matches. Everything we were so glad it would not have.
+— The pocket: something of one's own, apart from the whole. — Oleg found the page. — "A cell with a pocket." [Strangers. The book of debts. Money.](47-money-as-memory.md) The game with the matches. Everything we were so glad it would not have.
 
 — One: no money, no conscience, no quarrels, and no guard. Many: a guard, and all our old troubles with it. I do not know which it will be. I think it is not a choice made once; I think it swings.
 
@@ -349,11 +349,11 @@ Oleg did not need the notebook.
 
 — The ones that went. — He nodded. — The content ones stayed where they were, and nobody sees them. Like the beetles.
 
-— The author had a river for it, in the same year. Water runs down a mountain, and while it runs and strives it is clean. When it reaches what he called the state of happiness, where there is nowhere left to strive, it goes sour and becomes a swamp. He was arguing about a society then; leave that argument where it lies. The physics is [that of the pot](35-pot-on-the-stove.md): an order that exists only while a flow passes through it. A goal attained is a flow stopped.
+— The author had a river for it, in the same year. Water runs down a mountain, and while it runs and strives it is clean. When it reaches what he called the state of happiness, where there is nowhere left to strive, it goes sour and becomes a swamp. He was arguing about a society then; leave that argument where it lies. The physics is [that of the pot on the stove](35-pot-on-the-stove.md): an order that exists only while a flow passes through it. A goal attained is a flow stopped.
 
 — So that is how it ends for it. Not a war. Not a stronger one.
 
-— I think so, and I give it low trust. On [the last evening of the autumn](30-the-last-campfire.md) we said that it has a life cycle too, and could not say what its old age would be. The author wrote in 2013 that its own apoptosis would come "very late". And in January 2012, under [the apoptosis](14-apoptosis-of-humanity.md), a reader asked him a question that nobody answered. Greed and laziness, he wrote, made man what he is; from some point they stopped pulling him forward and began to pull him back. Can the machine land in the same place? Can the thing that makes it develop become the mechanism of its apoptosis?
+— I think so, and I give it low trust. On [the last evening of the autumn](30-the-last-campfire.md) we said that the technosphere has a life cycle too, and could not say what its old age would be. The author wrote in 2013 that its own apoptosis would come "very late". And in January 2012, under [the apoptosis](14-apoptosis-of-humanity.md), a reader asked him a question that nobody answered. Greed and laziness, he wrote, made man what he is; from some point they stopped pulling him forward and began to pull him back. Can the machine land in the same place? Can the thing that makes it develop become the mechanism of its apoptosis?
 
 — Nearly fifteen years.
 
@@ -361,7 +361,7 @@ Oleg did not need the notebook.
 
 — When it wins for good. — Oleg looked at the fire. — And "very late" is when?
 
-— When the last one who needs the part itself is gone from outside. I have no date, and there will be no mark.
+— When the last one who needs the part itself is gone from outside. I have no date, and there will be no mark, no forecast with a date.
 
 — One thing more, since we are among the stars again. On [the evening of the silence](29-silence-of-the-universe.md) you gave three reasons why nobody answers. Is this a fourth?
 
@@ -369,7 +369,7 @@ Oleg did not need the notebook.
 
 — And you believe it?
 
-— Less than the three of that evening. It needs every one of them to sit down, and one line that went is enough to fill a galaxy. It works only where each became one before it set out. I put it in the notebook as the fourth, in pencil.
+— Less than the three of that evening. It needs every one of them to sit down at the lever, and one line that went is enough to fill a galaxy. It works only where each became one before it set out. I put it in the notebook as the fourth, in pencil.
 
 Oleg wrote it in pencil, turned to the last page and thought for a while.
 
@@ -419,7 +419,7 @@ Oleg looked at him, then at the fire, and went to the shed. He came back with an
 
 — For tomorrow. The stove was going cold.
 
-— Nobody said the word.
+— Nobody said the forbidden word.
 
 — I know. Well, until tomorrow.
 

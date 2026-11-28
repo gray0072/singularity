@@ -19,7 +19,7 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — The dream first. The pay office at the plant: the hatch with the wooden shelf. A hand pushes a slip out to me, I sign, and I bend down to see who is there. Behind the hand there is nobody. Nobody rang.
 
-— The sixteenth entry in the expense column.
+— The sixteenth dream that did not come true, in the expense column.
 
 — Now the fine. — He pulled a sheet out of the envelope and held it to the fire. — I read it properly only last night. "Speed recorded: fifty-eight. Speed permitted: twenty."
 
@@ -33,7 +33,7 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — And you went looking for a face.
 
-— Three days. I rang the number in the letter. A woman's voice, very kind: press one, press two. By "press seven" I understood that she was not a woman. I even wrote to it [like your turkey](54-dove-crueller-than-wolf.md): a pensioner, hauling firewood. It pecks. Then I drove to the address of the firm that owns the camera. A business centre by the station, third floor, room three hundred and twelve. The door is locked. A girl from the next room says that nobody ever comes, that some forty firms are registered in that room, and that the post is collected on Thursdays.
+— Three days. I rang the number in the letter. A woman's voice, very kind: press one, press two. By "press seven" I understood that she was not a woman. I even wrote to it plaintively, [like your turkey](54-dove-crueller-than-wolf.md): a pensioner, hauling firewood. It pecks, like that peacock. Then I drove to the address of the firm that owns the camera. A business centre by the station, third floor, room three hundred and twelve. The door is locked. A girl from the next room says that nobody ever comes, that some forty firms are registered in that room, and that the post is collected on Thursdays.
 
 — And the firm itself?
 
@@ -121,7 +121,7 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — So a name was written in the column, and everybody agreed to count the name as somebody.
 
-— The deputy for general questions.
+— The deputy for general questions. A post with nobody behind it.
 
 — With a seal and an account. The 1240s. A church lawyer, the best of his day, was asked your question: a town has done wrong, so whom do we punish? Every townsman, with the babies? [He forbade](https://en.wikipedia.org/wiki/Pope_Innocent_IV#The_concept_of_Persona_ficta) punishing a town or a college as a whole: only those in it who are found guilty. And in his commentary he wrote how such a thing is to be thought of: in a matter of the whole, the college "is imagined as one person".
 
@@ -135,9 +135,9 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — The hand that does not die was called dead.
 
-— Lawyers. He forbade giving land into the dead hand, on pain of losing it.
+— Lawyers. The king forbade giving land into the dead hand, on pain of losing it.
 
-— [Heaps with neither heirs nor funerals.](49-yard-sale.md) And I thought we had made them up over the matches.
+— [Heaps with neither heirs nor funerals](49-yard-sale.md), firms. And I thought we had made them up over the matches.
 
 — They were noticed in 1279, and the brake was the same one, the king's. It held badly. For centuries more every such person was a favour: made by a king, one at a time, by a separate paper, for one job. On the last day of 1600 the English queen signed a paper for two hundred-odd London merchants: for fifteen years they alone might trade beyond the Cape. Two hundred years later [that paper](https://en.wikipedia.org/wiki/East_India_Company) kept an army.
 
@@ -241,7 +241,7 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — The feed. And the say?
 
-— I see. — Oleg nodded slowly. — The feed comes down the chain. The say does not go up it. [A pet of the pension fund](52-dinosaurs-at-the-feeder.md), and she is not thirty yet.
+— I see. — Oleg nodded slowly. — The feed comes down the chain. The say does not go up it. [A pet of the pension fund](52-dinosaurs-at-the-feeder.md): fed and not asked. And she is not thirty yet.
 
 — In the spring I told you that ownership protects the owner. It does, while the owner holds the wheel. A farmer in 1935 owned his tractor: he sat on it. Between your granddaughter and the machine there are at least two persons without a face, and the rules of each are written so that she need not decide anything.
 
@@ -273,7 +273,7 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — And the profit?
 
-— Stays inside, apart from what the paper orders to be given away. [A recipient that is not listed among the founders.](37-who-exploits-whom.md)
+— Stays inside, apart from what the paper orders to be given away. What gets it is what has been built: [a recipient that is not listed among the founders](37-who-exploits-whom.md).
 
 — So the owner can be a paper.
 
@@ -291,7 +291,7 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — A face for hire. A trade, and an old one: the law asks for a signature, and it gets one. Eleven firms is a modest practice. In 2012 journalists [found a woman](https://www.icij.org/investigations/offshore/sarah-petre-mears-queen-nevis/) on a small island in the Caribbean who was listed as running more than twelve hundred.
 
-— [The shield of the signature.](24-last-profession.md) The third of your four.
+— [The shield of the signature.](24-last-profession.md) The third of your four: the law requires a man to sign.
 
 — Mind what it shields. He signs. Does he decide?
 
@@ -301,7 +301,7 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — And where even that is not allowed?
 
-— [A heap lives where it pays less.](49-yard-sale.md) And a person in law is born where it is asked the fewest questions. That is what the house with two hundred and eighty-five thousand addresses is.
+— [A heap lives where it pays less.](49-yard-sale.md) And a person in law is born where it is asked the fewest questions. That is what the low house with two hundred and eighty-five thousand firms at one address is.
 
 — The state.
 
@@ -317,7 +317,7 @@ Oleg came with the dog, the notebook and an envelope with a little window in it,
 
 — The state is people.
 
-— Which ones? They change, and the treaties and the debts stay. Fill in the column. And look at when it used that power: when it could do the job itself. [The rule of the switch.](51-week-without-a-socket.md)
+— Which ones? They change, and the treaties and the debts stay. Fill in the column. And look at when it used that power: when it could do the job itself. [The rule of the switch](51-week-without-a-socket.md): a switch works while nothing hangs on the cord.
 
 — And the law? Is it ours or not?
 
@@ -343,7 +343,7 @@ Andrey threw a branch into the fire.
 
 — The personnel department. — Oleg paused. — Later they renamed it. "Human resources."
 
-— [The spade](02-anthropocentrism.md) had its say.
+— [The spade](02-anthropocentrism.md) had its say: to it, the resource is you.
 
 — Fine. Resources. But resources you can talk to. There were always people inside, and a man can be talked round.
 
@@ -369,13 +369,13 @@ Oleg took out his phone and scrolled for a long time.
 
 Oleg was silent for a while, then tapped the envelope with his finger.
 
-— One of those. I'll say it, since you are sitting with your mouth shut again. My complaint was read by one of those. And "press seven" was one of those too.
+— One of those, the talking ones. I'll say it, since you are sitting with your mouth shut again. My complaint was read by one of those. And "press seven" was one of those too.
 
 — And the four?
 
 — The one who sits. A bookkeeper. And two who climb the poles.
 
-— Yesterday we said that [the hands are leaving the chain](54-dove-crueller-than-wolf.md). This is where the chain is kept. A person in law was always made of people, and those people were its face. Whom would you have gone to twenty years ago?
+— Yesterday we said that [the hands are leaving the chain](54-dove-crueller-than-wolf.md). This is where that chain runs: inside a person in law. It was always made of people, and those people were its face. Whom would you have gone to twenty years ago?
 
 — To the traffic police. A captain sits there. I put down the letter, I put down a photograph of the sign. He looks at his table, says a word about the road menders, and then: go home, father. Two minutes.
 
@@ -383,7 +383,7 @@ Oleg was silent for a while, then tapped the envelope with his finger.
 
 — He might. Or dropped a hint. This one drops no hints, I'll give it that. It is the same for everybody.
 
-— I am not saying it is worse. I am saying what it is. The captain was a face inside a person that has none: a head with a brake in it, and eyes that could go and look at the sign. They are being taken out [one at a time](22-who-sets-the-tasks.md). Which of the replacements needed a new law?
+— I am not saying it is worse. I am saying what it is. The captain was a face inside a person that has none: a head with a brake in it, and eyes that could go and look at the sign. Men like him are being taken out [one at a time](22-who-sets-the-tasks.md). Which of the replacements needed a new law?
 
 — None. The firm bought a program the way we used to buy typewriters.
 
@@ -413,7 +413,7 @@ Oleg did not answer.
 
 — And [a wallet with no person behind it](47-money-as-memory.md)?
 
-— It will not look like a robot with a purse. It will look like a line in a register: a name, an account, somebody who sits. And inside, copies. An American lawyer [argued](https://scholarlycommons.law.northwestern.edu/nulr/vol108/iss4/9) back in 2014 that by the rules of his country a firm can be left with no members at all, and with a charter that says: do what the program decides.
+— It will not look like a robot with a purse. It will look like a line in a register: a name, an account, a director who sits. And inside, copies of a program. An American lawyer [argued](https://scholarlycommons.law.northwestern.edu/nulr/vol108/iss4/9) back in 2014 that by the rules of his country a firm can be left with no members at all, and with a charter that says: do what the program decides.
 
 — And is there one?
 
@@ -461,7 +461,7 @@ Oleg did not answer.
 
 Oleg opened the last page.
 
-— Came with a fine. Came out at those ones needing no rights, because the suit has hung in the wardrobe for four hundred years. Again.
+— Came with a fine. Came out at the machines needing no rights, because the suit has hung in the wardrobe for four hundred years. Again.
 
 He put the twenty-third tick, then turned back to the spring pages and crossed out the line about the tractor. Beside it he wrote: "A person without a face. And that one belongs to another."
 

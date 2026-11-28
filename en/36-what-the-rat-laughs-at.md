@@ -135,7 +135,7 @@ Andrey looked into the fire. Then he laughed.
 
 — So a tickle is a touch that the forecast missed.
 
-— In a dangerous place, from one of your own, in a good mood. Take any one of these away and there is no laughter. You know beforehand: nothing. A stranger: fear. The alarm goes up and turns out to be false.
+— In a dangerous place, from one of your own, in a good mood. Take any one of these away and there is no laughter. You know beforehand: nothing. A stranger: fear. And when all three are in place, the alarm goes up and turns out to be false.
 
 — And peekaboo? A baby roars with laughter at it long before it knows a single word.
 
@@ -167,7 +167,7 @@ Andrey looked into the fire. Then he laughed.
 
 — I do it when my wife is watching.
 
-— The picture in your head works. Why dig in it? The miser won't spend a calorie on checking what works already. So the checking is paid for, as calories are paid for with sweetness. You remember the [watchdogs](18-anatomy-of-wants.md): one emotion makes you choose, another defends the choice. This one sits by the correlator, which throws out links between images all day long. It barks at the false ones, and it is fed for every catch.
+— The picture in your head works. Why dig in it? The miser won't spend a calorie on checking what works already. So the checking is paid for, as calories are paid for with sweetness. You remember the [watchdogs](18-anatomy-of-wants.md), the emotions on guard: one emotion makes you choose, another defends the choice. This one sits by the correlator, the part of the head that throws out links between images all day long. It barks at the false ones, and it is fed for every catch.
 
 — And the tickling?
 
@@ -221,7 +221,7 @@ Oleg threw a branch into the fire.
 
 — So what is left of Aristotle?
 
-— The place where we put ourselves. "Only man laughs": the rats were chirping long before him, at a pitch he couldn't hear. "A sense of humour is the height of the human spirit": it is a subsidy for stocktaking. We did what we did with sleep: named the task after our own way of doing it. The task is to catch your own wrong guesses while they are cheap, and it stands before anything that learns, a wolf cub included. The pleasure and the roar are a way of doing it. And not even ours alone.
+— The place where we put ourselves. "Only man laughs": the rats were chirping long before him, at a pitch he couldn't hear. "A sense of humour is the height of the human spirit": it is a subsidy for stocktaking, for checking one's own guesses. We did what we did with sleep: named the task after our own way of doing it. The task is to catch your own wrong guesses while they are cheap, and it stands before anything that learns, a wolf cub included. The pleasure and the roar are a way of doing it. And not even ours alone.
 
 — One thing doesn't add up, — said Oleg. — If I'm paid for every rake I find, I should laugh at every joke that catches me out. But there are jokes I don't laugh at. I get angry.
 
@@ -283,7 +283,7 @@ Andrey laughed at once.
 
 — No two seconds this time.
 
-— It is twenty-three centuries old, and it is on my side. The flogging is among the causes. That is the whole difference between determinism and fatalism, [our evening with the coin](17-global-determinism.md).
+— That joke is twenty-three centuries old, and it is on my side. The flogging is among the causes. That is the whole difference between determinism and fatalism, [our evening with the coin](17-global-determinism.md).
 
 — You laugh fast when the joke works for you. Now one against. "Human-level artificial intelligence by the end of 2018."
 
@@ -295,7 +295,7 @@ Andrey snorted.
 
 Andrey was silent, a good deal longer than two seconds.
 
-— No. That isn't funny to me yet. Write it down: that is where my heavy image lies. Ask again when the needles move.
+— No. That isn't funny to me yet. Write it down: that is where my heavy image lies. Ask again when the needles move and there is something to check.
 
 — Written. "A. does not laugh at his own marks." — Oleg closed the notebook and opened it again. — And now a confession. I didn't start with the hunters. In the morning I asked the chatbot in my phone for a joke.
 
@@ -307,7 +307,7 @@ Andrey was silent, a good deal longer than two seconds.
 
 — So it doesn't joke. It remembers.
 
-— That year. A year later two psychologists in California [gave it and ordinary people the same tasks](https://doi.org/10.1371/journal.pone.0305364): think up a funny meaning for an abbreviation, finish a phrase so that people laugh. Other people rated the answers without knowing who had written them. The machine's jokes came out no worse, and funnier than those of most of the participants. Then it was asked for headlines in the manner of a satirical newspaper where professionals write. Readers rated its headlines and the newspaper's the same.
+— That year, yes. A year later two psychologists in California [gave it and ordinary people the same tasks](https://doi.org/10.1371/journal.pone.0305364): think up a funny meaning for an abbreviation, finish a phrase so that people laugh. Other people rated the answers without knowing who had written them. The machine's jokes came out no worse, and funnier than those of most of the participants. Then it was asked for headlines in the manner of a satirical newspaper where professionals write. Readers rated its headlines and the newspaper's the same.
 
 — So it bakes sweets no worse than a confectioner. And does it find them funny? Does it laugh?
 
@@ -329,7 +329,7 @@ Andrey was silent, a good deal longer than two seconds.
 
 — And now a thing with no bonus makes them for us, as many as we like.
 
-— And the big one, the one that comes after? What will it have in place of laughter?
+— And the big mind, the one that comes after us? What will it have in place of laughter?
 
 — I don't know. The task will stay with it: whatever learns has to catch its misses while they are cheap. The way, with the pleasure, the roar and the signal to the pack, may well stay with us and the rats. Whether it will need a label "this is play" depends on whether it has a pack. That is a separate evening.
 

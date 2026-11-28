@@ -97,7 +97,7 @@ Andrey was splitting a log into kindling. Oleg came with the notebook already op
 
 — The same tap. The riser is different.
 
-— They set three conditions. The network reaches every cell. The last pipes are the same in everybody. The heart spends as little as it can on pumping. Out of the three came three quarters, Kleiber's line. In a larger animal each capillary has to serve more cells, so each cell gets less and lives more slowly.
+— They set three conditions. The network reaches every cell. The last pipes are the same in everybody. The heart spends as little as it can on pumping. Out of the three came the power of three quarters, Kleiber's line. In a larger animal each capillary has to serve more cells, so each cell gets less and lives more slowly.
 
 — Came out, or was fitted?
 
@@ -303,7 +303,7 @@ He threw a handful of kindling into the fire, and it flared up.
 
 — A town can't be infinite.
 
-— It can't. Nothing real flies off to infinity; I drew that for you on the same sheet. Long before the date something runs out: water, land, air. The paper says what comes then: growth stops and turns down. Unless.
+— It can't. Nothing real flies off to infinity; I drew that for you back in the first autumn. Long before the date something runs out: water, land, air. The paper says what comes then: growth stops and turns down. Unless.
 
 — Unless what?
 
@@ -345,7 +345,7 @@ Oleg got up, grumbling, and went off into the dusk. He came back with an armful 
 
 — In the paper, people. The more of them in one place, the more patents per head.
 
-— And sooner every time. That I don't believe. I learned my trade for fifteen years, school and institute. My great-nephew will be at it till he is thirty: the road to the edge keeps getting longer. And you want inventions more and more often.
+— And sooner every time. That I don't believe. I learned my trade for fifteen years, school and institute. My great-nephew will be at it till he is thirty: the road to the edge of knowledge keeps getting longer. And you want inventions more and more often.
 
 — That is a separate evening, and a serious one.
 
@@ -399,7 +399,7 @@ Oleg got up, grumbling, and went off into the dusk. He came back with an armful 
 
 — Then what is left of it?
 
-— The sign. I know of no country where large towns walk more slowly than small ones. The animal slows down with size, the town speeds up; whether by fifteen percent or by five decides the date, not the kind. Put a twentieth in place of the eighth and add up your column.
+— The sign: a plus, not a minus. I know of no country where large towns walk more slowly than small ones. The animal slows down with size, the town speeds up; whether by fifteen percent or by five decides the date, not the kind of growth. Put a twentieth in place of the eighth and add up your column.
 
 — Forty years times twenty. Eight hundred. — Oleg grunted. — Finite.
 
@@ -423,7 +423,7 @@ He put an eighth tick beside the seven.
 
 — And what is solid here, and what is yours?
 
-— Solid: a gram of elephant lives many times more slowly than a gram of mouse; half of the traded firms are gone in ten years; large towns are richer per head and walk faster, wherever a country was measured in one year. Argued about: whether it is exactly three quarters and whether the pipes are the cause; the fifteen percent, the edge of a town, and how much of the excess the newcomers bring. A hypothesis of its authors: the equation with the wall and the wheel. Mine: that the technosphere is of the second kind, and that the next jumps will not be made by heads.
+— Solid: a gram of elephant lives many times more slowly than a gram of mouse; half of the traded firms are gone in ten years; large towns are richer per head and walk faster, wherever a country was measured in one year. Argued about: whether it is exactly three quarters and whether the pipes are the cause; the fifteen percent, the edge of a town, and how much of the excess the newcomers bring. A hypothesis of its authors: the equation with the wall and the wheel. Mine: that the technosphere is of the second kind, the kind that grows faster than its own size, and that the next jumps will not be made by heads.
 
 — Strange, — said Oleg. — The plant is dead, and it doesn't come out gloomy. The town stands.
 

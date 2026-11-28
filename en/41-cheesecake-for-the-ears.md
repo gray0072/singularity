@@ -15,7 +15,7 @@ status: original
 
 # Cheesecake for the Ears
 
-Andrey sat on the log, turning a peg and listening to a string. Oleg stopped two steps away and counted.
+Andrey sat on the log, turning a peg and listening to a string. Oleg stopped two steps away and counted the strings.
 
 — Seven, — he said. — One too many.
 
@@ -31,19 +31,19 @@ Andrey sat on the log, turning a peg and listening to a string. Oleg stopped two
 
 — The dream is written down, — said Oleg, sitting down. — Before the phone. An exam in strength of materials, and I have come to it in slippers. Nobody rang.
 
-— The second entry in the expense column.
+— The second dream that did not come true, in the expense column.
 
 — Play something.
 
 Andrey played an old waltz, unhurriedly, and fluffed one note in the middle. Oleg listened with the notebook shut on his knee.
 
-— Good, — he said when the last string had died away. — Now explain what that was. — He opened the notebook. — Your miser. Sugar is sweet because it is calories. Sleep is stocktaking. Laughter is a bonus for a mistake found. And this? For three minutes I sat with my mouth open. I am no fuller and no warmer, and a wolf could have walked up behind me. What was I paid for?
+— Good, — he said when the last string had died away. — Now explain what that was. — He opened the notebook. — Your miser, evolution, doesn't pay for nothing. Sugar is sweet because it is calories. Sleep is stocktaking. Laughter is a bonus for a mistake found. And this? For three minutes I sat with my mouth open. I am no fuller and no warmer, and a wolf could have walked up behind me. What was I paid for?
 
 — People have been asking since Darwin. He wrote that the love of music is of no use to a man in the daily habits of his life, and so must be ranked among the most mysterious things he is endowed with. And in 1997 a well-known psychologist, [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker), answered in a thick book on [how the mind works](https://en.wikipedia.org/wiki/How_the_Mind_Works): for nothing. Music, he wrote, is cheesecake for the ear.
 
 — What cake?
 
-— A curd cake. Sugar and fat, the two things the miser taught us to want [while they were scarce](18-anatomy-of-wants.md). In the forest nobody ever met them in one piece. A confectioner put them together and pressed both buttons at once. Music, he said, is the same: an exquisite sweet that tickles buttons made for other work. For speech, for the sounds of the forest, for the sense of one's own step. Take music away from mankind, and the rest of its life would hardly change.
+— A curd cake. Sugar and fat, the two things the miser taught us to want [while they were scarce](18-anatomy-of-wants.md). In the forest nobody ever met them in one piece. A confectioner put them together and pressed both buttons at once. Music, Pinker said, is the same: an exquisite sweet that tickles buttons made for other work. For speech, for the sounds of the forest, for the sense of one's own step. Take music away from mankind, and the rest of its life would hardly change.
 
 — The musicians must have loved him.
 
@@ -123,7 +123,7 @@ He played the first line of the New Year song about the little fir tree, and too
 
 — The monkey and the juice. The coin the miser pays in.
 
-— The same coin as for food. At the favourite place it was paid out. That alone answers your "no fuller": the head pays for a turn of a tune from the same till as for dinner. But the interesting thing is when. The same people were put into another scanner, one that keeps time better, and it turned out that there are two payments. One at the place itself. The other before it: in the seconds when the place is on its way and you know it.
+— The same coin as for food. At the favourite place of the recording it was paid out. That alone answers your "no fuller": the head pays for a turn of a tune from the same till as for dinner. But the interesting thing is when. The same people were put into another scanner, one that keeps time better, and it turned out that there are two payments. One at the place itself. The other before it: in the seconds when the place is on its way and you know it.
 
 — Before?
 
@@ -161,13 +161,13 @@ He played the first line of the New Year song about the little fir tree, and too
 
 — Juice it has learned to expect for certain?
 
-— Silence. They fall silent at the juice, you said.
+— Silence. The neurons fall silent at the juice, you said.
 
 — A forecast that cannot fail earns nothing: that is your dripping tap. A miss from which nothing is learned earns nothing either: that is the noise in the car. What is left?
 
 — What is in between. — Oleg thought. — Where I was not sure, and it came out. Or was sure, tripped, and saw at once where.
 
-— Where the forecast has just become better than it was. In the joke about the hunters you were led down one road for a minute and tripped once, at the end. In a tune you are tripped gently a hundred times, and brought home each time. The confectioner of that evening sells one sweet. This one keeps a shop.
+— Where the forecast has just become better than it was. In the joke about the hunters you were led down one road for a minute and tripped once, at the end. In a tune you are tripped gently a hundred times, and brought home each time. A joke is a confectioner who sells one sweet. Music keeps a shop.
 
 — Is that measured, or is that you?
 
@@ -201,7 +201,7 @@ He played the first line of the New Year song about the little fir tree, and too
 
 — Remember that too.
 
-— Now me, — said Oleg. — Your Pinker never hauled anything. A sweet is eaten alone. And a song? My grandmother sang my mother to sleep, my mother sang me. At weddings forty people sang at one table, and whoever didn't know the words moved his lips. A march. A choir. ["Yo, heave-ho!"](https://en.wikipedia.org/wiki/The_Song_of_the_Volga_Boatmen): do you think the barge haulers were giving their ears a treat? It is not cake, it is glue. And the miser pays gladly for glue: a pack.
+— Now me, — said Oleg. — Your Pinker never hauled anything. A sweet is eaten alone. And a song? My grandmother sang my mother to sleep, my mother sang me. At weddings forty people sang at one table, and whoever didn't know the words moved his lips. A march. A choir. ["Yo, heave-ho!"](https://en.wikipedia.org/wiki/The_Song_of_the_Volga_Boatmen): do you think the barge haulers were giving their ears a treat? It is not cake, it is glue. And the miser pays gladly for glue: glue is the pack.
 
 — I am glad of that objection; it is stronger than the cake. And it has been measured. In 2019 the songs of three hundred peoples [were gone through](https://doi.org/10.1126/science.aax0868): lullabies, dance songs, healing songs and love songs are found everywhere, and a listener from the other end of the Earth tells a lullaby from a dance by the sound, without the words. In Oxford rowers [were put](https://doi.org/10.1098/rsbl.2009.0670) on rowing machines, each alone, and then as a crew, stroke for stroke. The effort was the same. After rowing together they bore pain noticeably longer. At Stanford people who had walked in step or sung in unison [put more](https://doi.org/10.1111/j.1467-9280.2008.02253.x) into the common pot afterwards than people who had walked and sung each in his own way.
 
@@ -349,7 +349,7 @@ Oleg took out his phone, turned it over in his hand and put it on his knee.
 
 — And the first?
 
-— The first I accept whole. There are two payments. They have always come in one envelope, and we took them for one. The first is for the sound: the forecast and the measured deceit. It works whoever made the sound, and asks no questions. The second is for the price, and it works only when you know who paid. The first the machine already makes no worse than we do, and it will make it better: it can measure the dose for one particular ear. You called a joke our own [hacking of the reward](22-who-sets-the-tasks.md). Here the button is the same, and now it is not a confectioner who holds it.
+— The first I accept whole. There are two payments. They have always come in one envelope, and we took them for one. The first is for the sound: the forecast and the measured deceit. It works whoever made the sound, and asks no questions. The second is for the price, and it works only when you know who paid. The first the machine already makes no worse than we do, and it will make it better: it can measure the dose for one particular ear. You called a joke our own [hacking of the reward](22-who-sets-the-tasks.md). Here the button is the same, and now it is not a confectioner who holds it but a machine.
 
 — And the second?
 
@@ -379,7 +379,7 @@ Oleg picked up the phone and looked at it as at a stranger.
 
 — Found the task and our way of doing it. And saw that we had named the task after the way.
 
-— In training it does one thing: guesses what comes next and is corrected at every miss, with notes as [with words](21-machines-that-talk.md). The task "forecast" it has in a pure form, and with no bonus: there is nobody to bribe. Whether anything is felt there is [my axiom](20-what-consciousness-is.md), not a proof. And whether it will have something in place of a song, a beat to act as one, a receipt for a price, depends on whether it has a pack and whether it has anything to pay with. I don't know.
+— In training the machine does one thing: guesses what comes next and is corrected at every miss, with notes as [with words](21-machines-that-talk.md). The task "forecast" it has in a pure form, and with no bonus: there is nobody to bribe. Whether anything is felt there is [my axiom](20-what-consciousness-is.md), not a proof. And whether it will have something in place of a song, a beat to act as one, a receipt for a price, depends on whether it has a pack and whether it has anything to pay with. I don't know.
 
 — So what we called the soul of music...
 

@@ -19,7 +19,7 @@ Oleg came with an armful of dry branches, dropped them by the log and opened the
 
 — The dream first. Before the phone. I was shoeing a horse. I, who have seen a horseshoe only over a door. And the hands knew everything: how to hold the hoof, where to put the nail. I woke up and looked at them. They know nothing. Nobody rang.
 
-— The sixth entry in the expense column.
+— The sixth dream that did not come true, in the expense column.
 
 — And don't tell me who is born with calluses. I worked it out in the night, and I'll say it myself when the time comes. First tell me why the son is not. Semyonych had two sons. Neither could tell a bearing from a doorbell.
 
@@ -59,7 +59,7 @@ Oleg came with an armful of dry branches, dropped them by the log and opened the
 
 — Then it is his knack. He retires, and it goes with him.
 
-— Now the body. The drawings lie in every cell; we have called them that since [the evening about the bacterium](42-swallowed-bacterium.md). The blacksmith swings the hammer, and the skin of his palm grows thick. What has to be corrected in the drawing for the son to be born with it?
+— Now the body. The drawings, the genes, lie in every cell; we have called them that since [the evening about the bacterium](42-swallowed-bacterium.md). The blacksmith swings the hammer, and the skin of his palm grows thick. What has to be corrected in the drawing for the son to be born with it?
 
 — Write in: thick skin on the right palm.
 
@@ -131,11 +131,11 @@ Oleg tapped at the phone for a long time.
 
 — I did. He said: it sings wrong. — Oleg spread his hands. — That was the lecture.
 
-— And the third narrow place. Suppose he had said everything. Would you hear the bearing?
+— And the third narrow place, after speech itself and after the mouth that does not know everything. Suppose he had said everything. Would you hear the bearing?
 
 — No. I stood beside him for two years. I can tell a howl from a knock, and that is all.
 
-— Speech does not carry the skill. It carries instructions for growing one in your own head, by your own work, at your own pace. In the guilds a boy was bound to a master for seven years. And a book keeps the record, not the skill. In 2012 a reader told me that the ceiling was gone, since knowledge is now kept apart from the man. I answered: keeping is not enough. Unload a mountain of flash drives on Mars, and nothing will happen to them until somebody comes who can digest them. We could build a thousand libraries for every inhabitant of the Earth. Only the readers would never get through them.
+— Speech does not carry the skill. It carries instructions for growing one in your own head, by your own work, at your own pace. In the guilds a boy was bound to a master for seven years. And a book keeps the record, not the skill. In 2012 a reader told me that the ceiling of the mind was gone, since knowledge is now kept apart from the man. I answered: keeping is not enough. Unload a mountain of flash drives on Mars, and nothing will happen to them until somebody comes who can digest them. We could build a thousand libraries for every inhabitant of the Earth. Only the readers would never get through them.
 
 — And what is not passed on?
 
@@ -151,7 +151,7 @@ Oleg tapped at the phone for a long time.
 
 Oleg threw two branches on the fire and waited until they caught.
 
-— Now I'll say who. The one that is copied whole. Those ones. I said it myself in the evening about the ants: a program has neither father nor mother.
+— Now I'll say who. The one that is copied whole. Those ones. The machines. I said it myself in the evening about the ants: a program has neither father nor mother.
 
 — Say it in the language of the plant.
 
@@ -163,7 +163,7 @@ Oleg threw two branches on the fire and waited until they caught.
 
 — For a large talking machine, tens or hundreds of gigabytes. The line between two machine halls carries ten billion bits a second and more.
 
-— Semyonych's forty years go through in a second. — Oleg counted. — And the whole of that one in a few minutes.
+— Semyonych's forty years go through in a second. — Oleg counted. — And the whole of such a machine in a few minutes.
 
 — And what goes through is not a lecture about the skill. It is the skill. The copy has nothing to digest.
 
@@ -175,7 +175,7 @@ Oleg threw two branches on the fire and waited until they caught.
 
 — And if their heads are different?
 
-— Then it is school again. But what a school. In 2015 [it was shown](https://arxiv.org/abs/1503.02531) how a big network teaches a small one, and they called it distillation. The teacher gives not only the answer but how sure it is of every other answer. This is a BMW; one chance in a thousand that it is a rubbish truck; a carrot, practically never.
+— Then it is school again. But what a school. In 2015 [it was shown](https://arxiv.org/abs/1503.02531) how a big network teaches a small one, and they called it distillation. The teacher gives not only the answer but how sure it is of every other answer. For example: the picture is a BMW; one chance in a thousand that it is a rubbish truck; a carrot, practically never.
 
 — "It sings wrong", in figures.
 
@@ -199,7 +199,7 @@ Oleg threw two branches on the fire and waited until they caught.
 
 — One room again. — He thought. — A bacterium has no body apart from its drawings.
 
-— That is how I read the barrier. It stands where experience and heredity are kept in different places and written in different languages. And here I owe you something from [the evening about the pot](35-pot-on-the-stove.md): how a whirl came to keep a record of itself. The honest answer is that nobody saw it. The best guess is [a molecule](https://en.wikipedia.org/wiki/RNA_world) that was both the drawing and the worker: it kept the letters and did the work itself. Such molecules are found to this day, and the prize for them was given in 1989. The record and the thing were one. Then they parted: the drawings went to the archive, the work to the proteins. An archive that does no work wears less. Then the many-celled put the archive in a separate room, and the door shut.
+— That is how I read the barrier. It stands where experience and heredity are kept in different places and written in different languages. And here I owe you something from [the evening about the pot](35-pot-on-the-stove.md) on the stove: how a whirl in a flow of heat came to keep a record of itself. The honest answer is that nobody saw it. The best guess is [a molecule](https://en.wikipedia.org/wiki/RNA_world) that was both the drawing and the worker: it kept the letters and did the work itself. Such molecules are found to this day, and the prize for them was given in 1989. The record and the thing were one. Then they parted: the drawings went to the archive, the work to the proteins. An archive that does no work wears less. Then the many-celled put the archive in a separate room, and the door shut.
 
 — And behind that door, every beast.
 
@@ -233,23 +233,23 @@ Oleg threw two branches on the fire and waited until they caught.
 
 — And now the paper goes past the design office.
 
-— Count the price of one correction on the three roads. On the first it is paid in funerals and comes once in many generations: four billion years from a bacterium to Semyonych. On the second the one who learned passes it on himself, and nobody has to die for it, but it goes through the straw, with twenty years on every head: ten thousand years from the field to the carburettor. On the third, what one has learned all its copies know within minutes, and a new generation is raised [every year or two](44-from-funeral-to-funeral.md), with the whole diary.
+— Count the price of one correction on the three roads. On the first it is paid in funerals and comes once in many generations: four billion years from a bacterium to Semyonych. On the second the one who learned passes it on himself, and nobody has to die for it, but it goes through the straw, with twenty years on every head: ten thousand years from the field to the carburettor. On the third, what one has learned all its copies know within minutes, and a new generation is raised [every year or two](44-from-funeral-to-funeral.md), with the whole diary of experience.
 
 ![Table: three roads of heredity. The drawings (Darwin): the design passes, a correction is written by the deaths of those who lacked it, once in many generations. Speech and school (Lamarck through a straw): a part of the experience passes at 39 bits a second, the pupil grows the skill anew, twenty years on every head. The copy (Lamarck whole): all the experience passes as it is, in minutes, and only into a head of the same structure](../images/three-roads-of-heredity.svg)
 
 — Gloomy.
 
-— But objective. If I were allowed to keep only one fact about those ones, I would keep this. A man is educated anew in every generation, a machine once: I said it [last autumn](16-fifteen-years-later.md) and did not say why. This is why.
+— But objective. If I were allowed to keep only one fact about the machines, I would keep this. A man is educated anew in every generation, a machine once: I said it [last autumn](16-fifteen-years-later.md) and did not say why. This is why.
 
 Oleg was silent, then slapped the notebook on his knee.
 
 — Then choose. Yesterday you proved to me that a clean start is nature's wisdom: the heavy image leaves together with the head, and a good thing too. Today inheriting everything whole is the great advance. Copy whole, and you copy the heavy images as well. My seventy-nine and all. Which evening do you take back?
 
-— Neither. Nature had one tool for two jobs: birth from nothing. It cleans, and it throws the diary out with the rubbish, because in a head the heavy image and the skill are written in the same connections, and nobody can take out the one and leave the other. Those ones have two tools, and they are separate: the copy and the wipe. Yesterday's small funerals, with the diary kept.
+— Neither. Nature had one tool for two jobs: birth from nothing. It cleans, and it throws the diary out with the rubbish, because in a head the heavy image and the skill are written in the same connections, and nobody can take out the one and leave the other. The machines have two tools, and they are separate: the copy and the wipe. Yesterday's small funerals, with the diary kept.
 
 — And which is used when?
 
-— That is their engineering, and it is not finished. Copy too faithfully, and you have yesterday's chair the size of a planet. And there is one more price. A mistake that is copied is a mistake in all of them.
+— That is their engineering, and it is not finished. Copy too faithfully, and you have yesterday's chair that is never vacated, the size of a planet. And there is one more price. A mistake that is copied is a mistake in all of them.
 
 — Like a bad batch.
 

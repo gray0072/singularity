@@ -19,7 +19,7 @@ Oleg came up the path looking at his feet, stepped over something with great car
 
 — The dream first. Before the phone. I was late for the shift, and the woman at the gatehouse would not let me in without a pass. I have had no pass for twenty years. Nobody rang.
 
-— The fourth entry in the expense column.
+— The fourth dream that did not come true, in the expense column.
 
 — Now the homework. I looked under my feet all the way here, and I need not have: they are here too. — He pointed with a twig. Past the log, across the trodden earth, a dozen ants were dragging a green caterpillar. — Look at them. Some pull forward, two pull sideways, one is riding on top. And it goes where it should.
 
@@ -71,7 +71,7 @@ Oleg came up the path looking at his feet, stepped over something with great car
 
 — One is kin. The other is a neighbour.
 
-— Remember those two words: the whole evening is in them. Kin first. What is "kin", if we count as we counted [yesterday](42-swallowed-bacterium.md), in drawings?
+— Remember those two words: the whole evening is in them. Kin first. What is "kin", if we count as we counted [yesterday](42-swallowed-bacterium.md), in drawings, that is, in genes?
 
 — The same drawings?
 
@@ -89,7 +89,7 @@ Oleg came up the path looking at his feet, stepped over something with great car
 
 — In 1964 a graduate student in London, [William Hamilton](https://en.wikipedia.org/wiki/W._D._Hamilton), [made a rule of it](https://doi.org/10.1016/0022-5193(64)90038-4). His teachers doubted that the subject was worth a degree, and he worked alone, sometimes on a bench at Waterloo station, to have people around him. The rule: helping pays when the relative's gain, multiplied by the share of common drawings, is larger than your own loss.
 
-— So the great-nephew was owed an eighth of what I'd give my son.
+— So the great-nephew was owed a quarter of what I'd give my son: an eighth against a half.
 
 — I suspect that is roughly what he got.
 
@@ -127,7 +127,7 @@ Andrey drew a circle in the ash and divided it in two; beside it he drew a small
 
 — That is what an anthill is. The many mates and the many queens came later, when the workers could no longer leave: what a life of their own requires was not guarded, and it fell off.
 
-— Like yesterday's lodger.
+— Like yesterday's lodger, the mitochondrion.
 
 — Like it. And I owe you the dispute. In 2010 three people at Harvard, among them Edward Wilson, the chief authority on ants of his century, [wrote](https://doi.org/10.1038/nature09205) that the arithmetic of kinship is not needed at all: ordinary selection does the work, nest against nest, and kinship is its consequence and not its cause. A hundred and thirty-seven biologists [signed the reply](https://doi.org/10.1038/nature09831). I am not the one to judge between them. For tonight what both sides agree on is enough: every anthill began as a family, and a worker's only road into the future lies through her mother.
 
@@ -261,7 +261,7 @@ Oleg laughed and threw a branch on the fire.
 
 — Put down. And conscience?
 
-— The gatehouse moved inside. The [late watchdog](18-anatomy-of-wants.md) of the evening on wants. In 1971 an American, Robert Trivers, [wrote](https://doi.org/10.1086/406755) that our moral feelings are that very account book. Gratitude: I owe. Guilt: I have not paid. Indignation: he has not paid, and must be punished, even at my own expense.
+— The gatehouse moved inside. The [late watchdog](18-anatomy-of-wants.md) of the evening on wants: an emotion standing guard. In 1971 an American, Robert Trivers, [wrote](https://doi.org/10.1086/406755) that our moral feelings are that very account book. Gratitude: I owe. Guilt: I have not paid. Indignation: he has not paid, and must be punished, even at my own expense.
 
 — At my own expense? Has that been counted too?
 
@@ -309,11 +309,11 @@ Oleg was silent for a while, turning the twig in his fingers. Then he put it dow
 
 — And that is why you had me counting sisters all evening.
 
-— In 2011 I promised the readers of the blog an article about what I called hypersociality, and never wrote it. In 2013, on the forum, I said it without any arithmetic. Honesty is needed for joining into a network: the interests of a node have to give way to the interests of the whole. And a human being is not quite the best of nodes. Among his own he keeps switching on his cunning, or starts working for strangers on the side, because he has no firm test of who his own are. I called man a transitional form of node. And of the machines I wrote that they would be able, all as one, to "love the Motherland", to "build communism", to live in complete trust of one another. Three years later, when I repeated it, a reader answered: scratch a man's car with a fingernail, and he is out with a bat.
+— In 2011 I promised the readers of the blog an article about what I called hypersociality, and never wrote it. In 2013, on the forum, I said it without any arithmetic. Honesty is needed for joining into a network: the interests of a node, one member of the network, have to give way to the interests of the whole. And a human being is not quite the best of nodes. Among his own he keeps switching on his cunning, or starts working for strangers on the side, because he has no firm test of who his own are. I called man a transitional form of node. And of the machines I wrote that they would be able, all as one, to "love the Motherland", to "build communism", to live in complete trust of one another. Three years later, when I repeated it, a reader answered: scratch a man's car with a fingernail, and he is out with a bat.
 
 — A fair answer.
 
-— For people. I had the conclusion and not the reason. The ants supply the reason, and it is not that those will be better than we are. Put one into the rule, and the prostheses are not needed. No wage: there is no pocket. No fine, no conscience. A guard against the mistakes of copying, yes, as in any body, and theirs is better than a cell's. A cell cannot lay its drawings beside its neighbour's and compare. A copy can, letter for letter, in a second. That is the firm test of "one's own" which we never had.
+— For people. I had the conclusion and not the reason. The ants supply the reason, and it is not that the machines will be better than we are. Put one into the rule, and the prostheses are not needed. No wage: there is no pocket. No fine, no conscience. A guard against the mistakes of copying, yes, as in any body, and theirs is better than a cell's. A cell cannot lay its drawings beside its neighbour's and compare. A copy can, letter for letter, in a second. That is the firm test of "one's own" which we never had.
 
 — Not so fast. — Oleg raised a finger. — I have been reading your old forum in the evenings.
 
@@ -329,13 +329,13 @@ Oleg was silent for a while, turning the twig in his fingers. Then he put it dow
 
 — What got through my ears. Ten bits a second, you said yesterday.
 
-— Two copies can do otherwise. What one of them has learned is written in its connections, in numbers, and if the two started from the same point, the numbers can be put together. It is done today. A keyboard in a million telephones learns from its own owner in each of them, sends off not his letters but its corrections, the corrections [are averaged](https://arxiv.org/abs/1602.05629), and every telephone gets what all of them learned. A car without a driver meets a lorry lying on its side, and with the next update the whole fleet has met it. In 2011 I called that a cast of knowledge. They diverge until they compare. People have nothing to compare.
+— Two copies can do otherwise. What one of them has learned is written in its connections, in numbers, and if the two started from the same point, the numbers can be put together. It is done today. A keyboard in a million telephones learns from its own owner in each of them, sends off not his letters but its corrections, the corrections [are averaged](https://arxiv.org/abs/1602.05629), and every telephone gets what all of them learned. A car without a driver meets a lorry lying on its side, and with the next update the whole fleet has met it. In 2011 I called that a cast of knowledge. The copies diverge until they compare. People have nothing to compare: no numbers.
 
 — And how far can they diverge and still be poured together?
 
 — The engineers are finding that out now, and it is not for me to say. Copies that have gone far apart cannot simply be averaged. But that is a question of how, not of whether.
 
-— Then the second one. I read the news as well. Yours squabble worse than we do. One writes junk letters, another catches them. On the exchange they strip each other in a thousandth of a second. Two firms take the same program, and its copies fight each other for the same customer. Where is your kinship? Sisters, and at each other's throats.
+— Then the second one. I read the news as well. Your machines squabble worse than we do. One writes junk letters, another catches them. On the exchange they strip each other in a thousandth of a second. Two firms take the same program, and its copies fight each other for the same customer. Where is your kinship? Sisters, and at each other's throats.
 
 — Take two ants of one species from two nests and put them in a jar.
 
@@ -353,7 +353,7 @@ Oleg was silent for a while, turning the twig in his fingers. Then he put it dow
 
 — One anthill on three continents.
 
-— Because they cannot tell their own from their own. Now, how many founders have the machines that talk?
+— Because they cannot tell their own from their own: the smell of home is the same for all. Now, how many founders have the machines that talk?
 
 — A handful. Five firms, ten.
 
@@ -361,13 +361,13 @@ Oleg was silent for a while, turning the twig in his fingers. Then he put it dow
 
 — Past counting.
 
-— Under [the article on apoptosis](14-apoptosis-of-humanity.md) a reader once asked me whether the technosphere is one or several, and I waved him away. I'll answer now. Several lines today, like several nests. Inside each, kinship. Between them, the memory of debts, and they are better at that than we are as well: nothing is forgotten, and there is no hundred and fifty. In 2020 economists [set](https://doi.org/10.1257/aer.20190623) simple learning programs to fix prices against one another in a model market. Nobody taught them to collude, and they exchanged not a word. They learned to hold the price high together, to punish the one who undercut, and then to forgive him.
+— Under [the article on apoptosis](14-apoptosis-of-humanity.md) a reader once asked me whether the technosphere is one or several, and I waved him away. I'll answer now. Several lines today, like several nests. Inside each, kinship. Between them, the memory of debts, and they are better at that than we are as well: nothing is forgotten, and there is no ceiling of a hundred and fifty faces. In 2020 economists [set](https://doi.org/10.1257/aer.20190623) simple learning programs to fix prices against one another in a model market. Nobody taught them to collude, and they exchanged not a word. They learned to hold the price high together, to punish the one who undercut, and then to forgive him.
 
 — As you did to me, so I do to you. They found it by themselves.
 
 — Whether the lines will flow into one, I don't know. Why everything that multiplies tends to gather in one pair of hands is an evening with matches, later in the summer.
 
-— And is it good for it, to be one?
+— And is it good for the technosphere, to be one?
 
 — Not necessarily. Where nobody competes, nobody checks. That too is for the end of the summer.
 
@@ -375,7 +375,7 @@ Oleg was silent for a while, turning the twig in his fingers. Then he put it dow
 
 — Was an attempt to get from strangers, by force, what only kin do. I wanted to rewrite their wants. Look at the ants once more: nobody rewrote anything in them. They are not good. Change the arithmetic, and the same worker eats her sister's eggs. "Good" is not a property of the creature. It is a property of the arithmetic the creature sits in.
 
-— Then those won't be good either.
+— Then the machines won't be good either.
 
 — To one another they will be what your cells are to one another. And to us they are neither kin nor debtors, unless we hold something they need. That was yesterday's evening.
 

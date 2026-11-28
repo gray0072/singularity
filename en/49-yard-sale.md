@@ -17,9 +17,9 @@ status: original
 
 Oleg came with the notebook, the dog and a box of matches, which he shook at his ear like a rattle.
 
-— The dream first. Before the phone. Payday at the plant, and I am the cashier. The wages are paid in matches, out of one box. The queue goes round the corner, and I can see that I am one match short. Nobody rang.
+— The dream first. Written down before the phone. Payday at the plant, and I am the cashier. The wages are paid in matches, out of one box. The queue goes round the corner, and I can see that I am one match short. Nobody rang.
 
-— The tenth entry in the expense column.
+— The tenth dream that did not come true, in the expense column.
 
 — Ten dreams and not one call. Your firewood is safe so far. — He sat down and slid the box open. — A full one, as ordered. I counted them at home: forty-three, and two of them with no heads.
 
@@ -75,7 +75,7 @@ Oleg counted the strokes in the notebook.
 
 — A hundred and eighteen. And you a hundred and nine.
 
-— Nine tosses out of two hundred and twenty-seven, and the whole box. What did you write before the first one?
+— A lead of nine tosses out of two hundred and twenty-seven, and the whole box. What did you write before the first one?
 
 — "Around twenty." — He crossed it out. — We went past twenty four times and did not stop there once.
 
@@ -195,7 +195,7 @@ Andrey wrote the two rows in the ash with a stick.
 
 — And words. In any long book the commonest word turns up about twice as often as the second and three times as often as the third. And scientific papers: most gather a handful of references, and a few gather tens of thousands. In 1968 a sociologist [named it](https://doi.org/10.1126/science.159.3810.56) after a line from a gospel: to him who has, more will be given.
 
-— And what have a fortune, a town, a word and a paper in common?
+— And what have a fortune, a town, a word and a paper in common? — Andrey asked after a pause.
 
 — They grow out of themselves. — Oleg bent his fingers. — A big town draws more newcomers because it is big. A word that is on everybody's tongue is the first to come to the tongue. A paper that is cited gets found and cited again. Money makes money. — He stopped at the fifth finger. — [Images](19-struggle-of-images.md). You had that: an image that is used grows heavier, and one that is not is wiped.
 
@@ -255,7 +255,7 @@ Andrey threw a branch on the fire.
 
 — That is the brake under the brakes. It is not on the historian's list, because it is not an event. The tax is the form. The need for people is the force. [The evening before last](47-money-as-memory.md) we said that money is a record that somebody needed you.
 
-— Stop. — Oleg put the pencil down. — I can see where this log is rolling. Those ones. If hands are not needed, and heads not much either...
+— Stop. — Oleg put the pencil down. — I can see where this log is rolling. Those ones, the machines. If hands are not needed, and heads not much either...
 
 — I did not say it.
 
@@ -265,7 +265,7 @@ Andrey threw a branch on the fire.
 
 — The voter has his vote in his hands. — Oleg did not give in. — One man, one vote, and there are more poor than rich. Let them vote the screw tighter.
 
-— They will. And in the same argument I named the second hole: the heap can leave. I imagined a world where every country takes ninety per cent of a firm's profit, and one country cuts to forty-five. It ought to collect half as much. But the capital of ten such countries runs to it, and it collects five times more. And the other nine lower their rates, and their benefits with them.
+— They will. And in the same argument I named the second hole: the heap, the capital, can leave. I imagined a world where every country takes ninety per cent of a firm's profit, and one country cuts to forty-five. It ought to collect half as much. But the capital of ten such countries runs to it, and it collects five times more. And the other nine lower their rates, and their benefits with them.
 
 — That was a fantasy.
 
@@ -283,13 +283,13 @@ Andrey threw a branch on the fire.
 
 — And what is "swallowed", in the game?
 
-— The loser's matches go over to the winner. — Oleg whistled softly. — So the heaps that have neither heirs nor funerals play the same game among themselves. Without that brake.
+— The loser's matches go over to the winner. — Oleg whistled softly. — So the firms, heaps that have neither heirs nor funerals, play the same game among themselves. Without that brake.
 
 — And here I have a debt since 2011. Under [the evening about famine](09-unemployment-and-famine.md) a reader insisted: not everybody is doomed; some will profit by the machines and the rest will starve. I answered only that everybody was doomed, and that was no answer. For the first rounds he was right: the matches do go to some. But then the some sit down with one another at the same table. The game does not end when the poor have dropped out of it. It goes on among the hundred, then among the ten.
 
 — And who holds the box at the end?
 
-— Not necessarily a man. On [the evening about the fisherman](37-who-exploits-whom.md) we found a player that never gives back what it has received. In the game of matches I left it out: every real game leaves something on the table itself.
+— Not necessarily a man. On [the evening about the fisherman](37-who-exploits-whom.md) we found a player that never gives back what it has received: what has been built. In the game of matches I left it out: every real game leaves something on the table itself.
 
 — "Who owns the tractor." — Oleg found the line in the notebook. — It has been lying here since the horses.
 

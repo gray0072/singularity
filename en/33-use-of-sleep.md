@@ -17,7 +17,7 @@ status: original
 
 The first warm evening after the winter came late. The log had wintered well, only the moss on it had grown thicker. Andrey was feeding the young fire with last year's twigs when Oleg came out of the dusk, yawning, with a thick paper notebook under his arm.
 
-— The needles haven't moved, — he said instead of a greeting. — I looked. It's too early to check your marks.
+— The needles haven't moved, — he said instead of a greeting. — I looked. It's too early to check your marks, the dated forecasts you made in the autumn.
 
 — Too early, — Andrey agreed. — Then what is the notebook for?
 
@@ -99,7 +99,7 @@ Oleg yawned again and opened the notebook.
 
 — On the evening about images I called that weight the [significance coefficient](19-struggle-of-images.md), and we agreed that forgetting is a function, not a defect. Now you know when the function is run.
 
-— All right, — Oleg threw a branch into the fire. — But that's meat. My phone doesn't sleep and forgets nothing. A machine doesn't get tired, so it needs no sleep. It turns out that sleep is simply our weakness.
+— All right, — Oleg threw a branch into the fire. — But that's all about meat, about living things. My phone doesn't sleep and forgets nothing. A machine doesn't get tired, so it needs no sleep. It turns out that sleep is simply our weakness.
 
 — Note that it was you who brought up machines.
 
@@ -135,7 +135,7 @@ Oleg yawned again and opened the notebook.
 
 — In the first sentence. Sleep isn't rest.
 
-— And deeper than that. We named the task after our own way of solving it. It's like deciding that a fish doesn't breathe because it has no lungs. Taking in oxygen is the task of everything that burns food. Lungs are the way of those who live on land. To rebuild memory without destroying it is the task of any mind that learns. To lie down for a third of your life with your eyes shut is the way of a platform that has one network for everything.
+— And deeper than that. We named the task after our own way of solving it. It's like deciding that a fish doesn't breathe because it has no lungs. Taking in oxygen is the task of everything that burns food. Lungs are the way of those who live on land. To rebuild memory without destroying it is the task of any mind that learns. To lie down for a third of your life with your eyes shut is the way of a platform, of a construction that has one network for everything.
 
 — Then the machine will sleep too?
 
@@ -153,7 +153,7 @@ Oleg yawned again and opened the notebook.
 
 — I have.
 
-— And what did the sensors show?
+— And what did the sensors show, the eyes, the ears, the skin?
 
 — The blanket.
 
@@ -203,7 +203,7 @@ Oleg turned to the last page of the notebook, wrote "again" on it and put a tick
 
 — Let's finish for today by fixing the result, — said Andrey.
 
-1. **Sleep is not rest but the tax of a platform that has one carrier for both working and rebuilding. Memory can't be re-sorted while it is serving, so the brain closes for stocktaking: the day's images are replayed, the heavy ones are kept, the light ones are written off. Nature could not cancel this tax even for the dolphin; it could only split it in two.**
+1. **Sleep is not rest but the tax of a platform that has one carrier, one and the same network, for both working and rebuilding. Memory can't be re-sorted while it is serving, so the brain closes for stocktaking: the day's images are replayed, the heavy ones are kept, the light ones are written off. Nature could not cancel this tax even for the dolphin; it could only split it in two.**
 2. **A dream is the correlator working without sensors: links between images, and nothing to check them against. A machine's "hallucination" is the same thing awake.**
 3. **"Sleep is rest, a machine doesn't get tired, so it needs no sleep" is anthropocentrism: the task was named after our way of solving it. The task of sleep will pass to any mind that learns; sleep itself stays with us.**
 

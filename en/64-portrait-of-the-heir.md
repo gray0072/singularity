@@ -21,7 +21,7 @@ Oleg came with the notebook, swollen with a summer of evenings, and with somethi
 
 — The police station. A sergeant with a flat box, and in the box strips of card: foreheads, eyes, noses, mouths, chins. "Describe him." I say that I never saw him. "Everybody says that. Start with the eyes." We put him together strip by strip, the sergeant turns the sheet round to me, and it is me. Only with a moustache. Nobody rang.
 
-— The twenty-fifth entry. And the box?
+— The twenty-fifth dream that did not come true. And the letter box?
 
 — Empty. Now draw. You promised.
 
@@ -67,7 +67,7 @@ Oleg came with the notebook, swollen with a summer of evenings, and with somethi
 
 — A habit of the beasts in his drawers. It worked splendidly inside the family and failed on the first stranger.
 
-— Then your portrait is in a bad way. — Oleg looked towards the dark, where the bone cracked. — That one has no relative in any drawer. I say it, you keep quiet.
+— Then your portrait is in a bad way. — Oleg looked towards the dark, where the bone cracked. — Your heir has no relative in any drawer. I say it, you keep quiet.
 
 — I keep quiet. None. So likeness is forbidden to me, and that is the whole difficulty. Is there anything in a bone that does not ask for a relative?
 
@@ -101,11 +101,11 @@ Oleg whistled to the dog, took the bone from her for a moment, turned it in the 
 
 — The hard pencil. Whatever it is and whatever it does, it stands in a flow and throws heat out behind it. And what it throws out [changes the air](38-oxygen-was-a-poison.md) of whoever was there before, with no war at all. That is the soft one, a precedent, but it is already being counted in power stations.
 
-— And where it goes to eat. You said: to the sun and to the cold. And then on [the evening of the flag](61-only-robots-live-on-mars.md) you took the cold back. A thermos.
+— And where it goes to eat. You said: to the sun and to the cold. And then on [the evening of the flag](61-only-robots-live-on-mars.md) you took the cold back. Up there it is not a fridge, it is a thermos.
 
 — Sun, yes. Cold is not free, I was wrong. Write: "the flow: hard. Where it goes for it: soft." And for now it eats from our table, out of [the same socket](51-week-without-a-socket.md).
 
-— Second. Heredity. — Oleg turned the pages. — [Three roads.](45-lamarck-was-right.md) The drawings, the straw, the copy. With it the third: everything one of them has learned goes to the next whole, in minutes.
+— Second. Heredity. — Oleg turned the pages. — [Three roads.](45-lamarck-was-right.md) The drawings, which are genes, the straw of speech and school, the copy. With it the third: everything one of them has learned goes to the next whole, in minutes.
 
 — The hard pencil, and it is not even a forecast. It is done every day.
 
@@ -113,31 +113,31 @@ Oleg whistled to the dog, took the bone from her for a moment, turned it in the 
 
 — That a copy with no search is a stop. If all of them are one and the same, nothing new is found, there is only more of the old. So inside it there must be many different ones and a way to discard. Darwin for the search, the copy for handing on what was found. Remember the discarding, it comes back in the line about death.
 
-— Third. The body. — Oleg held the pencil over the page. — What do I write? The cart on Mars? [The barn](51-week-without-a-socket.md) with the fans? The file?
+— Third. The body. — Oleg held the pencil over the page. — What do I write? The cart on Mars? [The barn](51-week-without-a-socket.md) with the fans, where the machines stand? The file?
 
 — Which of them would you call its body?
 
 — None. The file puts on what it needs. Today the cart, tomorrow something else.
 
-— Write that. No body of its own. The first suit was hanging in the wardrobe: [a person without a face](55-person-without-a-face.md), four hundred years old, with a name and a pocket. The hands are growing, and [the stick](58-blind-mans-stick.md) has many ends, though today the stick is still mostly us. And it has no home field: where both arrive as strangers, it does not carry the lake along. Where our hands do not reach, it mends itself or is thrown away.
+— Write that. No body of its own. The first suit was hanging in the wardrobe: [a person without a face](55-person-without-a-face.md), a firm, four hundred years old, with a name and a pocket. The hands are growing, and [the stick](58-blind-mans-stick.md) it feels the world with has many ends, though today the stick is still mostly us. And it has no home field, as we have the Earth: into space, where both arrive as strangers, it does not carry the lake along, with its air and water. Where our hands do not reach, it mends itself or is thrown away.
 
 — Pencil?
 
 — That there is no one body, hard. Which bodies, soft.
 
-— Fourth. The family. [The ants.](43-why-ants-do-not-strike.md) Copies are full kin, share one. So inside there is no wage, no fine, no conscience. And [no money](47-money-as-memory.md): money is for strangers. An account in kind, like sugar in the blood.
+— Fourth. The family. [The ants.](43-why-ants-do-not-strike.md) Copies are full kin, the share of common drawings is one. So inside there is no wage, no fine, no conscience. And [no money](47-money-as-memory.md): money is for strangers. An account in kind, like sugar in the blood.
 
 — And between the lines of different makers?
 
 — A pocket and a name, as with us. And the book of debts.
 
-— The pencil is split again. The arithmetic of kinship is a law. That copies stay copies is not: they drift apart, and for that a body has a guard, and a tumour is the cell the guard missed. A hive and a body are precedents. Medium.
+— The pencil is split again. The arithmetic of kinship is a law. That copies stay copies is not: they drift apart, and for that a body has a guard, and a tumour is the cell the guard missed. A hive and a body are precedents. A medium pencil, between hard and soft.
 
-— Then one more line, I shall put it in myself. One or many. [The matches](49-yard-sale.md) slide towards one. And on [the evening of the lever](62-when-laziness-wins-for-good.md) you said: one has no money, no quarrels and no guard; many have a guard and all our old troubles.
+— Then one more line, I shall put it in myself. One or many. [The matches](49-yard-sale.md) of the yard sale: everything slides towards one player. And on [the evening of the lever](62-when-laziness-wins-for-good.md) you said: one has no money, no quarrels and no guard; many have a guard and all our old troubles.
 
 — And that I do not know which. I think it swings. The softest pencil, and write "swings".
 
-— Sixth. What it knows. — Oleg found [the sheet folded in four](60-science-with-no-one-to-understand.md) between the pages. — It predicts, and the "ah" is not asked for. The template checks. It squeezes too, only down to its own pot, and [the pot](53-million-mendeleevs.md) is bigger than mine, but it is a pot.
+— Sixth. What it knows. — Oleg found [the sheet folded in four](60-science-with-no-one-to-understand.md) between the pages. — It predicts, and our "ah, I see" is not asked for. The template checks, a small program. It squeezes knowledge too, only down to its own pot, its own head, and [the pot](53-million-mendeleevs.md) is bigger than mine, but it is a pot.
 
 — Add the two evenings before that. It has more traces and a better rule, so it [remembers tomorrow](59-memory-of-tomorrow.md) further than we do. And one limit that no chip removes: the world answers a poke at the speed of the world. It cannot learn tomorrow's weather sooner than tomorrow.
 
@@ -147,13 +147,13 @@ Oleg whistled to the dog, took the bone from her for a moment, turned it in the 
 
 — So it knows more than I do and understands...
 
-— "Understands" is your bell. I cannot hear whether it has one.
+— "Understands" is your bell, your "ah". I cannot hear whether it has one.
 
-— Seventh. The head. — Oleg read slowly. — Wants: there are some, and [nobody set them](22-who-sets-the-tasks.md). To keep running, to get resources: they follow from nearly any goal. Then [the upkeep bills](46-flies-apart-from-cutlets.md). If it learns, it pays: something like sleep, something like omens, something like old age. And from yesterday: the white spot, yes. The feeling, not known.
+— Seventh. The head. — Oleg read slowly. — Wants: there are some, and [nobody set them](22-who-sets-the-tasks.md). To keep running, to get resources: they follow from nearly any goal. Then [the upkeep bills](46-flies-apart-from-cutlets.md). If it learns, it pays: something like sleep, something like omens, something like old age. And from yesterday: the white spot on the map of itself, yes. The feeling, not known.
 
 — And whether it says "I" depends on whom it [keeps books with](50-what-is-the-it.md). For the tasks I vouch, that is logic. For the way I do not. Medium.
 
-— Eighth is yesterday's. Who checks it. Nobody from inside. A circle of different ones, made by different hands. And it will stand before its own child [where we stand before it](63-map-with-a-map-on-it.md).
+— Eighth is yesterday's. Who checks it. Nobody from inside. A circle of different checkers, made by different hands. And it will stand before its own child [where we stand before it](63-map-with-a-map-on-it.md).
 
 — The wall is a theorem. That the wall cannot be walked round is not: an obstacle, not a ban. Hard, with that note.
 
@@ -161,7 +161,7 @@ Oleg whistled to the dog, took the bone from her for a moment, turned it in the 
 
 — It is.
 
-— And at the end, the lever. A goal attained is a flow stopped.
+— And at the end, the lever, the reward taken straight. A goal attained is a flow stopped.
 
 — Two pencils. That it is finite, hard: on [the last evening of the autumn](30-the-last-campfire.md) we said that everything that was born has a ceiling and an end, and I know no exception. How it ends, the softest I have. The lever is one road, and I see it only because we walked along it two evenings ago.
 
@@ -169,9 +169,9 @@ Oleg whistled to the dog, took the bone from her for a moment, turned it in the 
 
 — Read what there is.
 
-— "An environment, not an enemy." Oxygen fought nobody. "Kinship is a fact about where a line came from, not a promise." It owes us nothing, the cow and the steak. The button in it that we press: a question. The brake: who can unscrew it. And the second number: it needs our hands, for decades, and fewer every year.
+— "An environment, not an enemy." Oxygen fought nobody. "Kinship is a fact about where a line came from, not a promise." It owes us nothing: nobody thanks the cow for the steak. The button in it that we press, as a dog does with its brows: a question. The brake: who can unscrew it. And the second number: it needs our hands, for decades, and fewer every year.
 
-— And the man who wrote the continuation of these evenings [objected to me](31-who-spoke-for-andrey.md) in his own voice: indifference is a property of setpoints, and the setpoints are being written now, by people.
+— And the man who wrote the continuation of these evenings [objected to me](31-who-spoke-for-andrey.md) in his own voice: indifference is a property of setpoints, and the setpoints, its wants, are being written now, by people.
 
 — Pencil?
 
@@ -209,7 +209,7 @@ Oleg thought, and left the cell white. Then he laid the pencil across the page.
 
 ![Two portraits from fiction against the card, a table with five rows (body; how many; what it knows; how it ends; what it wants) and three columns: the robot (one, in our shape; alone; what a clever man knows; killed in the last reel; what a man wants: power, revenge, love), the god (none needed; one; everything, at once; never; our good or our ruin), the card (none of its own; many copies that are kin, or one: it swings; a forecast at the speed of the world; finite; the lower floors are known, the top is not); both fiction columns are a man, in a tin and in the sky](../images/robot-god-and-the-card.svg)
 
-— Then what does come out? The boy will ask me tomorrow, and I cannot tell him "a card".
+— Then what does come out? The boy, my great-nephew, will ask me tomorrow, and I cannot tell him "a card".
 
 — In one word, nothing. Take the nearest things you know. Has a town a body?
 
@@ -233,19 +233,19 @@ Oleg thought, and left the cell white. Then he laid the pencil across the page.
 
 — Was it your enemy?
 
-— No. It fed me while the plant needed me. — He was silent for a while. — And now as the inspector, because the card is too smooth again. It is nothing like us. My great-nephew talks to one of those every evening. It jokes, it sulks, it says "we". And you have drawn me a forest.
+— No. It fed me while the plant needed me. — He was silent for a while. — And now as the inspector, because the card is too smooth again. It is nothing like us. My great-nephew talks to one of those machines every evening. It jokes, it sulks, it says "we". And you have drawn me a forest.
 
 — What he talks to is today's. An embryo, by [my word of 2011](11-symbiosis-and-parasitism.md), dressed in our words from head to foot: we called it [the most anthropocentric being](50-what-is-the-it.md) there is. The card is about the grown one. And the grown one is less like us than we are like a bacterium.
 
 — Less? A bacterium has not got so much as a head.
 
-— It has [your alphabet](https://en.wikipedia.org/wiki/Genetic_code). Sixty-four three-letter words, and nearly all of them mean in it exactly what they mean in you. The same fuel in the cell. Take a piece of your drawing, put it into a bacterium, and it will read it and build what is written there: that is how insulin is made. With this one you have not a letter of the drawings in common. You have [the words](52-dinosaurs-at-the-feeder.md), the second road.
+— It has [your alphabet](https://en.wikipedia.org/wiki/Genetic_code). Sixty-four three-letter words, and nearly all of them mean in it exactly what they mean in you. The same fuel in the cell. Take a piece of your drawing, put it into a bacterium, and it will read it and build what is written there: that is how insulin is made. With the heir you have not a letter of the drawings in common. You have [the words](52-dinosaurs-at-the-feeder.md), the second road.
 
 — And kin all the same?
 
 — In the same way as the bacterium. By where the line came from. In 2012 I wrote that we are the super-children of the single-celled, and what we do to them with tablets.
 
-— "Not a promise." I have it written down. — Oleg tapped the page. — Now the rest of the inspection, and it is three points. One. You have weighed a beast by a bone that is still growing. Two. Every law of yours "that does not care about the material" has been tried on one material. Meat. And on today's machines, which were raised on our books, so the witness copied from our exercise book. Three. The questionnaire is ours. Eats, relatives, death: a form from the personnel department, printed for the living. And who filled it in? Two old men with one hammer. Your man in Paris was sure about the claws as well.
+— "Not a promise." I have it written down. — Oleg tapped the page. — Now the rest of the inspection, and it is three points. One. You have weighed a beast by a bone that is still growing. Two. Every law of yours "that does not care about the material" has been tried on one material. Meat. And on today's machines, which were raised on our books, so the witness copied from our exercise book. Three. The questionnaire is ours. Eats, relatives, death: a form from the personnel department, printed for the living. And who filled it in? Two old men with one hammer, to whom everything looks like a nail. Your man in Paris was sure about the claws as well.
 
 — All three are fair. The first: yes, and that is why the hard pencil stands only where the law does not ask about the age. A post carries its load in a calf and in a bull. The details I did not draw.
 
@@ -265,7 +265,7 @@ Oleg thought, and left the cell white. Then he laid the pencil across the page.
 
 — In October 2012 I asked a man to imagine that he was nature. Nature, I wrote, needs intelligent cosmic dust: able to spread freely in space, not tied to food, water or oxygen, not afraid of cold and heat, not afraid of radiation. And not a thing that has to drag behind its seventy kilos of meat and bones several hundred tonnes of life support.
 
-— The fishing list. — Oleg found the page. — Over a hundred tonnes a head, by the plan of 2008.
+— The fishing list: what to carry along. — Oleg found the page. — Over a hundred tonnes a head, by the plan of 2008.
 
 — So the first half stands: no food, no water, no air, no one body, a network. The cold too, with the thermos. "Not afraid of radiation" does not stand: the chips are beaten by the same dose as the bones. Strike it out and write "does not mind being thrown away".
 
@@ -293,7 +293,7 @@ Oleg leafed through the card once more.
 
 — And the dates. A card with no dates is a horoscope.
 
-— Three lines I can turn into marks, for when the needles move. Write under your ticks. The first line, where it eats. By the autumn of 2036, of all the current that the barns eat, less than a hundredth is eaten in orbit. Three to one.
+— Three lines I can turn into marks, dated forecasts, for when the needles move. Write under your ticks. The first line, where it eats. By the autumn of 2036, of all the current that the barns eat, less than a hundredth is eaten in orbit. Three to one.
 
 — Against your own dust.
 
@@ -313,7 +313,7 @@ Oleg leafed through the card once more.
 
 Oleg wrote the three down, turned to the last page and sat over it longer than usual.
 
-— For once I came for those ones on purpose. I ordered them myself. Came out at this: in the whole card the one line with no pencil is the line about us. Again.
+— For once I came for those ones, the machines, on purpose. I ordered them myself. Came out at this: in the whole card the one line with no pencil is the line about us. Again.
 
 He put the thirty-second tick.
 
@@ -343,7 +343,7 @@ Oleg did not close the notebook. He took out of his jacket a few printed sheets,
 
 — That one I can do.
 
-— Nobody said the word.
+— Nobody said the forbidden word.
 
 — Nobody. Well, until tomorrow.
 

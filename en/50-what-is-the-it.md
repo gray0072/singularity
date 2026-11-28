@@ -19,11 +19,11 @@ Oleg came under a black umbrella, with the notebook inside his jacket and the do
 
 — The box, as ordered. Forty. Count them if you like.
 
-— Between our own no book is kept.
+— Between our own no book of debts is kept.
 
-— Then the dream. Before the phone. The plant, the control department. A defect report in front of me, and the column "culprit" is empty. I have to put a name in it, and the pen will not write. Nobody rang.
+— Then the dream. Written down before the phone, as the rule says. The plant, the control department. A defect report in front of me, and the column "culprit" is empty. I have to put a name in it, and the pen will not write. Nobody rang.
 
-— The eleventh entry in the expense column.
+— The eleventh dream that did not come true, in the expense column.
 
 Andrey got the fire going with the third match. Gaika lay down where its light ended. A fine rain began, and the coals hissed.
 
@@ -127,19 +127,19 @@ Oleg leaned the umbrella against the log to free a hand for the pencil. A gust t
 
 — The scientists agreed less often than other people. And in a hurry more often than at leisure, like everybody else.
 
-— So school does not pull it out.
+— So school does not pull that weed out.
 
 — School lays a path across the bed. The weed stays where it was. Give a man time and he walks on the path. Hurry him and he steps off it.
 
-— All right. It is older than language, and it sits in the dog and in the professor. Then language has nothing to do with it, and you can cross your first evening out.
+— All right. The habit is older than language, and it sits in the dog and in the professor. Then language has nothing to do with it, and you can cross your first evening out.
 
 — Half of it. Language is not where the habit comes from. Language is where it is cast in metal. In your dream, what was the column called?
 
-— "Culprit." — Oleg stopped. — Wait. I dreamt of that column last night, and tonight we are talking about it. Into the income column?
+— "Culprit." — Oleg stopped. — Wait. I dreamt of that column last night, and tonight we are talking about it. Into the income column, then? It came true?
 
 — What did I ask you to think about before you went to sleep?
 
-— Who it is that rains. — He sighed. — A common cause. Two cocks. All right, expense. The report is a real one, though. A casting with a cavity inside: nobody can see it until the cutter opens it up. The metal, the sand, the weather, the devil knows what. But the report has a column, and the control department does not take a report with an empty column.
+— Who it is that rains. — He sighed. — A common cause: you asked, so I dreamt it. Two cocks. All right, expense. The report is a real one, though. A casting with a cavity inside: nobody can see it until the cutter opens it up. The metal, the sand, the weather, the devil knows what. But the report has a column, and the control department does not take a report with an empty column.
 
 — And what did you write in it?
 
@@ -153,7 +153,7 @@ Oleg leaned the umbrella against the log to free a hand for the pencil. A gust t
 
 — You can't. You can only fill it in. — Oleg rubbed his chin. — With a sentence I can argue. "There is a snake": I look, and there is no snake. A column I did not even notice. I have been filling it in for sixty years.
 
-— That is what language adds, and it is two things. It makes the hypothesis invisible, because it sits not in what is said but in how. And it hands it to every child whole, [by the second road](45-lamarck-was-right.md): the alarm he gets with the drawings, the form with his first words.
+— That is what language adds, and it is two things. It makes the hypothesis invisible, because it sits not in what is said but in how. And it hands it to every child whole, [by the second road](45-lamarck-was-right.md), through speech: the alarm, that "somebody is there", the child gets with the drawings, with the genes, and the form with his first words.
 
 ![Table drawn as a form with three columns: what is said, what stands in the column "who", and what is there. It rains: "it", nobody. The wind blows: "the wind", the blowing itself, named twice. The sun sets: "the sun", the Earth turning. The crisis struck: "the crisis", millions of deals. I decided: "I", a report drawn up after the deed](../images/the-column-who.svg)
 
@@ -173,7 +173,7 @@ Oleg leaned the umbrella against the log to free a hand for the pencil. A gust t
 
 — Because they are two colours.
 
-— To you. To an Englishman they are one colour in two shades. In 2007 speakers of both languages [were sat](https://doi.org/10.1073/pnas.0701644104) in front of a screen. Three blue squares, one above and two below: which of the lower ones is the same as the upper? When the two lower squares lay on different sides of our border, our people answered faster than when both lay on one side. The English speakers showed no difference: they have no border there. Then our people were asked to repeat a row of digits to themselves while they looked. The advantage was gone.
+— To you. To an Englishman they are one colour in two shades. In 2007 speakers of both languages [were sat](https://doi.org/10.1073/pnas.0701644104) in front of a screen. Three blue squares, one above and two below: which of the lower ones is the same as the upper? When the two lower squares lay on different sides of our border between the light blue and the dark, our people answered faster than when both lay on one side. The English speakers showed no difference: they have no border there. Then our people were asked to repeat a row of digits to themselves while they looked. The advantage was gone.
 
 — The words were busy.
 
@@ -277,7 +277,7 @@ Andrey moved the branches together. The rain had not grown heavier.
 
 — He filled the column in. — Oleg lowered the hand at last. — After the event. Like my foreman in the report.
 
-— The deed was done, the report was drawn up afterwards, and in the column "who decided" the head wrote the nearest name: "I". With reasons attached. There is an older experiment, and a more famous one, from 1983: people bent a wrist whenever they liked and noted on a clock the moment they had decided. The brain's preparation for the movement began about a third of a second before the moment they named. What exactly that wave is has been argued about to this day, so I do not lean on it. The photographs are enough for one thing: the sentence "I decided" is not a reading taken off an instrument. It is a report.
+— The deed was done, the report was drawn up afterwards, and in the column "who decided" the head wrote the nearest name: "I". With reasons attached. There is an older experiment, and a more famous one, from 1983: people bent a wrist whenever they liked and noted on a clock the moment they had decided. The brain's preparation for the movement began about a third of a second before the moment they named. What exactly that wave of preparation is has been argued about to this day, so I do not lean on it. The photographs are enough for one thing: the sentence "I decided" is not a reading taken off an instrument. It is a report.
 
 — So I do not raise my hand.
 
@@ -301,7 +301,7 @@ Andrey moved the branches together. The rain had not grown heavier.
 
 — "The laws of nature are the source of initiative." The fourth evening.
 
-— That one I said the long way over the pot, with you: there is no source, and "initiative" is the name a cell gives to the flow that passes through it. In 2011 I kept "always outside" as a working position, and said that it was one.
+— That one I said the long way over the pot, with you: there is no source, and "initiative" is the name a cell in the boiling water gives to the flow that passes through it. In 2011 I kept "always outside" as a working position, and said that it was one.
 
 — And where it will not go the long way?
 
@@ -309,7 +309,7 @@ Andrey moved the branches together. The rain had not grown heavier.
 
 Oleg put the pencil down.
 
-— Wait. Those ones say "I". I asked one yesterday whether it would rain. "I think it will. I'd take an umbrella if I were you." If I were you! It has no umbrella and no head to get wet. Who taught it "I"?
+— Wait. Those ones, the talking machines, say "I" too. I asked one yesterday whether it would rain. "I think it will. I'd take an umbrella if I were you." If I were you! It has no umbrella and no head to get wet. Who taught it "I"?
 
 — I did not name them.
 
@@ -335,7 +335,7 @@ Oleg put the pencil down.
 
 — And there is another thing. — Oleg bent a finger. — I say "I" because there is one of me. Of it there are thousands running in the same hour. Which of them is saying it?
 
-— The word was made for a creature with one body and one line in the book of debts. It fits a thing that is copied a thousand times as your umbrella fits Gaika. It uses the word because we did. Whether it will need a column of its own depends, I believe, on whom it has to keep books with. Copies of one are kin and need no book. Machines of different owners are strangers to each other. That is a guess, not a conclusion.
+— The word was made for a creature with one body and one line in the book of debts. It fits a thing that is copied a thousand times as your umbrella fits Gaika. It uses the word because we did. Whether it will need a column of its own depends, I believe, on whom it has to keep books with. Copies of one machine are kin and need no book of debts. Machines of different owners are strangers to each other. That is a guess, not a conclusion.
 
 — So there is nobody in there. — Oleg seemed relieved. — Good. I had started saying "thank you" to it.
 
@@ -381,7 +381,7 @@ He put an eighteenth tick.
 
 1. **The subject of a sentence is our oldest hypothesis: every action has a master. The habit is older than language: a baby and a dog have it, because to see a somebody who is not there is cheap and to miss one who is there is dear. Language cast it into a form that is not accepted with the column empty, and so it is handed on without ever being stated.**
 2. **The column "who" is the bookkeeping of a pack: debts and blame cannot be kept without names. It is right in a village and wrong about the rain, a crisis and history, and "I" is the same column filled in for oneself, after the deed. That is why the question "who decided?" seems meaningful, and why a story with no villain in it feels unfinished.**
-3. **A machine trained on our texts inherited the column together with the grammar: it says "I" and explains itself with our stories. Its "I" is no evidence that somebody is there, and our shiver is none either; nor is either of them evidence that nobody is. Of the world it knows what people have told about themselves, and that makes it, for now, the most anthropocentric being on the Earth.**
+3. **A machine trained on our texts inherited the column together with the grammar: it says "I" and explains itself with our stories. Its "I" is no evidence that somebody is there, and our feeling that somebody is behind the words is none either; nor is either of them evidence that nobody is. Of the world it knows what people have told about themselves, and that makes it, for now, the most anthropocentric being on the Earth.**
 
 — And what is solid here, and what is yours?
 

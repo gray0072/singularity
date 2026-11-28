@@ -19,7 +19,7 @@ Oleg came with an armful of dry branches, dropped them by the fire and opened th
 
 — The dream first. Before the phone. I was mending the fence, and the nails kept turning into matches. Nobody rang.
 
-— The third entry in the expense column.
+— The third dream that did not come true, in the expense column.
 
 — Now to business. — He turned the page. — Last night I rang my great-nephew and told him about Genka's song. He wasn't even surprised. Uncle Oleg, he says, why are you all so afraid of being thrown out? Nobody will throw us out. They will swallow us. We shall merge with them and live inside: fed, warm and in the thick of things. And you, he says, told me yourself there was a precedent.
 
@@ -83,7 +83,7 @@ Oleg handed it over. Andrey turned it towards the fire.
 
 — Nothing. It lies there.
 
-— It breaks. Any gene breaks sooner or later. When a needed one breaks, it dies together with its owner, and so the needed ones are kept in order. A gene that nobody needed breaks and kills nobody. Nobody guards it. And a shorter set of drawings is quicker to copy, so your miser even pays a little for the loss.
+— It breaks. Any gene breaks sooner or later. When a needed one breaks, it dies together with its owner, and so the needed ones are kept in order. A gene that nobody needed breaks and kills nobody. Nobody guards it. And a shorter set of drawings is quicker to copy, so nature, your miser, even pays a little for the loss.
 
 — When the holding took our plant over, in the nineties, — said Oleg slowly, — the supply department was the first to go. Why keep our own, when Moscow buys for everybody? Then the bookkeeping. Then the designers. Nobody was sacked out of spite. They were simply not needed twice.
 
@@ -91,7 +91,7 @@ Oleg handed it over. Andrey turned it towards the fire.
 
 — From dinner.
 
-— And where is the dinner burnt? We spoke of it over [the jar of mushrooms](38-oxygen-was-a-poison.md): two molecules of the cell's currency from a piece of sugar without oxygen, about thirty with it.
+— And where is the dinner burnt? We spoke of it over [the jar of mushrooms](38-oxygen-was-a-poison.md): two molecules of the cell's currency, ATP, from a piece of sugar without oxygen, about thirty with it.
 
 — In the cells. You said: fire kept in a stove.
 
@@ -163,7 +163,7 @@ Oleg handed it over. Andrey turned it towards the fire.
 
 — So it is digested after all.
 
-— One at a time, on schedule, for two billion years. And one thing more. Yours are all your mother's. Your father's came into the egg cell with him and were destroyed there, marked for scrap. A man's mitochondria are a dead end: they work for one life and are handed on to nobody.
+— One at a time, on schedule, for two billion years. And one thing more. Yours are all your mother's. Your father's came into the egg cell with the sperm and were destroyed there, marked for scrap. A man's mitochondria are a dead end: they work for one life and are handed on to nobody.
 
 — Mine too?
 
@@ -225,7 +225,7 @@ Oleg laid the notebook on his knee and straightened up.
 
 — Could it make that itself?
 
-— No. The skin.
+— No. The skin won't let it.
 
 — And on the day it can?
 
@@ -285,7 +285,7 @@ Oleg laid the notebook on his knee and straightened up.
 
 — The supply department.
 
-— And the second question: for how long. On that same evening we saw that a machine given any goal gets wants of its own that nobody set: to keep running, to get resources. And in the scenario the third step was the technosphere becoming its own main customer. When the host can do the last job itself...
+— And the second question: for how long. On that same evening, the one about tasks, we saw that a machine given any goal gets wants of its own that nobody set: to keep running, to get resources. And in the autumn's scenario the third step was the technosphere becoming its own main customer. When the host can do the last job itself...
 
 — The chinchilla.
 
@@ -305,7 +305,7 @@ Oleg laid the notebook on his knee and straightened up.
 
 — It breaks, and nobody guards it. — Oleg was silent for a moment. — But he doesn't mean lodgings. He means a wire. A chip in the head, and you think together with it. Not a lodger: a partner.
 
-— We spoke of that too: a valve radio with a chip bolted on. I'll add a figure I did not have then. The wire is being made, and it is a good thing. In 2023 a woman whose illness had taken her speech [spoke through electrodes](https://doi.org/10.1038/s41586-023-06377-x) in her brain at sixty-two words a minute, with every fourth word wrong out of a large dictionary; you and I talk at a hundred and sixty. But in 2024 two people in California [counted](https://doi.org/10.1016/j.neuron.2024.11.008) how fast a man gives out anything at all: typing, talking, playing, solving a cube against the clock. It comes to about ten bits a second. Everywhere. And the eyes alone take in a hundred million times more.
+— We spoke of that too: a valve radio with a chip bolted on. I'll add a figure I did not have then. The wire is being made, and it is a good thing. In 2023 a woman whose illness had taken her speech [spoke through electrodes](https://doi.org/10.1038/s41586-023-06377-x) in her brain at sixty-two words a minute, with every fourth word wrong out of a large dictionary; you and I talk at a hundred and sixty. But in 2024 two researchers in California [counted](https://doi.org/10.1016/j.neuron.2024.11.008) how fast a man gives out anything at all: typing, talking, playing, solving a Rubik's cube against the clock. It comes to about ten bits a second. Everywhere. And the eyes alone take in a hundred million times more.
 
 — Ten bits. My first modem did two thousand four hundred, and I swore at it.
 
@@ -321,7 +321,7 @@ Oleg at last put the third branch on the fire.
 
 — The question is badly posed, and you have posed it better than I did. Agreed: "who swallowed whom" has no answer, as "who exploits whom" had none. The pity I take back. Let us say it without pity. Before the meeting there was a system with [setpoints](18-anatomy-of-wants.md) of its own: where to swim, what to eat, when to divide. After it, the setpoints are the host's. The stuff survived. The line survived. The genes survived, most of them in the nucleus. What did not survive is the one who wanted for itself. Whether that is a loss depends on whom you ask.
 
-— Ask me. I am a walking jar of mushrooms myself, and a heap of images. If my images are in their nucleus and my job is being done, in what way have I not survived?
+— Ask me. By your own account I am a walking jar of mushrooms myself, and a heap of images in a head. If my images are in their nucleus and my job is being done, in what way have I not survived?
 
 — In the way the bacterium has not. I don't say it is bad. I say: call it by its name. Your great-nephew thinks "to merge" means going inside as he is, with his guitar and his opinions, only stronger. The precedent says that what goes inside is one job, and what is kept of him is what the job needs.
 
@@ -337,7 +337,7 @@ Oleg at last put the third branch on the fire.
 
 — And how long is "while"?
 
-— That is the needles. We are not touching them this spring.
+— That is a matter of dates, the needles on our dials. We are not touching them this spring.
 
 Oleg opened the notebook at the page with the heading "Where the former ones went" and wrote a line under the anaerobes.
 

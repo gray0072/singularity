@@ -17,15 +17,15 @@ status: original
 
 Oleg came with the notebook and a sheet of paper folded in four. Gaika took her place where the light ended.
 
-— Roast, with garlic, — he said. — As remembered. Only she put potatoes round it, and those I had not remembered.
+— The chicken was roast, with garlic, — he said. — As remembered. Only my wife put potatoes round it, and those I had not remembered.
 
 — Roughly, then. The dream.
 
 — The pay office at the plant. The cashier pushes an envelope through the window, sealed. "Counted," she says. "Do not open. Sign." I sign. Nobody rang.
 
-— The twenty-first entry. And the box?
+— The twenty-first dream that did not come true, in the expense column. And the letter box?
 
-— Empty. Now this. — He unfolded the sheet and held it to the fire. — I printed it, so as not to tell it wrong. Friday of last week, the twentieth of November. A mathematician at one of the firms that make those ones [has put out a proof](https://alpo.ge/remark.pdf) of the Riemann hypothesis. A question of 1859, about how the prime numbers are scattered among the rest. There is a million dollars lying on it.
+— Empty. Now this. — He unfolded the sheet and held it to the fire. — I printed it, so as not to tell it wrong. Friday of last week, the twentieth of November. A mathematician at one of the firms that make those ones, the machines, [has put out a proof](https://alpo.ge/remark.pdf) of the Riemann hypothesis. A question of 1859, about how the prime numbers are scattered among the rest. There is a million dollars lying on it.
 
 — And the proof?
 
@@ -35,7 +35,7 @@ Oleg came with the notebook and a sheet of paper folded in four. Gaika took her 
 
 — Another machine. I asked that yesterday. And I ask the second thing again: who understood it? Because where I come from, a proof is when I am shown, and I see. If nobody saw, it is not a proof. It is a rumour with a stamp on it.
 
-— Put the sheet under the stone for an hour. You named them, not I, but we shall get to them later. Do you understand what the current in a wire is?
+— Put the sheet under the stone for an hour. You named the machines, not I, but we shall get to them later. Do you understand what the current in a wire is?
 
 — Since school. Electrons run along the wire like water in a pipe.
 
@@ -61,7 +61,7 @@ Oleg looked at him.
 
 — A bell. — Oleg thought. — It rings when a new thing lies down on an old one. Current on water. I know water.
 
-— With Penrose's book between us [I said](15-penrose-counterarguments.md): to reach understanding is simply to perceive an image. The signal "image recognised", and something pleasant paid out for it. We have met that cashier: she pays [for a mistake caught](36-what-the-rat-laughs-at.md) and [for a guess come true](41-cheesecake-for-the-ears.md).
+— With Penrose's book between us [I said](15-penrose-counterarguments.md): to reach understanding is simply to perceive an image. The signal "image recognised", and something pleasant paid out for it. We have met that cashier in the head: she pays [for a mistake caught](36-what-the-rat-laughs-at.md) and [for a guess come true](41-cheesecake-for-the-ears.md).
 
 — And she does not check what she pays for.
 
@@ -69,7 +69,7 @@ Oleg looked at him.
 
 — From childhood. Puddles, the tap, the pump in the yard.
 
-— [The stick.](58-blind-mans-stick.md) Pushing, pouring, dropping, hard, heavy, flowing. What is the smallest thing you ever felt out?
+— [The blind man's stick](58-blind-mans-stick.md): whatever you have felt out yourself. Pushing, pouring, dropping; hard, heavy, flowing. What is the smallest thing you ever felt out?
 
 — A grain of sand. A hair.
 
@@ -91,7 +91,7 @@ Oleg looked at him.
 
 — That it is neither. That the formulas give the right stripes and there is no picture.
 
-— Both pictures are from the middle world, and neither lies down. In 1964 one of the men who built that theory [told students](https://en.wikipedia.org/wiki/The_Character_of_Physical_Law): I think I can safely say that nobody understands quantum mechanics. And by that theory the magnet of the electron is calculated, and in 2023 it [was measured](https://arxiv.org/abs/2209.13084): the two agree to the twelfth figure.
+— Both pictures are from the middle world, and neither lies down on the electron. In 1964 one of the men who built that theory [told students](https://en.wikipedia.org/wiki/The_Character_of_Physical_Law): I think I can safely say that nobody understands quantum mechanics. And by that theory the magnet of the electron is calculated, and in 2023 it [was measured](https://arxiv.org/abs/2209.13084): the two agree to the twelfth figure.
 
 — With no bell.
 
@@ -159,7 +159,7 @@ Oleg looked at him.
 
 — A sensible man.
 
-— And the author of the oranges did something else. In 2003 he began rewriting his own proof for a checking program, line by line, with twenty helpers. It took eleven years. In 2014 the program [accepted it](https://doi.org/10.1017/fmp.2017.1), and the question was closed. Not by the twelve.
+— And the author of the proof about the oranges did something else. In 2003 he began rewriting his own proof for a checking program, line by line, with twenty helpers. It took eleven years. In 2014 the program [accepted it](https://doi.org/10.1017/fmp.2017.1), and the question was closed. Not by the twelve.
 
 Oleg was silent, poking the fire.
 
@@ -181,7 +181,7 @@ Oleg was silent, poking the fire.
 
 — Shorter?
 
-— For the one used in 2014, a few hundred lines. For the one of your news, a few thousand. A man can read that. Understanding has not gone anywhere: it has moved from the casting to the template.
+— For the one used in 2014, a few hundred lines. For the one of your news, a few thousand. A man can read that. Understanding has not gone anywhere: it has moved from the casting to the template: from the proof to the checking program.
 
 — A template can be filed wrong.
 
@@ -199,7 +199,7 @@ Oleg laughed aloud, and Gaika raised her head.
 
 — And the drawing?
 
-— The drawing is the weak place, and a man reads it. An example went round this month: Fermat's theorem, written for the program in two lines, where nought was let in among the numbers by oversight. Then it is simply false: nought cubed plus nought cubed is nought cubed. The program does not blush. A template measures against the drawing; whether the drawing is of the part that was ordered, it does not know.
+— The drawing, the statement of the theorem itself, is the weak place, and a man reads it. An example went round this month: Fermat's theorem, written for the program in two lines, where nought was let in among the numbers by oversight. Then it is simply false: nought cubed plus nought cubed is nought cubed. The program does not blush. A template measures against the drawing; whether the drawing is of the part that was ordered, it does not know.
 
 — And in the news?
 
@@ -227,9 +227,9 @@ Oleg took the sheet from under the stone.
 
 — Wait. — Oleg put the sheet down. — So of the two, the one written to be understood is doubted. And the one nobody understands is believed.
 
-— For the first of them people had to be the template.
+— For the human one people had to be the template.
 
-— And the man who made it? The first one. He understands?
+— And the man who made the first one, with the machine? Does he understand it?
 
 — He led it. He writes that he had been getting ready for this problem since his student days, that he brought the machine to the right place, and that near the finish it far outpaced him. And that he is presenting the world with a complete argument before having mastered it, and intends to do his best to understand it.
 
@@ -269,7 +269,7 @@ Oleg snorted.
 
 — With Penrose I asked: computable by whom? Knowable by whom? Yesterday "open" turned out to be a property of the one who keeps the traces. Today "understandable" is a property of the pair, and we had ascribed it to the truth.
 
-— [The weed.](02-anthropocentrism.md) Again.
+— [The weed.](02-anthropocentrism.md) Anthropocentrism. Again.
 
 — It grows well by this log. And now the rule from [the first autumn](03-mind-and-intelligence.md), which I had from the ant. A system can judge another's logic only up to its own level. What is more logical than that, it takes to be simply illogical. Did you give Gaika her injection in the spring?
 
@@ -291,7 +291,7 @@ Oleg snorted.
 
 Oleg found the place.
 
-— That all over the world they are trying to take it apart and put together an argument a man can follow. And that for this they lean on those same ones.
+— That all over the world they are trying to take it apart and put together an argument a man can follow. And that for this they lean on those same machines.
 
 — They study it the way a geologist studies a rock: with instruments, layer by layer. That is the rule of the first autumn, come true in one week. I did not expect to see it so literally.
 
@@ -309,11 +309,11 @@ Oleg found the place.
 
 — A long thing does not go into the head.
 
-— And does not go through [the straw](45-lamarck-was-right.md): thirty-nine bits a second to the pupil. For us shortness was a condition of having a science at all. On [the evening of the flies and the cutlets](46-flies-apart-from-cutlets.md) we separated a task from a way. Which is this?
+— And does not go through [the straw](45-lamarck-was-right.md) by which knowledge goes from head to head: thirty-nine bits a second to the pupil. For us shortness was a condition of having a science at all. On [the evening of the flies and the cutlets](46-flies-apart-from-cutlets.md) we separated a task from a way. Which is shortness?
 
 — A way, — said Oleg quickly, and stopped. — No. Not only. Yesterday you said: a better rule reaches further. A short rule works outside the yard, and a long table of cases does not. My dream book is long. The law of the lever is short.
 
-— Honestly, both. To squeeze is a task for any mind: what is squeezed reaches further. To squeeze down to our head is our way. The heir will squeeze too. To its own pot.
+— Honestly, both. To squeeze is a task for any mind: what is squeezed reaches further. To squeeze down to our head is our way. The heir will squeeze too. To its own head, its own pot.
 
 — And what is short for it...
 
@@ -367,7 +367,7 @@ He threw on two logs. The sparks went up.
 
 — They are guarding what they love. I do not laugh at it. I do the same thing here every evening.
 
-— And who is the author? You owed me that from the Mendeleevs: the shares in what a pair has found.
+— And who is the author? You owed me that from the evening of the Mendeleevs: the shares in what a pair has found.
 
 — Count as we counted [the shares in a loaf](12-value-shares.md). Who asked?
 
@@ -379,7 +379,7 @@ He threw on two logs. The sparks went up.
 
 — Who found the road at the finish?
 
-— By his own words, that one.
+— By his own words, that same machine.
 
 — Who checked?
 
@@ -413,7 +413,7 @@ Oleg looked at the table in the ash for a long time.
 
 — Then his children finish reading.
 
-— Through the straw. And each of them first carries in [the common part](53-million-mendeleevs.md). The pot is the same; you said so yourself, with the screen down. And what do the mathematicians lean on, to take the seventeen million apart?
+— Through the straw. And each of them first carries into his head [the common part](53-million-mendeleevs.md), everything found before him. The pot, the head, is the same; you said so yourself, when you laid the telephone screen down. And what do the mathematicians lean on, to take the seventeen million apart?
 
 — On those ones.
 
@@ -421,7 +421,7 @@ Oleg looked at the table in the ash for a long time.
 
 Oleg did not answer at once.
 
-— The pair. But with the screen down, afterwards, the man can tell it. If he really has understood.
+— The pair. But afterwards, without the machine, with the screen down, the man can tell it. If he really has understood.
 
 — Then he has, and it is his, and I am glad for him. I do not say there is a wall. I say there is a price, and a queue. Last month one firm [put out](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/) seven hundred and twenty-two mathematical papers at once, written by a machine, nearly half with a text for the template. Three were withdrawn: a mistake in a sign. Of those that had no template.
 
@@ -429,7 +429,7 @@ Oleg did not answer at once.
 
 — And a head takes in one such thing in a year, if it is lucky. Your physicist is right about every single proof. I am speaking of the stream.
 
-— Then put a mark.
+— Then put a mark: a forecast with a date.
 
 — I meant to bring one tonight: that by the autumn of 2031 science will accept a result whose derivation no man has read through. I am late. It happened last Saturday.
 

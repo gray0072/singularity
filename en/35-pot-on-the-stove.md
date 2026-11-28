@@ -127,11 +127,11 @@ Andrey poured in the rest of the millet and opened a tin of stewed meat with his
 
 — That I will retell at the table. — Oleg wrote it down, and then raised the pencil. — No, stop. The Moon. It gets the same sunlight and gives it back the same way, one for twenty. And nothing stirs on it but dust.
 
-— A good catch. The exchange is the budget, not the building. On the Moon a photon is swallowed by a stone, and the stone glows it straight back. There is nothing between the arrival and the departure. On the Earth there is the ocean, the air, and water that can be ice, liquid and vapour in the same place. Before the heat leaves, it has lifted the vapour, driven the cloud, dropped the rain and turned the river.
+— A good catch. The exchange is only the budget, not the building: the money is there, and whether anything gets built with it is another question. On the Moon a photon is swallowed by a stone, and the stone glows it straight back. There is nothing between the arrival and the departure. On the Earth there is the ocean, the air, and water that can be ice, liquid and vapour in the same place. Before the heat leaves, it has lifted the vapour, driven the cloud, dropped the rain and turned the river.
 
 — A long road.
 
-— And a branching one. That is what I called an obstacle back then: the Earth is a high-class obstacle in the way of the flow from the hot Sun to the cold sky. Only such an obstacle raises a tsunami like us.
+— And a branching one. That is what I called an obstacle back then, on the forum: the Earth is a high-class obstacle in the way of the flow from the hot Sun to the cold sky. Only such an obstacle raises a tsunami like us.
 
 — And what makes it high-class? Why not Mars?
 
@@ -181,7 +181,7 @@ Andrey took the pot off the fire and handed Oleg a bowl. Oleg got the spoon out 
 
 ![Chart on a logarithmic scale, watts per kilogram: the Sun 0.0002; a human body 1.5; a human brain 14; a whole server with eight graphics processors about 75; the silicon crystal of a graphics processor about 200,000. Rough arithmetic; it is not a measure of mind](../images/watts-per-kilogram.svg)
 
-— So the cleverer, the denser.
+— So the cleverer, the denser the flow.
 
 — No, and I wouldn't make a ruler of it, though an astrophysicist, Chaisson, [did](https://en.wikipedia.org/wiki/Energy_rate_density). The coil of an electric kettle passes more than any brain and remains a coil. I'm saying a smaller thing. The wave rose where the water got shallow. The flow from the Sun is enormous and slack, and the further it goes through obstacles, the denser it runs through each next one. Today its densest place is not in your head.
 
@@ -241,7 +241,7 @@ Oleg looked into his bowl.
 
 — So what is left standing when I've taken all that away?
 
-— Three things of different strength. Solid: the second law doesn't forbid order, it pays for it, and the payment is the exchange of one photon for twenty. Mine, and I believe it without proof: the mousetrap effect sets the direction, and what we call evolution is a wave rising at an obstacle. Open: where obstacles come from, and how a whirl came to remember itself.
+— Three things of different strength. Solid: the second law of thermodynamics doesn't forbid order, it pays for it, and the payment is the exchange of one photon for twenty. Mine, and I believe it without proof: the mousetrap effect sets the direction, and what we call evolution is a wave rising at an obstacle. Open: where obstacles come from, and how a whirl came to remember itself.
 
 — And why there was a hot Sun and a cold sky to begin with.
 

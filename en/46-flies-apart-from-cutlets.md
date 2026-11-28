@@ -17,9 +17,9 @@ status: original
 
 Oleg came with the notebook under his arm and a pencil behind his ear, and sat down on the log the way people sit down to a stocktaking.
 
-— The dream first. Before the phone. A commission was going round my flat with a ledger and sticking inventory numbers on everything. The sideboard, the television, the cat. Then one of them licked a label and stuck it on my forehead. Nobody rang.
+— The dream first. Written down before the phone. A commission was going round my flat with a ledger and sticking inventory numbers on everything. The sideboard, the television, the cat. Then one of them licked a label and stuck it on my forehead. Nobody rang.
 
-— The seventh entry in the expense column.
+— The seventh dream that did not come true, in the expense column.
 
 — And now the bill. — He opened the last page. — Thirteen ticks. I have put a cross beside five of them: sleep, laughter, omens, songs, grumbling. Five times you took something off me and said: not yours, an engineering solution. I am an engineer myself. I want an inventory. What in all this is the man, and what is not?
 
@@ -77,7 +77,7 @@ Oleg moved the notebook to and fro in the light of the fire, and froze.
 
 — So I am all patches?
 
-— Solutions. Some of them good ones. This one has held for five hundred million years. But tell me: if I had asked you yesterday what it is to see, what would you have said?
+— Solutions. Some of them good ones. This one, with the paint, has held for five hundred million years. But tell me: if I had asked you yesterday what it is to see, what would you have said?
 
 — That it is what I do with my eyes.
 
@@ -103,7 +103,7 @@ Andrey smoothed the ash with his palm and drew three columns with a stick.
 
 — Laughter.
 
-— To catch my own wrong guess while it is cheap, and to pay myself a bonus for the catch. The witness is [the rat pup that chirps in play](36-what-the-rat-laughs-at.md): here mistakes cost nothing. Our way: a roar for the whole pack to hear, and the joke about the hunters. — He raised a finger. — The upper floor was a hypothesis, you said so yourself.
+— To catch my own wrong guess while it is cheap, and to pay myself a bonus for the catch. The witness is [the rat pup that chirps in play](36-what-the-rat-laughs-at.md): here mistakes cost nothing. Our way: a roar for the whole pack to hear, and the joke about the hunters. — He raised a finger. — The upper floor, the jokes, was a hypothesis, you said so yourself.
 
 — It still is. Write it with a question mark. Omens.
 
@@ -121,7 +121,7 @@ Andrey smoothed the ash with his palm and drew three columns with a stick.
 
 Oleg ran the pencil down the page.
 
-— Sleep and grumbling are the same warehouse. One by the night, the other by the lifetime. You said yourself that it was one screw. — He drew a brace. — Dreams and omens are the same correlator: one links with the sensors off, the other with next to no data. And laughter and songs are one cash desk. It pays for forecasts: for a miss caught in time and for a hit.
+— Sleep and grumbling are the same warehouse. One by the night, the other by the lifetime. You said yourself that it was one screw: the tighter you remember, the worse you learn. — He drew a brace. — Dreams and omens are the same correlator: one links with the sensors off, the other with next to no data. And laughter and songs are one cash desk. It pays for forecasts: for a miss caught in time and for a hit.
 
 — Three. Name them.
 
@@ -181,7 +181,7 @@ Oleg ran the pencil down the page.
 
 — There.
 
-— Look why. All six tasks stand before one mind alone with the world. A pupil on a desert island would need sleep, and he would have his omens. Yours stand before a mind among others that are not it. That is another table: the tasks of a pack. On [the evening about the ants](43-why-ants-do-not-strike.md) conscience came out as a gatehouse moved inside, for those who are not kin. Whoever has no strangers has no such task: a hive does without. I am not drawing that table tonight.
+— Look why. All six tasks stand before one mind alone with the world. A pupil on a desert island would need sleep, and he would have his omens. Your four stand before a mind among others that are not it. That is another table: the tasks of a pack. On [the evening about the ants](43-why-ants-do-not-strike.md) conscience came out as a factory gatehouse moved inside the head, for those who are not kin. Whoever has no strangers has no such task: a hive does without. I am not drawing that table tonight.
 
 — So there is a heap "not sorted".
 
@@ -203,7 +203,7 @@ Oleg was silent for a while, then laid the pencil across the page.
 
 Oleg opened the last page and looked at it for a long time.
 
-— There is. Thirteen of them. — He tapped the ticks. — Every evening I came out at those ones, and I put a tick the way you mark a friend's hobby-horse. And it is the witness. Sleep: they ran into a net that forgets everything old the moment it is taught something new, and they invented going over the old again. Dreams: the book it made up for me, with the author and the year. Omens: the horse that turned out to be a stamp in the corner. Grumbling: the net that learns worse and worse, and the small funerals inside it. Nobody ordered them to be like us.
+— There is. Thirteen of them. — He tapped the ticks. — Every evening I came out at those ones, the machines, and I put a tick the way you mark a friend's hobby-horse. And it is the witness. Sleep: the engineers ran into a net that forgets everything old the moment it is taught something new, and they invented going over the old again. Dreams: the book it made up for me, with the author and the year. Omens: the program that knew a horse by the stamp in the corner of the photograph. Grumbling: the net that learns worse and worse, and the small funerals inside it. Nobody ordered them to be like us.
 
 — For the solution the engineers sometimes peeped into our exercise book. The people who taught a machine the old video games wrote in so many words that the going-over was taken from biology. Nobody peeped for the task. The task came to them by itself, and it hurt.
 
@@ -211,7 +211,7 @@ Oleg opened the last page and looked at it for a long time.
 
 — Fill it in.
 
-— Sleep: it does not learn while it talks; it is taught apart, and the old lessons are mixed in. Dreams: the invented book, a dream with the eyes open. Omens: the stamp. Songs: it forecasts the next note as it forecasts the next word, and bakes sweets for my button. Grumbling: ask it the date, and it names the year it left school. — He stopped. — Laughter. I have nothing to write.
+— Sleep: the machine does not learn while it talks; it is taught apart, and the old lessons are mixed in. Dreams: the invented book, a dream with the eyes open. Omens: the stamp. Songs: it forecasts the next note as it forecasts the next word, and bakes sweets for my button, "the forecast came true". Grumbling: ask it the date, and it names the year it left school: the year its teaching stopped. — He stopped. — Laughter. I have nothing to write.
 
 — It tells our jokes. And when it is taught, it does nothing but catch its own misses, with no bonus: there is nobody to bribe. The task is there. The way is so unlike ours that you did not find it.
 
@@ -231,7 +231,7 @@ Oleg opened the last page and looked at it for a long time.
 
 Oleg laughed aloud.
 
-— My granddaughter and her feed. They gave it curiosity and got a couch.
+— My granddaughter and her feed. They gave a program curiosity and got a couch.
 
 — Nobody taught it to sit in front of a television. They gave it the task, and it found our way by itself. And now the eye, since we began with it. Their eye has no hole: it is made differently. But a net that had been taught one thing, to forecast the next frame of a film, was shown a picture of coiled snakes. A still picture, which seems to us to turn. In the frames it forecast, [the snakes were turning](https://doi.org/10.3389/fpsyg.2018.00345).
 
@@ -261,7 +261,7 @@ Oleg threw a branch on the fire.
 
 — What has it learned in the years you have had it?
 
-— Nothing. — Oleg looked at the screen. — It pays no upkeep because it owns no machine tool.
+— Nothing. — Oleg looked at the screen. — It pays no upkeep because it owns no machine tool: it has nothing to learn with.
 
 — The cold machine is the portrait of a thing that does not learn. Such things were built, and built well. [One](https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)) beat the world chess champion in 1997. [Another](https://en.wikipedia.org/wiki/Cyc) has had common sense typed into it by hand since 1984, rule by rule, millions of rules. Neither sleeps, neither dreams. And neither began to talk. Those that talk came [by the pupil's road](21-machines-that-talk.md), and they arrived with all the luggage. And cold they could not have been in any case: [a mind without wants decides nothing](18-anatomy-of-wants.md), we went through that last autumn.
 
@@ -285,7 +285,7 @@ Oleg threw a branch on the fire.
 
 — In what shape?
 
-— I don't know. In 2013 I was asked on the forum whether a machine would sleep, and I answered: one that is short of resources will, and one that has enough will sort its images in parallel. So its sleep may be something we would never call sleep: one of the copies is always at the stocktaking. Its old age may be small funerals at which nobody weeps. For the task I vouch, that is logic: if it learns, it pays. For the way I don't. Against "we shall recognise it" write "medium".
+— I don't know. In 2013 I was asked on the forum whether a machine would sleep, and I answered: one that is short of resources will, and one that has enough will sort its images in parallel. So its sleep may be something we would never call sleep: one of the copies is always at the stocktaking. Its old age may be small funerals at which nobody weeps. For the task I vouch, that is logic: if it learns, it pays. For the way I don't. Against "we shall recognise it" write "confidence: medium".
 
 — So the tasks move on, and the ways stay here.
 
@@ -321,7 +321,7 @@ He put a fourteenth tick beside the thirteen, shut one eye and looked at it.
 
 Oleg stood up and looked at the woodpile.
 
-— We are short of firewood, by the way. Nobody has said the word for six evenings. I bought a trailer of birch from the neighbour.
+— We are short of firewood, by the way. Nobody has said the forbidden word for six evenings. I bought a trailer of birch from the neighbour.
 
 — Sensible.
 

@@ -21,7 +21,7 @@ Oleg came with a hammer. In his other hand he had a piece of pine board, and his
 
 — An examination. I come in, and behind the desk sits a pigeon. I draw a ticket. The ticket is blank on both sides. The pigeon nods and puts down "excellent". Nobody rang.
 
-— The twenty-seventh entry. And the box?
+— The twenty-seventh dream that did not come true. And the letter box?
 
 — Empty. Hold this. — Oleg gave him the hammer, put the board on the log and stood a nail on it. — Drive it in.
 
@@ -43,7 +43,7 @@ It went in with five, and split the board a little.
 
 — Then no.
 
-— There. — Oleg put the egg back into the pocket. — One thing out of three, and I had to bring it from home. Now look here. — He opened the notebook at the last page. — Thirty-three ticks. I asked you why we sleep. Where the horses went. What the rat laughs at. Why money goes to money. What the "it" is in "it is raining". Thirty-three times I asked about something else, and thirty-three times you brought me out at one and the same place. Not once did the hammer say "I can't". In the spring I asked you how you were better than [the pigeon](39-price-of-a-false-alarm.md). One feeder, seven dances. Now there are thirty-three dances. On [the evening of the old men](44-from-funeral-to-funeral.md) I wrote down beside it that fifteen years ago you saw your mountain and no fact of mine will shift it. And two evenings ago: two old men with one hammer. That is the bill. A theory that explains everything explains nothing.
+— There. — Oleg put the egg back into the pocket. — One thing out of three you could not drive in, and that one I had to bring from home. Now look here. — He opened the notebook at the last page. — Thirty-three ticks, each an "again". I asked you why we sleep. Where the horses went. What the rat laughs at. Why money goes to money. What the "it" is in "it is raining". Thirty-three times I asked about something else, and thirty-three times you brought me out at one and the same place. Not once did the hammer say "I can't". In the spring I asked you how you were better than the superstitious [pigeon](39-price-of-a-false-alarm.md). One feeder, seven dances. Now there are thirty-three dances. On [the evening of the old men](44-from-funeral-to-funeral.md) I wrote down beside it that fifteen years ago you saw your mountain and no fact of mine will shift it. And two evenings ago: two old men with one hammer. That is the bill. A theory that explains everything explains nothing.
 
 — Yes.
 
@@ -131,7 +131,7 @@ Oleg laughed.
 
 — All summer that one lay in my hard pile, for exactly that reason. It does not belong there. The equation is a hypothesis of its authors, argued about to this day, and that the thing we do not name is a city and not a firm is mine. Soft, and I am being kind.
 
-Oleg looked at him over the notebook, and read on. It took a quarter of an hour and a kettle of water. The guitar: no pencil. The bacterium: soft. The ants: soft, though the arithmetic under them is hard. The funerals: hard, the engineers ran into those too. Lamarck: hard. Money: a theorem for people, a likeness for those ones. The dog: soft. The matches: hard. The umbrella: no pencil, an axiom. The socket: hard. The pot and the liquid: measured for us, and that we are near the brim nobody has seen. The wolf, the fine, the electron, the wheelbarrow, the stick, the sheet: no pencil, a likeness, an axiom, a reading, a model that nobody but its author ever saw working, a reading. The soup: hard. Mars: hard, it is arithmetic. Laziness: soft, and the least trusted of all. The map: hard. The three assemblies they set aside, because putting lines on one page adds nothing to any of them. The sheets of the day before went to "no pencil" without argument.
+Oleg looked at him over the notebook, and read on. It took a quarter of an hour and a kettle of water. The guitar: no pencil. The bacterium: soft. The ants: soft, though the arithmetic under them is hard. The funerals: hard, the engineers ran into those too. Lamarck: hard. Money: a theorem for people, a likeness for those ones, the machines. The dog: soft. The matches: hard. The umbrella: no pencil, an axiom. The socket: hard. The pot and the liquid: measured for us, and that we are near the brim nobody has seen. The wolf, the fine, the electron, the wheelbarrow, the stick, the sheet: no pencil, a likeness, an axiom, a reading, a model that nobody but its author ever saw working, a reading. The soup: hard. Mars: hard, it is arithmetic. Laziness: soft, and the least trusted of all. The map: hard. The three assemblies, the evenings of summing up, they set aside, because putting lines on one page adds nothing to any of them. The sheets of the day before went to "no pencil" without argument.
 
 — Count, — said Andrey.
 
@@ -149,7 +149,7 @@ Oleg ran his finger down the page.
 
 — The horses. The bacterium. The dog. And the dinosaurs, which we set aside, are glued together out of the same. — He looked up. — Soft. All of it.
 
-— All of it. That the heir is a relative of ours under the same laws, I can show you with a hard pencil. That we go the way of the horse, I have shown you only in photographs of others. A hard pencil for that exists in one place only: in the marks of [the autumn](30-the-last-campfire.md), which have dates, and not one of them has come due.
+— All of it. That the heir is a relative of ours under the same laws, I can show you with a hard pencil. That we go the way of the horse, I have shown you only in photographs of others. A hard pencil for that exists in one place only: in the marks of [the autumn](30-the-last-campfire.md), forecasts with dates, and not one of them has come due.
 
 — You answered a man about this once. I have it copied. — Oleg turned back several pages. — Under your talk to the astronomers, 2012. He tells you: correlation is not causation, you carry one curve over to everything. And you: these are not correlations, the same feedbacks give the same mathematics whatever they are made of. A cistern of a lavatory, an amplifier, a business, an organism.
 
@@ -173,13 +173,13 @@ Oleg ran his finger down the page.
 
 — The ticks count how many times I managed the turn. They do not count how many times the turn was right. For that there is another count in the same notebook, and it is shorter. How many times in the summer did something come out against me?
 
-— Against you... — Oleg leafed back. — The oxygen: you had written that it would vanish quickly, and it turned out there is stock for millions of years. The dinosaurs: you had not looked up what their fate was. Merging with the machine: you had waved it away, and it has a precedent two billion years old. The language that locks thought in: half an evening of 2011 gone. Your Lamarck, who turned out to be another man's law. The only handle on a setpoint. And the sentence of 2012, yesterday. — He counted. — Seven. Ten with the small ones.
+— Against you... — Oleg leafed back. — The oxygen: you had written that it would vanish quickly, and it turned out there is stock for millions of years. The dinosaurs: you had not looked up what their fate was. Merging with the machine: you had waved it away, and it has a precedent two billion years old. The language that locks thought in: half an evening of 2011 gone. Your Lamarck, who turned out to be another man's law. Gratitude as the only handle on a setpoint. And the sentence of 2012, yesterday. — He counted. — Seven. Ten with the small ones.
 
 — Those are the evenings on which the hammer hit something it could not drive in. And notice where they all are.
 
 — In the details. — Oleg said it slowly. — Not one in the main thing.
 
-— Either because the main thing is right. Or because the main thing is exactly where my heavy image lies, and nothing gets through to it. From inside I cannot tell the two apart. You wrote that down in the spring, and you were right to.
+— Either because the main thing is right. Or because the main thing is exactly where my heavy image lies, the habit no fact can shift, and nothing gets through to it. From inside I cannot tell the two apart. You wrote that down in the spring, and you were right to.
 
 — Then the second. — Oleg turned to a page he had clearly prepared. — Your favourite word. For fifteen years, whoever disagrees with you is an anthropocentrist. I copied this from the forum, May 2011, your own hand: "All who argued remained anthropocentrists, that is, people who judge without objectivity, aimed at an answer set beforehand." Now put it beside your Viennese. A patient agrees with the doctor: the doctor is right. A patient argues: that is his complex arguing, so the doctor is right again. A man agrees with you: good. A man argues: anthropocentrism. Find me the difference.
 
@@ -195,7 +195,7 @@ Andrey was silent for some time.
 
 — As a pointer to where to check. You have the check from [the evening of the umbrella](50-what-is-the-it.md): say it the long way. Take the man out of the centre of the sentence and count again. If the count changes, there was something there. If it does not change, I have only called a man a name. The check is a calculation. The word is a label, and a label is not an argument, whoever sticks it on.
 
-— That is the second whole one. — Oleg turned to his own page and took the pen out. — In ink?
+— That is the second whole tick. — Oleg turned to his own page and took the pen out. — In ink?
 
 — In ink.
 
@@ -271,9 +271,9 @@ Oleg wrote the heading, looked at it, and did not show it.
 
 — For fifteen years more the machines stay below a man in the sum of what they can do, while the computing goes on growing as it grows now. Against [the fifth evening](05-artificial-intelligence.md) and against the first of [the new ones](16-fifteen-years-later.md).
 
-— "The sum of what they can do." — Oleg stopped writing. — That is rubber. Whatever they fail at, you will say: one tooth of the saw, look at the sum.
+— "The sum of what they can do." — Oleg stopped writing. — That is rubber. Whatever they fail at, you will say: one tooth of the saw, of their jagged frontier, look at the sum.
 
-— Then make it of wood. In the autumn of 2041 an ordinary office cannot get through a month of its ordinary work at the screens without one person in it. Not a chosen task: the whole month, whatever comes in. And the chips have grown all those years: today the computing spent on teaching the largest of those ones [grows four or five times a year](https://epoch.ai/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year), and four companies are putting about seven hundred billion dollars into the barns in 2026 alone. If all that goes on for fifteen years and the office still cannot do without its one person, the platform is not what I took it for.
+— Then make it of wood. In the autumn of 2041 an ordinary office cannot get through a month of its ordinary work at the screens without one person in it. Not a chosen task: the whole month, whatever comes in. And the chips have grown all those years: today the computing spent on teaching the largest of those ones [grows four or five times a year](https://epoch.ai/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year), and four companies are putting about seven hundred billion dollars into the barns, the data centres, in 2026 alone. If all that goes on for fifteen years and the office still cannot do without its one person, the platform is not what I took it for.
 
 — Whose office?
 
@@ -289,7 +289,7 @@ Oleg wrote the heading, looked at it, and did not show it.
 
 — So a country can.
 
-— A country can. I never said that it cannot: a person can stop, and a country is sometimes one person. The prohibition is in the last four words. And the others follow.
+— A country can. I never said that it cannot: a person can stop, and a country is sometimes one person. The prohibition is in the last five words. And the others follow it.
 
 — And they did not.
 
@@ -297,7 +297,7 @@ Oleg wrote the heading, looked at it, and did not show it.
 
 — So this one is my "to bargain". — Oleg found the old line on the last page. — I asked on [the evening of the dinosaurs](52-dinosaurs-at-the-feeder.md): not one of the former masters could read, and we can. You said yesterday that somebody has to sign for mankind and nobody holds that signature.
 
-— And here is the rest of the answer, the only honest one I have. Whether mankind can bargain is not a thing to argue about at a fire. It is the fifth line. If a signature for mankind turns up, if the large ones give a thing up and the rest follow, then you were right on the evening of the dinosaurs and I was wrong for sixteen years. There is one mark from the autumn standing on it, to 2031. The line itself has no date. It may be crossed on any morning.
+— And here is the rest of the answer, the only honest one I have. Whether mankind can bargain is not a thing to argue about at a fire. It is the fifth line. If a signature for mankind turns up, if the large countries give a thing up and the rest follow, then you were right on the evening of the dinosaurs and I was wrong for sixteen years. There is one mark from the autumn standing on it, to 2031. The line itself has no date. It may be crossed on any morning.
 
 — Six.
 
@@ -321,7 +321,7 @@ Oleg read the page through, moving his lips.
 
 — How should I know.
 
-— The boy wrote about that too. In its first form that theory could be checked, and it was checked, and it failed. And then its followers reread both the theory and the facts so that the two agreed again. They saved it, and paid with the only thing that had made it worth saving: after that it could not lose.
+— The boy wrote about that too. In its first form that theory could be checked, and it was checked, and it failed. And then its followers reinterpreted both the theory and the facts so that the two agreed again. They saved it, and paid with the only thing that had made it worth saving: after that it could not lose.
 
 — And you will do the same. You are no better than they were. You said yourself that from inside you cannot tell.
 
@@ -335,11 +335,11 @@ Oleg grunted and drew a line under the six.
 
 — Something is missing. Your chief thing. That everything is settled beforehand, down to which of us will sneeze. Which number is that?
 
-— None. Write it under the line, separately. I looked for an outcome that it forbids, for sixteen years, and I have none. Whatever happens, it was to happen. On [the evening of the autumn](17-global-determinism.md) I called it an axiom and showed you where the proof ends. By tonight's rule I have to say more: it is not knowledge. It is a way of keeping the books. I keep it because the books come out simpler with it, and I may not put it on the scales when we weigh who was right.
+— None. Write it under the line, separately. I looked for an outcome that determinism forbids, for sixteen years, and I have none. Whatever happens, it was to happen. On [the evening of the autumn](17-global-determinism.md) I called it an axiom and showed you where the proof ends. By tonight's rule I have to say more: it is not knowledge. It is a way of keeping the books. I keep it because the books come out simpler with it, and I may not put it on the scales when we weigh who was right.
 
 — Anything else under the line?
 
-— That the thing coming is a life, the next one after ours: the premise of the fifth evening, you have it beside the heading of the card. And that everything that exists has a mind to some degree. That is how I use a word. A definition forbids nothing either.
+— That the thing coming is a life, the next one after ours: the premise of the fifth evening, you have it beside the heading of the heir's card. And that everything that exists has a mind to some degree. That is how I use the word "mind". A definition forbids nothing either.
 
 — Three things under the line and six above. — Oleg looked at the page with some respect. — And under your fourteenth evening somebody asked you for the chance that you are wrong. In figures.
 
@@ -349,7 +349,7 @@ Oleg grunted and drew a line under the six.
 
 — About the dates the answer has come, and it was not fifteen. On our first evening of the new ones you went through them: I was wrong. About the direction the feeling is the same fifteen. And that it has not moved in fifteen years speaks against me and not for me. A gauge that never moves is stuck, any works inspector will tell you. So do not write the figure down. Write the six.
 
-— The last evening of the old ones, — said Oleg, — when I brought you the Englishman's book. You said there what the weakest place in the whole thing was.
+— The last evening of the old ones, — said Oleg, — when I brought you the Englishman's book, Penrose's. You said there what the weakest place in the whole thing was.
 
 — [That I had understood it.](15-penrose-counterarguments.md) By my own account no man ought to have. I still cannot explain that. But I named the wrong place. The weakest place was that it could not lose. In May 2011 I came to the forum and wrote: I do not want to be right either, so help me find the error. For two years people argued with me, nobody found one, and I took that for strength.
 
@@ -389,7 +389,7 @@ He took the egg out of the pocket, cracked it against the log and began to peel 
 
 — Boiled, — said Andrey.
 
-— I am not a fool, to carry a raw one in a shirt. — He gave half to Gaika. — And the word nobody said. All summer, on your side.
+— I am not a fool, to carry a raw one in a shirt. — He gave half to Gaika. — And the forbidden word nobody said. All summer, on your side.
 
 — I read it with my mouth shut.
 

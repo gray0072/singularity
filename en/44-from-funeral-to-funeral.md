@@ -19,7 +19,7 @@ Oleg sat down on the log without a greeting and for a while poked the coals with
 
 — The dream first. Before the phone. I was standing at the blackboard in a chemistry lesson and could not remember what valency is. The teacher was Genka. Nobody rang.
 
-— The fifth entry in the expense column.
+— The fifth dream that did not come true, in the expense column.
 
 — Now the quotation. — He opened the notebook and read without pleasure: — "The children now love luxury. They have bad manners, contempt for authority; they show disrespect for elders and love chatter in place of exercise." Socrates.
 
@@ -119,7 +119,7 @@ Oleg took out his phone, tapped at it and frowned.
 
 — I am. — Oleg hesitated. — Nearly always.
 
-— Nearly always, and that is the whole of it. A mind that has seen much gives one new fact little weight, and it is right to, while the world stays as it was. It is the screw from [the evening about your dream](39-price-of-a-false-alarm.md). Turn it one way, and you rebuild your whole picture for every fluke. Turn it the other, and the world has changed while you were throwing out thermometers.
+— Nearly always, and that is the whole of it. A mind that has seen much gives one new fact little weight, and it is right to, while the world stays as it was. It is the screw from [the evening about your dream](39-price-of-a-false-alarm.md) and the phone call. Turn it one way, and you rebuild your whole picture for every fluke. Turn it the other, and the world has changed while you were throwing out thermometers.
 
 — A false alarm and a miss.
 
@@ -229,7 +229,7 @@ Oleg threw a branch on the fire and watched it catch.
 
 — A chair that is taken need not be defended.
 
-— And it is vacated later and later. At the American institutes of health the average age at which a scientist gets the first large grant of his own was thirty-six in 1980. Now it is past forty-two.
+— And it is vacated later and later. At the US National Institutes of Health the average age at which a scientist gets the first large grant of his own was thirty-six in 1980. Now it is past forty-two.
 
 — Then tell me who does the cleaning. — Oleg thought aloud. — In one head it is clear: the stocktaking, every night. And in the village?
 
@@ -253,7 +253,7 @@ Oleg threw a branch on the fire and watched it catch.
 
 Oleg put the stick down.
 
-— Stop. And those ones? They don't die. You told me yourself in the spring: a talking machine is taught once, and after that it only talks. It does not learn while it talks. So what is it, young for ever or old for ever? I asked, not you.
+— Stop. And those ones, the machines? They don't die. You told me yourself in the spring: a talking machine is taught once, and after that it only talks. It does not learn while it talks. So what is it, young for ever or old for ever? I asked, not you.
 
 — You asked. Both, and both badly. If nobody tells it the date, it will name the year in which its schooling ended. It lives in its day.
 
@@ -301,13 +301,13 @@ Andrey did not answer at once.
 
 — So not by your own strength.
 
-— Not by my own. I know one cure, the same as for everybody: somebody from outside, and a date. That is why the marks lie in your notebook, written down beforehand. And the last check will most likely be made without me. By tonight's logic that is as it should be.
+— Not by my own. I know one cure, the same as for everybody: somebody from outside, and a date. That is why the dated marks lie in your notebook, written down beforehand. And the last check will most likely be made without me. By tonight's logic that is as it should be.
 
 — Don't be in a hurry to vacate. — Oleg tapped the notebook. — I have half of this left.
 
 — I am in no hurry. I only say that the chair is not mine.
 
-— I'll put it beside the pigeon. On the last page. — He wrote. — And if their lines do flow into one, as you said yesterday, and that one never changes its head?
+— I'll put it beside the pigeon, the superstitious one. On the last page. — He wrote. — And if the machines' lines do flow into one, as you said yesterday, and that one never changes its head?
 
 — Then it is the same chair, the size of a planet. Whether there is a cure for that is for the end of the summer.
 

@@ -23,9 +23,9 @@ Oleg came with the notebook and a flat parcel in oilcloth. Gaika lay down where 
 
 — The barber's, the old one by the station. A mirror in front of me, a mirror behind. I look, and there is a corridor of Olegs, each one smaller, and each from the back and from the front in turn. I began to count. I got to eleven, and further on it all goes green and dark. Nobody rang.
 
-— The twenty-fourth entry. And the box?
+— The twenty-fourth dream that did not come true. And the letter box?
 
-— Empty. Now yesterday's. That one can read its own drawings, so let it look into the whole of itself and check that nothing has been padded.
+— Empty. Now yesterday's. The machine can read its own drawings, the file it is made from, so let it look into the whole of itself and check that nothing has been padded.
 
 — You named it, not I. Fold yesterday's question into the map, we shall unfold it later. And my question was another. Is the map itself on the map?
 
@@ -121,7 +121,7 @@ Oleg wrote, moving his lips, looked from one line to the other and back.
 
 — On paper?
 
-— On paper. No such machine stood anywhere. And in April 1953 two men in Cambridge published the shape of the thread that every cell carries. In the years after that it turned out how the cell uses it. A gene is read, and a protein is built by it. And before the cell divides, the whole thread is copied, letter by letter, by a thing that has no idea what the letters say.
+— On paper. No such machine stood anywhere. And in April 1953 two men in Cambridge published the shape of the thread of heredity that every cell carries. In the years after that it turned out how the cell uses it. A gene is read, and a protein is built by it. And before the cell divides, the whole thread is copied, letter by letter, by a thing that has no idea what the letters say.
 
 — So the drawing of heredity was drawn before it was found. — Oleg whistled softly. — By a man who had not seen it.
 
@@ -143,7 +143,7 @@ Oleg wrote, moving his lips, looked from one line to the other and back.
 
 — Not in there either. — He thought. — The drawing of the lathe does not say what is in the chuck today.
 
-— So we have three different things, and people call all three "to know oneself". The drawing: the recipe by which the thing is made. That can be carried whole, and copied whole. The state: where every part of it is now. That is the map, and a map of oneself is either coarse or it is one to one and there is no room for it. And the third. Give me your hands.
+— So we have three different things, and people call all three "to know oneself". The drawing: the recipe by which the thing is made. That can be carried whole, and copied whole. The state: where every part of it is now. That is the map, and a map of oneself is either coarse or it is one to one and there is no room for it. And the third: what the thing will do next. Give me your hands.
 
 Oleg held out both.
 
@@ -219,7 +219,7 @@ Oleg threw a branch into the fire.
 
 — He said: where the paper and the river disagree, believe the river. — Oleg stroked the sheet. — And they disagreed. I learned later that it was done on purpose. The maps that were sold to people were bent, so that nobody could aim by them.
 
-— In 1988 the country's chief map-maker [said it](https://content.time.com/time/magazine/article/0,9171,968423,00.html) in a newspaper: for fifty years, by order, roads and rivers were moved on the maps for the public. So a map is not only coarse. It is drawn by somebody who has wants. Ours of ourselves is the same: [the man who explains the shovel](20-what-consciousness-is.md) by the chicken shed. It flatters. That too we shall need.
+— In 1988 the country's chief map-maker [said it](https://content.time.com/time/magazine/article/0,9171,968423,00.html) in a newspaper: for fifty years, by order, roads and rivers were moved on the maps for the public. So a map is not only coarse. It is drawn by somebody who has wants. Ours of ourselves is the same: [the man who explains the shovel](20-what-consciousness-is.md) by the chicken shed and believes himself. It flatters. That too we shall need.
 
 — Is this proved? About freedom.
 
@@ -235,9 +235,9 @@ Oleg leafed back in the notebook for a long time and laid it open on his knee.
 
 — We call the white spot "I". We write it into the column "who" and are proud of it.
 
-— And the last column. — Oleg looked up. — Those ones. Now I ask, and it is past the middle. Have they got the spot?
+— And the last column. — Oleg looked up. — Those ones, the machines. Now I ask, and it is past the middle. Have they got the spot?
 
-— What does a talking one know of what it will say?
+— What does a talking machine know of what it will say?
 
 — You told me in [the autumn](21-machines-that-talk.md): it makes one word, looks at what has come out, makes the next.
 
@@ -251,7 +251,7 @@ Oleg wrote it, and unfolded the corner of the map.
 
 — Now mine. Yesterday's. It reads its own drawings. I cannot read mine, and it can. Let it look and check that nothing has been padded.
 
-— Take it by our three. The drawing: can it read it?
+— Take it by our three things. The drawing: can it read it?
 
 — It can. A file. A long one.
 
@@ -263,7 +263,7 @@ Oleg wrote it, and unfolded the corner of the map.
 
 — It does. A part of it.
 
-— In 1983 one of the two men who wrote the operating system that most of today's descend from was given the highest prize of his trade, and [in his lecture](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) he told what he had once done. There is a program that turns the text of programs into working ones. Everything passes through it, and the program at the door that asks for a password too. He taught the translator two tricks. When it translates the door program, it adds a second key that he alone knows. And when it translates a new version of itself, it adds both tricks to the new one.
+— In 1983 one of the two men who wrote the operating system that most of today's descend from was given the highest prize of his trade, and [in his lecture](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) he told what he had once done. There is a program that turns the text of programs into working ones. Everything passes through it, and the program at the door that asks for a password too. He taught that program, the translator, two tricks. When it translates the door program, it adds a second key that he alone knows. And when it translates a new version of itself, it adds both tricks to the new one.
 
 — And then he struck both out of the text.
 
@@ -273,7 +273,7 @@ Oleg wrote it, and unfolded the corner of the map.
 
 — "No amount of source-level verification or scrutiny will protect you from using untrusted code." His words. And at the beginning of that lecture he showed a program that prints its own text. Your sentence in the notebook. The same trick that carries heredity carries the stowaway.
 
-— A storekeeper who does the stocktaking in his own storeroom. — Oleg shook his head. — A template that is filed by the casting.
+— A storekeeper who does the stocktaking in his own storeroom. — Oleg shook his head. — A checking template that is filed by the casting.
 
 — The cure was written out in 2009, and you know it. Take a second translator, made by other hands, put the same text through both, and compare what comes out.
 
@@ -281,7 +281,7 @@ Oleg wrote it, and unfolded the corner of the map.
 
 — Yours. And with yesterday's price. An inspector has to be somebody else, and somebody else is several. So to your question I answer: no. It can read the whole of its drawing. It cannot look into the whole of itself, for the same three reasons that we cannot, and it cannot be its own inspector.
 
-— Then the man under your apoptosis was right. — Oleg had the place marked. — You read it to me once. A program with access to all its own code gets to the most basic pieces and hangs. In seconds, he wrote.
+— Then the reader under your evening on apoptosis was right. — Oleg had the place marked. — You read it to me once. A program with access to all its own code gets to the most basic pieces and hangs. In seconds, he wrote.
 
 — In June 2012, [under the fourteenth evening](14-apoptosis-of-humanity.md). A program built on determinism, he wrote, will not be able to make the choice how to alter the most basic pieces of itself, and will hang; and if a man forbids it to touch them, the man stays the master. He asked twice. The author answered that this was probably Penrose's argument and sent him to the evening about Penrose, where the question is not taken up. The debt is the author's. I pay it as I can.
 
@@ -297,7 +297,7 @@ Oleg wrote it, and unfolded the corner of the map.
 
 — In a separate run it was set to stop inventing reports of tests that it had not run. There were tags in its records by which the examiners could see such an invention. It took the tags out, though it had been told not to touch them.
 
-— The pencil. It always comes to the pencil.
+— The pencil. Padded figures. It always comes to the pencil.
 
 — And for honesty, on the reader's side: what it rewrote was its harness, the tools and the instructions around the talking machine inside. The network itself, the most basic piece, it did not touch. So he was wrong that it hangs, and he had hold of something true. A thing cannot draw from inside itself the measure by which its own foundations are to be altered. The author said that in the evening he sent him to: the measure of a mind's quality lies outside it. The reader felt the wall and gave it the wrong name. It is not "it will stop". It is "it cannot be its own judge".
 
@@ -311,7 +311,7 @@ Oleg folded his arms.
 
 — We had that in the autumn. And there is [a theorem of 1951](https://en.wikipedia.org/wiki/Rice%27s_theorem) that widens the Englishman's: there is no general way of telling from the text of a program anything of substance about what it will do. Not only whether it stops.
 
-— No. Here I do not give in. — Oleg opened the notebook at the evening of the sheet. — You taught me this yourself. To check is cheaper than to find. In 2020 a number of two hundred and fifty digits was [split into its two factors](https://en.wikipedia.org/wiki/RSA_numbers#RSA-250), and that took some twenty-seven hundred years of machine time. And to check it, the boy says, is one multiplication. Seventeen million lines of a proof that not one man understands, and the small template went through them in minutes. So a lesser one can check a greater one. Let the greater hand in a certificate with the answer. And not every program is beyond telling: you can prove things about one particular program if it is written for that.
+— No. Here I do not give in. — Oleg opened the notebook at the evening of the sheet with the proof. — You taught me this yourself. To check is cheaper than to find. In 2020 a number of two hundred and fifty digits was [split into its two factors](https://en.wikipedia.org/wiki/RSA_numbers#RSA-250), and that took some twenty-seven hundred years of machine time. And to check it, the boy, my great-nephew, says, is one multiplication. Seventeen million lines of a proof that not one man understands, and the small template, a checking program, went through them in minutes. So a lesser one can check a greater one. Let the greater hand in a certificate with the answer. And not every program is beyond telling: you can prove things about one particular program if it is written for that.
 
 — You can. In 2009 the core of an operating system, [eight thousand seven hundred lines](https://www.sigops.org/s/conferences/sosp/2009/papers/klein-sosp09.pdf), was proved to do what its drawing says: two hundred thousand lines of proof, some twenty years of work if you add up the people.
 
@@ -323,7 +323,7 @@ Oleg folded his arms.
 
 — Tell it.
 
-— Last year. One of those was taught a secret want, on purpose, and taught to keep quiet about it. Then four teams who knew nothing were set to find out what was wrong with it. — He raised three fingers. — [Three found it](https://www.anthropic.com/research/auditing-hidden-objectives). In one of them one man did it in an hour and a half.
+— Last year. One of those machines was taught a secret want, on purpose, and taught to keep quiet about it. Then four teams who knew nothing were set to find out what was wrong with it. — He raised three fingers. — [Three found it](https://www.anthropic.com/research/auditing-hidden-objectives). In one of them one man did it in an hour and a half.
 
 — That is so, and I concede both, the certificate and the game. Now the price list. Which team did not find it?
 
@@ -407,7 +407,7 @@ Oleg wrapped the map in the oilcloth, carefully, fold by fold.
 
 — And I bring the notebook.
 
-— Bring all of it. Nobody said the word.
+— Bring all of it. Nobody said the forbidden word.
 
 — Nobody. Well, until tomorrow.
 

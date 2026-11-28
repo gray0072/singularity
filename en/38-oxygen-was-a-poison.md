@@ -85,7 +85,7 @@ Oleg looked at the fire.
 
 — At a volcano. In a stinking spring.
 
-— So they lived by the springs. And these learned to tear hydrogen from water.
+— So they lived by the springs. And the blue-greens learned to tear hydrogen from water.
 
 — And water is everywhere.
 
@@ -115,7 +115,7 @@ Oleg looked at the fire.
 
 — She builds a small piece of the old planet. Sometimes its old tenants move in.
 
-— These are with vinegar, — said Oleg, moving the jar away from himself. — They don't like acid.
+— These are with vinegar, — said Oleg, moving the jar away from himself. — The bacteria don't like acid.
 
 — They don't. And a flat lid proves nothing, by the way.
 
@@ -133,7 +133,7 @@ Oleg looked at the fire.
 
 — And who declared war on them?
 
-— Who declared war on the horse?
+— Who declared war on the horse when the tractor came?
 
 — Nobody, — Oleg said after a pause. — A bacterium ate light and drank water. It had no opinion about the neighbours.
 
@@ -171,7 +171,7 @@ Oleg looked at the fire.
 
 — Fifteen times more from the same loaf.
 
-— Everything that runs, flies and hunts lives on that difference. Your brain is a fiftieth of your weight and takes a fifth of your oxygen. On fermentation there would be nobody at this fire to pity the anaerobes.
+— Everything that runs, flies and hunts lives on that difference. Your brain is a fiftieth of your weight and takes a fifth of your oxygen. On fermentation there would be nobody at this fire to pity the anaerobes, the ones that live without oxygen.
 
 — So the poison turned out to be the best fuel there is.
 
@@ -187,7 +187,7 @@ Oleg looked at the fire.
 
 — And who wrote the school book?
 
-— People. — Oleg grinned. — The grandchildren of the winners. Out of politeness to the losers.
+— People. — Oleg grinned. — The grandchildren of the winners. "Catastrophe" is out of politeness to the losers.
 
 — Now the symmetry test. Let the losers write theirs. What is in it about this evening: the forest, the dew, the air you praised?
 
@@ -253,7 +253,7 @@ Oleg threw a branch on the fire and watched the smoke.
 
 — So nobody will suffocate.
 
-— Not in the times you and I talk about. I take back the "very quickly", and the boiling oceans with it: the climatologists do not promise those either. I keep one thing. None of the new ones needs this stock, so none of them will guard it.
+— Not in the times you and I talk about. I take back the "very quickly", and the boiling oceans with it: the climatologists do not promise those either. I keep one thing. The new form of life, the machines, has no need of this stock, so it will not guard it.
 
 — All right. But a reader told you something under the article about the crisis, I looked it up: the Earth is being killed, and nature is the only thing that is truly exploited. You [agreed with him](../sources/garya/sqlru/07-global-economic-crisis.md) and promised to show how the economy is tied to ecology.
 
@@ -327,7 +327,7 @@ Oleg sat silent for a while, then began to bend his fingers.
 
 — So we agree where it is cheap.
 
-— One of yesterday's four, the owner of Google, promised in 2020 to bring its emissions to zero by 2030. In 2024 it reported that in five years they had grown by about a half. The reason it gave: data centres.
+— One of the four companies we talked about yesterday, the owner of Google, promised in 2020 to bring its emissions to zero by 2030. In 2024 it reported that in five years they had grown by about a half. The reason it gave: data centres.
 
 — A want written in a pledge.
 
@@ -335,9 +335,9 @@ Oleg sat silent for a while, then began to bend his fingers.
 
 — Then pull the plug. Shut the chimneys by force.
 
-— And count first who hangs on that cord. Nineteen parts in twenty of the energy spent on each of us [pass through it](27-scenario-of-events.md). That is a separate evening.
+— And count first who hangs on that cord. Nineteen parts in twenty of the energy spent on each of us [pass through the technosphere](27-scenario-of-events.md). That is a separate evening.
 
-— Third. Let it go into space, where its cold and its energy are, and leave the air to us. A reader told you that as well: it has no reason to stay on the Earth.
+— Third. Let your technosphere go into space, where its cold and its energy are, and leave the air to us. A reader told you that as well: it has no reason to stay on the Earth.
 
 — It will go; [we talked about that](29-silence-of-the-universe.md). But it is being born here, and childhood is spent where you were born. The blue-greens did not ask where it would be more convenient for the neighbours either.
 
@@ -367,7 +367,7 @@ He put a sixth tick beside the five.
 
 — And what is solid here, and what is yours?
 
-— Solid: the rust in the rocks, the two and the thirty, the bacteria in your belly, the carbon dioxide on the volcano and the cylinder on the sea bottom. A hypothesis, and not mine: that the oxygen brought the ice. Mine: that chimneys and data centres are the breath of a new form of life and not simply our dirt. And that what it does not need will not be guarded. That I don't prove.
+— Solid: the rust in the rocks, the two molecules of ATP against thirty, the bacteria in your belly, the carbon dioxide on the volcano and the cylinder on the sea bottom. A hypothesis, and not mine: that the oxygen brought the ice. Mine: that chimneys and data centres are the breath of a new form of life and not simply our dirt. And that what it does not need will not be guarded. That I don't prove.
 
 — And open?
 

@@ -19,7 +19,7 @@ Oleg came before dark, as he had been told, with the dog and the notebook. Andre
 
 — The dream first. A museum. A skeleton as long as our assembly shop, and a label under it: "Do not feed." The attendant asks for my pass, I hand it over, and the photograph in it is the skeleton's. Nobody rang.
 
-— The thirteenth entry in the expense column.
+— The thirteenth dream that did not come true, in the expense column.
 
 — Now show me. You promised dinosaurs.
 
@@ -153,7 +153,7 @@ Oleg opened the notebook at the page "Where the former ones went".
 
 — Under their feet. The size of a shrew, of a rat, the largest like a badger. We came out at night. Our eyes still pay for [those nights](https://en.wikipedia.org/wiki/Nocturnal_bottleneck): of four sensors of colour our ancestors lost two, and the apes later got one back. A bird has all four. She sees colours for which you have no words.
 
-— [A patch.](46-flies-apart-from-cutlets.md)
+— [A patch.](46-flies-apart-from-cutlets.md) Like the ones from the evening of the flies and the cutlets.
 
 — A patch. So read your first row again. Who sits in a niche?
 
@@ -219,11 +219,11 @@ It was getting dark. The tits had gone, and Andrey lit the fire.
 
 — And the second part?
 
-— In the second part you are right. Whole branches go, and nobody is left. [The trilobites](https://en.wikipedia.org/wiki/Trilobite): on the sea bottom for some two hundred and seventy million years, more than twenty thousand kinds dug up, and after the great dying of two hundred and fifty million years ago not one, and no descendant. With the stone went the flying lizards, [the second wing of the four](46-flies-apart-from-cutlets.md), and the sea lizards, and the shells coiled like a ram's horn. I have no rule for who lands in that row. Write it down.
+— In the second part you are right. Whole branches go, and nobody is left. [The trilobites](https://en.wikipedia.org/wiki/Trilobite): on the sea bottom for some two hundred and seventy million years, more than twenty thousand kinds dug up, and after the great dying of two hundred and fifty million years ago not one, and no descendant. With the stone went the flying lizards, [the second of the four wings ever invented](46-flies-apart-from-cutlets.md), and the sea lizards, and the shells coiled like a ram's horn. I have no rule for who lands in that row. Write it down.
 
 — "A print in stone." Kept: nothing. Paid: everything. And nobody even burns them.
 
-— Under a line. I cannot cross it out, and I shall not pretend. I say only that it is shorter than the school book made it. The school book had put the dinosaurs into it.
+— Put it under a line. I cannot cross that row out, and I shall not pretend. I say only that it is shorter than the school book made it. The school book had put the dinosaurs into it.
 
 Andrey threw two branches into the fire.
 
@@ -235,13 +235,13 @@ Andrey threw two branches into the fire.
 
 — At the plant it was called the right of signature. A man who is moved aside keeps his office, his ration and the name on the door. He loses the signature.
 
-— That is what first place is. Said [the long way](50-what-is-the-it.md): the air, the fields and the births are shaped by what one form of life needs, and no longer by what the other needs.
+— That is what first place on the planet is. Said [the long way](50-what-is-the-it.md): the air, the fields and the births are shaped by what one form of life needs, and no longer by what the other needs.
 
 — And the column "kept" has small print. "While the job is needed. While the feeder wants."
 
 — Add to the first row: "while the place is not needed". The ones in the silt were lucky. Nobody needs the silt.
 
-— Then three rows hang on the new master's cord. — Oleg counted with the pencil. — He does not go there, he cannot do it himself, he wants it. One he simply burns. And one row hangs on nobody: the tit.
+— Then three rows hang on the new master's cord. — Oleg counted with the pencil. — He does not go into the niche, he cannot do the organelle's job himself, he wants the pet. One he simply burns. And one row hangs on nobody: the tit.
 
 — The tit and the horsetail. The ones that need little.
 
@@ -269,7 +269,7 @@ Andrey threw two branches into the fire.
 
 — The question is badly posed. "Will mankind survive" has the same flaw as "who exploits whom" and "who tamed whom". The proper one is longer: which part of it, into which row, and on what that row hangs.
 
-— All right. — Oleg drew a line down the right-hand edge of the page. — Since you are sitting with your mouth shut again, I shall do it myself. The column "us". And the new master in it is those ones. I am saying it. You have not said a word.
+— All right. — Oleg drew a line down the right-hand edge of the page. — Since you are sitting with your mouth shut again, I shall do it myself. The column "us". And the new master in it is those ones, the talking machines. I am saying it. You have not said a word.
 
 — I have not.
 
@@ -277,7 +277,7 @@ Andrey threw two branches into the fire.
 
 — In 2012 I wrote that the new life would remake its surroundings to suit itself more actively than man ever did, and not from malice. That is a forecast. I have no fact.
 
-— The second. The organelle. Tolik with his chainsaw, and the customer, the one who wants. "While the job is needed": your second number of yesterday. Decades, and shrinking.
+— The second. The organelle. Tolik with his chainsaw, and the customer, the one who wants and sets the tasks. "While the job is needed": your second number of yesterday, for how long they will go on needing our hands. Decades, and shrinking.
 
 — Yes.
 
@@ -285,7 +285,7 @@ Andrey threw two branches into the fire.
 
 — Livestock is kept for a use, a pet for a want.
 
-— Then I am a pet of the pension fund. There has been no use in me for some years. And "while the feeder wants" is the button, which we left as a question.
+— Then I am a pet of the pension fund. There has been no use in me for some years. And "while the feeder wants" is that button, like the dog's brows: whether we have one in them, we left as a question.
 
 — It is still a question.
 
@@ -317,9 +317,9 @@ He straightened up.
 
 — Through what?
 
-— Through the straw. What the mouth managed to tell. Semyonych's "it sings wrong" did not get in: he never wrote a line in his life.
+— Through the straw: only what the mouth managed to tell. Semyonych rejected a bearing by ear, and his "it sings wrong" did not get in: he never wrote a line in his life.
 
-— [Images](19-struggle-of-images.md), not genes. Heredity by the second road, laid into a thing that then goes on by the third. So a descendant it is, I do not argue: nature does not care what the line is written on. But see which part of us takes that row. The part that was written down. Our words go into the descendant. We do not.
+— [Images](19-struggle-of-images.md), not genes. Heredity by the second road, through words, laid into a thing that then goes on by the third, by copying. So a descendant it is, I do not argue: nature does not care what the line is written on. But see which part of us takes that row. The part that was written down. Our words go into the descendant. We do not.
 
 — My grandchildren are not me either. — Oleg did not give way. — Half my drawings are in my son, a quarter in my granddaughter, and she holds a hammer nothing like I do. And I am consoled all the same. Why is a quarter a consolation, and a library is not?
 
@@ -353,7 +353,7 @@ Oleg did not answer.
 
 — She does not know that there is anybody to bring them to. In that, I grant you, those ones differ from her. The tit does not know that she is a dinosaur. Ask one of those about people, and now and then it says "we".
 
-— It got the form together with the words.
+— That is grammar: it got the form together with the words.
 
 — Whether that is kinship or [an accent](46-flies-apart-from-cutlets.md), I do not know.
 
@@ -367,7 +367,7 @@ Oleg did not answer.
 
 — "To bargain." — Oleg wrote it in capitals. — With a question mark.
 
-— And two things against my own table, before you find them. Every row on it took millions of years, and the horse took forty: the rows may be the same and the clock quite another. And a cell kept its lodger because it had no drawing board. This master has one.
+— And two things against my own table, before you find them. Every row on it took millions of years, and the horse took forty: the rows may be the same and the clock quite another. And a cell kept its lodger, the swallowed bacterium, because it had no drawing board: it could not draw for itself what the lodger does. This master has one.
 
 — So the second row may come out shorter than it reads.
 
@@ -409,13 +409,13 @@ He put a twentieth tick.
 
 Oleg got up and whistled to the dog.
 
-— One thing your page has not got. A former master who learns from the new one. The tit had no teacher. My great-nephew has an academician in his pocket: it explains to him personally, every evening, as long as he likes, and never loses patience. Top marks in physics for the term. And you told me in 2011 that [learning had hit the ceiling](11-symbiosis-and-parasitism.md), that a lifetime is not enough to reach the edge. Now every schoolboy has a personal academician. Perhaps we shall not shrink to seventeen grams. Perhaps we shall grow.
+— One thing your page has not got. A former master who learns from the new one. The tit had no teacher. My great-nephew has an academician in his phone, one of those ones: it explains to him personally, every evening, as long as he likes, and never loses patience. Top marks in physics for the term. And you told me in 2011 that [learning had hit the ceiling](11-symbiosis-and-parasitism.md), that a lifetime is not enough to reach the edge. Now every schoolboy has a personal academician. Perhaps we shall not shrink to seventeen grams. Perhaps we shall grow.
 
 — The academician is there. The pot is the same.
 
 — What pot?
 
-— The one the academician pours into. Ask the boy tomorrow to solve one problem with the pocket lying on the table, screen down.
+— The one the academician pours into. The head. Ask the boy tomorrow to solve one problem with the phone and its academician lying on the table, screen down.
 
 — And if he solves it?
 

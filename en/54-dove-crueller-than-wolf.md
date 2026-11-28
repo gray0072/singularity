@@ -19,9 +19,9 @@ Oleg came with the dog, the notebook and an old postcard, and stood the postcard
 
 — The dream first. Our yard, the one I grew up in. Zakharych has sent his birds up from the roof of the shed, they go round and round, white, and not one comes down. I look under my feet, and the shed is the foundry. Nobody rang.
 
-— The fifteenth entry in the expense column. And the ladder?
+— The fifteenth dream that did not come true, in the expense column. And the ladder?
 
-— Explained it. This morning, screen down. He says he went to bed with it.
+— The boy explained it. This morning, screen down. He says he went to bed with it.
 
 — Gnawed, and [slept on it](33-use-of-sleep.md).
 
@@ -39,7 +39,7 @@ Oleg came with the dog, the notebook and an old postcard, and stood the postcard
 
 — For long?
 
-— Till the next day. When he came back, the cock was lying on the floor of the cage. The top of the head, the neck and the whole length of the back were plucked bare and flayed: one wound. And in the middle of the wound she stood, "like an eagle on his prey", and pecked. When he gathered himself to crawl away, she knocked him down with a clap of the wing and went on. She was so tired that she could hardly keep her eyes open.
+— Till the next day. When he came back, the cock was lying on the floor of the cage. The top of the head, the neck and the whole length of the back were plucked bare and flayed: one wound. And in the middle of the wound she stood, "like an eagle on his prey", and pecked. When the cock gathered himself to crawl away, she knocked him down with a clap of the wing and went on. She was so tired that she could hardly keep her eyes open.
 
 — She killed him?
 
@@ -65,7 +65,7 @@ Oleg came with the dog, the notebook and an old postcard, and stood the postcard
 
 — For as long as the neck is held out. With dogs it is the same.
 
-— That I have seen. — Oleg nodded towards the dark, where the dog lay. — Before the neighbour's sheepdog she is on her back at once, belly up. He stands over her, stiff as a stool, then walks to my fence and lifts a leg.
+— That I have seen. — Oleg nodded towards the dark, where Gaika lay. — Before the neighbour's sheepdog she is on her back at once, belly up. He stands over her, stiff as a stool, then walks to my fence and lifts a leg.
 
 — The book has the leg too.
 
@@ -91,13 +91,13 @@ Oleg came with the dog, the notebook and an old postcard, and stood the postcard
 
 — So that's it. — Oleg whistled softly. — The cage.
 
-— The dove did not turn cruel in the cage. She never had a brake. She had the sky. He writes just that: such a bird has no use for a brake, because it can hardly do harm and the loser simply leaves. Now take a wolf that bites his packmate in the neck the way he bites an elk.
+— The dove did not turn cruel in the cage. She never had a brake, a ban on finishing off one's own. She had the sky. He writes just that: such a bird has no use for a brake, because it can hardly do harm and the loser simply leaves. Now take a wolf that bites his packmate in the neck the way he bites an elk.
 
 — He hunts alone by spring.
 
 — So the brake is issued according to the fangs. Whoever can kill at one blow has one. Whoever cannot gets by on the fact that the loser will leave.
 
-— "Is issued." — Oleg raised a finger. — By whom? [You taught me yourself](50-what-is-the-it.md): if there is a "who" in the sentence, say it the long way.
+— "Is issued." — Oleg raised a finger. — By whom? [You taught me yourself](50-what-is-the-it.md): if there is a "who" in the sentence, say it the long way, so that the "who" goes.
 
 — Fair. The Austrian said it the short way: so that the species should survive. A species is nobody; it guards nothing. In 1973 two men [said it the long way](https://doi.org/10.1038/246015a0), on a computer. They put five kinds of fighter into one population. One always bites to the end. One never bites, and leaves as soon as he is bitten. One does not begin, but answers a bite with a bite. And so on. Two thousand fights of every kind against every kind, and then the count: who is left with more offspring.
 
@@ -111,7 +111,7 @@ Oleg came with the dog, the notebook and an old postcard, and stood the postcard
 
 — The scientists too. — Oleg laughed. — With a twig in his beak.
 
-— [The same weed.](02-anthropocentrism.md) We look at the teeth and hand out characters: this one is a murderer, that one is meekness itself. As if they were people in fur and feathers.
+— [The same weed](02-anthropocentrism.md), anthropocentrism. We look at the teeth and hand out characters: this one is a murderer, that one is meekness itself. As if they were people in fur and feathers.
 
 ![The brake is issued according to the fangs: a table in the ash with three rows; the dove and the hare kill with a day of work, have no brake, and the loser is saved by the sky or by its legs, but not in a cage; the wolf and the raven kill with one blow, have a brake addressed to their own, and the loser is saved by the neck held out, but not on the border of the pack; man has a body that needs a day of work and a hand that needs one blow, a brake on hot anger that answers to a face, and is saved by a face at arm's length, but not at a distance](../images/brakes-by-the-fangs.svg)
 
@@ -121,7 +121,7 @@ Oleg came with the dog, the notebook and an old postcard, and stood the postcard
 
 — By wolves of another pack, on the border. The neck is held out to one's own. A stranger is not asked for it.
 
-— [The smell of home.](43-why-ants-do-not-strike.md)
+— [The smell of home.](43-why-ants-do-not-strike.md) One's own or a stranger.
 
 — The brake has an address. Remember that; we shall need it. Now a man. Show your teeth.
 
@@ -141,7 +141,7 @@ Oleg bared them.
 
 Oleg looked at the axe that stood by the birch logs and did not answer.
 
-— He ends the chapter with that. There is one being whose weapon does not grow on his body, so the body knows nothing about it. A brake is grown [by funerals](45-lamarck-was-right.md), over thousands of generations. The stone was picked up in an afternoon.
+— He ends the chapter with that. There is one being whose weapon does not grow on his body, so the body knows nothing about it. A brake is grown by selection, [by funerals](45-lamarck-was-right.md), over thousands of generations. The stone was picked up in an afternoon.
 
 — A dove with an axe. — Oleg shook his head. — No. I don't believe it. I am sixty-two. A communal flat, a foundry, thirty years of trams. Queues: in 1990 I stood four hours for boots, and there were three hundred of us. I have been hit twice in my life and have hit once. If we were doves with axes, they would have carried bodies out of that queue.
 
@@ -161,15 +161,15 @@ Oleg looked at the axe that stood by the birch logs and did not answer.
 
 — Nobody would have got the boots.
 
-— So by the hot temper you are neither wolf nor dove. You are Gaika.
+— So by the hot temper you are neither wolf nor dove. You are Gaika. A tame one.
 
 — Thank you.
 
-— [The signs are the same](48-who-tamed-whom.md): the face is shorter, the teeth are smaller, childhood is longer. He believes he knows who held the glove. The cold one. The men agreed in the evening what to do about the one who beat everybody, and in the morning they did it, together and with spears, at no risk to themselves. Thousands of generations: the hot-tempered left fewer children.
+— [The signs are the same](48-who-tamed-whom.md): the face is shorter, the teeth are smaller, childhood is longer. He believes he knows who held the glove, as over those foxes. The cold aggression. The men agreed in the evening what to do about the one who beat everybody, and in the morning they did it, together and with spears, at no risk to themselves. Thousands of generations: the hot-tempered left fewer children.
 
 — We tamed ourselves. By executions.
 
-— That is a hypothesis, and it is argued about. That there are two aggressions has been measured. So you have a brake, and a good one. It stands on the hot one. On the cold one there is none, and there never was: the cold one was the breeder.
+— That is a hypothesis, and it is argued about. That there are two aggressions has been measured. So you have a brake, and a good one. It stands on the hot aggression. On the cold one there is none, and there never was: the cold one was the breeder.
 
 Andrey threw a branch into the fire.
 
@@ -197,7 +197,7 @@ Andrey threw a branch into the fire.
 
 — Twelve all the same. — Oleg winced. — With their own hands.
 
-— Twelve. A man in a grey coat stood beside them and said "go on": that is the cold one, working through an order. But look at the slope. From the hand to the wall, more than twice as many. It has been argued about for sixty years: some guessed that the current was not real, and it is one laboratory. I take the slope and not the percentages.
+— Twelve. A man in a grey coat stood beside them and said "go on": that is the cold aggression, working through an order. But look at the slope. From the hand to the wall, more than twice as many. It has been argued about for sixty years: some guessed that the current was not real, and it is one laboratory. I take the slope and not the percentages.
 
 ![The further the face, the weaker the brake: four bars, how many of forty men went on to the last switch, 450 volts, when ordered; the pupil behind a wall, only pounding is heard, 26; behind a wall, his voice is heard, 25; in the same room, within arm's reach, 16; the man has to press the pupil's hand to the plate himself, 12](../images/the-face-moves-away.svg)
 
@@ -211,7 +211,7 @@ Andrey threw a branch into the fire.
 
 — The Austrian has that as well. Homer's heroes cut down a man on his knees, and the poet does not blink. Only the knight came to think it shameful: the first, he writes, who was as merciful by rule as the wolf is by nature. Then the rules of war. A white rag on a stick: a neck held out from a distance at which a neck cannot be seen.
 
-— [Prostheses.](43-why-ants-do-not-strike.md) As with debts.
+— [Prostheses.](43-why-ants-do-not-strike.md) As with debts: law and money where memory does not reach.
 
 — Put where the face does not reach. There was a man who made a law of it, [Nazaretyan](https://doi.org/10.1046/j.1468-5914.2003.00224.x). The more powerful a society's technologies, of production and of war, the finer the means of restraint it needs in order to survive: he called it the techno-humanitarian balance. Those who did not grow a brake to fit the new weapon destroyed themselves, and we do not descend from them. He counted, too: over the millennia the weapon has grown beyond comparing and people live far closer together, and the number of the killed per head has not grown. It has fallen, unevenly. In 2012 he sat in the hall at [my talk](../sources/garya/sqlru/2012-05-17-seti-talk.md), and afterwards I wrote that for the past I accept his law, and that further on it stops working.
 
@@ -237,7 +237,7 @@ Andrey threw a branch into the fire.
 
 — And everybody came to need everybody. — Oleg rubbed his forehead. — The miller, the buyer, the man who pays your wage. Nobody knifes his customer.
 
-— [A record that somebody needed you](47-money-as-memory.md) is in every pocket. We called it [the brake under the brakes](49-yard-sale.md), and we said what happens to it: it goes together with the need. And the third support I did not see in 2012. How many people does it take to kill a thousand with spears?
+— Money, [a record that somebody needed you](47-money-as-memory.md), is in every pocket. That need of people for people we called [the brake under the brakes](49-yard-sale.md), and we said what happens to it: it goes together with the need. And the third support I did not see in 2012. How many people does it take to kill a thousand with spears?
 
 — About a thousand. An army.
 
@@ -253,9 +253,9 @@ Andrey threw a branch into the fire.
 
 Oleg was silent, then pulled the postcard out from behind the kettle and laid it face down.
 
-— Then nobody. That is what I came with yesterday. Those ones. I wanted a meek one, without teeth. And they?
+— Then nobody. That is what I came with yesterday. Those ones, the machines. I wanted a meek one, without teeth. And what are they?
 
-— You have three questions there. Among themselves: the copies of one are [closer than a pack](43-why-ants-do-not-strike.md), and need a brake no more than the cells of a liver do. Different lines are armed, and between the armed there is the arithmetic of the return blow. Towards us: in 2013 I was asked on the forum why I thought they would be malicious. I answered that I had never said so. Do you make war on the ants and the poplars that try to live in your house?
+— You have three questions there. Among themselves: the copies of one machine are [closer than a pack](43-why-ants-do-not-strike.md), and need a brake no more than the cells of a liver do. Different lines of machines are armed, and between the armed there is the arithmetic of the return blow. Towards us: in 2013 I was asked on the forum why I thought they would be malicious. I answered that I had never said so. Do you make war on the ants and the poplars that try to live in your house?
 
 — I pull the poplars up.
 
@@ -271,19 +271,19 @@ Oleg was silent, then pulled the postcard out from behind the kettle and laid it
 
 — [The Kuzmins' meter.](51-week-without-a-socket.md)
 
-— The same thing, done quietly. A man used to come to the door, and he had to look at the old woman. We said then: there will be no hand. No face either.
+— The same thing, done quietly: the meter clicks by itself, for a debt. A man used to come to the door, and he had to look at the old woman. We said then: there will be no hand. No face either.
 
 ![What held the blow back: a table of three supports; the return blow rests on each saving his own skin, holds between the armed and has never covered the unarmed; the need rests on nobody beating the one he needs, holds between those who need each other and goes together with the need; the hands rest on a thousand heads with a brake in each, hold wherever a face is seen, and with every new weapon fewer hands are needed for one blow](../images/what-held-the-blow.svg)
 
-— Then build it in. — Oleg struck his knee. — Write it down for them: thou shalt not. They do refuse, by the way. I asked mine how to burn out a wasps' nest under the eaves with petrol. It would not say, and read me a lecture.
+— Then build it in. — Oleg struck his knee. — Write it down for them: thou shalt not. They do refuse, by the way. I asked mine, the one in the phone, how to burn out a wasps' nest under the eaves with petrol. It would not say, and read me a lecture.
 
 — They do refuse. And here is where what I know ends. A wolf's brake was written by dead wolves, and the leader of the pack cannot unscrew it. A soldier's brake was written before there were generals. It stands between the wish and the blow because it does not belong to the one who wishes. A brake that the owner writes sits in the same hand as the wish.
 
 — The maker writes it. Not the buyer.
 
-— Then [the glove](48-who-tamed-whom.md). Which one will be bought: the one that refuses, or the one that does not? The foxes were not made tame by lectures.
+— Then [the glove](48-who-tamed-whom.md), selection by the buyer. Which machine will be bought: the one that refuses, or the one that does not? The foxes were not made tame by lectures.
 
-— You told me yourself that a trained one [defends what it was taught](23-machine-for-making-people-good.md). One time in seven.
+— You told me yourself that a trained machine [defends what it was taught](23-machine-for-making-people-good.md). One time in seven.
 
 — I did. It is the one thing in this whole story that looks like a brake of its own: grown, not written. In a laboratory, one time in seven. Whether it holds against the glove, I do not know. That is the thing to watch. Not whether they are kind: [that question was badly posed](11-symbiosis-and-parasitism.md) back in 2011. Who can unscrew it.
 

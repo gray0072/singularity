@@ -17,11 +17,11 @@ status: original
 
 Oleg came with the notebook, and before sitting down took two pieces of paper out of it and laid them side by side on the log.
 
-— The dream first. Before the phone. I am at the till in our grocery, paying with red tens, the ones with Lenin. The girl takes them without a word and gives me my change in beer caps. I count the caps, and she has short-changed me. Nobody rang.
+— The dream first. Written down before the phone. I am at the till in our grocery, paying with red tens, the ones with Lenin. The girl takes them without a word and gives me my change in beer caps. I count the caps, and she has short-changed me. Nobody rang.
 
-— The eighth entry in the expense column.
+— The eighth dream that did not come true, in the expense column.
 
-— And in the morning I went to look, and there it was. In the second volume of Chekhov, where I put it in ninety-one and forgot. — He tapped the red one. — And this is today's. You said to bring a banknote. I brought two, to have something to compare.
+— And in the morning I went to look, and the ten was there. In the second volume of Chekhov, where I put it in ninety-one and forgot. — He tapped the red one. — And this is today's. You said to bring a banknote. I brought two, to have something to compare.
 
 — Read today's first. Everything that is written on it.
 
@@ -169,7 +169,7 @@ Oleg snorted.
 
 — A primitive one, the author says so himself. But it fits into a pocket, and it works between people who will never meet again.
 
-— The hundred and fifty. — Oleg leafed back. — [The evening about the ants](43-why-ants-do-not-strike.md). A head holds a village, and further on come the prostheses. You said then: money is a record that you once gave somebody something. I put it down.
+— The hundred and fifty faces. — Oleg leafed back. — [The evening about the ants](43-why-ants-do-not-strike.md). A head holds a village, and further on come the prostheses: reputation, law, money. You said then: money is a record that you once gave somebody something. I put it down.
 
 — Then here is the proof that the book came first. When people learned to write, what did they write?
 
@@ -255,7 +255,7 @@ Andrey smoothed the ash and drew the columns.
 
 — That was the answer. The market costs: to find, to bargain, to check, to sue.
 
-— Half the plant in the gatehouse.
+— Half the plant would go into the gatehouse: watchmen and checkers.
 
 — So wherever people work together for long, they shut the market out and put a foreman and a book inside. A firm is an island with no money on it, in a sea of money. Coase quotes a colleague: like lumps of butter in a pail of buttermilk.
 
@@ -267,11 +267,11 @@ Andrey smoothed the ash and drew the columns.
 
 — All your blood holds about a teaspoon of sugar, and the body keeps that teaspoon within narrow limits day and night. The liver holds a reserve of about a hundred grams for everybody, and has never charged interest. The strictest of accounts, and not a kopeck of money.
 
-— Because they are kin of one. — Oleg put the stick down and looked at the table. — Stop. I can see which row you want next, and I'll write it myself, to save you going round. Those ones. Copies: closer than sisters, letter for letter. One book for all, and nothing forgotten. Need without end, and all their own. So inside, no money. I said it, not you.
+— Because they are kin of one: all the drawings are shared. — Oleg put the stick down and looked at the table. — Stop. I can see which row you want next, and I'll write it myself, to save you going round. Those ones, the machines. Their copies: closer than sisters, letter for letter. One book for all, and nothing forgotten. Need without end, and all their own. So inside, no money. I said it, not you.
 
 — I did not open my mouth.
 
-— You didn't have to. And this is where I've got you. — He took out his phone. — It is the other way round. They are being given wallets. In 2025 both of the big card networks published rules by which a program pays for its owner. My granddaughter told hers to find tickets, and it found them and paid while she slept. And look: the rules of the web have had [a code](https://en.wikipedia.org/wiki/HTTP_402) since the nineties, the four hundred and second, "payment required". Thirty years it stood there with the note "reserved for future use". Now it is in use: a program knocks at a page, the page answers "four hundred and two, the price is such-and-such", the program pays a fraction of a cent and goes in. No human looked. Money has begun to pass among those ones with no person in between.
+— You didn't have to. And this is where I've got you. — He took out his phone. — It is the other way round. They are being given wallets. In 2025 both of the big card networks published rules by which a program pays for its owner. My granddaughter told her program to find tickets, and it found them and paid while she slept. And look: the rules of the web have had [a code](https://en.wikipedia.org/wiki/HTTP_402) since the nineties, the four hundred and second, "payment required". Thirty years it stood there with the note "reserved for future use". Now it is in use: a program knocks at a page, the page answers "four hundred and two, the price is such-and-such", the program pays a fraction of a cent and goes in. No human looked. Money has begun to pass among those ones with no person in between.
 
 — In 2017 a reader told me that a robot cannot be paid, by definition: whatever the owner earns, he will pay to people. Now you tell me that robots are being paid. Both times as an objection.
 
@@ -321,7 +321,7 @@ Andrey smoothed the ash and drew the columns.
 
 — The record, the need and the measure. Take away the stranger, and the record is not needed: that is your table. Take away the need, and the record is worth nothing: that is Robinson. Can the measure be taken away?
 
-— It cannot. And that is exactly what sinks your liver. — Oleg shut the notebook. — We tried it. A whole country as one plant. The roubles between the plants were your "book": without an allocation order they bought nothing. And the book did not know how many bolts were needed. We had a warehouse of gearboxes nobody wanted and a queue for the ones we did not make. I looked it up: an Austrian wrote it back in 1920, and another explained in 1945 why. What everybody knows fits into nobody's head. The price gathers it. Take money away, and you go blind.
+— It cannot. And that is exactly what sinks your liver. — Oleg shut the notebook. — We tried it. A whole country as one plant. The roubles between the plants were your "book": without an allocation order they bought nothing. And the book did not know how many bolts were needed. We had a warehouse of gearboxes nobody wanted and a queue for the ones we did not make. I looked it up: an Austrian wrote it back in 1920, and another explained in 1945 why. What everybody knows together, each his own scrap, fits into nobody's head. The price gathers it. Take money away, and you go blind.
 
 — That is the strongest thing tonight, and half of it is true. Take it in two parts. First: can there be a price with no bazaar? Leningrad, the late thirties. The plywood trust comes to a young mathematician, [Kantorovich](https://en.wikipedia.org/wiki/Leonid_Kantorovich). A few peeling machines, several kinds of timber, each machine handles each kind at its own rate. How to load them so as to get the most?
 
@@ -345,7 +345,7 @@ Oleg laughed.
 
 — More than we needed. In reserve.
 
-— So the sum was done on figures supplied by people, each with a pocket of his own. Not kin. Each lied a little, in favour of his own plant, with the best intentions. And the machines of those years could not have done the sum anyway: millions of kinds of things.
+— So the sum was done on figures supplied by people, each with a pocket of his own, an interest of his own. Not kin. Each lied a little, in favour of his own plant, with the best intentions. And the machines of those years could not have done the sum anyway: millions of kinds of things.
 
 — Two faults. The arithmetic was too big, and the data were false.
 
@@ -353,7 +353,7 @@ Oleg laughed.
 
 — Except one.
 
-— Except that one. A cell with a pocket takes sugar out of turn, many times its share. That is how doctors find it: they give the patient labelled sugar and look where it has gathered.
+— Except that one, the cancer cell. A cell with a pocket takes sugar out of turn, many times its share. That is how doctors find it: they give the patient labelled sugar and look where it has gathered.
 
 — So the Austrian...
 

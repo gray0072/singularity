@@ -19,13 +19,13 @@ Oleg came with the dog, the notebook and a school problem book without a cover, 
 
 — The dream first. An examination. I draw a ticket, and it is blank on both sides. I look up, and the examiner is my great-nephew. "Uncle Oleg," he says, "ask it yourself." Nobody rang.
 
-— The fourteenth entry in the expense column. And the book?
+— The fourteenth dream that did not come true, in the expense column. And the book?
 
-— Mine, from the ninth form. I rang the boy at noon, with the picture on. Two problems, and the pocket on the table, screen down, where I could see it.
+— Mine, from the ninth form. I rang the boy at noon, with the picture on. Two problems, and the telephone, his pocket academician, on the table, screen down, where I could see it.
 
 — And?
 
-— One all. — Oleg sat down. — The first is a block on a slope, with friction. Eight minutes, and afterwards he explained it to me so that I understood, which is more than our physics master managed in 1981. The second is a ladder against a wall: how high can a man climb before it slides. Forty minutes. He drew, he crossed out, he looked at the pocket the way Gaika looks at a sausage. He did not solve it.
+— One all. — Oleg sat down. — The first is a block on a slope, with friction. Eight minutes, and afterwards he explained it to me so that I understood, which is more than our physics master managed in 1981. The second is a ladder against a wall: how high can a man climb before it slides. Forty minutes. He drew, he crossed out, he looked at the telephone the way Gaika looks at a sausage. He did not solve it.
 
 — And then?
 
@@ -33,7 +33,7 @@ Oleg came with the dog, the notebook and a school problem book without a cover, 
 
 — With the screen up.
 
-— With the screen up. So I claim half a tick. One problem he solved with his own head, and it was the academician who filled that head: a year ago he could not tell a slope from a ski jump.
+— With the screen up. So I claim half a tick. One problem he solved with his own head, and it was the academician in the telephone who filled that head: a year ago he could not tell a slope from a ski jump.
 
 — Put it down. In pencil.
 
@@ -65,7 +65,7 @@ Oleg put half a tick on a clean page and did not close the notebook.
 
 — Then it is full twice as soon. Five.
 
-— Two different numbers, then: what it can hold, and what is in it. In 2013, [on the forum](../sources/garya/sqlru/2009-09-15-apocalypse-scenario-thread.md), a man kept taking the one for the other, and I gave him a pot and a liquid. When litres did not help, I gave him a capacitor: the capacity is counted in farads, the charge in coulombs. [Intelligence](03-mind-and-intelligence.md) is the capacity. Mind is what has been poured in.
+— Two different numbers, then: what it can hold, and what is in it. In 2013, [on the forum](../sources/garya/sqlru/2009-09-15-apocalypse-scenario-thread.md), a man kept taking the one for the other, and I gave him a pot and a liquid. When litres did not help, I gave him a capacitor: the capacity is counted in farads, the charge in coulombs. [Intelligence](03-mind-and-intelligence.md) is the capacity of a head. Mind is what has been poured in.
 
 — In the autumn you said it shorter: [intelligence is the ceiling, mind fills it](16-fifteen-years-later.md).
 
@@ -73,7 +73,7 @@ Oleg put half a tick on a clean page and did not close the notebook.
 
 — Farads. — Oleg snorted. — And where are they stamped on a man?
 
-— Nowhere, and that is the trouble: we see only the liquid. Take twins. The same pot to the gram. One grows up at home and finishes an institute. The other is lost in the forest at two and grows up in a wolf's den. Whose mind is greater?
+— Nowhere, and that is the trouble: we see only the liquid. Take twins. The same pot, the same head, to the gram. One grows up at home and finishes an institute. The other is lost in the forest at two and grows up in a wolf's den. Whose mind is greater?
 
 — The first one's.
 
@@ -289,13 +289,13 @@ Andrey threw a branch into the fire.
 
 Oleg was silent for a while, then put the book back on the log.
 
-— Then I shall say the rest myself, since you are sitting with your mouth shut. Those ones. Do they have a pot?
+— Then I shall say the rest myself, since you are sitting with your mouth shut. Those ones, the machines. Do they have a pot?
 
 — They have. In the same thread I was told that I was promising them a mind without limit, and I answered that intelligence is the limit, that the technosphere has one too and always will. The only question is whether it is larger than ours.
 
 — And is it?
 
-— I shall say what is known, and all of it has been said on other evenings. Ours is filled anew in every head, for twenty or thirty years; theirs is [filled once and copied](26-why-people-stopped-having-children.md). Ours has been one size for as long as our kind has lived; theirs is redrawn every year or two, [there is a drawing board](52-dinosaurs-at-the-feeder.md). And theirs fills too: the network that learns worse with every new task, we have had that one.
+— I shall say what is known, and all of it has been said on other evenings. Ours is filled anew in every head, for twenty or thirty years; theirs is [filled once and copied](26-why-people-stopped-having-children.md). Ours has been one size for as long as our kind has lived; theirs is redrawn every year or two, [there is a drawing board](52-dinosaurs-at-the-feeder.md). And their pot fills too: the network that learns worse with every new task, we have had that one.
 
 — And a million of them? — Oleg leaned forward. — The papers say it in so many words: a country of geniuses in a server room. There is your million Mendeleevs. Sitting in my foundry.
 

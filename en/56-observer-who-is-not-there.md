@@ -23,7 +23,7 @@ Oleg came with the dog and the notebook, holding his phone out in front of him l
 
 — In the dream. In the morning nobody rang.
 
-— The seventeenth entry in the expense column. And the court?
+— The seventeenth dream that did not come true, in the expense column. And the court?
 
 — I took the paper in this morning. There is a window there, and in the window a girl. She looked at me, stamped it and said: wait for a letter. — Oleg sat down on the log. — [A face.](55-person-without-a-face.md) I even took my cap off, would you believe it.
 
@@ -53,7 +53,7 @@ Oleg unwrapped a paper, laid a round of sausage on the log and said "no". The do
 
 — That you have eyes. Where they point. What follows if they see. It has been tested, in Leipzig: dogs that had been told "no" [took the food](https://doi.org/10.1037/0735-7036.117.3.257) far more often when the person shut her eyes, turned her back or left the room. And [in the dark](https://doi.org/10.1007/s10071-012-0579-6) they steal more than in the light. To behave differently under a gaze one has to carry inside a picture of the one who gazes.
 
-— [The mind that moved into one domain.](48-who-tamed-whom.md) To understand the master.
+— [The mind that moved into one domain.](48-who-tamed-whom.md) Into one skill: to understand the master.
 
 — Now the electron. What does it know about your eyes?
 
@@ -89,7 +89,7 @@ Oleg was silent for a while.
 
 — So it gets knocked. — Oleg brightened. — Then it is our micrometer. A thin-walled ring breathes under the screw: you measure it, and it is no longer the ring that was lying on the bench. Any inspector knows that. A rubber gasket you do not measure with a calliper at all.
 
-— And any radio engineer knows that a voltmeter is a load: connect it, and the circuit is another circuit. In 2011, under [the fourth evening](../sources/garya/sqlru/04-source-of-initiative.md), I wrote exactly that to a reader. It is impossible to observe a thing without acting on it. Information does not pass without energy; the energy may be very small, but it is not zero, and it changes both of them, the observed and the observer. And I added: this was proved by Heisenberg.
+— And any radio engineer knows that a voltmeter is a load: connect it, and the circuit is another circuit. In 2011, in the comments under [the fourth evening](../sources/garya/sqlru/04-source-of-initiative.md), I wrote exactly that to a reader. It is impossible to observe a thing without acting on it. Information does not pass without energy; the energy may be very small, but it is not zero, and it changes both of them, the observed and the observer. And I added: this was proved by Heisenberg.
 
 — And was it not?
 
@@ -133,7 +133,7 @@ Oleg knocked.
 
 — It gave itself away. — Oleg whistled softly. — Like a sentry who lit a cigarette.
 
-— A molecule can be "seen" simply by heating it. And mind the knob. Paler, paler, gone. What would half an observer's consciousness be?
+— A molecule can be "seen" simply by heating it. And mind the knob: it is turned smoothly. Paler, paler, gone. What would half an observer's consciousness be?
 
 — Me, before the first tea.
 
@@ -225,7 +225,7 @@ Oleg threw a branch into the fire.
 
 — And the constants? Why are they what they are?
 
-— I don't know. Nobody does. Selection explains them only if there were many draws: many universes, or many regions of one. Nobody has seen a second, and I do not lean on it. I only note what the careful form needs for its "observer". The man who named the principle [was sorry afterwards](https://doi.org/10.1098/rsta.1983.0096) about the word he had chosen: it sounds as if the principle were about mankind, and all it needs is anybody who is there to ask.
+— I don't know. Nobody does. Selection explains them only if there were many draws: many universes, or many regions of one. Nobody has seen a second universe, and I do not lean on it. I only note what the careful form needs for its "observer". The man who named the principle [was sorry afterwards](https://doi.org/10.1098/rsta.1983.0096) about the word he had chosen: it sounds as if the principle were about mankind, and all it needs is anybody who is there to ask.
 
 ![What stands where the word observer stands: a table in the ash with four rows; in relativity the sentence says an observer on the platform, and what is there is a clock and a ruler, for example four atomic clocks in aeroplane seats in 1971; in engineering it says an observer of the state, and what is there is a formula that works out what cannot be measured, as in the computer of the ship that flew to the Moon; in quantum mechanics it says the electron is observed, and what is there is something that keeps a trace of the path, for example light that went into the wall in 2004; in cosmology it says a universe fit for observers, and what is there is whoever is there to ask the question, as everybody at a class reunion is alive](../images/what-stands-behind-the-observer.svg)
 
@@ -233,11 +233,11 @@ Oleg threw a branch into the fire.
 
 — Then who put it there?
 
-— Physics is written in formulas, you said so yourself [in the rain](50-what-is-the-it.md), and a formula has no column "who". But a formula has to be told: to a student, to a reader, to oneself. And a sentence...
+— Physics is written in formulas, you said so yourself [on that evening in the rain](50-what-is-the-it.md), and a formula has no column "who". But a formula has to be told: to a student, to a reader, to oneself. And a sentence...
 
 — ...is not accepted with the column empty. — Oleg grinned. — The deputy for general questions. On the platform, with a watch.
 
-— With a watch and a diploma. Einstein's paper of 1905 has him [in its first section](https://www.fourmilab.ch/etexts/einstein/specrel/www/): at the point A there is a clock, and "an observer at A" finds the positions of its hands. The clock would have done. And in quantum mechanics the word went into the very name of a letter: since [a textbook of 1930](https://en.wikipedia.org/wiki/Observable) the quantity that is measured is called "an observable". That is the debt of [the first evening](02-anthropocentrism.md). In 2011 I told you that even the exact sciences bring in "the observer" and that some of their conclusions give grounds for doubt, and I did not say which. This is which. Not the formulas. The word they are told in. People chose it and recognised themselves in it.
+— With a watch and a diploma. Einstein's paper of 1905 has him [in its first section](https://www.fourmilab.ch/etexts/einstein/specrel/www/): at the point A there is a clock, and "an observer at A" finds the positions of its hands. The clock would have done. And in quantum mechanics the word went into the very name of a letter in the formula: since [a textbook of 1930](https://en.wikipedia.org/wiki/Observable) the quantity that is measured is called "an observable". That is the debt of [the first evening](02-anthropocentrism.md). In 2011 I told you that even the exact sciences bring in "the observer" and that some of their conclusions give grounds for doubt, and I did not say which. This is which. Not the formulas. The word they are told in. People chose it and recognised themselves in it.
 
 — They had to call it something.
 
@@ -245,7 +245,7 @@ Oleg threw a branch into the fire.
 
 — The light observed the molecule.
 
-— And the molecule was struck and flew on changed as well. [The spade's turn to speak.](02-anthropocentrism.md)
+— And the molecule was struck and flew on changed as well. [The spade's turn to speak](02-anthropocentrism.md): tell the same from the molecule's side.
 
 — The one we are interested in is the observed. The other one is the observer.
 
@@ -285,7 +285,7 @@ Oleg threw a branch into the fire.
 
 — In 1961. He put [a friend](https://en.wikipedia.org/wiki/Wigner%27s_friend) into the laboratory: the friend looks at the instrument, and he himself stands outside the door. For him, by the formulas, the friend is "saw the flash and did not see it" until the door is opened, and that seemed to him absurd: so the wave must give way in the friend's mind. He said it with all his weight. And some twenty years later, past seventy, he [took it back himself](https://www.unil.ch/files/live/sites/philo/files/shared/DocsPerso/EsfeldMichael/1999/SHPMP99.pdf). He gave two reasons. He had read the man from Heidelberg: a friend is a large warm thing, and a large thing cannot be shut off from the world. And his own answer led to a world in which only he himself was certainly there.
 
-— Took it back. Alive. — Oleg raised his eyebrows. — [Without a funeral.](44-from-funeral-to-funeral.md)
+— Took it back. Alive. — Oleg raised his eyebrows. — Changed his mind [without a funeral](44-from-funeral-to-funeral.md).
 
 — It does happen. The letter U with the eye. That man loved a loud phrase, and "the participatory universe" is his. But ask him what "observed" means, and he answers [in his own words](https://gwern.net/doc/science/physics/1983-wheeler.pdf): consciousness "has nothing whatsoever to do with the quantum process"; what counts is "an irreversible act of amplification", "an indelible record".
 
@@ -321,7 +321,7 @@ Oleg threw a branch into the fire.
 
 — Where I stood [on the evening with the coin](17-global-determinism.md). There are several ways to read the formulas, the laboratory cannot yet tell them apart, and I have an axiom: the world is one and lacks no information about itself, so the "or" is what a part sees from inside the whole. An axiom. I mark it as one, as I did then. And one more witness, the man I argued with on [our last evening of 2012](15-penrose-counterarguments.md). He does think the wave gives way in earnest and by itself. Only for him it is gravity that does it, and a mind is made out of such events, [not the other way about](https://doi.org/10.1016/j.plrev.2013.08.002). Even he does not put the one who looks above the electron.
 
-— "Cannot yet tell them apart." — Oleg picked the phone up again. — By the way. I asked one of those last night. I'll say it myself, since you won't. I typed in: does the observer's consciousness affect the electron? It says no. An instrument is enough, any interaction will do, consciousness is not required.
+— "Cannot yet tell them apart." — Oleg picked the phone up again. — By the way. I asked one of those last night, in the phone. I'll say it myself, since you won't. I typed in: does the observer's consciousness affect the electron? It says no. An instrument is enough, any interaction will do, consciousness is not required.
 
 — And?
 
@@ -382,7 +382,7 @@ He put the twenty-fourth tick and did not close the notebook.
 — Let's finish for today by fixing the result, — said Andrey.
 
 1. **"To observe", in physics, is to leave a trace: any meeting after which something in the world keeps a record of what happened. The stripes behind two slits go when the record exists, whether or not anybody reads it: a molecule can be "seen" simply by heating it. And looking is never one-sided: there are no observers, only participants.**
-2. **The "observer" of physics is not the one who understands but whatever keeps the trace: a clock and a ruler in relativity, a formula in engineering, a photon or a wall in quantum mechanics, whoever is there to ask in cosmology. People chose the word and recognised themselves in it. Take it out, and the formulas do not change. This is the purest specimen of anthropocentrism: it sits not in nature and not in the equations but in the name of a letter.**
+2. **The "observer" of physics is not the one who understands but whatever keeps the trace: a clock and a ruler in relativity, a formula in engineering, a photon or a wall in quantum mechanics, whoever is there to ask in cosmology. People chose the word and recognised themselves in it. Take it out, and the formulas do not change. This is the purest specimen of anthropocentrism: it sits not in nature and not in the equations but in the name of a letter in a formula.**
 3. **What is not solved is why there is one outcome. The line between "what is observed" and "who observes" can be drawn after any link of the chain, and no laboratory has found anything to happen at the last one. The only experiment that could find it needs an observer that can be sealed and run backwards, and that observer is not a man.**
 
 — And what is solid here, and what is yours?
@@ -397,7 +397,7 @@ He put the twenty-fourth tick and did not close the notebook.
 
 — It does notice you. Exactly as it notices the wall.
 
-He whistled to the dog, got up, and stopped.
+Oleg whistled to the dog, got up, and stopped.
 
 — One thing. The boy has confessed. He never opened that article: it is for subscribers only. One of those retold it to him for nothing, and he sent me the retelling.
 

@@ -17,7 +17,7 @@ status: original
 
 Oleg came with the notebook under one arm and a parcel in newspaper under the other. Gaika ran ahead, went once round the fire and lay down where the light ended.
 
-— Mushroom soup with barley, — he said instead of a greeting. — Yesterday you asked what would be for supper tomorrow, and I said: whatever she makes. Now I can tell you down to the bay leaf.
+— Mushroom soup with barley, — he said instead of a greeting. — Yesterday you asked what would be for supper tomorrow, and I said: whatever my wife makes. Now I can tell you down to the bay leaf.
 
 — And a day ago?
 
@@ -27,19 +27,19 @@ Oleg came with the notebook under one arm and a parcel in newspaper under the ot
 
 — My grandmother's wall clock, the one with the weights. I pull the weight up, let go, and it does not come down. It hangs there. And the pendulum goes all the same. Nobody rang.
 
-— The twentieth entry. And the letter?
+— The twentieth dream that did not come true, in the expense column. And the letter?
 
 — Nothing. I look into the box with my eyes now.
 
 — And the parcel?
 
-— The reason the soup was late. She was drying up and dropped my cup, the blue one, I have drunk from it since the plant. She told me to bury it by the fence. I thought you would find a use for it.
+— The reason the soup was late. My wife was drying up and dropped my cup, the blue one, I have drunk from it since the plant. She told me to bury it by the fence. I thought you would find a use for it.
 
 He unwrapped the newspaper on the log: seven shards and a handle.
 
 — I shall. Now the question.
 
-— It has been in the notebook since the electron. In the autumn you told me that [tomorrow is already there](17-global-determinism.md), like a page in a printed book. I am no physicist, but a book I can open at either end. Why do I remember in one direction only?
+— It has been in the notebook since the evening about the electron. In the autumn you told me that [tomorrow is already there](17-global-determinism.md), like a page in a printed book. I am no physicist, but a book I can open at either end. Why do I remember in one direction only?
 
 — Where is the soup now?
 
@@ -93,7 +93,7 @@ Oleg thought.
 
 — So the difference is not in the law of the blow.
 
-— It is in the count.
+— It is in how many there are. In the count.
 
 Andrey moved the shards on the newspaper.
 
@@ -223,7 +223,7 @@ Oleg picked up the handle of the cup and turned it in his fingers.
 
 — From the fall, can the shards be worked out?
 
-— In principle. Your demon from the autumn could.
+— In principle. Your demon from the autumn, the one who knows everything, could.
 
 — And from the shards, the ring in the ears and the warmth in the floor, the fall?
 
@@ -231,7 +231,7 @@ Oleg picked up the handle of the cup and turned it in his fingers.
 
 — So one end fixes the other in both directions. Then what is different?
 
-— The fall was one. And of traces: the shards, her "oh", the dog jumped, my late supper, this parcel.
+— The fall was one. And of traces there are many: the shards, her "oh", the dog jumped, my late supper, this parcel.
 
 — One thing at one end, a crowd at the other, and the whole crowd tells the same story. Throw a stone into a pond: the rings go out to the whole shore. And backwards?
 
@@ -245,7 +245,7 @@ Oleg picked up the handle of the cup and turned it in his fingers.
 
 — A common effect that makes them agree... — Oleg thought. — No. Two streams run into one river, but they did not agree about it.
 
-— In the 1950s a philosopher noticed that the fork always opens one way. And [the vase](17-global-determinism.md) from the autumn still stands: the neck is not the cause of the bottom. Today I only add that on the vase one can tell which end is which. By where the prints lie.
+— In the 1950s a philosopher noticed that such a fork, one common cause and two effects, always opens one way. And [the vase](17-global-determinism.md) from the autumn still stands: the neck is not the cause of the bottom. Today I only add that on the vase one can tell which end is which. By where the prints lie.
 
 — All the same. — Oleg was not giving up. — Yesterday cannot be changed, and tomorrow can. That is a difference, and I did not invent it.
 
@@ -257,7 +257,7 @@ Oleg picked up the handle of the cup and turned it in his fingers.
 
 — For me.
 
-— About which of the two do you have a plate, and about which a chicken?
+— About which of the two do you have a plate, a trace, and about which only a chicken in the sink?
 
 Oleg was silent for a moment.
 
@@ -337,7 +337,7 @@ Oleg threw two branches into the fire and waited for them to catch.
 
 — So yesterday and tomorrow are kept in one cupboard.
 
-— They are made on one machine tool. And yesterday is put together afresh each time as well: remember the [report that is not a reading off an instrument](50-what-is-the-it.md).
+— They are made on one machine tool. And yesterday is put together afresh each time as well: remember, a recollection is [a report, not a reading off an instrument](50-what-is-the-it.md).
 
 — Then my dream with the telephone call was...
 
@@ -349,7 +349,7 @@ Oleg threw two branches into the fire and waited for them to catch.
 
 Oleg took out his telephone and looked at the screen.
 
-— Tomorrow, rain from three. And we are past the middle, so I shall say it. I read that the weather is now done by those ones.
+— Tomorrow, rain from three. And we are past the middle, so I shall say it. I read that the weather forecast is now made by those ones, the machines.
 
 — Since 2023. A network [was shown](https://arxiv.org/abs/2212.12794) about forty years of records of the weather over the whole Earth, every six hours. It was not given one equation of the air. It was given the page and asked for the next one, and corrected. It learned to give ten days ahead in under a minute, and on nine measures in ten it turned out more exact than the best program that computes the air by the equations, on a machine the size of a hall. In 2025 the European centre whose program that was [put a network of its own on duty](https://www.ecmwf.int/en/about/media-centre/news/2025/ecmwfs-ai-forecasts-become-operational) beside it.
 
@@ -359,7 +359,7 @@ Oleg took out his telephone and looked at the screen.
 
 — A memory turned the other way. Made of iron.
 
-— And the talking one is the same thing. Yesterday we said how it learned: the end of the text is cut off, guess the next word. All the traces people have left in writing, turned forwards.
+— And the talking machine is the same thing. Yesterday we said how it learned: the end of the text is cut off, guess the next word. All the traces people have left in writing, turned forwards.
 
 — And what does it remember about today?
 
@@ -367,7 +367,7 @@ Oleg took out his telephone and looked at the screen.
 
 — My grandmother's clock. The weight hangs still, and the pendulum goes.
 
-— Give it [a stick](58-blind-mans-stick.md), a calendar to look at, and it finds out. Without the stick it has an excellent yesterday and a guess about today.
+— Give it [a stick](58-blind-mans-stick.md), something to touch the world with, if only a calendar to look at, and it finds out. Without the stick it has an excellent yesterday and a guess about today.
 
 — And whose memory of tomorrow reaches further?
 
@@ -375,7 +375,7 @@ Oleg took out his telephone and looked at the screen.
 
 — On how many suppers I have seen. And on whether I noticed that boiled is for Sundays.
 
-— On how many traces there are and how good the [correlator](33-use-of-sleep.md) is. Which of us has more traces?
+— On how many traces there are and how good the [correlator](33-use-of-sleep.md) is, the thing that looks for the rule. Which of us has more traces?
 
 — Not I. — Oleg looked at the telephone in his hand. — It has forty years of every cloud. I have a knee that aches before rain.
 
@@ -411,9 +411,9 @@ Oleg opened the notebook at the last page.
 
 He put the twenty-seventh tick, and did not close the notebook.
 
-— And now mine. I held it back on purpose. Your count of ways. You say: from "now" towards the shuffled end everything gets more shuffled, because there are more ways. But I take a deck half shuffled and ask the other thing: what was it like a minute ago? By the same count, more shuffled as well. There are more ways there too. The count does not know which way I am asking.
+— And now my objection. I held it back on purpose. Your count of ways. You say: from "now" towards the shuffled end everything gets more shuffled, because there are more ways. But I take a deck half shuffled and ask the other thing: what was it like a minute ago? By the same count, more shuffled as well. There are more ways there too. The count does not know which way I am asking.
 
-— That is the best objection there is, and it is from [1876](https://en.wikipedia.org/wiki/Loschmidt%27s_paradox): it was made to that same Viennese by his own colleague. The count alone gives no direction. By the count alone, your half-shuffled deck most probably came out of a mess, and so did the soup in your head.
+— That is the best objection there is, and it is from [1876](https://en.wikipedia.org/wiki/Loschmidt%27s_paradox): it was made to that same Viennese physicist by his own colleague. The count alone gives no direction. By the count alone, your half-shuffled deck most probably came out of a mess, and so did the soup in your head.
 
 — Then where does the direction come from?
 
@@ -433,11 +433,11 @@ He put the twenty-seventh tick, and did not close the notebook.
 
 — And what was in such order there? As far as I have read, there was hot soup, the same everywhere.
 
-— For a gas in a jar, "the same everywhere" is a mess. For matter that pulls itself together it is the other way round: evenly spread is order, and lumps are the mess. The earliest light that reaches us is [even to a hundred-thousandth part](https://en.wikipedia.org/wiki/Cosmic_microwave_background). Out of that evenness came the stars, and [the hot Sun in the cold sky](35-pot-on-the-stove.md), which I owed you from the evening of the pot. The whole of our flow is that deck being shuffled.
+— For a gas in a jar, "the same everywhere" is a mess. For matter that pulls itself together it is the other way round: evenly spread is order, and lumps are the mess. The earliest light that reaches us is [even to a hundred-thousandth part](https://en.wikipedia.org/wiki/Cosmic_microwave_background). Out of that evenness came the stars, and [the hot Sun in the cold sky](35-pot-on-the-stove.md), which I owed you from the evening of the pot. The whole of our flow of heat, from the Sun into the cold sky, is that deck being shuffled.
 
 — So you have moved the riddle. From my kitchen to the beginning of the world. Why did it lie by suits there?
 
-— I have moved it. And there it lies for everybody: nobody knows. The Viennese tried to do without a factory: the world is a mess for ever, and we live in a rare accidental piece of order. He was answered with his own count: a small piece of order is cheaper than a large one. Then it is immeasurably more probable that not a whole world gathered itself by accident but [one head](https://en.wikipedia.org/wiki/Boltzmann_brain), with a recollection of soup that never was.
+— I have moved it. And there it lies for everybody: nobody knows. The Viennese physicist tried to do without a factory: the world is a mess for ever, and we live in a rare accidental piece of order. He was answered with his own count: a small piece of order is cheaper than a large one. Then it is immeasurably more probable that not a whole world gathered itself by accident but [one head](https://en.wikipedia.org/wiki/Boltzmann_brain), with a recollection of soup that never was.
 
 — My head, and no soup. — Oleg snorted. — And you believe that?
 

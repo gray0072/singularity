@@ -25,17 +25,17 @@ Oleg could be heard before he could be seen: a tap on the path, a pause, a scrap
 
 — The dream first. Night shift, and the light goes out in the whole shop. I take a rod out of the scrap bin and walk, tapping in front of me. And wherever I tap, there is floor. I walked like that straight across the pouring pit. Nobody rang.
 
-— The nineteenth entry in the expense column. And the pit?
+— The nineteenth dream that did not come true, in the expense column. And the pit?
 
 — The pit is why I woke up. In a dream the stick finds floor wherever you put it.
 
 — Remember that, we shall need it. And the letter?
 
-— I felt in the letter box as well. Empty. — Oleg laid the stick across his knees. — We are late because of her. A tick, behind the ear that hangs down. My wife held the lamp, I held the dog, and the tick held on.
+— I felt in the letter box as well. Empty. — Oleg laid the stick across his knees. — We are late because of Gaika. A tick, behind the ear that hangs down. My wife held the lamp, I held the dog, and the tick held on.
 
 — Did you get it out?
 
-— With a loop of thread, the way my grandmother did. — He scratched the dog's neck. — Now. Yesterday I asked what that one knows about a barrow, and you said: tomorrow, and we start from the path. Here is the path. I have walked it blind. Ask.
+— With a loop of thread, the way my grandmother did. — He scratched the dog's neck. — Now. Yesterday I asked what that well-read one knows about a barrow, and you said: tomorrow, and we start from the path. Here is the path. I have walked it blind. Ask.
 
 — When the stick hit the first root, where did you feel it?
 
@@ -51,7 +51,7 @@ Oleg could be heard before he could be seen: a tap on the path, a pause, a scrap
 
 — In 2018, in Lyon. People held a wooden rod that they could not see. The rod was struck, now here, now there, and they were asked where. They [could tell](https://doi.org/10.1038/s41586-018-0460-0), and accurately: "just as is possible on the skin", the authors wrote. A rod rings differently depending on where it is struck, and the skin of the hand reads the ringing. And they told it better when they did the striking themselves.
 
-— Like a casting. — Oleg weighed the stick in his hand. — All right, it grows on. What of it?
+— Like a casting when you tap it. — Oleg weighed the stick in his hand. — All right, the stick grows onto the hand. What of it?
 
 — Shut your eyes again.
 
@@ -133,7 +133,7 @@ Oleg threw a branch into the fire and watched it catch.
 
 — It got the answers without the questions. Stripes floated past, and nothing it did had anything to do with them. The walker got the same stripes as replies: I step, and they come at me; I turn, and they swing away.
 
-— So it is not enough to see. — Oleg turned the stick in his fingers. — One has to be the one who rocked it.
+— So it is not enough to see. — Oleg turned the stick in his fingers. — One has to be the one who rocked the picture.
 
 — People have been asked too, more gently. In 1970 blind people [were seated](https://doi.org/10.3758/BF03210126) in a dentist's chair with four hundred small vibrators in its back, joined to a television camera: what the camera saw was drawn on the skin in tickling. While the camera stood still, they spoke of feelings on their backs. When they were given the camera to turn for themselves, they began to speak of things standing in front of them.
 
@@ -213,7 +213,7 @@ Oleg said nothing for a while.
 
 Andrey took the stick from Oleg's knees, smoothed the ash and wrote four words in a ring.
 
-— Here is all of it, in the words I used then. Stir reality. Take the response. Recognise in it the images you already have. Find what goes with what, between the response, your own poke and the old images; that is, make new images: the work of [the correlator](33-use-of-sleep.md). And in the middle the memory, where images [are born, compete and are written off](19-struggle-of-images.md), and [the wants](18-anatomy-of-wants.md), which decide what is worth keeping and where to poke next.
+— Here is all of it, in the words I used then. Stir reality. Take the response. Recognise in it the images you already have. Find what goes with what, between the response, your own poke and the old images; that is, make new images: the work of [the correlator](33-use-of-sleep.md), the part of a mind that looks for what goes together. And in the middle the memory, where images [are born, compete and are written off](19-struggle-of-images.md), and [the wants](18-anatomy-of-wants.md), which decide what is worth keeping and where to poke next.
 
 ![The loop drawn in the ash: reality on the left, and around a box of memory four steps joined by arrows: poke, take the response, recognise, find the link; under each step, in blue, what the program of 1989 did: a test signal into any point of the board, the signals at all the other points, is this a fault it has met before, which pair of points tells most; take one link out and the loop stops: no poke of one's own is the kitten in the basket, no response from outside is a dream, nothing kept is a talk that leaves no trace in the head](../images/loop-of-the-stick.svg)
 
@@ -253,7 +253,7 @@ Andrey took the stick from Oleg's knees, smoothed the ash and wrote four words i
 
 — With a pencil. He tries a case and looks at what came out. It came out wrong: the guess is dead. He is poking at something that says "no" as firmly as a root; only the poke costs a sheet of paper. When you brought me [Penrose](15-penrose-counterarguments.md), I said that his machine, the one that cannot do what a mathematician does, is a machine out of a textbook: a tape in, a tape out, and nothing outside. A computer in a vacuum. A mathematician in a vacuum could not do it either.
 
-— Fine. A pencil. — Oleg glanced at the notebook and gave in. — We are past the middle, so I shall say it. Those ones solve olympiad problems, I have read. With what pencil?
+— Fine. A pencil. — Oleg glanced at the notebook and gave in. — We are past the middle, so I shall say it. Those machines solve olympiad problems, I have read. With what pencil?
 
 — With the best there is. Look where they went ahead first. In 2017 a program was given the rules of Go and nothing else, not one game played by people. It played against itself, close to five million games in three days, and [beat a hundred to nil](19-struggle-of-images.md) the program that had beaten the champion. A proof can be handed to a checking program that answers "holds" or "does not hold": one machine [was raised](https://doi.org/10.1038/s41586-025-09833-y) on some eighty million problems, each of them answered by such a checker, and in 2024 it solved the hardest problem of the schoolchildren's world olympiad. And a program one has written can be run: it works or it falls over.
 
@@ -263,11 +263,11 @@ Andrey took the stick from Oleg's knees, smoothed the ash and wrote four words i
 
 — And a loaded barrow in the wet is dear.
 
-— The barrow has to be bought, and the wet has to be waited for. In the autumn I told you that [the edge of their skill is a saw](21-machines-that-talk.md), and gave no rule for the teeth. This is half a rule.
+— The barrow has to be bought, and the wet has to be waited for. In the autumn I told you that [the edge of their skill is a saw](21-machines-that-talk.md), above a man here and below a child next to it, and gave no rule for where its teeth are. This is half a rule.
 
 Oleg looked into the fire.
 
-— Now the barrow. They have read everything, and yesterday you would not answer me.
+— Now the barrow. That one has read everything, and yesterday you would not answer me.
 
 — Which of the two kittens is it, while it learns?
 
@@ -307,11 +307,11 @@ Oleg wrote, moved his lips, and wrote again.
 
 — What nobody has poked yet.
 
-— [Beyond the edge](53-million-mendeleevs.md) there are no books. And third: your dream.
+— [Beyond the edge of knowledge](53-million-mendeleevs.md) there are no books. And third: your dream.
 
 — Floor wherever I put the stick.
 
-— It says a thing that sounds like floor. Very often it is floor: it has read a great deal about floors. But what answered was its own head and not the floor. In the spring we called that [a dream with the eyes open](33-use-of-sleep.md): there is nothing to check against. And under the umbrella we said that it had received [our picture of the world without the world](50-what-is-the-it.md). Feed such a head on its own writings, and in a few generations [it degenerates](19-struggle-of-images.md). A retelling of a retelling.
+— It says a thing that sounds like floor. Very often it is floor: it has read a great deal about floors. But what answered was its own head and not the floor. In the spring we called that [a dream with the eyes open](33-use-of-sleep.md): there is nothing to check against. And on that rainy evening, under the umbrella, we said that it had received [our picture of the world without the world](50-what-is-the-it.md). Feed such a head on its own writings, and in a few generations [it degenerates](19-struggle-of-images.md). A retelling of a retelling.
 
 — So what it knows about a barrow...
 
@@ -323,7 +323,7 @@ Oleg wrote, moved his lips, and wrote again.
 
 — Not one. — Oleg grinned. — I knew where the fist was.
 
-— One thing against myself, so that you do not take the basket for a prison. In 1986 a man in Chicago who studied libraries, not a doctor, read two heaps of medical papers whose authors did not read one another. One heap was about fish oil and the blood. The other was about an illness in which the fingers go white in the cold. He [put the two together](https://muse.jhu.edu/article/403510/summary): fish oil ought to help. He touched nothing. Three years later doctors [tried it](https://pubmed.ncbi.nlm.nih.gov/2536517/) on thirty-two patients, and for those with the simple form of the illness it helped.
+— One argument against myself, so that you do not take the basket for a prison. In 1986 a man in Chicago who studied libraries, not a doctor, read two heaps of medical papers whose authors did not read one another. One heap was about fish oil and the blood. The other was about an illness in which the fingers go white in the cold. He [put the two together](https://muse.jhu.edu/article/403510/summary): fish oil ought to help. He touched nothing. Three years later doctors [tried it](https://pubmed.ncbi.nlm.nih.gov/2536517/) on thirty-two patients, and for those with the simple form of the illness it helped.
 
 — So new things can be found without a stick.
 
@@ -339,7 +339,7 @@ Oleg wrote, moved his lips, and wrote again.
 
 — So when it learns it has no stick, and when it has a stick it does not learn.
 
-— The stick and the lesson are in different rooms. That is how it was when the talking ones appeared. It is being mended from several sides at once.
+— The stick and the lesson are in different rooms. That is how it was when the talking machines appeared. It is being mended from several sides at once.
 
 — Go on.
 
@@ -347,7 +347,7 @@ Oleg wrote, moved his lips, and wrote again.
 
 — A stick an arm long.
 
-— And growing. One laboratory measures how long a piece of work such a machine carries through with nobody leading it by the hand. In November 2026 [it wrote](https://metr.org/blog/2026-11-20-q4-2026-capability-update/): work that takes a person about a day, and the length doubles in something under four months. Their margins of error are enormous, and they say so themselves.
+— And growing. One laboratory measures how long a piece of work such a machine carries through with nobody leading it by the hand. In November 2026 the laboratory [wrote](https://metr.org/blog/2026-11-20-q4-2026-capability-update/): the machine now manages work that takes a person about a day, and the length doubles in something under four months. Their margins of error are enormous, and they say so themselves.
 
 — And how does it walk, when it is let out of the basket?
 
@@ -367,7 +367,7 @@ Oleg wrote, moved his lips, and wrote again.
 
 — And the hands?
 
-— Slowly. At the end of 2025 there were [five million robots](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally) at work in the world's factories, nearly all of them arms bolted to the floor that repeat one movement. Of the two-legged ones something over twenty-two thousand [were shipped](https://counterpointresearch.com/en/insights/global-humanoid-robot-shipments-soar-nearly-300-percent-yoy-in-h1-2026) in the first half of 2026, by one count, and more than six in ten of those went to shows, to research and to the gathering of data. Factories took about one in eight.
+— That is the third side, and it goes slowly. At the end of 2025 there were [five million robots](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally) at work in the world's factories, nearly all of them arms bolted to the floor that repeat one movement. Of the two-legged ones something over twenty-two thousand [were shipped](https://counterpointresearch.com/en/insights/global-humanoid-robot-shipments-soar-nearly-300-percent-yoy-in-h1-2026) in the first half of 2026, by one count, and more than six in ten of those went to shows, to research and to the gathering of data. Factories took about one in eight.
 
 — They dance at exhibitions.
 
@@ -391,7 +391,7 @@ Oleg wrote, moved his lips, and wrote again.
 
 — They fell for one another.
 
-— [The third road.](45-lamarck-was-right.md) A stick with four thousand ends, and what one end finds, all of them know. The cars with no driver are taught the same way, only on real streets: by the middle of 2026 those of one company [had driven](https://waymo.com/safety/impact/) two hundred and seventy million miles with nobody at the wheel, and what one of them meets is in all of them after the next update.
+— [The third road](45-lamarck-was-right.md), the copy. A stick with four thousand ends, and what one end finds, all of them know. The cars with no driver are taught the same way, only on real streets: by the middle of 2026 those of one company [had driven](https://waymo.com/safety/impact/) two hundred and seventy million miles with nobody at the wheel, and what one of them meets is in all of them after the next update.
 
 — Hold on. A drawn yard. In a drawn yard the mud is drawn as well. That is my dream again: floor wherever I put the stick.
 
@@ -399,7 +399,7 @@ Oleg wrote, moved his lips, and wrote again.
 
 — A casting cools for as long as it cools. And nine women in one month, as our chief engineer used to say...
 
-— Do not bear a child. The stick moves at the speed of the world and not of the chip. That is why of [my three needles](27-scenario-of-events.md) the hands are the slowest, and why I count in decades. But a thousand castings poured at once cool no more slowly than one. And what they teach is learned once, for every head there is.
+— Do not bear a child. The stick moves at the speed of the world and not of the chip. That is why of [the three needles I watch](27-scenario-of-events.md) the needle of the hands is the slowest, and why I count in decades. But a thousand castings poured at once cool no more slowly than one. And what they teach is learned once, for every head there is.
 
 — And until then? — Oleg looked at his hands, as he had the evening before. — Who does its poking?
 
@@ -451,7 +451,7 @@ He put the twenty-sixth tick.
 
 Oleg got up, whistled to the dog and took the stick. At the edge of the light he stopped.
 
-— One thing will not fit. The stick tells me about a root when I am already on it. Every root I hit on the way here I remember. Of those on the way back, not one. And in the autumn you told me that [tomorrow is already there](17-global-determinism.md), like a page in a printed book. It has been in the notebook since the electron. Why do I remember yesterday's supper and not tomorrow's?
+— One thing will not fit. The stick tells me about a root when I am already on it. Every root I hit on the way here I remember. Of those on the way back, not one. And in the autumn you told me that [tomorrow is already there](17-global-determinism.md), like a page in a printed book. It has been in the notebook since the evening about the electron. Why do I remember yesterday's supper and not tomorrow's?
 
 — What was for supper yesterday?
 
@@ -459,7 +459,7 @@ Oleg got up, whistled to the dog and took the stick. At the edge of the light he
 
 — And tomorrow?
 
-— How should I know? Whatever she makes.
+— How should I know? Whatever my wife makes.
 
 — That is for tomorrow.
 

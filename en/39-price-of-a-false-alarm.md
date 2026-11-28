@@ -145,7 +145,7 @@ Oleg was silent for a while.
 
 — Lyuda and Vovka. The twelfth of April, Cosmonautics Day. The whole school thought it a marvel.
 
-— You counted the chance that somebody shares a birthday with you. Nobody asked about you. Any two. How many pairs can be made of thirty people?
+— You counted the chance that somebody shares a birthday with you. Nobody asked about you. The question was about any two. How many pairs can be made of thirty people?
 
 — Thirty by twenty-nine, halved. Four hundred and thirty-five.
 
@@ -355,7 +355,7 @@ Andrey took the frying pan off the coals and held it up between the fire and the
 
 — So everything is explained.
 
-— No. Everything is a list. Seven in ten on the horse and the two cocks together. Two on a generous count. One I leave to what I can't name. And the shadow isn't on the list at all.
+— No. All I have is a list. Seven in ten on the horse and the two cocks together, that is, on the hint and the common cause. Two on our having counted generously. One I leave to what I can't name. And the shadow isn't on the list at all.
 
 — That is not an answer.
 
@@ -403,11 +403,11 @@ Oleg turned the pencil in his fingers.
 
 — The same arithmetic. Whoever looks for links among many things on few examples will find links that are not there. It doesn't matter what he is made of.
 
-— But it has no snake. What is it afraid of?
+— But the machine has no snake. What is it afraid of?
 
-— I don't know that it is afraid of anything, and I don't claim it. It has prices. While it learns, it is rewarded for every link that fits the exercise book. A false link that fits is paid exactly like a true one, and the bill comes later, on other photographs. And the talking ones: in 2025 the makers of one of them [wrote out](https://arxiv.org/abs/2509.04664) why it invents an answer instead of saying "I don't know". In the exams "I don't know" gets nought, and a guess sometimes gets a point.
+— I don't know that it is afraid of anything, and I don't claim it. It has prices. While it learns, it is rewarded for every link that fits the exercise book. A false link that fits is paid exactly like a true one, and the bill comes later, on other photographs. And the talking machines: in 2025 the makers of one of them [wrote out](https://arxiv.org/abs/2509.04664) why it invents an answer instead of saying "I don't know". In the exams "I don't know" gets nought, and a guess sometimes gets a point.
 
-— An answer missed costs a point, an answer invented costs nothing. — Oleg slapped the notebook. — The snake and the minute. So that is where my book with the author, the year and the publisher came from.
+— An answer missed costs a point, an answer invented costs nothing. — Oleg slapped the notebook. — The snake and the minute. So that is where the book the chatbot made up for me came from, with the author, the year and the publisher.
 
 — Only this time the prices were set by us, not by the grass.
 
@@ -440,12 +440,12 @@ He put a seventh tick beside the six.
 — Let's finish for today by fixing the result, — said Andrey.
 
 1. **A prophetic dream is arithmetic counted from oneself. For one man it is a rare thing, one chance in sixty in thirty years; in the country it happens to a hundred and fifty people every morning. The dreams that did not come true are written off the same night, so memory keeps an income column and no expense column.**
-2. **The correlator is tuned for false alarms: a regularity missed cost a life, one invented cost a minute. Superstition is the price of the ability to learn, and it is paid by whatever learns on unequal prices: the pigeon, the horse's master, the machine.**
+2. **The correlator, the part of the mind that links one thing with another, is tuned for false alarms: a regularity missed cost a life, one invented cost a minute. Superstition is the price of the ability to learn, and it is paid by whatever learns on unequal prices: the pigeon, the horse's master, the machine.**
 3. **The honest answer to the unexplained: write it down before the phone rings, estimate the probability and leave the line open. "Not explained" does not mean "inexplicable", and "chance is enough" does not mean "it was chance".**
 
 — And what is solid here, and what is yours?
 
-— Solid: the pairs of birthdays, the screw of the detector, the stamp on the horse photographs, the flu counted twice over. Argued about: what the pigeon really links. Yours: the three hundred, the one in seventy and the hundred and fifty every morning; they give the order and no more. Mine: that our omens and the machine's stamps are one and the same tilt. I believe so; I haven't proved it. And open: the shadow. And your Genka, until the notebook is full.
+— Solid: the pairs of birthdays, the screw of the detector, the stamp on the horse photographs, the flu counted twice over. Argued about: what the pigeon really links. Yours: the three hundred, the one in seventy and the hundred and fifty every morning; they give the order and no more. Mine: that our omens and the machine's stamps are one and the same tilt towards the false alarm. I believe so; I haven't proved it. And open: the shadow. And your Genka, until the notebook is full.
 
 — Gloomy, — said Oleg. — I had one miracle, and you divided it by sixty.
 

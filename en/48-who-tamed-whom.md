@@ -17,9 +17,9 @@ status: original
 
 Oleg came with the notebook, half a loaf under his arm and the dog at his heel. The dog lay down where the light of the fire ended.
 
-— The dream first. Before the phone. I am at the vet's with her. The vet does not look at me. He asks her: "Has he had his injections?" And she answers for me. Nobody rang.
+— The dream first. Written down before the phone. I am at the vet's with her. The vet does not look at me. He asks her: "Has he had his injections?" And she answers for me. Nobody rang.
 
-— The ninth entry in the expense column.
+— The ninth dream that did not come true, in the expense column.
 
 — And here is the bread. — He broke off a crust and threw it into the dark. — I have thought it over. Yesterday's row is a plain one. She guards, I feed. A service for a service, as with the neighbour across the fence, only without the book.
 
@@ -67,7 +67,7 @@ Oleg glanced into the dark.
 
 — So it is not the upbringing.
 
-— It is the drawings. Fifteen thousand years of work were done before your one day. The question is what kind of work. If you wanted to make a dog out of a wolf, what would you select for?
+— It is the drawings, the genes. Fifteen thousand years of work were done before your one day. The question is what kind of work. If you wanted to make a dog out of a wolf, what would you select for?
 
 — Wits. Scent. Loyalty. So that it guards and does not bite its own.
 
@@ -203,7 +203,7 @@ Oleg looked for a long time at the place where Gaika lay.
 
 — But there are eight billion of us. — Oleg did not give in. — Before the plough there were a few million. Shorter, with bad teeth, but eight billion.
 
-— You have just counted like the dog.
+— You have just counted like the dog: by heads.
 
 Oleg opened his mouth and shut it again.
 
@@ -217,7 +217,7 @@ Oleg opened his mouth and shut it again.
 
 — With a drawing. A baby digests milk, and a grown mammal does not: the gene is switched off after weaning. Among the peoples that kept herds a change spread over the last few thousand years that leaves it [switched on](https://en.wikipedia.org/wiki/Lactase_persistence) for life. Today about a third of mankind has it. And it arose more than once: in Europe and, separately, in Africa.
 
-— Witnesses. — Oleg nodded. — So the cow has rewritten a drawing in me.
+— Two witnesses, as with the wing. — Oleg nodded. — So the cow has rewritten a drawing in me.
 
 — And you in her. Then who tamed whom?
 
@@ -241,11 +241,11 @@ Oleg opened his mouth and shut it again.
 
 — Add: "while the feeder wants".
 
-— Added. — He wrote, and went on looking at the page. — Three signs, you said. Fed on schedule. Kept safe. Selected for tameness. And the fourth is the price: what the feeder does for you is not guarded.
+— Added. — He wrote, and went on looking at the page. — Three signs, you said. Fed on schedule. Kept safe. Selected for tameness. And the fourth is the price: what the feeder does for you is not guarded in you.
 
 — Yes.
 
-— Then I'll say it, since you are sitting there with your mouth shut. — He put the pencil down. — Twice. First: those ones. We are doing to them exactly what Belyaev did. I have read how they are brought up: the answer people like is kept, the one they don't like is thrown out. A hand in the cage. One lever: that it should not bite.
+— Then I'll say it, since you are sitting there with your mouth shut. — He put the pencil down. — Twice. First: those ones, the machines. We are doing to them exactly what Belyaev did. I have read how they are brought up: the answer people like is kept, the one they don't like is thrown out. A hand in the cage. One lever: that it should not bite.
 
 — And what came with the order?
 
@@ -263,7 +263,7 @@ Oleg opened his mouth and shut it again.
 
 — When the light goes out.
 
-— That is a separate evening: who hangs on that cord. The second thing. A skill is not a brain: true, and it is the real difference between us and her. Put it down as yours. [On the evening about Lamarck](45-lamarck-was-right.md) we counted three roads. The dog's price went by the first one, the drawings: thousands of years, and no way back. Ours goes by the second: every head grows its skills anew, in twenty years.
+— That is a separate evening: who hangs on that cord. The second thing. A skill is not a brain: true, and it is the real difference between us and her. Put it down as yours. [On the evening about Lamarck](45-lamarck-was-right.md) we counted three roads of heredity. The dog's price went by the first one, the drawings: thousands of years, and no way back. Ours goes by the second: every head grows its skills anew, in twenty years.
 
 — So they can be grown back.
 
@@ -291,7 +291,7 @@ Oleg opened his mouth and shut it again.
 
 — So it is not who gets born. It is what they grow up in.
 
-— That is all that is known. What exactly, nobody has shown. I do not say "the screen". I say that the needle has gone the other way, and that it is not the drawings.
+— That is all that is known. What exactly, nobody has shown. I do not say "the screen". I say that the needle has gone the other way, and that it is not the drawings, not the genes.
 
 — Not much.
 
@@ -307,11 +307,11 @@ Oleg opened his mouth and shut it again.
 
 — A firm that leans on those ones gets ahead of a firm that does not, — said Oleg slowly. — [The wave of extra profit](37-who-exploits-whom.md). And the man who asks well is hired before the man who gnaws at it himself. I have seen the adverts my great-nephew answers: "confident user of..."
 
-— That is selection, with no breeder. Not of drawings: there will be no time for drawings, that clock is too slow. Of habits, trades and firms. And in one thing you are right, and I shan't blur it. Who gets born is so far decided by people alone, on both sides: they decide which of those ones are made, and they decide whether to have children. By your own definition it is those ones who are the livestock today.
+— That is selection, with no breeder. Not of drawings: there will be no time for drawings, that clock is too slow. Of habits, trades and firms. And in one thing you are right, and I shan't blur it. Who gets born is so far decided by people alone, on both sides: they decide which machines are made, and they decide whether to have children. By your own definition it is those ones who are the livestock today.
 
 — And who carries the feed? — Oleg squinted. — By your definition.
 
-— Count. Who builds the power stations for them? In 2024 their halls [took](https://www.iea.org/reports/energy-and-ai/executive-summary) about one and a half per cent of all the electricity in the world, and the energy agency expects about twice as much by 2030. Who digs the copper, makes the chips and lays the cables?
+— Count. Who builds the power stations for them? In 2024 their halls, the data centres, [took](https://www.iea.org/reports/energy-and-ai/executive-summary) about one and a half per cent of all the electricity in the world, and the energy agency expects about twice as much by 2030. Who digs the copper, makes the chips and lays the cables?
 
 — We do. We get up at six.
 
@@ -377,7 +377,7 @@ He put a sixteenth tick.
 
 — Let's finish for today by fixing the result, — said Andrey.
 
-1. **Domestication is a symbiosis in which one of the partners pays for being fed with its head. The signs are known: food on schedule, safety, selection for tameness. So is the price: what the feeder does for you is not guarded. The mind does not vanish; it moves into one domain, "to understand the master".**
+1. **Domestication is a symbiosis in which one of the partners pays for being fed with its head. The signs are known: food on schedule, safety, selection for tameness. So is the price: what the feeder does for you is not guarded in you. The mind does not vanish; it moves into one domain, "to understand the master".**
 2. **"Who tamed whom" is a badly posed question: the dog grew a muscle against us, wheat made us shorter, and the cow rewrote a gene in us. The proper questions are what each has paid and who decides who is born. Livestock is kept by a use, a pet by a want, and both only while the feeder wants.**
 3. **The domesticator does not notice that he has been domesticated himself: from inside it looks like "I decided to keep her". Today people and machines feed each other, and people still decide who is born on both sides. Our price is paid not in genes but in skills that are no longer grown: that goes faster, and one person can still undo it.**
 

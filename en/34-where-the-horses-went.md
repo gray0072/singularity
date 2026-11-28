@@ -123,7 +123,7 @@ Oleg looked at the phone again.
 
 — And these, from the riding club? They are alive and well, and not cheap at all.
 
-— In 2023 there were [6.65 million horses](https://horsecouncil.org/economic-impact-study/) in America. Twice as many as at the bottom.
+— In 2023 there were [6.65 million horses](https://horsecouncil.org/economic-impact-study/) in America. Twice as many as at the lowest point, the bottom.
 
 — Doing what?
 
@@ -135,7 +135,7 @@ Oleg looked at the phone again.
 
 — What was a tool has become a treat.
 
-— A want. And today's horse lives better than its great-grandmother, by the way. Nobody whips it uphill with a cart of coal. It has a rug for the winter and a doctor of its own.
+— A want, in our terms. And today's horse lives better than its great-grandmother, by the way. Nobody whips it uphill with a cart of coal. It has a rug for the winter and a doctor of its own.
 
 — Those that exist.
 
@@ -157,7 +157,7 @@ Oleg closed the notebook and squinted at Andrey.
 
 — And they'd have been right.
 
-— For a hundred years. The steam engine took the neighbouring job, the long haul, and the horse's own job grew. Then came a motor that was small, needed no rails and went wherever a horse goes. That one took the horse's own job. It was the same with the [bank tellers](24-last-profession.md) in autumn: the cash machine added branches, and the phone took away the visit to the bank.
+— For a hundred years. The steam engine took the neighbouring job, the long haul, and the horse's own job grew. Then came a motor that was small, needed no rails and went wherever a horse goes. That one took the horse's own job. It was the same with the [bank tellers](24-last-profession.md) we talked about in autumn: the cash machine added branches, and the phone took away the visit to the bank.
 
 — And the retraining?
 
@@ -203,7 +203,7 @@ Andrey took a stick and drew a level line in the ash, and above it a line that s
 
 — But somebody still owns it. A human.
 
-— Somebody does. So ownership protects the owner, and "people own the machines" breaks into questions: which people, how many of them are left, and why what is owned gathers in fewer and fewer hands. About the vote we spoke in autumn: it weighs something while the voter holds something that is needed. I won't close this tonight, Oleg. Of everything in which a human differs from a horse, ownership is the one thing I can't brush aside, and it deserves more than the tail of an evening.
+— Somebody does. So ownership protects the owner, and "people own the machines" breaks into questions: which people, how many of them are left, and why what is owned gathers in fewer and fewer hands. About the vote we spoke in autumn: it weighs something while the voter holds something that others need. I won't close this tonight, Oleg. Of everything in which a human differs from a horse, ownership is the one thing I can't brush aside, and it deserves more than the tail of an evening.
 
 — Then I'm writing it down. — Oleg opened the notebook. — "Who owns the tractor." And separately: "Why money goes to money."
 
@@ -229,7 +229,7 @@ Oleg turned to the last page and put a second tick beside the word "again".
 
 — Let's finish for today by fixing the result, — said Andrey.
 
-1. **The horse was not sacked and not slaughtered: people stopped breeding it. Nobody decided that. Each farmer compared the price of a grown horse with the cost of raising a foal. The displacement of a carrier goes through births.**
+1. **The horse was not sacked and not slaughtered: people stopped breeding it. Nobody decided that. Each farmer compared the price of a grown horse with the cost of raising a foal. The displacement of a carrier, the former worker, goes through births.**
 2. **It takes decades and goes in steps. For a hundred years the steam engine added work for the horse, until a motor came that did the horse's own job. From the peak to the bottom took forty years, two working lives of a horse.**
 3. **What remains is not emptiness but a luxury. A tool became a want: today's horse is kept for love and for status by those who can afford it, one for every fifty people where there used to be one for every four.**
 

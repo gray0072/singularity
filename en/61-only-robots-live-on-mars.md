@@ -21,11 +21,11 @@ Oleg came late, when the reddish point had already climbed over the firs. Gaika 
 
 — The railway station. I put the suitcase into the carriage, step down for a pie, and the train goes. The suitcase has left for the sea, and I am standing on the platform in my slippers. Nobody rang.
 
-— The twenty-second entry. And the box?
+— The twenty-second dream that did not come true, in the expense column. And the letter box?
 
-— Empty. — Oleg sat down and pointed over the firs with the notebook. — Now that one. Yesterday you said: somebody is there, and no people. Who?
+— Empty. — Oleg sat down and pointed over the firs with the notebook. — Now that one, the reddish one. Yesterday you said: somebody is there, and no people. Who?
 
-— Count them. On the ground, two: one has been driving since August 2012, the other since February 2021. Overhead, [six more go round](https://en.wikipedia.org/wiki/List_of_missions_to_Mars), if all of them still answer. One fell silent last December and was written off in the summer.
+— Count them. On the ground, two rovers: one has been driving since August 2012, the other since February 2021. Over their heads [six more go round](https://en.wikipedia.org/wiki/List_of_missions_to_Mars), satellites, if all of them still answer. One fell silent last December and was written off in the summer.
 
 — Eight.
 
@@ -37,7 +37,7 @@ Oleg came late, when the reddish point had already climbed over the firs. Gaika 
 
 Oleg wrote it down.
 
-— And my question is yesterday's. Calculating is theirs, agreed. But going, standing on the spot, sticking in a flag: that is ours. In the spring four of ours flew round the Moon. I watched it with my great-nephew, the whole of it.
+— And my question is yesterday's. Calculating is the machines' business, agreed. But going, standing on the spot, sticking in a flag: that is ours. In the spring four of ours flew round the Moon. I watched it with my great-nephew, the whole of it.
 
 — How far did they go?
 
@@ -93,7 +93,7 @@ Oleg wrote it down.
 
 — Over a hundred tonnes a head. — Oleg whistled. — For a hundred kilos of man with his boots.
 
-— Now the same list for the one with the sore throat.
+— Now the same list for the rover with the sore throat.
 
 — Air, no. Water, no. Food... what does it eat?
 
@@ -107,7 +107,7 @@ Oleg was silent.
 
 — Nobody bought it one, — he said at last. — And nobody called that cruelty.
 
-— One of the earlier ones was built for ninety days. It worked five thousand one hundred and eleven. When there is nothing to do, such a thing is told to sleep, and it sleeps for a month and spends almost nothing. Try that with a crew.
+— One of the earlier rovers was built for ninety days. It worked five thousand one hundred and eleven. When there is nothing to do, such a thing is told to sleep, and it sleeps for a month and spends almost nothing. Try that with a crew.
 
 ![What the road asks for, a table in the ash with two columns, a man and a machine: air, about a kilogram of oxygen a day against none; water and food, about four litres a day and a plant to turn them round against a lump of plutonium giving 110 watts; the dose on the road there and back, 0.66 sievert against a career limit of 0.6, while the machine minds it less; waiting, where a man eats and breathes every day and a machine sleeps for a month; the way back, which a man must have and a machine does not; and the sum, from 825 to 1,250 tonnes in orbit for six people against one tonne for one rover](../images/what-the-road-asks-for.svg)
 
@@ -171,7 +171,7 @@ Oleg was silent.
 
 — Nine tenths of the moves. And last December, twice, the road itself, which people had always drawn, [was drawn](https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/) by somebody else: from pictures taken by one of the six overhead. Two drives, four hundred and fifty-six metres.
 
-— Don't tell me. One of those.
+— Don't tell me. One of those, the talking machines.
 
 — You named them. Now count the line as we counted yesterday. Who wanted?
 
@@ -211,7 +211,7 @@ Oleg threw a branch into the fire.
 
 — People are born... I don't know. A lot.
 
-— Born, [three hundred and sixty-three thousand](https://ourworldindata.org/grapher/births-and-deaths-projected-to-2100) a day this year, by the count of the United Nations. Dying, a hundred and seventy-four thousand. The difference?
+— Born, [three hundred and sixty-three thousand](https://ourworldindata.org/grapher/births-and-deaths-projected-to-2100) a day this year, by the estimate of the United Nations. Dying, a hundred and seventy-four thousand. The difference?
 
 — A hundred and eighty-nine thousand. A day?
 
@@ -263,7 +263,7 @@ Oleg leafed through the notebook, back and forth.
 
 — And what did they forget up there?
 
-— You tell me. On [the evening without a socket](51-week-without-a-socket.md) we counted what such a barn wants.
+— You tell me. On [the evening without a socket](51-week-without-a-socket.md) we counted what such a barn, a data centre, wants.
 
 — A socket. And a river to cool it.
 
@@ -291,7 +291,7 @@ Oleg leafed through the notebook, back and forth.
 
 — A haiku. For that money.
 
-— The first steam engine pumped water out of one mine. Look at something else. In 2012 a reader wrote to the author: why should it build its solar panels on the Earth; it would do far better to spread out in space. That was a guess. Now there are permits with dates.
+— The first steam engine pumped water out of one mine. Look at something else. In 2012 a reader wrote to the author: why should the technosphere build its solar panels on the Earth; it would do far better to spread out in space. That was a guess. Now there are permits with dates.
 
 — And who is asking for them? People. For money.
 
@@ -301,19 +301,19 @@ Oleg leafed through the notebook, back and forth.
 
 — On the ground. Up there, hands do not reach from the first day. Whatever lives there has either to mend itself or be made so that it can be thrown away. Orbit is the first workshop where the second number is nought from the start. That is why I would watch it. Not for the haiku.
 
-— Then here is mine, and I have carried it since spring. — Oleg put the notebook down and leaned forward. — Wonderful. Let it go. It needs neither air nor water. It has the whole sky, a sun without night, stones without end. And we stay here. To each his own. Under your eleventh article a man wrote exactly that, and nobody answered him: something cleverer than us will simply leave. Leave the Earth to us.
+— Then here is my objection, and I have carried it since spring. — Oleg put the notebook down and leaned forward. — Wonderful. Let it go. It needs neither air nor water. It has the whole sky, a sun without night, stones without end. And we stay here. To each his own. Under your eleventh article a man wrote exactly that, and nobody answered him: something cleverer than us will simply leave. Leave the Earth to us.
 
 — In 2015, and nobody did. The same thing was put to the author in 2012, under [the apoptosis](14-apoptosis-of-humanity.md), and that time he answered. It will build where it sees fit, in space if it likes. But building takes material, and at the beginning the material is only here. And until it has grown to the size of space it will grow on the Earth, for a simple reason: it has been growing here already, for about a million years.
 
 — "At the beginning." And afterwards?
 
-— Afterwards is your row, and you wrote it yourself. Read me the first one.
+— Afterwards is a row of your table of fates, and you wrote it yourself. Read me the first one.
 
 Oleg found the page.
 
 — "A niche: kept everything, paid with the planet."
 
-— [The former masters of the air](38-oxygen-was-a-poison.md) got the silt. Why the silt?
+— [The former masters of the air](38-oxygen-was-a-poison.md), the bacteria to which oxygen is a poison, got the silt. Why the silt?
 
 — Because the new ones do not go there. They have no use for it.
 
@@ -329,7 +329,7 @@ Oleg found the page.
 
 — Dry. Cold. — Oleg thought. — Almost no air. A clean, dry workshop. Ninety days, and it worked fourteen years.
 
-— And it was killed by a dust storm that shut out the Sun. I am not saying paradise. I am saying that "a habitable planet" is yesterday's word again.
+— And it was killed by a dust storm that shut out the Sun. I am not saying paradise. I am saying that "a habitable planet" is again a word like yesterday's "understandable".
 
 — Habitable for whom.
 
@@ -383,7 +383,7 @@ Oleg laughed, not very merrily.
 
 — Then fly. Only do not call it settling.
 
-— Marks, — said Oleg. — Yesterday there were two.
+— Marks, the forecasts with dates, — said Oleg. — Yesterday there were two.
 
 — Two again. The first is mine. By the autumn of 2036 the population of Mars is as it is tonight: machines only. Nine to one.
 

@@ -19,9 +19,9 @@ Oleg came at dusk with the dog, the notebook and his phone, and laid the phone o
 
 — Dead since noon. The dream first, I wrote it before the phone, while the phone was still alive. The plant, the substation. On the wall a knife switch the size of a door. The foreman shouts "cut it", I hang on the handle with both hands, it comes down, and the light goes out in my grandmother's house. Nobody rang.
 
-— The twelfth entry in the expense column. From noon the instrument was off; the afternoon does not count.
+— The twelfth dream that did not come true, in the expense column. From noon the phone was off; the afternoon does not count.
 
-— A day without light, — said Oleg. — The dispatcher says a birch is lying on the line by the pumping station, and a crew will come tomorrow by dinner. Two days for one birch. — He sat down. — And that is my answer to all your evenings. Sixteen years you have told me how it grows, how it creates value, how it goes its own way. A wind blew, and it is lying on its back. If need be, we pull the plug, and that's that.
+— A day without light, — said Oleg. — The dispatcher says a birch is lying on the line by the pumping station, and a crew will come tomorrow by dinner. Two days for one birch. — He sat down. — And that is my answer to all your evenings. Sixteen years you have told me how your technosphere grows, how it creates value, how it goes its own way. A wind blew, and it is lying on its back. If need be, we pull the plug, and that's that.
 
 — Let's first count who hangs on that cord. Begin with yourself. What have you been without today?
 
@@ -43,7 +43,7 @@ Gaika, where the light of the fire ended, sighed with her whole belly.
 
 — Third: the shop. The card machine is dead. Zina sells for cash, and I had three hundred roubles on me. So she got a school exercise book out from under the counter and wrote me down. "Oleg, plot forty, bread, candles, two hundred and fifteen."
 
-— The book. Between one's own.
+— The book of debts. Between one's own.
 
 — I thought of you. The terminal dies, and in a minute the clay tablets of [your Uruk](47-money-as-memory.md) come out from under the counter. Fourth: my neighbour's generator. It roared till noon and ran dry. He drove to the filling station on the highway. The station hangs on the same line. Ten tonnes of petrol under his feet, and the pump is electric. He came back empty.
 
@@ -177,9 +177,9 @@ Oleg did not answer.
 
 — Fair, and the counts do differ. The forty-eight percent is for the table as it is laid today. On a lean table, with every scrap carried back to the field, the old turnover feeds more than four. But then you are taking away from everybody not the socket but the dinner, and by the mildest count you still subtract billions. And I have counted nitrogen alone. The tractor, the pump and the lorry I left running.
 
-— So this is why you never called for smashing it.
+— So this is why you never called for smashing the machines.
 
-— It is a debt of [the fifth evening](05-artificial-intelligence.md). In 2011 a reader sent me a film that called for destroying the machines, and I answered that it was useless, and promised to explain why. I had only half an explanation then: what is the sense of blowing up the iron if you go on using what it makes, the clothes, the shoes, the bread, the paper. Here is the other half. It is not outside us, standing against us. A kilogram of you is it. When [we subtracted](12-value-shares.md) the machines from a loaf, the loaf cost nearly three times the labour. Subtract them from everybody at once, and what is subtracted is people.
+— It is a debt of [the fifth evening](05-artificial-intelligence.md). In 2011 a reader sent me a film that called for destroying the machines, and I answered that it was useless, and promised to explain why. I had only half an explanation then: what is the sense of blowing up the iron if you go on using what it makes, the clothes, the shoes, the bread, the paper. Here is the other half. The technosphere is not outside us, standing against us. A kilogram of you is it. When [we subtracted](12-value-shares.md) the machines from a loaf, the loaf cost nearly three times the labour. Subtract them from everybody at once, and what is subtracted is people.
 
 — Some did try. The ones with the hammers.
 
@@ -215,7 +215,7 @@ Oleg did not answer.
 
 — We had that at the plant. — Oleg grunted. — The warehouse program fell over. Two days the shops stood with a full warehouse: nobody knew what lay where. The storekeeper who had kept it all on cards had retired, and the cards went for scrap paper the year before.
 
-— Not taken away. [Not guarded.](42-swallowed-bacterium.md) Who hung the warehouse on the program?
+— Nobody took the cards away. [They were not guarded.](42-swallowed-bacterium.md) Who hung the warehouse on the program?
 
 — The chief accountant. It was cheaper than three storekeepers.
 
@@ -223,7 +223,7 @@ Oleg did not answer.
 
 Andrey threw two branches into the fire.
 
-— And now look at your sentence again. "We pull." You came [yesterday](50-what-is-the-it.md) with a "who" and a hand. Who was switched off in your association this spring?
+— And now look at your sentence again. "We pull." You left [yesterday](50-what-is-the-it.md) with a "who" and a hand. Who was switched off in your association this spring?
 
 — The Kuzmins. For debts. — Oleg frowned. — What has that to do with it?
 
@@ -275,7 +275,7 @@ Andrey threw two branches into the fire.
 
 — And everybody watches whether it has got cleverer.
 
-— It is the wrong gauge. A clever machine that needs Tolik is a partner. The thing to watch is the second number.
+— It is the wrong gauge. A clever machine that needs Tolik is a partner. The thing to watch is the second number: for how long it will go on needing our hands.
 
 ![Table with two rows, people and the technosphere, and two questions. How long does it last if the other is taken away: people, days for a town and a season for half of mankind; the technosphere, days for the grids and years for the chips. For how long will it go on needing the other: people, with no end in sight, and the term grows; the technosphere, decades, and the term shrinks](../images/two-sided-switch.svg)
 
@@ -299,7 +299,7 @@ Oleg was silent for a while.
 
 — I can shoe one. — Oleg smirked. — [In a dream.](45-lamarck-was-right.md)
 
-— And would you go?
+— And would you go and live so?
 
 — After one day with two buckets? — He looked towards the settlement, where it was dark. — No. I shall wait for Tolik.
 

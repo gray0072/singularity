@@ -19,7 +19,7 @@ Oleg came with the dog, the notebook and a garden wheelbarrow, and the wheelbarr
 
 — The dream first. The school library. I hand in a book, the librarian opens it at the back, where the little pocket is, and says: "This was due back in 1978. There is a fine." I look at the cover, and it is my own notebook. Nobody rang.
 
-— The eighteenth entry in the expense column. And the letter from the court?
+— The eighteenth dream that did not come true, in the expense column. And the letter from the court?
 
 — "Wait for a letter" means wait for a letter. — Oleg tipped the birch logs out by the fire and turned the wheelbarrow upside down, wheel in the air. — There. You wanted a wheel. I pushed it all the way here and thought about whom I owe.
 
@@ -77,7 +77,7 @@ Oleg came with the dog, the notebook and a garden wheelbarrow, and the wheelbarr
 
 — Everybody pays everybody. That has a shorter name: nobody pays, and the wheel is cheap. Your dividend was paid out twenty minutes ago. Five walks.
 
-— That is a trick with arithmetic. Give me a nearer one, with a name.
+— That is a trick with arithmetic. Give me a nearer example, with a name.
 
 — In a moment. First: was it he who thought of it? What does a wheel do?
 
@@ -87,7 +87,7 @@ Oleg came with the dog, the notebook and a garden wheelbarrow, and the wheelbarr
 
 — So I pay the beetle.
 
-— [The spade's turn to speak.](02-anthropocentrism.md) Under [the twelfth evening](../sources/garya/sqlru/12-value-shares.md) another reader wanted me to count into the price of a loaf the share of everybody who had ever worked towards it: the suppliers down the chain, and "the Ancients", Aristotle and Archimedes, who got the first knowledge. I asked him why the ancients have to be counted from people. Why not from the apes, from the first creatures with a backbone, from the bacteria? Whoever counts backwards stops on the step where a man appears: the first, the third or the hundredth, so long as there is a man on it.
+— [The spade's turn to speak](02-anthropocentrism.md), as in that first autumn. Under [the twelfth evening](../sources/garya/sqlru/12-value-shares.md) another reader wanted me to count into the price of a loaf the share of everybody who had ever worked towards it: the suppliers down the chain, and "the Ancients", Aristotle and Archimedes, who got the first knowledge. I asked him why the ancients have to be counted from people. Why not from the apes, from the first creatures with a backbone, from the bacteria? Whoever counts backwards stops on the step where a man appears: the first, the third or the hundredth, so long as there is a man on it.
 
 — And where do you stop?
 
@@ -97,7 +97,7 @@ Oleg came with the dog, the notebook and a garden wheelbarrow, and the wheelbarr
 
 — They don't. Then who earned the five walks?
 
-— I did. With the barrow. — Oleg scratched his chin. — [The union.](37-who-exploits-whom.md) The two of us together carry more than the two of us apart, and what is over gets divided.
+— I did. With the barrow. — Oleg scratched his chin. — [The union](37-who-exploits-whom.md), as you called it: me together with the barrow. The two of us together carry more than the two of us apart, and what is over gets divided.
 
 — Between whom?
 
@@ -179,7 +179,7 @@ Oleg pulled a burning twig out of the fire and lit another from it.
 
 — That is the whole difference from your house. Two families cannot live in one house without each of them having less of it.
 
-— I have one of these of my own, come to think of it. Eighty-four, my second year at the plant. I made a template: one go at a casting where the inspector used to take five measurements. A rationalisation proposal. They gave me forty roubles and a certificate.
+— I have a candle like that of my own, come to think of it. Eighty-four, my second year at the plant. I made a template: one go at a casting where the inspector used to take five measurements. A rationalisation proposal. They gave me forty roubles and a certificate.
 
 — By the rules of those years it was counted from the saving of the first year. Only the first. And the template?
 
@@ -209,7 +209,7 @@ Oleg pulled a burning twig out of the fire and lit another from it.
 
 — Hold on. That is a remainder. He subtracted what he could count and gave the rest a name. Our planners had a line like that: "other expenses".
 
-— It is a remainder, and the trade knows it. A year earlier a colleague of his got the same and [called it](https://www.nber.org/system/files/chapters/c5650/c5650.pdf) "some sort of measure of our ignorance". I do not say that the seven eighths are knowledge, weighed on a balance. I say this: when the machines and the hours have been counted, most of the growth is still lying on the table, and what is lying there is whatever makes the same iron and the same hands turn out more. He got the Nobel prize for it. Some thirty years after him another man got one for saying what the remainder is made of: instructions. A design, a recipe, a drawing: once it has been made, it [can be used](https://doi.org/10.1086/261725) "over and over again at no additional cost".
+— It is a remainder, and the trade knows it. A year earlier a colleague of his got the same and [called it](https://www.nber.org/system/files/chapters/c5650/c5650.pdf) "some sort of measure of our ignorance". I do not say that the seven eighths are knowledge, weighed on a balance. I say this: when the machines and the hours have been counted, most of the growth is still lying on the table, and what is lying there is whatever makes the same iron and the same hands turn out more. The first of them got the Nobel prize for it. Some thirty years after him another man got one for saying what the remainder is made of: instructions. A design, a recipe, a drawing: once it has been made, it [can be used](https://doi.org/10.1086/261725) "over and over again at no additional cost".
 
 — The candle again.
 
@@ -241,7 +241,7 @@ Oleg pulled a burning twig out of the fire and lit another from it.
 
 — Knowledge had no owner. It had a carrier, and the carrier had to eat. Everything people knew could work only inside a head and through a pair of hands. So whoever wanted the wheel to roll had to feed the one who pushed. Your grandfather had the same hands as you. Why did you live better than he did?
 
-— Not for my hands. — Oleg thought. — For what had been put into them. School, the trade school, Semyonych. [Twenty years of pouring in.](53-million-mendeleevs.md)
+— Not for my hands. — Oleg thought. — For what had been put into them. School, the trade school, Semyonych. [Twenty years of teaching, of pouring in.](53-million-mendeleevs.md)
 
 — That was your dividend: for the wheel, for steel, for the lathe, for everything worked out before you. It was paid in the only way it could be: as the wage of the one without whom none of it works. Nobody had to own knowledge. It was enough [to be needed](47-money-as-memory.md) for it to work.
 
@@ -251,7 +251,7 @@ Oleg pulled a burning twig out of the fire and lit another from it.
 
 Oleg was silent for a while, turning the wheel.
 
-— Now I'll say it, since you are sitting with your mouth shut again. Those ones. They took the lot in one gulp: Pushkin, the nurse, Archimedes, and my template, if anybody ever scanned the drawing. And now it works without the head and without the hands. That is what the writers went to court about.
+— Now I'll say it, since you are sitting with your mouth shut again. Those ones, the talking machines. They took the lot in one gulp: Pushkin, the nurse, Archimedes, and my template, if anybody ever scanned the drawing. And now it works without the head and without the hands. That is what the writers went to court about.
 
 — Tell me what you read.
 
@@ -271,7 +271,7 @@ Oleg was silent for a while, turning the wheel.
 
 — Is not a price for learning. It is a fine for walking past the till. For learning, by that judge, the price is one copy of the book. The same as for you.
 
-— Then I'll say he is right. — Oleg said it slowly, as if surprised at himself. — Last night I was for the writers. All the way here I was for the man with the wheel. But look. I read Pushkin in the school library and paid nothing. Semyonych taught me for nothing; well, for a bottle on his birthday. Nobody ever sent me a bill for what I learned, and I lived on it for forty years. If I owe nothing, what does that one owe? It is your own test. The spade has had its say.
+— Then I'll say he is right. — Oleg said it slowly, as if surprised at himself. — Last night I was for the writers. All the way here I was for the man with the wheel. But look. I read Pushkin in the school library and paid nothing. Semyonych taught me for nothing; well, for a bottle on his birthday. Nobody ever sent me a bill for what I learned, and I lived on it for forty years. If I owe nothing, what does that machine owe? It is your own test, the mirror one: what I may do, it may do. The spade has had its say.
 
 — The symmetry is honest, and I am not going to wriggle out of it. In the reading there is no difference. There is one after the reading. Two days later, in the same court, another judge [wrote about another maker](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.598.0_2.pdf): using books to teach children to write "is not remotely like" using books to make a product that a single person can employ "to generate countless competing works" with a tiny fraction of the time and creativity it would otherwise take.
 
@@ -341,11 +341,11 @@ Oleg opened the notebook on his knee.
 
 — Why not more? The argument is clean.
 
-— It was clean in 1797 as well. The argument does not decide. [Every freebie has an address where it is paid for](25-freebies-for-everyone.md), and it is paid while those who receive it hold something that the payer needs. The oil cannot leave Alaska. [A heap can leave.](49-yard-sale.md) And what were the writers holding?
+— It was clean in 1797 as well. The argument does not decide. [Every freebie has an address where it is paid for](25-freebies-for-everyone.md), and it is paid while those who receive it hold something that the payer needs. The oil cannot leave Alaska. [A heap of money can leave.](49-yard-sale.md) And what were the writers holding?
 
 — The term. Whatever had not run out.
 
-— The thinnest slice there is: words in their order, from the last hundred years or so. Not Pushkin: he ran out in 1887. Not the nurse. Not the wheel. And the money for that slice goes half to a publisher: [a person without a face](55-person-without-a-face.md), paid by another one. For all the rest there is nothing to hold, and there never was. It was held in another way.
+— The thinnest slice there is: words in their order, from the last hundred years or so. Not Pushkin: he ran out in 1887. Not the nurse. Not the wheel. And the money for that slice goes half to a publisher: a legal person, [a person without a face](55-person-without-a-face.md), paid by another one. For all the rest there is nothing to hold, and there never was. It was held in another way.
 
 — By being needed. — Oleg looked at his hands. — By pushing.
 
@@ -361,11 +361,11 @@ Oleg opened the notebook on his knee.
 
 — We are the man with the wheel now. — Oleg said it quietly. — Thought it all up, and not in the share.
 
-— Not yet. Today those ones cannot put up their own power line after a storm [without Tolik and his chainsaw](51-week-without-a-socket.md), and while that is so the wage is paid. I have only said what the dividend rested on. Not on having thought of it. On being needed for it to work.
+— Not yet. Today those machines cannot put up their own power line after a storm [without Tolik and his chainsaw](51-week-without-a-socket.md), and while that is so the wage is paid. I have only said what the dividend rested on. Not on having thought of it. On being needed for it to work.
 
 — And the coal forest [got nothing at all](52-dinosaurs-at-the-feeder.md).
 
-— The forest did not go to court. We are the first of the former ones who can count what is being taken and name a price for it. That the price came out affordable is not good news. But it is not the last word either. In September 2026 an appeals court, for the first time, [ruled](https://ipwatchdog.com/2026/09/30/third-circuit-affirms-revised-fair-use-ruling-against-ross-ai-legal-research-platform-in-sealed-opinion/) on a machine taught on other people's texts, and against the machine. Only that one was a search tool for lawyers and not one of the talking ones, and the court said so. The newspapers' suit had not been heard when I last looked.
+— The forest did not go to court. We are the first of the planet's former masters who can count what is being taken and name a price for it. That the price came out affordable is not good news. But it is not the last word either. In September 2026 an appeals court, for the first time, [ruled](https://ipwatchdog.com/2026/09/30/third-circuit-affirms-revised-fair-use-ruling-against-ross-ai-legal-research-platform-in-sealed-opinion/) on a machine taught on other people's texts, and against the machine. Only that one was a search tool for lawyers and not one of the talking machines, and the court said so. The newspapers' suit had not been heard when I last looked.
 
 — And what does the law hang on, in the end?
 
@@ -393,7 +393,7 @@ He put the twenty-fifth tick.
 
 Oleg stood the barrow on its wheel, whistled to the dog and stopped.
 
-— One thing I don't believe. It has read everything. All hundred and thirty million, let's say. Every book there is about barrows. Has it ever pushed one? Loaded, downhill, in the wet?
+— One thing I don't believe. That reader of yours has read everything. All hundred and thirty million, let's say. Every book there is about barrows. Has it ever pushed one? Loaded, downhill, in the wet?
 
 — No.
 
