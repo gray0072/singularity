@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="452" viewBox="0 0 760 452" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>How much gratitude gives</title>
+
+<rect x="0.5" y="0.5" width="759" height="451" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">How much gratitude gives</text>
+<text x="28.0" y="62.0" font-size="13" fill="#52514e"><tspan x="28.0" dy="0.0">Pooled results of many experiments, in the statisticians' unit: the gap between the groups</tspan><tspan x="28.0" dy="16.2">divided by the usual spread between people. The bars are the 95% intervals.</tspan></text>
+<line x1="441.1" y1="116.0" x2="441.1" y2="354.0" stroke="#52514e" stroke-width="1.2" stroke-linecap="round"/>
+<text x="441.1" y="108.0" font-size="11.5" fill="#8a8985" text-anchor="middle">nothing</text>
+<text x="441.1" y="370.0" font-size="11" fill="#8a8985" text-anchor="middle">0</text>
+<line x1="502.2" y1="116.0" x2="502.2" y2="354.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="4 4"/>
+<text x="502.2" y="108.0" font-size="11.5" fill="#8a8985" text-anchor="middle">small</text>
+<text x="502.2" y="370.0" font-size="11" fill="#8a8985" text-anchor="middle">0.2</text>
+<line x1="593.8" y1="116.0" x2="593.8" y2="354.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="4 4"/>
+<text x="593.8" y="108.0" font-size="11.5" fill="#8a8985" text-anchor="middle">medium</text>
+<text x="593.8" y="370.0" font-size="11" fill="#8a8985" text-anchor="middle">0.5</text>
+<line x1="685.5" y1="116.0" x2="685.5" y2="354.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="4 4"/>
+<text x="685.5" y="108.0" font-size="11.5" fill="#8a8985" text-anchor="middle">large</text>
+<text x="685.5" y="370.0" font-size="11" fill="#8a8985" text-anchor="middle">0.8</text>
+<text x="28.0" y="145.0" font-size="12.5" fill="#0b0b0b" font-weight="600">well-being, all comparisons</text>
+<text x="28.0" y="161.0" font-size="11" fill="#8a8985">2025: 145 papers, 24,804 people, 28 countries</text>
+<line x1="486.9" y1="147.0" x2="508.3" y2="147.0" stroke="#2a78d6" stroke-width="3" stroke-linecap="round"/>
+<circle cx="499.1" cy="147.0" r="5.5" fill="#2a78d6"/>
+<text x="516.3" y="151.0" font-size="12" fill="#52514e">0.19</text>
+<text x="28.0" y="191.0" font-size="12.5" fill="#0b0b0b" font-weight="600">well-being, against those who only filled in forms</text>
+<text x="28.0" y="207.0" font-size="11" fill="#8a8985">2016: 5 comparisons</text>
+<line x1="453.3" y1="193.0" x2="618.3" y2="193.0" stroke="#2a78d6" stroke-width="3" stroke-linecap="round"/>
+<circle cx="535.8" cy="193.0" r="5.5" fill="#2a78d6"/>
+<text x="626.3" y="197.0" font-size="12" fill="#52514e">0.31</text>
+<text x="28.0" y="237.0" font-size="12.5" fill="#0b0b0b" font-weight="600">well-being, against another task</text>
+<text x="28.0" y="253.0" font-size="11" fill="#8a8985">2016: 20 comparisons</text>
+<line x1="468.6" y1="239.0" x2="514.4" y2="239.0" stroke="#2a78d6" stroke-width="3" stroke-linecap="round"/>
+<circle cx="493.0" cy="239.0" r="5.5" fill="#2a78d6"/>
+<text x="522.4" y="243.0" font-size="12" fill="#52514e">0.17</text>
+<text x="28.0" y="283.0" font-size="12.5" fill="#0b0b0b" font-weight="600">against another exercise with a method in it</text>
+<text x="28.0" y="299.0" font-size="11" fill="#8a8985">2016: 9 comparisons</text>
+<line x1="401.4" y1="285.0" x2="462.5" y2="285.0" stroke="#8a8985" stroke-width="3" stroke-linecap="round"/>
+<circle cx="431.9" cy="285.0" r="5.5" fill="#8a8985"/>
+<text x="470.5" y="289.0" font-size="12" fill="#52514e">−0.03</text>
+<text x="28.0" y="329.0" font-size="12.5" fill="#0b0b0b" font-weight="600">fewer signs of depression</text>
+<text x="28.0" y="345.0" font-size="11" fill="#8a8985">2021: 27 studies, 3,675 people</text>
+<line x1="493.0" y1="331.0" x2="566.3" y2="331.0" stroke="#2a78d6" stroke-width="3" stroke-linecap="round"/>
+<circle cx="529.7" cy="331.0" r="5.5" fill="#2a78d6"/>
+<text x="574.3" y="335.0" font-size="12" fill="#52514e">0.29</text>
+<text x="28.0" y="404.0" font-size="13" fill="#0b0b0b" font-weight="600">Small, real, and no better than any other honest exercise.</text>
+<text x="28.0" y="430.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Choi and others, 2025; Davis and others, 2016; Cregg and Cheavens, 2021 (the sign is turned so that right is better;</tspan><tspan x="28.0" dy="14.4">the interval is two standard errors). “Small, medium, large” is the statisticians' rule of thumb.</tspan></text>
+</svg>

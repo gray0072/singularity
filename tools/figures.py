@@ -6766,6 +6766,147 @@ def robot_god_and_the_card(lang):
     return _pencil_table(t, 760, 500, [150, 346, 540, 736], 62)
 
 
+# --- 65. Two Andreys -----------------------------------------------------------------------------
+
+@figure("a-person-can-stop-mankind-cannot")
+def a_person_can_stop_mankind_cannot(lang):
+    t = {
+        "en": dict(title="A person can stop, mankind cannot",
+                   sub="Two scales of one system, and the two voices that spoke to them.",
+                   head=["one person", "mankind"],
+                   rows=[("can it stop", "the forum, 2013",
+                          ("yes, and it is paid for:\nthe one who stopped falls behind", 0),
+                          ("no: whoever has not stopped\ngains, and the rest follow him", 2)),
+                         ("what a word\ndoes to it", "",
+                          ("one of the causes\nof what he does next", 0),
+                          ("moves no setpoint\nof the whole", 3)),
+                         ("who spoke to it", "",
+                          ("the late pages,\n2023–2025", 4),
+                          ("the blog and the fire,\n2011–2012", 4)),
+                         ("where he stepped\nover the line", "",
+                          ("“if every generation…”:\na hope for mankind", 1),
+                          ("“so I propose nothing”:\na verdict on the person", 1))],
+                   src="The evening's reading. Green: holds on this scale. Red: does not hold. Grey: no effect found.\n"
+                       "Yellow: a conclusion carried from one scale to the other."),
+        "ru": dict(title="Человек может остановиться, человечество — нет",
+                   sub="Два масштаба одной системы и два голоса, которые к ним обращались.",
+                   head=["один человек", "человечество"],
+                   rows=[("может ли\nостановиться", "форум, 2013",
+                          ("да, и за это платят:\nостановившийся отстаёт", 0),
+                          ("нет: кто не остановился,\nтот в выигрыше, и за ним идут", 2)),
+                         ("что с ним\nделает слово", "",
+                          ("одна из причин того,\nчто он сделает дальше", 0),
+                          ("не сдвигает ни одной\nуставки целого", 3)),
+                         ("кто к нему\nобращался", "",
+                          ("поздние страницы,\n2023–2025", 4),
+                          ("блог и костёр,\n2011–2012", 4)),
+                         ("где он переступил\nчерту", "",
+                          ("«если каждое поколение…»:\nнадежда на человечество", 1),
+                          ("«поэтому я ничего не предлагаю»:\nприговор человеку", 1))],
+                   src="Прочтение вечера. Зелёный — на этом масштабе верно. Красный — неверно. Серый — действия не найдено.\n"
+                       "Жёлтый — вывод, перенесённый с одного масштаба на другой."),
+    }[lang]
+    return _pencil_table(t, 760, 440, [200, 468, 736], 66)
+
+
+@figure("how-much-gratitude-gives")
+def how_much_gratitude_gives(lang):
+    t = {
+        "en": dict(title="How much gratitude gives",
+                   sub="Pooled results of many experiments, in the statisticians' unit: the gap between the groups\n"
+                       "divided by the usual spread between people. The bars are the 95% intervals.",
+                   rows=[("well-being, all comparisons", "2025: 145 papers, 24,804 people, 28 countries", 0.19, 0.15, 0.22),
+                         ("well-being, against those who only filled in forms", "2016: 5 comparisons", 0.31, 0.04, 0.58),
+                         ("well-being, against another task", "2016: 20 comparisons", 0.17, 0.09, 0.24),
+                         ("against another exercise with a method in it", "2016: 9 comparisons", -0.03, -0.13, 0.07),
+                         ("fewer signs of depression", "2021: 27 studies, 3,675 people", 0.29, 0.17, 0.41)],
+                   marks=[(0, "nothing"), (0.2, "small"), (0.5, "medium"), (0.8, "large")],
+                   out="Small, real, and no better than any other honest exercise.",
+                   src="Choi and others, 2025; Davis and others, 2016; Cregg and Cheavens, 2021 (the sign is turned so that right is better;\n"
+                       "the interval is two standard errors). “Small, medium, large” is the statisticians' rule of thumb."),
+        "ru": dict(title="Сколько даёт благодарность",
+                   sub="Сводные итоги многих опытов в единицах статистиков: разрыв между группами, делённый\n"
+                       "на обычный разброс между людьми. Полоски — 95-процентные интервалы.",
+                   rows=[("благополучие, все сравнения", "2025: 145 работ, 24 804 человека, 28 стран", 0.19, 0.15, 0.22),
+                         ("благополучие, против тех, кто только заполнял анкеты", "2016: 5 сравнений", 0.31, 0.04, 0.58),
+                         ("благополучие, против другого задания", "2016: 20 сравнений", 0.17, 0.09, 0.24),
+                         ("против другого упражнения, в котором есть метод", "2016: 9 сравнений", -0.03, -0.13, 0.07),
+                         ("меньше признаков депрессии", "2021: 27 исследований, 3675 человек", 0.29, 0.17, 0.41)],
+                   marks=[(0, "ничего"), (0.2, "мало"), (0.5, "средне"), (0.8, "много")],
+                   out="Мало, по-настоящему, и не лучше любого другого честного упражнения.",
+                   src="Чхве и др., 2025; Дэвис и др., 2016; Крегг и Чивенс, 2021 (знак перевёрнут, чтобы «вправо» значило «лучше»;\n"
+                       "интервал — две стандартные ошибки). «Мало, средне, много» — прикидочное правило статистиков."),
+    }[lang]
+    f = Fig(760, 452, t["title"])
+    heading(f, t["title"])
+    f.text(28, 62, t["sub"], size=13, color=INK2)
+    x0, x1, top, row = 380, 716, 124, 46
+
+    def sx(v):
+        return x0 + (x1 - x0) * (v + 0.2) / 1.1
+
+    bottom = top + len(t["rows"]) * row
+    for v, label in t["marks"]:
+        f.line(sx(v), top - 8, sx(v), bottom, color=INK2 if v == 0 else GRID, width=1.2,
+               dash=None if v == 0 else "4 4")
+        f.text(sx(v), top - 16, label, size=11.5, color=MUTED, anchor="middle")
+        f.text(sx(v), bottom + 16, f"{v:g}".replace(".", "," if lang == "ru" else "."), size=11, color=MUTED,
+               anchor="middle")
+    for i, (name, who, v, lo, hi) in enumerate(t["rows"]):
+        y = top + i * row + row / 2
+        color = MUTED if lo < 0 < hi else BLUE
+        f.text(28, y - 2, name, size=12.5, color=INK, weight="600")
+        f.text(28, y + 14, who, size=11, color=MUTED)
+        f.line(sx(lo), y, sx(hi), y, color=color, width=3)
+        f.circle(sx(v), y, 5.5, fill=color)
+        num = f"{v:+.2f}".replace("+", "").replace("-", "−")
+        f.text(sx(hi) + 8, y + 4, num.replace(".", "," if lang == "ru" else "."), size=12, color=INK2)
+    f.text(28, bottom + 50, t["out"], size=13, color=INK, weight="600")
+    f.text(28, bottom + 76, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-holds-a-bond")
+def what_holds_a_bond(lang):
+    t = {
+        "en": dict(title="What holds a bond",
+                   sub="The four bonds of the summer: what each holds by, when it lets go, and what there is of it between those ones and us.",
+                   head=["holds by", "lets go when", "between those ones and us"],
+                   rows=[("kinship", "evening 43",
+                          ("a share of common\ndrawings", 4), ("the share is small", 4),
+                          ("not a letter of the drawings;\nonly the words (52)", 2)),
+                         ("debts", "evenings 43, 47",
+                          ("a record of who gave\nand has not received", 4), ("nobody remembers,\nor they never meet again", 4),
+                          ("it owes us nothing (30)", 2)),
+                         ("need", "evenings 11, 47, 51",
+                          ("one cannot do\nwithout the other", 4), ("the need is over", 4),
+                          ("decades, and less\nevery year (51)", 1)),
+                         ("love", "not sorted (46)",
+                          ("nothing that\ncan be counted", 4), ("not when the\nneed is over", 4),
+                          ("not derived:\nbeing written (64)", 3))],
+                   src="The evening's reading. The first three rows can be calculated; the fourth can be described and cannot be derived.\n"
+                       "Red: there is none. Yellow: there is, with a term. Grey: not known."),
+        "ru": dict(title="Чем держится связь",
+                   sub="Четыре связи этого лета: чем каждая держится, когда отпускает и сколько её между теми и нами.",
+                   head=["чем держится", "когда отпускает", "между теми и нами"],
+                   rows=[("родство", "вечер 43",
+                          ("доля общих\nчертежей", 4), ("доля мала", 4),
+                          ("ни буквы чертежей;\nтолько слова (52)", 2)),
+                         ("долги", "вечера 43, 47",
+                          ("запись о том, кто дал\nи ещё не получил", 4), ("никто не помнит\nили больше не встретятся", 4),
+                          ("она нам ничего\nне должна (30)", 2)),
+                         ("нужда", "вечера 11, 47, 51",
+                          ("одному не обойтись\nбез другого", 4), ("нужда кончилась", 4),
+                          ("десятилетия, и с каждым\nгодом меньше (51)", 1)),
+                         ("любовь", "не разобрано (46)",
+                          ("ничем, что можно\nсосчитать", 4), ("не тогда, когда\nкончилась нужда", 4),
+                          ("не выведено:\nпишется (64)", 3))],
+                   src="Прочтение вечера. Первые три строки считаются; четвёртую можно описать и нельзя вывести.\n"
+                       "Красный — её нет. Жёлтый — есть, со сроком. Серый — неизвестно."),
+    }[lang]
+    return _pencil_table(t, 760, 440, [150, 346, 540, 736], 66)
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

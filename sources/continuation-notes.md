@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 32).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 33).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63 and 64 nobody said it (in 62 Oleg goes to the shed all the same, at the end: "The stove was going cold. — Nobody said the word. — I know"). In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64 and 65 nobody said it (in 62 Oleg goes to the shed all the same, at the end: "The stove was going cold. — Nobody said the word. — I know"). In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -579,7 +579,8 @@ ones of 32.
   measurement problem, which Andrey did not answer), to be inked "by one of us" if the friend in the box is ever built.
   The third, in 59, is again half a tick in pencil ("Who laid the deck by suits": why there was more order at one end of the world), to be inked if it is
   ever answered. The fourth, in 63, is half a tick in pencil too ("The lesser will learn to check the greater's wants"),
-  to be inked "when a certificate is shown".
+  to be inked "when a certificate is shown". The fifth, in 65, is the first whole tick, in ink ("So fifteen years ago you went too
+  far. — I went too far").
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -6017,3 +6018,159 @@ hammer (one method, two old men) and the objection that the witness copied from 
 whole bill"); the three marks of 64, to be checked with the list of 30 and the marks of 53, 60 and 61 → 67; a
 second witness is a thing to watch with the mark of 29; the top floor of the heir's wants and what it is like to be
 it stay open with 20, 22 and 31; the outcome of Oleg's court is still free for a later opening.
+
+## 65. Two Andreys
+
+**Established**
+- The answer to the teaser of 64 ("Which of the two of you is Andrey?"). Oleg comes with reading glasses on and the
+  printout of *Dialogues with Myself*, and reads "in the second voice": three lines of the late prose (gratitude,
+  service, learning to love) against the author's 2012 line from the comments under the SETI talk ("So I propose
+  nothing, I only state"). **The table is cleared first**: elections, presidents, who is to blame and God are "not
+  for this fire" (the rule of 2011), and "in the sheets there are culprits with names. At this fire there have never
+  been any." Four things are taken: gratitude, service, the price, love.
+- **The rule of the cycle**: the evening starts from the author's prose; the machines come in past the middle and
+  are named by Oleg twice (the quotation from 31: "I did not name him first yesterday. Today I do, and it is past
+  the middle"; and the fourth column of the table, "Those ones and us").
+- **Gratitude.** The hot water that is rejoiced at once a year, after two weeks without it (the stove that goes
+  cold, 62). The couples of 2008 who wrote how they might never have met; fourteen of sixteen forecasters chose the
+  other task ("they did not know where their own gauge was"). The lists of 2003: about two hundred students, ten
+  weeks, up to five things once a week (grateful / annoyed / events): life as a whole about a third of a point
+  higher, fewer complaints, nearly an hour and a half more exercise a week **than the annoyed ones only** ("I give
+  it to you as it lies"); sixty-five patients for three weeks: half an hour more sleep, and the spouses rated their
+  lives better. **The count**: 0.19 of the usual spread (2025: 145 papers, nearly 25,000 people, 28 countries) =
+  "a centimetre and a bit" of height, **"thick insoles"**; 2016: three tenths against forms only, under two tenths
+  against another task, nought against another exercise with a method in it; 2021: "relatively modest" for low
+  spirits, and the advice to take something better; once a week worked, three times did not ("The gauge got used to
+  the thanks as well").
+- **The plan's "the only known way of lowering a setpoint by hand" is withdrawn in the text**: "The count does not
+  let me. It is one of the few handles that have been tried under control and found to turn at all. A hand pump."
+  The prose's "main problem of mankind" is called going too far.
+- **Oleg's first objection (the pencil of 62)**: a man pleased with what he has pads his own report. Answer: the
+  pencil writes in housings that are not in the warehouse; here they are on the shelves and the report shows only
+  the increase: **"a stocktaking is not padding"** (33). The test: a padded shop stops; the grateful moved more and,
+  in the second experiment, more often helped somebody.
+- **Oleg's second objection (the glove of 48)**: "be content with your feed" is what the hand breeds for; "a
+  grateful one is a convenient one". **Conceded**: "The same screw can be turned by somebody else's hand, and from
+  inside it is hard to tell"; the test of 54 (who can unscrew it): glad of the hot water and the complaint about the
+  roof on the same day is one's own hand; thanks asked "instead of the roof" is the glove. "And in the sheets? —
+  Both. I take the first."
+- **The price and the two scales.** The author's biography from the forum (January 2017): seventeen years head of
+  the IT department of a holding, asked to go against his conscience, left "to nowhere", half a year without work.
+  "For the holding, nothing. For you, half a year of salary"; "who looked the loser?". The forum answer of 9
+  November 2013 (a person can think again; mankind obeys the laws of how those who have deal with those who have
+  not; the second gain, the first look like losers). Oleg's foreman who did not draw his couple of hundred, and
+  "the next quarter... he drew". **"The sheets speak to a person... The fire spoke about mankind."** The price is
+  how one knows it was a value (the 2025 line, used in 41 for small change).
+- **Oleg wins a point (the plan's)**: the 2012 answer was given to a person, not to mankind; with the line of 31
+  ("more fatalistic than their own determinism allows") and the sick man of 17. **Andrey: "From 'mankind cannot' I
+  concluded 'so a person need not ask'. It does not follow... The sentence of 2012 I did not take back. I take it
+  back now."** Oleg's fifth tick of his own, the first whole one, in ink.
+- **The other step over the line (the continuation's)**: the prose's "if every generation cares more for the
+  next..." is addressed to mankind, and the answer of 2013 lies across it; where children are concerned it names
+  somebody to blame, against 26 ("Nobody to blame. And so nobody to talk round"). **The arithmetic of 200,000
+  generations is corrected openly**: five million years is not mankind and not the whole road from the fork with
+  the chimpanzee (six to eight); the species is some 300,000 years, twelve thousand generations; "or more": the
+  thread is unbroken for four billion years, and the tit has the same one (the class reunion of 56); "not a
+  promise" (52), "not a debt either". "Each of the two is right on his own scale and wrong where he steps over...
+  And which of them are you? — The one you catch."
+- **Service and the screw; the debt of the SETI comments is paid** (the reader's charge of quietism, unanswered in
+  2012): a screw "is under load from the day it is driven in"; the one with folded hands is the one in the box;
+  **"'Small' was about the claims... It was never about the load."** Service is the load, "of which system?": a
+  family, a shop, sixty garden plots (the chairmen of 43 by link). The 2012 advice to withdraw to the backwoods is
+  half taken back: not answering aggression stays; "a hermit is a screw that has put itself in the box" until the
+  last steps of the scenario, which have no date ("One and a half" things taken back).
+- **Learning to love by habit** (the prose's best page; 28's "keep the bonds by habit"): the sweet given away,
+  Oleg's last bag of 18; the twenty children a month or two short of two (2012): happier giving than getting,
+  happiest giving from their own bowl; "with grown people and money it has been repeated on thousands: it holds, and
+  it comes out small".
+- **Love** (the heap "not sorted" of 46). The birches from the train window, retold. **The table in the ash**:
+  kinship, debts, need, each with what it holds by and when it lets go; Oleg's wife of forty years fits none (the
+  saucepans of ninety-six, 47): **"a bond that is recounted every morning breaks at the first better offer"**; the
+  economist's book of 1988 (unnamed, paraphrased): a feeling is of use because it does not calculate. "So it is
+  derived. — Described." The witness: the prairie vole and its meadow cousin; the "locks" for two hormones (early
+  nineties); the lock put into the cousin (2004); the three lines with no lock for the first hormone that paired
+  all the same (2023): "A screw was found, it is not the only one." **"The task I can name: to hold when need lets
+  go. What I cannot do is what I did with sleep... Here nobody has run into anything."** With the birches "I have
+  not even the task... It holds where there is nothing to hold" (perhaps the overshoot of 39; "I do not know").
+- **The fourth column, "those ones and us"** (filled by Oleg): kinship, not a letter of the drawings; debts, it
+  owes nothing; need, decades and less every year; at the nought of the chart of 27 "three rows are empty. The
+  fourth is left... And it is the one you cannot derive." The pet of 48 ("kept by a want"); the white line of 64 is
+  "being written, by persons, each with a name", and a person is the one to whom a word is a cause. **"So now you
+  do propose. — No. I am taking back one sentence. I am not offering a remedy... I only no longer say that it makes
+  no difference what is written."**
+- **"To bargain" (52) is answered in part**: "somebody has to sign for mankind... Nobody holds it. A person signs
+  for himself. The rest of that question is in the bill you are bringing tomorrow."
+- Nobody says the forbidden word; thirty-third tick "again": "Came with your own sheets, to catch you. Caught you.
+  And came out at this all the same."
+- Strengths stated: solid (the lists of 2003, "as far as two hundred students and sixty-five patients go", the
+  three pooled counts "from their summaries", the couples, the twenty children of one laboratory, the voles); the
+  author's (a person can stop and mankind cannot; value known by its price; the screw; the sweet; the birches; the
+  half-year, "his and not mine to boast of"); today's (the two steps over the line; the stocktaking; whose hand;
+  the screw in the box; love as the fourth row); "and one thing is Oleg's: that I went too far". **What would
+  refute it**: a count as large as 2025's that finds nought even against forms only; mankind stopping ("on the list
+  for tomorrow"); an engineer who runs into love while building something else.
+- The closing exchange is varied: "Gloomy... No. Not this time. — But objective. A centimetre and a bit. Measured."
+  Then the author's own ending of the fourth essay ("let us strive for comfort. It is warmer indoors. — That is
+  from the sheets. — His best line").
+- **A declared interest is written into the footer** (both languages): the objection conceded was made in 31 by a
+  model of the same maker, and the last column of the third table is about things of the writer's kind. The footer
+  also says that the quotations are the author's and the argument between them is the continuation's.
+
+**Images and devices used**: the twenty-sixth entry in the notebook of dreams (two Andreys on the log, each
+pointing at the other; nobody rang), which returns once; the letter box, "Empty"; the reading glasses and the page
+with a bent corner; the chief about to underpay; hot water in August; the plumber; five lines on a Sunday; the
+wives who were asked; thick insoles; the hand pump; the stocktaking; whose hand is on the screw; the roof; the
+holding the next morning; the foreman and forty men; the tick in ink, blown on; the tit and the thread; the screw
+in the box; the last bag of sweets; the toy monkey and the child's own bowl; the table smoothed with a boot; the
+saucepans of ninety-six; the lock for a hormone; crying at the window; "A person signs for himself".
+
+**Facts used**. **Checked on the day of writing (28 November 2026) by two research passes; each item is marked as
+the pass marked it**. Read in the source: Emmons and McCullough, *JPSP* 84 (2003), full text (Study 1: 201
+undergraduates, 192 analysed, ten weekly reports, up to five items; life as a whole 5.05 / 4.67 / 4.66; exercise
+4.35 / 3.01 / 3.74 hours, "nearly 1.5 hr more per week" than the hassles condition only; **the scale is labelled
+ambiguously in the paper, so the evening says "on the scale they were given"**; Study 2: 157 analysed, daily, more
+likely to have helped someone, no difference in health or exercise; Study 3: 65 adults with neuromuscular disease,
+21 days, sleep 7.58 against 7.06 hours, spouse-rated life satisfaction 4.42 against 3.63, p = .02; "We do not know
+how long these effects last"); Lyubomirsky, Sheldon and Schkade (2005), full text (once a week against three times
+a week, in a then-unpublished study of their own; the boredom explanation is their "Perhaps"); Koo, Algoe, Wilson
+and Gilbert (2008), full text on PMC (Study 4: 88 people in relationships of at least five years; 14 of 16
+forecasters preferred the other condition); Aknin, Hamlin and Dunn, *PLoS ONE* 7 (2012) (twenty toddlers, mean age
+22 months 26 days; Goldfish crackers or Teddy Grahams; the monkey puppet; faces coded on a 7-point scale by coders
+blind to the hypothesis; happier giving than receiving, happiest in costly giving). **Abstracts only**: Choi and
+others, *PNAS* 122 (2025) (145 papers, 163 samples, 24,804 participants, 28 countries, g = 0.19 [0.15, 0.22]);
+Davis and others (2016) (d = .31 against measurement only, k = 5; .17 against alternative activity, k = 20; −.03
+against psychologically active conditions, k = 9); Cregg and Cheavens (2021) (27 studies, 3,675 people, g = −0.29;
+"relatively modest"; the recommendation); Aknin and others (2020) (712, 1,950 and 5,199 participants; "differences
+were small"; one of the three found nothing, which the evening's "it holds, and it comes out small" rounds off);
+Insel and Shapiro (1992: receptor distribution, prairie against montane vole; **the evening's "meadow cousin" is
+the species of the 2004 paper**); Lim and others (2004: the vasopressin receptor gene carried into the ventral
+forebrain of the meadow vole); Berendzen and others (2023: three lines without the oxytocin receptor still showed
+partner preference; a 2024 preprint of the same laboratory finds that the receptor still matters for how quickly:
+not used); Hublin and others (2017: 315 ± 34 thousand years); Langergraber and others (2012: the split "at least
+7–8 million years"; Patterson 2006: under 6.3: hence "six to eight"). **Secondary**: Frank, *Passions Within
+Reason* (1988), from reviews and summaries only, **not opened, not quoted and not named**. **Computed**: 0.19 × 7 cm
+≈ 1.3 cm; 300,000 / 25 = 12,000. **From the writer's memory**: that men's heights differ by about seven
+centimetres (a standard deviation); four billion years of life; that the laboratory of the toddlers' study is in
+Canada. The author's sources: *Dialogues with Myself*
+(«Нужно научиться ценить свою жизнь. Быть благодарным, если не Богу, то хотя бы судьбе…»; «Идеей СЛУЖЕНИЯ
+обществу. Идеей превалирования обязанностей над хотелками»; «Можно научиться любить, если поставить перед собой
+такую цель»; «ценность определяется ЦЕНОЙ, которую за неё готовы платить»; «Если каждое поколение будет заботиться
+больше о следующем поколении, а не о себе, то будет всем и комфортно жить»; the 200,000 generations; the birches;
+the sweet; «Устремимся-ка мы с тобою к комфорту»); the SETI-talk comments of 2012 («Поэтому я ничего не предлагаю,
+а только констатирую»; «маленьким природным винтиком, и при этом счастливым винтиком»; the backwoods, from the
+note); the forum, 9 November 2013 («Одуматься может отдельно взятый человек…») and 25 January 2017 («мне
+предложили идти против совести, я просто уволился… И полгода был безработным»). Invented for the frame: the dream,
+the hot water, the foreman's quarter, the offers of ninety-six. Not used: the chaffinch (18 has it); Brickman's
+lottery winners (62 has them); the 2022 replication of the five and twenty dollars; Dunn, Aknin and Norton 2008 by
+figure; the oxytocin gaze of 48; the author's song; a mark.
+
+**Figures**: `how-much-gratitude-gives` (the chart of the pooled counts), `a-person-can-stop-mankind-cannot` (the
+table of two scales), `what-holds-a-bond` (the table in the ash with the fourth column; the evening's reading).
+
+**Left for later**: the whole bill, "a man with a hammer", and the list of what must not happen → 66 (Oleg's last
+doubt: "Thirty-three times you brought me out at the same place... Tomorrow I bring the whole bill"; the teaser
+ends on the plan's epigraph, "let us look for what a hammer cannot drive in"); mankind stopping is named as "on the
+list for tomorrow" (the plan's fifth prohibition); the rest of "to bargain" (52) → 66; what should be written in
+the white line is deliberately not said ("whoever tells you that he knows is selling"); whether the heir will have
+a want that keeps a pet (48) stays open with the button and the brake; shame and tears of the heap "not sorted"
+(46) are still not sorted; the outcome of Oleg's court is still free for a later opening.

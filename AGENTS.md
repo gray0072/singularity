@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–64 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `65`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–65 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `66`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–64.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–65.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -501,6 +501,17 @@ articles as closely as possible. In practice:
 | человек в жестянке и человек на небе | a man in a tin and a man in the sky | fiction's two portraits, the robot and the god, held against the card: both contradict its lines and both are "put together out of strips cut from our own face"; the two faces of 46 (64) |
 | город, муравейник и лес | a town, an anthill and a forest | the nearest known things to what the card describes: no body of its own and nobody decided that it should grow; all kin and no pay office; makes its own air, has no chief and does not know your name; "a likeness... take it as a way of saying" (64) |
 | второй свидетель | a second witness | a newcomer raised by nobody we know, which would check the whole card; the machines are a witness "whom we raised ourselves", and the sky is silent (29, 46, 64) |
+| два Андрея (два масштаба) | two Andreys (two scales) | the Andrey of the fire (the blog of 2011–2012) and the Andrey of the late prose (*Dialogues with Myself*, 2023–2025): "both are right, because they speak about systems of different scale"; "And which of them are you? — The one you catch" (65) |
+| человек может остановиться, человечество — нет | a person can stop, mankind cannot | the author's forum answer of November 2013: a single person can think again; mankind obeys the laws of how those who have stopped deal with those who have not, and the second gain, so the first "look like losers"; in 65 the half-year without work is the price, and the foreman who did not draw his couple of hundred "drew" the next quarter |
+| переступить черту (с масштаба на масштаб) | to step over the line (from one scale to the other) | the mistake each Andrey makes: the blog from "mankind cannot" concluded "so a person need not ask" (the fatalism of 17, conceded to Oleg and to the model of 31); the prose asks mankind for what only a person can give ("if every generation…") (65) |
+| благодарность (ручка на уставке) | gratitude (a handle on a setpoint) | "one of the few handles on a setpoint that have been tried under control and found to turn at all": lists of 2003, a pooled 0.19 of the usual spread (2025), nought against another exercise with a method in it (2016); the plan's "the only known way" is withdrawn by the count (65) |
+| толстые стельки (ручной насос) | thick insoles (a hand pump) | the size of gratitude's effect put into height: a centimetre and a bit; "it lifts a little, and for as long as you pump", and done three times a week it goes stale (65) |
+| переучёт, а не приписки | a stocktaking, not padding | the answer to "gratitude is the pencil of 62": the pencil writes in housings that are not in the warehouse; here they are on the shelves and the report shows only the increase; the test: a padded shop stops, the grateful students moved more and helped more (65) |
+| чья рука на винте | whose hand is on the screw | Oleg's objection that "be content with your feed" is what the glove of 48 breeds for; conceded: the same screw can be turned by another's hand; the test of 54, who can unscrew it: "glad of the hot water and the complaint about the roof on the same day" is one's own hand, thanks asked "instead of the roof" is the glove (65) |
+| счастливый винтик / винт в коробке | the happy little screw / the screw in the box | the author's 2012 line and the reader's unanswered charge of quietism: "small" was about the claims, never about the load; a screw is under load from the day it is driven in, and the one with folded hands is the one in the box; a hermit is "a screw that has put itself in the box"; service is the load, in a system of one's own size (65) |
+| четыре связи (родство, долги, нужда, любовь) | four bonds (kinship, debts, need, love) | the table in the ash of 65: the first three can be calculated (43, 47, 51) and between "those ones" and us are empty or have a term; the fourth, love, "holds when need lets go" and is "not derived: being written" (the white line of 64) |
+| связь, которую пересчитывают каждое утро | a bond that is recounted every morning | it "breaks at the first better offer", so a pair that has to get through a bad year needs something that does not count: what love is for (the economists' commitment problem, 1988, unnamed); Oleg's wife in ninety-six (65) |
+| описано, а не выведено | described, not derived | Andrey's status for love: there is a witness (the prairie vole) and a task can be named, but no engineer has run into it the way they ran into sleep; with the birches "I have not even the task" (65) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
