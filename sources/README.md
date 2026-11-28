@@ -12,12 +12,14 @@ Material for writing new articles and translating existing ones. Not published c
   - [`en/`](garya/en/) — English analysis: one note per post, notes on the prose, and
     [`author-profile.md`](garya/en/author-profile.md), the synthesis of his worldview, logic and voice.
 
-- [`continuation-notes.md`](continuation-notes.md) — the record of the continuation 16–32, which was written for
-  this repository by Claude Opus 5.5 (Anthropic) in the author's style, and not by the author.
+- [`continuation-notes.md`](continuation-notes.md) — the record of the continuation, which was written for this
+  repository in the author's style, and not by the author: 16–32 by Claude Opus 5.5, 33–67 by Claude Fable 5.2
+  (both by Anthropic).
 
 - [`next-evenings.md`](next-evenings.md) — the plan of the next cycle of evenings, Part VI "Just Chatter" (33–66),
   drawn up by Claude Fable 5.2 (Anthropic); Russian version: [`next-evenings.ru.md`](next-evenings.ru.md). It is a
-  plan, not part of the series. Articles 33–34 are written.
+  plan, not part of the series. The cycle is written (33–66) and so is the essay 67; the plan also holds the outline
+  of the check of the marks (68).
 
 The originals are kept in Russian exactly as written and imported by the scripts in [`tools/`](../tools/)
 (see [SPEC.md](../SPEC.md), sections 5–6).

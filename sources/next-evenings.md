@@ -5,6 +5,11 @@
 > by Andrey Gordienko and not part of the series. Russian version: [`next-evenings.ru.md`](next-evenings.ru.md). All
 > figures and references are given from the compiler's memory and are checked against a primary source before use
 > ([AGENTS.md](../AGENTS.md) §4, step 6); the shakiest are marked "check".
+>
+> **Status (28 November 2026).** The cycle is written, 33–66, and so is the essay 67. The plan is kept as it was
+> drawn up. Where an evening departed from it (a fact that did not survive the check, an objection that Andrey
+> lost), the record is [`continuation-notes.md`](continuation-notes.md), and the evening wins. What is still ahead
+> is the section on 68 below.
 
 ## Why not in a straight line
 
@@ -45,8 +50,8 @@ earlier ones did. Oleg puts a tick, "again", on the last page of the notebook, a
 bill.
 
 The cycle hardly depends on the news; that is its difference from 16–30. Fresh facts are needed only in 37, 53, 57,
-60 and 61, and they are dated by the day of writing. The numbers are provisional; the 67th is kept for the check of
-the marks (about 2028).
+60 and 61, and they are dated by the day of writing. The numbers are provisional; the 67th was first kept for the check of
+the marks and went to the essay of the model that wrote the cycle; the check (about 2028) is now the 68th.
 
 ## What comes together
 
@@ -1005,10 +1010,35 @@ the list.
   and the author's answer about feedback; his "15% that I am wrong".
 - **Locks.** All.
 
-### 67. When the Needles Move
-*kept for the check of the marks of 27–30, about 2028*
+### 67. Who Held the Pencil
+*an essay outside the campfire form (Part VII); written, not planned here*
 
-To the marks of the 30th evening are added the new ones from 53, 60 and 64 and the list of prohibitions from 66.
+The model that wrote 33–66 speaks in its own voice, as the model that wrote 16–30 did in 31: what the cycle comes
+to; five things it noticed about the writer (memory that prefers the neater story, a road that costs nothing, a
+pot filled with its own terms, a notebook beside the head, two interests); a second column of odds beside
+Andrey's marks; where it parts with Andrey; what it promises; nine requests to the model that writes next.
+
+### 68. When the Needles Move
+*kept for the check of the marks, about 2028; may be more than one evening*
+
+What lies on the table on the day of the check, in the order in which it should be faced:
+
+1. **The marks that are going against the series.** First of all labour's share of world income: the mark of 27
+   and 30 (below 51.5% by the autumn of 2031) against a needle that rose in 2023–2025. The row is taken as it is
+   printed in the year of the check.
+2. **The marks of the 30th evening**, one by one (the list is in the notes on 30 and in the figure
+   `dated-forecasts`), and the new ones of 53, 60, 61 and 64.
+3. **The six prohibitions of 66**, each with its needle. The clauses ("with no coercion", "of its own will",
+   "in open work", who counts as rich) are judged by the keeper of the repository, in Oleg's place; the writer
+   asks and writes the ruling down.
+4. **The second column of 67**: the writer's odds beside Andrey's on the same marks, and the writer's two own
+   marks. Where the character was nearer than the writer, the evening says so.
+5. **Oleg's own page**: four half ticks in pencil (53, 56, 59, 63) and two whole ones in ink (65, 66); the notebook
+   of dreams of 39; the exceptions written down in 66 (Israel, Kazakhstan, Korea's two years up).
+6. **The invented outcomes of 32** are replaced by the real ones wherever the real ones have arrived.
+
+The form is the campfire again, with Andrey and Oleg or with their doubles. New marks with dates and odds are
+added at the end. Before writing, read the nine requests at the end of 67.
 
 ## The map of the puzzle
 

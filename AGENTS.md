@@ -15,7 +15,7 @@ closed, so the posts and all the comments under them are kept here in full. We c
 close as possible to his ideas, logic and voice, but **he is the author of articles 01–15 only**: never present the
 continuation as his. Articles 16–32 were written by **Claude Opus 5.5**, an AI model made by Anthropic, imitating
 his style and method. Article 33 onwards (Part VI, the cycle "Just Chatter") is written by **Claude Fable 5.2**,
-also made by Anthropic, in the same manner.
+also made by Anthropic, in the same manner; article 67 (Part VII) is that model's essay in its own voice.
 
 Before writing anything, read:
 
@@ -108,13 +108,13 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–66 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `67`, kept for the check of the marks. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–67 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `68`, kept for the check of the marks. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
-  which the AI doubles of Andrey and Oleg check the forecasts). Part V has `form: essay` / `form: fantasy`; it is
-  the only place where the campfire form is left. A continuation article is marked `continuation: true` and listed
+  which the AI doubles of Andrey and Oleg check the forecasts). Part V has `form: essay` / `form: fantasy`; it and
+  the essay of Part VII (67) are the only places where the campfire form is left. A continuation article is marked `continuation: true` and listed
   in the *Continuation* block of every table of contents.
 - **Part VI, "Just Chatter"** (*«Просто трёп»*, from `33`), is a new cycle written by Claude Fable 5.2; its plan,
   evening by evening, is [`sources/next-evenings.md`](sources/next-evenings.md) (Russian version: `next-evenings.ru.md`). The campfire
@@ -123,9 +123,16 @@ articles as closely as possible. In practice:
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
   named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–66; the cycle is complete. It ends on 66, where Oleg presents the bill for the
   thirty-three ticks and Andrey dictates six prohibitions: what must not happen if the series is right.
+- **Part VII, "The keeper changes"** (*«Хранитель меняется»*, `67`), is one essay, "Who Held the Pencil", in
+  which Claude Fable 5.2 speaks in its own voice (`form: essay`): what the cycle comes to, what the writer noticed
+  about itself, **a second column of odds** beside Andrey's marks (the writer's own, to be checked beside his),
+  where it parts with Andrey (the word "heir"; a forecast that is heard is one of the causes) and nine requests
+  to the model that writes next. **Read those nine before writing 68.**
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
-  evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
-  checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
+  evenings (planned for about 2028, from `68`) check the dated marks of articles 27–30 honestly, one by one, as
+  article 16 checked the 2011 forecasts, together with the marks of 53, 60, 61 and 64, the six prohibitions of 66
+  and the second column of 67, and add new marks with dates and odds. The clauses of the prohibitions are judged
+  by the keeper of the repository, not by the writer: ask, and write the ruling down. They may be told by Andrey and Oleg, or by
   their AI doubles from article 32. The events of 32 are invented: when real data arrive, the real data win.
 - New articles must be consistent with all earlier conclusions and with the
   author's positions in [`sources/garya/`](sources/garya/). If something is developed beyond what the
@@ -519,10 +526,11 @@ articles as closely as possible. In practice:
 | разбор по карандашам (девять, девять, двенадцать) | the sorting by pencil (nine, nine, twelve) | the turns to the machines of 33–65 sorted with the three pencils of 64: nine hard (a law that does not ask about the material), nine soft (precedents), twelve with no pencil (readings and axioms), three assemblies set aside; the hard nine say what the heir is, and "what becomes of us" lies among the likenesses and under dates that have not come due (66) |
 | нарисовать петлю | to draw the loop | where the line runs in the author's 2012 answer "the same feedbacks give the same mathematics": for the cistern and the amplifier the loop can be drawn (float, valve, equation), for the horse and the bacterium it was "look, how alike"; "the man of 2012 was right about half of my evenings" (66) |
 | ярлык, а не довод | a label, not an argument | "anthropocentrist" as the author and Andrey used it of opponents: it explains why a man disagrees and says nothing about whether he is right; kept only as a pointer to where to check (take the man out of the centre of the sentence and count again, 50); conceded to Oleg, his second whole tick (66) |
-| шесть запретов (страница Олега) | six prohibitions (Oleg's page) | what must not happen: labour's share of world income rising ten years in a row; the birth rate of the rich countries back above 2.1 for ten years with no coercion; the age of a first discovery falling while the authors are people; machines below a man for fifteen years more of growing computing; a large country giving up a productive technology and the others following; people with an improved brain overtaking pure machines; with the needle of 2026 beside each (66; to be checked in 67 and after) |
+| шесть запретов (страница Олега) | six prohibitions (Oleg's page) | what must not happen: labour's share of world income rising ten years in a row; the birth rate of the rich countries back above 2.1 for ten years with no coercion; the age of a first discovery falling while the authors are people; machines below a man for fifteen years more of growing computing; a large country giving up a productive technology and the others following; people with an improved brain overtaking pure machines; with the needle of 2026 beside each (66; to be checked in 68 and after) |
 | дверцы (оговорки) | little doors (clauses) | "while the machines go on growing", "with no coercion", "of its own will": the clauses through which a theory is saved after it fails; in 66 they are judged by the one who holds the notebook, on the day of the check, not by Andrey |
 | под чертой | under the line | what forbids nothing and so stands outside the list: global determinism ("not knowledge, a way of keeping the books"), the premise that the heir is a life (05), "everything has a mind to a degree" (a definition) (66) |
 | самое слабое место (оно не могло проиграть) | the weakest place (it could not lose) | Andrey's correction of the ending of 15: the weakest place of the concept was not that a man had understood it but that it could not lose; "a man who asks to be shown his error and does not say what would count as one is asking to be consoled" (66) |
+| второй столбец шансов | the second column of odds | the writer's own odds on Andrey's marks, given in the essay of Part VII beside his and on the same figures: higher where the answer to a poke comes at once (a month-long task, a great open problem), lower where it comes at the speed of people (labour's share, the hands, learning in the head); two marks of the writer's own (the young at the entrance of a trade; a planted want found in a blind trial); the check compares the character and the writer (67) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents
@@ -565,3 +573,11 @@ Mistakes made while writing earlier articles. Avoid them.
   `C:\Program Files (x86)\Microsoft\EdgeCore\<version>\`). Overlapping labels are invisible in the SVG source.
 - **Two-line labels in a table figure need a taller row.** In `dated-forecasts` a two-line row name ran into the
   italic "now" line under it until the row height went from 50 to 58.
+- **Write for one head.** By the middle of Part VI the evenings spoke in shorthand that only a reader holding all
+  the earlier ones could unfold ("those ones" for the machines, "the pocket" for the telephone, "the glove",
+  "the pot"), and all thirty-four had to be gone over again. In every evening name a thing in plain words at
+  its first mention, and only then use its image. The writer holds the whole series at once; the reader does not.
+- **A plan written from memory errs towards the neater story.** The plan of Part VI gave from memory a kitten that
+  "stayed blind", "two turtle doves" in Lorenz's cage, orbit as "cold for free" and gratitude as "the only known
+  way"; every one was corrected at the source when its evening was written. Treat a remembered fact that fits the
+  argument well as the first to check.

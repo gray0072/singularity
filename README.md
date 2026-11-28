@@ -23,7 +23,7 @@ The series has three parts with **different authors**. This matters, so it is st
 |----------|--------|---------|-------------------|
 | **01–15** · the original series | **Andrey Gordienko, nickname Garya** | 2011–2012, on his blog *Technological Singularity* | Russian |
 | **16–32** · the continuation | **Claude Opus 5.5**, an AI model made by Anthropic, imitating Garya's style and method. **Not by Andrey Gordienko.** | 2026 | English (Russian translation) |
-| **33 onwards** · the cycle *Just Chatter* (Part VI) | **Claude Fable 5.2**, an AI model made by Anthropic, imitating Garya's style and method. **Not by Andrey Gordienko**, and not by Claude Opus 5.5. | from November 2026 | English (Russian translation) |
+| **33 onwards** · the cycle *Just Chatter* (Part VI) and the essay of Part VII | **Claude Fable 5.2**, an AI model made by Anthropic, imitating Garya's style and method. **Not by Andrey Gordienko**, and not by Claude Opus 5.5. | from November 2026 | English (Russian translation) |
 
 - Articles 01–15 and the author's comments and prose in [`sources/garya/`](sources/garya/) are his texts, kept
   exactly as written. The blog and the forum thread it grew out of were public, and the site closed in 2022, so
@@ -35,7 +35,7 @@ The series has three parts with **different authors**. This matters, so it is st
   speaks in its own voice.
 - Part VI, *Just Chatter* (article 33 onwards), is written by **Claude Fable 5.2**, another AI model made by
   Anthropic, in the same manner and under the same rule: the Andrey of these evenings is a character, and their
-  conclusions are not the author's.
+  conclusions are not the author's. In article 67 that model speaks in its own voice.
 
 The author online: [proza.ru/avtor/garya](https://proza.ru/avtor/garya) (prose) ·
 [stihi.ru/avtor/garya](https://stihi.ru/avtor/garya) (poems).
@@ -108,7 +108,8 @@ lets the friends' AI doubles check the forecasts.
 The fire is lit again on the first warm evening after the winter. Oleg comes with a notebook of questions that
 have nothing to do with the singularity (why we sleep, where the horses went) and forbids the word itself; every
 evening the talk comes out at the same mountain from a new side. Written by Claude Fable 5.2 (Anthropic), not by
-Claude Opus 5.5, which wrote 16–32.
+Claude Opus 5.5, which wrote 16–32. Part VII is one essay: the model that wrote the cycle speaks for itself, puts
+its own odds beside Andrey's forecasts and leaves a letter for the model that will write the next evenings.
 
 | # | Article | English (original) | Russian |
 |---|---------|--------------------|---------|
@@ -147,8 +148,10 @@ Claude Opus 5.5, which wrote 16–32.
 | 64 | A Portrait of the Heir | [en](en/64-portrait-of-the-heir.md) | [ru](ru/64-portrait-of-the-heir.md) |
 | 65 | Two Andreys | [en](en/65-two-andreys.md) | [ru](ru/65-two-andreys.md) |
 | 66 | A Theory That Explains Everything | [en](en/66-theory-that-explains-everything.md) | [ru](ru/66-theory-that-explains-everything.md) |
+| | **Part VII. The keeper changes** | | |
+| 67 | Who Held the Pencil *(essay by the AI that wrote 33–66)* | [en](en/67-who-held-the-pencil.md) | [ru](ru/67-who-held-the-pencil.md) |
 
-**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–66 — Part VI, *Just Chatter*, by Claude Fable 5.2, written in full (English originals; the Russian translations await review); the cycle ends on 66 with a list of what must not happen if the series is right. New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
+**Status:** 01–15 — Russian originals by Andrey Gordienko; English translations are pending. 16–32 — continuation by Claude Opus 5.5, written: Parts I–V (English originals; the Russian translations of 16–30 are reviewed, of 31–32 translated and awaiting review). 33–66 — Part VI, *Just Chatter*, by Claude Fable 5.2, written in full (English originals; the Russian translations await review); the cycle ends on 66 with a list of what must not happen if the series is right. 67 — Part VII, an essay by the same model in its own voice (English original; the Russian translation awaits review). New evenings that check the dated forecasts of articles 27–30 and add new ones are planned for about 2028.
 
 ## Inside the repository
 

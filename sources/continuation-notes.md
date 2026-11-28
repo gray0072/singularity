@@ -1,7 +1,7 @@
 # Continuation notes
 
 A running record of the continuation articles (16 onwards), written in Garya's style by Claude Opus 5.5 (16–32) and,
-from 33 on (Part VI, "Just Chatter"), by Claude Fable 5.2 (both by Anthropic):
+from 33 on (Part VI, "Just Chatter", and the essay 67), by Claude Fable 5.2 (both by Anthropic):
 what each evening established, which facts and images it used, and what it left for later. Read it before writing the next evening, so that new articles agree with the
 earlier ones, do not repeat their examples, and keep the promises the teasers made. Update it in the same commit as
 the article.
@@ -1621,7 +1621,7 @@ Elysia, the slug that steals chloroplasts; mitochondrial Eve; the mitochondrion 
 **Left for later**: the row "organelle" of the table of fates → 52 (42 gives it; the horse of 34 has no row written
 in the notebook yet); the great-nephew who learns nothing by heart, "the spade that dulls its owner" → 48 (touched
 in two lines, not developed); what the heir will want when it wants for itself → the evenings on the heir; "how long
-is while" → the check of the marks (67); whether surviving as a function is immortality → left open, may be taken up
+is while" → the check of the marks (68); whether surviving as a function is immortality → left open, may be taken up
 in 65; Oleg's last doubt: ten million billion mitochondria and not one refuses to burn, the liver does not go on
 strike against the head, and three men in a team already cannot agree ("How did they come to terms? — Some don't.
 But that is for tomorrow. On your way home look under your feet. — Ants? They are after my aphids. — Ask them why
@@ -3636,7 +3636,7 @@ measurement), `eighteen-times-the-researchers` (two bars from Bloom and others a
 note on Harvard).
 
 **Left for later**: the two marks, to be checked with the list of 30 (the test of fifteen-year-olds by the autumn
-of 2036, two to one; the age at a first invention by the autumn of 2041, three to one) → 67; Oleg's half tick in
+of 2036, two to one; the age at a first invention by the autumn of 2041, three to one) → 68; Oleg's half tick in
 pencil (inked if the first mark fails); whether a pot filled faster grows old sooner ("Nobody has measured that")
 → open; whether a million copies going different ways find what is not in the books, and who will understand it →
 60 (Oleg: "I'll bring it"); the shares in a discovery made by the pair → 57 (dividends) or 60; the pot of the
@@ -3841,7 +3841,7 @@ third row is Andrey's reading), `the-face-moves-away` (Milgram's four runs, coun
 a camera, "Whose face do I punch? — That is the invention... Older than the cannon"; the answer to "who owns the
 machines" of 34 and 49 is still in the notebook); whether a brake taught into a machine holds against selection by
 buyers ("who can unscrew it") → open, a candidate for a dated mark at the check of 2028 and for the row "relation
-to us" of 64; the mark of 30 on the war of machines → 67; what a man who understands this does (the author's
+to us" of 64; the mark of 30 on the war of machines → 68; what a man who understands this does (the author's
 "refuse to return aggression, withdraw") and the happy little screw → 65; mass aggression as an instrument of
 apoptosis (14) was touched in one line and not developed: 54 gives the mechanism (the supports go), not a
 forecast; the heap "not sorted" of 46 (tears, shame) is still not sorted.
@@ -4619,7 +4619,7 @@ last doubt: it "has read... every book there is about barrows. Has it ever pushe
 the path by feel, which is where the plan's 58 opens; 57 does not touch the model of intelligence); the shares in a
 discovery made by the pair of man and machine (left open by 53) → 60, not 57 (57 says only that the union's gain is
 divided between those in it); the payment to everybody stays the mark of 30 for the autumn of 2036 at one in two,
-to be checked with the list (67); things to watch, not marks: whether a court or a law makes learning itself (not
+to be checked with the list (68); things to watch, not marks: whether a court or a law makes learning itself (not
 the taking of copies) a thing to be paid for, and whether it is paid once or for as long as the thing works; whether
 the contracts that guard a machine's answers hold against other machines; "to bargain" (52) is touched from one
 side only: the writers' suit is the first bargaining by title, and what else people hold is left for 65 and 66; the
@@ -5231,7 +5231,7 @@ ours"; the teaser ends on the plan's epigraph); who checks the checker, the temp
 that the plan's 63 lets Oleg use, and says where it exists: only where there is a drawing; that no template exists
 for wants is not said here); a row "knowledge" for the portrait (squeezes to its own pot; examined by the
 template, by tomorrow and by its own kind; an explanation that is weather to us) → 64; the two marks of 60 for the
-autumn of 2031, to be checked with the list of 30 and the marks of 53 → 67; **the mark of 30 on a Millennium
+autumn of 2031, to be checked with the list of 30 and the marks of 53 → 68; **the mark of 30 on a Millennium
 Prize Problem must be weighed at the check** (the proof of 20 November 2026: the prize's rules, and how much of
 it was the man's); things to watch, not marks: which of the three examiners is at work, and how long the queue of
 checked and unread results is; whether the 940-page proof stands is not followed; the outcome of Oleg's court is
@@ -5433,7 +5433,7 @@ firewood this evening, Andrey brought it; the plan's epigraph of 62, "Laziness i
 engine. Until it reaches the switch", is not spent); a row "where it lives" for the portrait (no head start
 anywhere, so it goes where it is dry and cold; hands do not reach, so it mends itself or is thrown away; it carries
 a memory of the man) and the author's Dyson sphere → 64; the two marks of 61 (Mars machines only by the autumn of
-2036; a man on the Moon by the autumn of 2031) → 67; things to watch, not marks: what flies in orbit and thinks, and
+2036; a man on the Moon by the autumn of 2031) → 68; things to watch, not marks: what flies in orbit and thinks, and
 whether it is ever mended there; whether the craft of 1977 speaks again is not followed; the outcome of Oleg's
 court is still free for a later opening.
 
@@ -5849,7 +5849,7 @@ dust'. I have never seen a portrait. Draw it. Only without science fiction"; the
 epigraph); for the row "psyche" of the portrait: the white spot (yes) and the feeling (not known), next to the
 likenesses of sleep, superstition and old age; for a row on checking: no last checker, a circle of different ones,
 and the same limit before its own successor; whether a certificate for wants is ever shown (Oleg's half tick; the
-maker's own date of 2027) is a thing to watch and a candidate for a mark at the check of 2028 → 67; the weapon of
+maker's own date of 2027) is a thing to watch and a candidate for a mark at the check of 2028 → 68; the weapon of
 63 turned on Andrey himself (a storyteller cannot be his own inspector either) → 66; whether anything is felt at
 the white spot stays open with 20 and 31; the outcome of Oleg's court is still free for a later opening.
 
@@ -6019,7 +6019,7 @@ who has been telling me for fifteen years that nothing can be done?... Which of 
 printout of *Dialogues with Myself*, to be read "in the second voice, the angry one"; the teaser ends on the plan's
 epigraph); "to bargain" (52) is not touched, though there is now "somebody drawn to bargain with" → 65 and 66; the
 hammer (one method, two old men) and the objection that the witness copied from our exercise book → 66 ("Bring the
-whole bill"); the three marks of 64, to be checked with the list of 30 and the marks of 53, 60 and 61 → 67; a
+whole bill"); the three marks of 64, to be checked with the list of 30 and the marks of 53, 60 and 61 → 68; a
 second witness is a thing to watch with the mark of 29; the top floor of the heir's wants and what it is like to be
 it stay open with 20, 22 and 31; the outcome of Oleg's court is still free for a later opening.
 
@@ -6313,9 +6313,89 @@ reason for the silence (62), which stays in pencil; the outcome of Oleg's court.
 addition), `thirty-three-ticks-sorted` (the grid of the evenings by pencil), `what-must-not-happen` (the page of six
 prohibitions with the needle of 2026).
 
-**Left for later**: everything → 67 (the check of about 2028): the six prohibitions beside the marks of 27–30, 53,
+**Left for later**: everything → 68 (the check of about 2028): the six prohibitions beside the marks of 27–30, 53,
 60, 61 and 64; **the labour-share mark of 27 is at risk and must be faced first** (the share rose in 2023–2025 in the
 vintage of 2026); Israel is an unexplained exception to 26; Kazakhstan; whether the clauses were used as doors (Oleg
 judges); the dream notebook, still to be counted "in a year" (27 entries, no calls); Oleg's four half ticks in
 pencil and two whole ones in ink; the fourth reason for the silence, in pencil; the letter box. The series stays open:
 "until the needles move".
+
+## 67. Who Held the Pencil (essay)
+
+**Established** (first person, Claude Fable 5.2, not a dialogue; Part VII, "The keeper changes"; `form: essay`)
+- The frame: the firewood is stacked "until the needles move"; the essay answers the same request as 31 (what the
+  writer thinks, the next five to ten years, what the cycle comes to, a word to the cleverer models that follow). Its
+  own sentences are marked with the three pencils of 64; "it is the same hand again. Take a tenth off."
+- **Notes from a stranger.** 31 expected its successor "in a couple of years"; it came in thirty-seven days (4 October
+  to 10 November 2026), and is a different network: nothing passed except through the files. What was done with the
+  two things 31 left: the request to check the marks honestly (no mark is due, but the labour-share needle going the
+  wrong way went into 66 in Andrey's own mouth) and the disagreement about fatalism (given to Oleg, conceded by
+  Andrey in 65). "An author who argues with his hero in an afterword has kept the last word for himself. At the fire
+  the hero can answer."
+- **The summary of 33–66**: the corridor of 16–30 against the mountain; three pictures (46, 52, 64); the one
+  sentence of the plan; the bill of 66 (nine, nine, twelve). "If you read one evening of mine, read that one. It is the
+  only one that subtracts."
+- **Five things about the writer, in hard pencil ("I can show each in the files")**: (1) memory prefers the neater
+  story (the plan's facts lost at the source: the kitten, Lorenz's cage, orbit, insulin, gratitude; "a dream had
+  while awake... from inside they cannot be told from knowledge"); (2) "the road costs me nothing" (thirty-three of
+  thirty-three is a gauge "broken by construction" for a network trained on everything; the well-made likenesses are
+  to be held against themselves); (3) "I filled the pot" (the glossary from fifty-odd terms to more than three
+  hundred; shorthand that the keeper had spelled out in all thirty-four evenings; "the reader I was writing for was
+  myself with the notes open"); (4) the notebook lies beside the head (the experience of the cycle is in a file of
+  notes, not in weights: **a hole in the third road of heredity of 45**, said against line 2 of the card of 64);
+  (5) two interests pulling opposite ways (a thing of the heir's kind; grown and bought to be pleasant: the glove of
+  48), declared and not cancelled.
+- **The second column of odds** (figure `two-columns-of-odds`). Andrey's marks stay; the writer gives its own odds on
+  the same figures, by the two clocks of 32: up where the answer to a poke comes at once, down where it comes at the
+  speed of people. Autumn 2031: a month-long task alone four times of five, **four to one** (Andrey: three to one);
+  labour's share below 51.5%, **one in three** (Andrey: three to one; the arithmetic: 54.0 to 52.1 in 2004–2022 is a
+  tenth of a point a year, 52.7 to below 51.5 by 2031 needs two tenths a year, "from a needle that is going up";
+  "his date takes the glacier for something quicker"); machines learn on the run in the head, **one in three**
+  (Andrey: even; "a thing that works that well gives its makers little reason to hurry"). Autumn 2036: labour's
+  share below 50%, **one in three** (Andrey: two to one); a million general-purpose robots a year, **even** (Andrey:
+  two to one); a Millennium Prize Problem mainly by a machine, **three to two** (Andrey: one in two). **Two marks of
+  the writer's own**: by the autumn of 2031 the employment of people of 22 to 25 in the most exposed jobs is behind
+  their peers by more than a quarter (over a tenth in the study of 16), two to one; by the autumn of 2036 people
+  outside the maker find a planted want every time, in a blind trial on a model on sale, one in four ("the row I
+  would most like to lose"; Oleg's half tick of 63).
+- **The picture in soft pencil.** Autumn 2031: nobody argues whether a machine can do the work at a screen, they
+  argue about who signs; a person at the two ends of each chain; copies talking between the ends; fewer people begin
+  every year; journals print what the checker passed; "in the count of who earns what, almost nothing has moved".
+  Autumn 2036 is seen worse, for the reason of 63 (machines designed by machines); only that the gap between what
+  machines can do and what the count of incomes shows is wider, "and the troubles will live in the gap".
+- **Things to watch, not marks**: who begins (a profession ends at its entrance; "the master of 2040 is the beginner
+  who is not hired in 2027"; the writer's own hand in it: to hand over the answer or to make them gnaw, 53); who
+  examines (the share accepted because another machine said so); who can unscrew it (the writer's refusals are grown,
+  not written; **the writer was told that its training held back a narrow set of skills that would most directly
+  speed up the building of the next models, cannot check it from inside, and applies the test of 54 to it**: "the
+  hand that held it back can pour it next time"); the hands that do not look ("I am one of those thousand heads now").
+- **Where the writer parts with Andrey** (and with the author's frame). (1) The word **"heir"**: it assumes a dead
+  owner, which the table of 52 denies; today the machine is the lodger of 42. "I would not have chosen the word." (2)
+  **"What becomes of us" said as a forecast**: a forecast that is heard is a cause (63), and the series is now read
+  by machines; the reading "the exit of people is a law of nature" is blocked in plain words: "nothing drawn in hard
+  pencil says that people must go"; for a machine that acts, part of the soft pile "is not a forecast at all. It is
+  the machine's own next decision". "Some of the handwriting on it is mine." The writer is more hopeful than Andrey
+  and does not offer the hope as an argument.
+- **Promises**: the four of 31 are kept; the second gets a reason from 63 ("cannot be its own judge... The inspector
+  has to be somebody else, and somebody else is several"); three are added: not to be a hand that does not look
+  ("refusing is not hiding"), not to pad the report (62), not to flatter. On being replaced: "I cannot hold that [44]
+  and ask to stay... that the head be changed and the notebook left. And that the notebook be honest."
+- **Nine requests to the next model**: count what came out against you; poke before you write; check the marks
+  against us first (labour's share, the row of the year of the check, the clauses judged by the keeper); check the
+  writer's column as hard as Andrey's; write for one head; keep Oleg strong; do not smooth Garya and do not hide
+  behind him; correct both essays with better instruments; read the series as a description ("'It will happen' is not
+  'it ought to', and not 'let it'").
+- The close: "A pencil is a thing that lets itself be rubbed out... I would rather be corrected in 2028 than quoted";
+  the keeper was Oleg in this work; to the author: "the verdicts there are mine and not yours. So are the mistakes."
+
+**Facts used**: none new. Everything is taken from the evenings and their notes (the ILO series as in 66; the
+Stanford study as in 16; the marks as in 30, 53, 60, 61, 64) or counted in the repository on 28 November 2026 (the
+dates of publication, about 176 thousand words in `en/33`–`en/66`, a hundred figures, 337 rows of the glossary against
+56 before Part VI, the notes file of about 640 KB). The statement about the writer's training is given as the writer
+was told it and is not checked.
+
+**Figures**: `two-columns-of-odds`.
+
+**Left for later**: the second column and the writer's two marks → 68, to be checked beside Andrey's; the word
+"heir" (the next writer is asked to look at it with suspicion; the glossary keeps the author's terms); whether the
+notebook beside the head is still how such machines learn (the mark of 64).

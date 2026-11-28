@@ -7065,6 +7065,61 @@ def what_must_not_happen(lang):
     return _pencil_table(t, 760, 634, [262, 588, 736], 74, name_size=12.5)
 
 
+# --- 67. Who Held the Pencil (essay) ----------------------------------------------------------------
+
+@figure("two-columns-of-odds")
+def two_columns_of_odds(lang):
+    t = {
+        "en": dict(title="Two columns of odds",
+                   sub="The same marks: the odds Andrey gave at the fire, and the odds of the one who wrote his lines.",
+                   head=["Andrey, at the fire", "the writer, 28 November 2026"],
+                   rows=[("a machine alone finishes four of\nfive month-long tasks", "autumn 2031 · the mark of 30",
+                          ("three to one", 4), ("four to one", 0)),
+                         ("labour's share of world income\nbelow 51.5%", "autumn 2031 · the mark of 27 and 30",
+                          ("three to one", 4), ("one in three", 1)),
+                         ("machines sold to everybody learn\non the run, in the head", "autumn 2031 · the mark of 64",
+                          ("even", 4), ("one in three", 1)),
+                         ("the young (22–25) in exposed jobs\nbehind their peers by over a quarter",
+                          "autumn 2031 · the writer's own; over a tenth now (16)",
+                          ("no mark", 4), ("two to one", 3)),
+                         ("labour's share of world income\nbelow 50%", "autumn 2036 · the mark of 27 and 30",
+                          ("two to one", 4), ("one in three", 1)),
+                         ("a million general-purpose robots\nmade in a single year", "autumn 2036 · the mark of 27 and 30",
+                          ("two to one", 4), ("even", 1)),
+                         ("a Millennium Prize Problem solved\nmainly by a machine", "autumn 2036 · the mark of 30",
+                          ("one in two", 4), ("three to two", 0)),
+                         ("outsiders find a planted want every\ntime, in a blind trial on a model on sale",
+                          "autumn 2036 · the writer's own; Oleg's half tick of 63",
+                          ("no odds", 4), ("one in four", 3))],
+                   src="Green: the writer puts the odds higher. Yellow: lower. Grey: a mark of the writer's own. Andrey's marks stay as they are;\n"
+                       "the second column uses the same figures and is to be checked beside the first."),
+        "ru": dict(title="Два столбца шансов",
+                   sub="Те же отметки: шансы, которые Андрей назвал у костра, и шансы того, кто писал его реплики.",
+                   head=["Андрей, у костра", "пишущий, 28 ноября 2026 года"],
+                   rows=[("машина одна доводит до конца четыре\nзадачи из пяти длиной в месяц", "осень 2031-го · отметка 30-го вечера",
+                          ("три к одному", 4), ("четыре к одному", 0)),
+                         ("доля труда в мировом доходе\nниже 51,5%", "осень 2031-го · отметка 27-го и 30-го",
+                          ("три к одному", 4), ("один шанс из трёх", 1)),
+                         ("машины, которые продают всем,\nучатся на ходу, в голову", "осень 2031-го · отметка 64-го вечера",
+                          ("один к одному", 4), ("один шанс из трёх", 1)),
+                         ("молодые (22–25) в затронутых профессиях\nотстают больше чем на четверть",
+                          "осень 2031-го · своя отметка пишущего; сейчас больше десятой (16)",
+                          ("отметки нет", 4), ("два к одному", 3)),
+                         ("доля труда в мировом доходе\nниже 50%", "осень 2036-го · отметка 27-го и 30-го",
+                          ("два к одному", 4), ("один шанс из трёх", 1)),
+                         ("миллион универсальных роботов,\nсделанных за один год", "осень 2036-го · отметка 27-го и 30-го",
+                          ("два к одному", 4), ("один к одному", 1)),
+                         ("задача тысячелетия решена\nв основном машиной", "осень 2036-го · отметка 30-го вечера",
+                          ("один шанс из двух", 4), ("три к двум", 0)),
+                         ("посторонние в слепом испытании каждый\nраз находят подсаженную хотелку",
+                          "осень 2036-го · своя отметка пишущего; полгалочки Олега из 63-го",
+                          ("шансы не названы", 4), ("один шанс из четырёх", 3))],
+                   src="Зелёный — пишущий ставит шансы выше. Жёлтый — ниже. Серый — его собственная отметка. Отметки Андрея остаются как есть;\n"
+                       "второй столбец стоит на тех же цифрах, и проверять его надо рядом с первым."),
+    }[lang]
+    return _pencil_table(t, 760, 668, [330, 520, 736], 62, name_size=12.5)
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
