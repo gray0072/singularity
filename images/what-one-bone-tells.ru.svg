@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Что говорит одна кость</title>
+
+<rect x="0.5" y="0.5" width="759" height="391" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Что говорит одна кость</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Три способа нарисовать зверя, которого никто не видел, и насколько каждому можно верить.</text>
+<text x="371.0" y="102.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">что это даёт</text>
+<text x="626.0" y="102.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">карандаш</text>
+<line x1="28.0" y1="118.0" x2="736.0" y2="118.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="143.0" font-size="13.5" fill="#0b0b0b" font-weight="600"><tspan x="34.0" dy="0.0">по закону, которому</tspan><tspan x="34.0" dy="16.9">безразличен материал</tspan></text>
+<text x="34.0" y="176.0" font-size="11" fill="#8a8985">рисунок 1638 года; сантиметровая лента</text>
+<text x="371.0" y="150.0" font-size="12" fill="#0b0b0b" text-anchor="middle">вес, по толщине кости; затем примерно</text>
+<text x="371.0" y="166.0" font-size="12" fill="#0b0b0b" text-anchor="middle">корм и темп жизни</text>
+<rect x="521.0" y="124.0" width="210.0" height="60.0" rx="6" fill="#e6f4ea"/>
+<text x="626.0" y="150.0" font-size="12" fill="#008300" text-anchor="middle">твёрдый: не спрашивает,</text>
+<text x="626.0" y="166.0" font-size="12" fill="#008300" text-anchor="middle">из какой семьи</text>
+<line x1="28.0" y1="190.0" x2="736.0" y2="190.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="215.0" font-size="13.5" fill="#0b0b0b" font-weight="600"><tspan x="34.0" dy="0.0">по сходству</tspan><tspan x="34.0" dy="16.9">с родственником</tspan></text>
+<text x="34.0" y="248.0" font-size="11" fill="#8a8985">сумчатые кости 1804 года</text>
+<text x="371.0" y="222.0" font-size="12" fill="#0b0b0b" text-anchor="middle">зубы, сумка, корм: то, что сходилось</text>
+<text x="371.0" y="238.0" font-size="12" fill="#0b0b0b" text-anchor="middle">у каждого виденного зверя</text>
+<rect x="521.0" y="196.0" width="210.0" height="60.0" rx="6" fill="#fdf3d7"/>
+<text x="626.0" y="222.0" font-size="12" fill="#8a6200" text-anchor="middle">мягкий: верно внутри семьи,</text>
+<text x="626.0" y="238.0" font-size="12" fill="#8a6200" text-anchor="middle">ошибся на когтях 1822 года</text>
+<line x1="28.0" y1="262.0" x2="736.0" y2="262.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="303.0" font-size="13.5" fill="#0b0b0b" font-weight="600">никак</text>
+<text x="371.0" y="294.0" font-size="12" fill="#0b0b0b" text-anchor="middle">цвет, голос, нрав,</text>
+<text x="371.0" y="310.0" font-size="12" fill="#0b0b0b" text-anchor="middle">лицо</text>
+<rect x="521.0" y="268.0" width="210.0" height="60.0" rx="6" fill="#efeeea"/>
+<text x="626.0" y="302.0" font-size="12" fill="#52514e" text-anchor="middle">никакого</text>
+<line x1="28.0" y1="334.0" x2="736.0" y2="334.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="360.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Когти и зубы из Эппельсхайма числились в книгах двумя животными с 1833 по 1890 год.</tspan><tspan x="28.0" dy="14.4">Третий столбец — прочтение вечера.</tspan></text>
+</svg>

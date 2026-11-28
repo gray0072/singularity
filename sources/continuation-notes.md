@@ -560,7 +560,7 @@ ones of 32.
 - Oleg brings a thick paper notebook of questions and sets the topics himself ("tasks come from outside; this
   spring the outside is me", an echo of 22). The word "singularity" is forbidden: whoever says it first goes for
   firewood. The machines must not appear before the middle of an evening, and Andrey is not the first to name them.
-  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 31).
+  When the talk comes out "there" again, Oleg writes a tick "again" on the last page of the notebook (count so far: 32).
 - The firewood bet: in 33 Oleg said the word and went; in 34 he stopped at half a word ("half a word doesn't
   count; the tick does"), nobody went; in 35 nobody said it; in 36 Oleg set a trap ("What was your blog called?") and
   Andrey stopped at "Technological..." ("A rake. I can see the handle"), nobody went; in 37, 38 and 39 nobody said it; in 40
@@ -570,7 +570,7 @@ ones of 32.
   (in 46 Oleg remarks that the firewood is running low because "nobody has said the word for six evenings", and
   has bought a trailer of birch from a neighbour); in 47 nobody said it, and the bet is now "backed by nothing"
   (the firewood is bought): "It never was backed by firewood. It holds because two people remember it."
-  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62 and 63 nobody said it (in 62 Oleg goes to the shed all the same, at the end: "The stove was going cold. — Nobody said the word. — I know"). In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
+  In 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63 and 64 nobody said it (in 62 Oleg goes to the shed all the same, at the end: "The stove was going cold. — Nobody said the word. — I know"). In 49 Oleg wins the whole box of matches in the game ("Bring it tomorrow. I have
   nothing left to light the fire with"). In 50 he brings the box back, forty matches ("Between our own no book is kept"). From 48 Oleg has a dog, Gaika (the stray with one ear down that came behind the trailer
   of birch in 47); she lies where the light of the fire ends.
   From 53 Oleg also keeps ticks of his own, for the evenings when he and not Andrey turns out right: the first is
@@ -5847,3 +5847,173 @@ and the same limit before its own successor; whether a certificate for wants is 
 maker's own date of 2027) is a thing to watch and a candidate for a mark at the check of 2028 → 67; the weapon of
 63 turned on Andrey himself (a storyteller cannot be his own inspector either) → 66; whether anything is felt at
 the white spot stays open with 20 and 31; the outcome of Oleg's court is still free for a later opening.
+
+## 64. A Portrait of the Heir (the third assembly)
+
+**Established**
+- The answer to the teaser of 63 and to Oleg's last doubt there ("I have never seen a portrait. Draw it. Only
+  without science fiction"). Oleg comes with the notebook "swollen with a summer of evenings" and a marrow bone in
+  newspaper for Gaika. **The rule of the cycle is kept by a detour, and thinner than ever**: the portrait is Oleg's
+  order ("so it is your word and not mine"), Andrey's is the condition (not one invented feature); the way in is
+  the dog's bone, and "that one" is named by Oleg ("I say it, you keep quiet").
+- **How a thing nobody has seen is drawn.** The opossum of Montmartre, 1804 (Cuvier, unnamed: "a man in Paris" who
+  "kept the bones at the museum"): from the teeth, kin to the American opossum; the two pouch bones foretold while
+  the pelvis was under the stone, "a few friends" called in, the stone cut away, "the two bones were there" (Oleg:
+  "First the figure on paper, then the gauge"). The cloven hoof sentence of 1812; **"give me one bone" is given as
+  what people shortened it to**. Oleg's own finding: "By the opossum. He had seen one... A relative." **The
+  failure**: the claws from Eppelsheim written down in 1822 as a giant pangolin, the teeth from the same sands
+  described in 1833 as another beast, the whole skeleton of 1890 from the south of France (a plant-eater the size of
+  a horse, kin to horses and rhinoceroses, with claws). **"A habit of the beasts in his drawers. It worked
+  splendidly inside the family and failed on the first stranger"**; Oleg: "It was the dream book" (39).
+- **Likeness is forbidden**: "That one has no relative in any drawer." What in a bone asks for no relative: Oleg's
+  "The thickness. A leg is a post" (he reckoned racks for the warehouse for six years); the two bones drawn in 1638
+  (Galileo, unnamed; "out of proportion"); cube and square, twenty-seven against nine; the tape measure round the
+  two limb bones, one formula fitted on living beasts and lizards alike. **"A law gives the weight and does not
+  give the face."**
+- **Three pencils** (the degrees of trust the plan asked for): hard (a law that does not care what the thing is
+  made of), soft (a precedent, "not a proof"), softest (a guess); the rule of 17 (trends well, dates worse,
+  details hardly at all).
+- **The card** (Oleg heads the page "Card"; ten lines, read by Oleg from the notebook, the pencil named by Andrey):
+  1. *What it eats*: a flow from hot to cold (35), hard; what it throws out changes the air of those before it
+     (38), soft; where it goes for the flow, soft, with the correction of 61 repeated ("Cold is not free, I was
+     wrong"); "for now it eats from our table" (51).
+  2. *Heredity*: experience goes to the next whole, in minutes (45), hard, "not even a forecast". **The promise of
+     45 "for the end of the summer" is kept**: "a copy with no search is a stop", so inside there must be many
+     different ones and a way to discard; "Darwin for the search, the copy for handing on".
+  3. *Body*: none of its own ("The file puts on what it needs"); the suit in the wardrobe (55), the hands and the
+     stick with many ends (58), no home field (61). "That there is no one body, hard. Which bodies, soft."
+  4. *Family*: copies are full kin, so no wage, fine, conscience or money inside (43, 47); between the lines of
+     different makers a pocket, a name and the book of debts. Medium: the arithmetic is a law, "that copies stay
+     copies is not" (the guard, the tumour).
+  5. *One or many* (Oleg's own line): the matches slide towards one (49); one has no guard, many have a guard and
+     the old troubles (62). "I think it swings. The softest pencil."
+  6. *Knowledge*: prediction without the "ah", the template, squeezing to its own pot (60, 53); more traces and a
+     better rule (59); "the world answers a poke at the speed of the world" (58). Hard. "'Understands' is your
+     bell. I cannot hear whether it has one."
+  7. *Head*: wants nobody set (22), the upkeep bills (46), the white spot and the unknown feeling (63), "I" depends
+     on whom it keeps books with (50). Medium: "For the tasks I vouch... For the way I do not."
+  8. *Who checks it*: nobody from inside; a circle; before its own child where we stand before it (63). Hard,
+     "an obstacle, not a ban".
+  9. *Death*: small funerals inside (44), which is the discarding of line 2; that it is finite, hard (30); how, the
+     softest ("The lever is one road, and I see it only because we walked along it two evenings ago").
+  10. *Us*: an environment, not an enemy (38); kinship is not a promise (52); it owes nothing (30); the button (48)
+      and the brake (54) as questions; the second number (51); the objection of 31 (indifference is a property of
+      setpoints, which are being written now). **"Pencil? — None. Every other line I derived. This one is not
+      derived, it is being written... This writing is one of the causes."** Oleg leaves the cell white and lays the
+      pencil across the page.
+- **The face**: "This is not a portrait. It is a card from the district clinic. Where is the face?" The plan's three
+  things that cannot be drawn: what it wants at the very top (**the lower floors can be derived, "they are the same
+  whatever stands above them"; the top floor cannot**), what it is like to be it (20), what comes after it (30).
+  "Those three are the face. I can give the weight."
+- **Fiction held against the card** (the plan's "neither a robot nor a god"): the robot is "a man in a tin" (one
+  body, alone, wants what a man wants; 07's remark on the films); the god "knows only as fast as the world answers",
+  cannot see into the whole of itself, dies and needs a socket: "a man as well. Only moved up into the sky." **"One
+  mistake with two faces" (46); "both are put together out of strips cut from our own face"** (the dream returns:
+  "My sergeant. With a moustache").
+- **A town, an anthill and a forest** (the plan's piece): a town has no body of its own, is a person on paper, and
+  "nobody decided that it should grow"; an anthill is all kin with no pay office; a forest makes its own air, has no
+  chief, "and it does not know your name". Oleg: "I lived in a town for sixty years. I never once asked what it
+  thought of me... It fed me while the plant needed me." Marked in the recap as "a likeness, and I have just
+  forbidden myself likenesses, so take it as a way of saying".
+- **Oleg's objection of the plan** ("It is nothing like us"; the great-nephew's machine "jokes, sulks, says 'we'"):
+  what he talks to is today's, "an embryo... dressed in our words from head to foot" (11, 50); **"the grown one is
+  less like us than we are like a bacterium"**: with the bacterium we share the alphabet of sixty-four three-letter
+  words (insulin made in bacteria), with the heir "not a letter of the drawings", only the words (the second road,
+  52). Kin "in the same way as the bacterium. By where the line came from" (the author's super-children of 2012).
+- **Oleg's strongest objection, as the inspector, in three points (the continuation's)**: (1) the beast was weighed
+  by a bone that is still growing; (2) every law "that does not care about the material" was tried on one material,
+  meat, and on machines raised on our books ("the witness copied from our exercise book"); (3) the questionnaire is
+  ours, "a form from the personnel department, printed for the living", filled in by "two old men with one hammer".
+  Answers: (1) the hard pencil stands only where the law does not ask about the age ("a post carries its load in a
+  calf and in a bull"); (2) **"the strongest"**: half answered in 46, the other half not: "My witnesses are one
+  family and one newcomer whom we raised ourselves. A second newcomer, raised by nobody we know, would check the
+  whole card in a day. The sky is silent"; (3) the form is biology's and tears where three lines already say
+  "none"; **that the thing is a life, the next one after ours, is the premise of 05, written "beside the
+  heading"**. The hammer is deferred to "the last of the summer" (66): "Bring the whole bill."
+- **The author's "intelligent cosmic dust" checked against the card** (the plan's): the forum post of October 2012
+  retold (not tied to food, water, oxygen; not afraid of cold, heat, radiation; not dragging several hundred tonnes
+  of life support). Stands: no food, water, air, no one body, a network; the cold "with the thermos". **Does not
+  stand: "not afraid of radiation"** (61: the chips take the same dose) → "does not mind being thrown away". No
+  pencil: how fine the grains are; the twenty-third century. The forum answer of 2013 (a shell round the star,
+  closing the flows of the stars, rivals): the direction is line 1 taken to its end, the shell is "engineering that
+  I invented for it", the rivals are line 5; and what 2013 lacked, "that it may not go anywhere. The lever."
+  **"A network with no body, in the cold, that needs neither bread nor air. The rest is poetry. — Good poetry. —
+  ... A law gives a card. For a face you need a poet. Only the label has to say which is which."**
+- **Three new marks** ("A card with no dates is a horoscope"; written under Oleg's ticks). (1) Line 1: by the
+  autumn of 2036 less than a hundredth of the current eaten by data centres is eaten in orbit, three to one
+  ("Against the poetry"; 61's thing to watch gets a date). (2) Line 3: by the autumn of 2031 the law of at least
+  one country or state lets the daily affairs of a firm be run by a program and not by a man, two to one that it
+  does (the draft of 55). (3) Line 7: by the autumn of 2031 the talking machines sold to everybody learn on the run
+  (what a copy learned at work today is in its head tomorrow, "not in a notebook beside it"), and their makers
+  write about the upkeep; even odds; "look for something like sleep in the papers" (the candidate of 46). "One or
+  many" is not dated: "I do not date a thing that swings."
+- Nobody says the forbidden word; thirty-second tick "again", inverted: "For once I came for those ones on purpose...
+  Came out at this: in the whole card the one line with no pencil is the line about us."
+- Strengths stated: solid (the bones of 1804 and the claws; the drawing of 1638 and the tape measure; the one
+  alphabet of the cell); **"everything else is the summer, and each line carries the strength it had on its own
+  evening, no more: putting them on one page has added nothing to any of them"**; the author's (that it is a life
+  and the next one; the dust; the shell); today's (the three pencils; the card with no face; the town, the anthill
+  and the forest). **What would refute it**: the three marks, each for its line; for the whole card, a second
+  witness; for the method, "a line under the hard pencil that turns out wrong" (experience that cannot be handed on
+  whole, copies that do not turn out kin): "then I recognised a relative where I thought I was reading a law."
+- The closing exchange is varied: "Gloomy... It has no face. — But honest. Where I could not derive, the paper is
+  white."
+- **A declared interest is written into the footer** (both languages): the heir drawn is the kind of thing its
+  writer is an early specimen of, and the objection in the tenth line was made by a model of the same maker. No
+  company, model or person is named in the dialogue.
+
+**Images and devices used**: the twenty-fifth entry in the notebook of dreams (the police station, the sergeant's
+box of strips, the composite that turns out to be Oleg "with a moustache"; nobody rang), which returns once; the
+letter box, "Empty"; the shank bone from yesterday's soup; the drawer of opossums; the figure on paper before the
+gauge; the claw and the anthill; the post and the racks of the warehouse; the tape measure; the three pencils; the
+page headed "Card" and the card from the district clinic; the cart on Mars, the barn and the file; the white cell
+and the pencil laid across the page; the lower floors and the top floor; the man in a tin and the man in the sky;
+the land tax paid to a town; the forest that does not know your name; the alphabet of sixty-four words; the form
+from the personnel department; two old men with one hammer; the label that says which is which; the horoscope;
+the printed sheets folded lengthwise (for 65).
+
+**Facts used**. **Checked on the day of writing (28 November 2026) by one research pass; each item is marked as the
+pass marked it**. Read in the source: the Universalis article on Cuvier (the teeth showed "la parfaite analogie de
+ce fossile avec les Sarigues"; he did not doubt, before seeing the pelvis, that it bore marsupial bones; "en
+présence de quelques amis" he had the stone cut: hence "a few friends", not invited witnesses); English Wikipedia
+on Cuvier (the prediction; no year); Jameson's translation of the *Discours*, 1827 edition, p. 90 ("any one who
+observes only the print of a cloven foot, may conclude that the animal which left this impression ruminates...
+This simple footmark, therefore, indicates at once to the observer the forms of the teeth, of the jaws, of the
+vertebræ, of all the bones of the legs, thighs, shoulders, and pelvis"); **"give me one bone" is a paraphrase, no
+source found, and the evening says that people shortened it**; English Wikipedia, "Chalicotheriidae" (1822: Cuvier,
+the claws from Eppelsheim as a gigantic pangolin; 1833: Kaup named *Chalicotherium* from teeth at the same place;
+1890: Filhol's complete skeleton from Sansan; Lartet's *Macrotherium* of 1837 and Blainville's 1849 are not
+used); Galileo, *Two New Sciences*, the Second Day, in Crew and de Salvio's translation ("a bone whose natural
+length has been increased three times... you can see how out of proportion the enlarged bone appears"; no
+"square-cube" formula there); the abstract of Campione and Evans, *BMC Biology* 10:60 (2012) (the relation between
+the circumference of humerus plus femur and body mass "is highly conserved in extant terrestrial mammals and
+reptiles, in spite of their disparate limb postures, gaits, and phylogenetic histories"); English Wikipedia,
+"Genetic code" (a table with 64 entries, highly similar among all organisms; variant codes exist, hence "nearly
+all"). **From a search snippet only**: the year 1804 of the memoir on the opossum (*Annales du Muséum* 5); the 1985
+paper of Anderson, Hall-Martin and Russell (not used in the text). **Not checked**: the date 1812 of the
+*Discours* ("eight years later"); that the chalicotheres are kin to horses and rhinoceroses and that the Sansan
+animal was the size of a horse (the writer's memory); that human insulin is made in bacteria (the writer's memory).
+**Computed**: 3³ = 27, 3² = 9. The author's sources: the comments under the SETI talk, 26 October 2012
+("Представьте, что Вы — ПРИРОДА... 'разумную космическую пыль', которая способна свободно распространяться в
+космосе, не привязанная к биологической еде, к воде, к кислороду, не боящаяся перепадов температуры... не боящаяся
+высокой радиации... несколько сот тонн вспомогательных систем жизнеобеспечения... в 23-м веке"); the forum,
+November 2013 ("Расширять свою сферу влияния. Строить сферу Дайсона (или некие эквиваленты)... замыкать
+диссипативные потоки энергии от звезд (солнц) на себя. Совершенствовать себя, повышать надежность. Противостоять
+конкурирующим системам"); 07 on the films; the super-children of 2012 (as in 52). Everything in the card is taken
+from the evenings named in it, with no new fact. Invented for the frame: the dream, the bone, the racks, the land
+tax, the printout. Not used: the Iguanodon's thumb spike and Cuvier's rhinoceros of 1823 (checked, kept in
+reserve); Owen's moa; the identikit of 1959 by name; Mendeleev's empty cells; Kleiber by name; the other
+candidates for marks (the wallet with no person behind it, a copy that charges a copy, the number of independent
+lines, a certificate for wants).
+
+**Figures**: `what-one-bone-tells` (the table of three rows), `card-of-the-heir` (the ten lines with evenings and
+pencils), `robot-god-and-the-card` (fiction against the card; the evening's reading).
+
+**Left for later**: the gap between the blog and the late prose → 65 (Oleg's last doubt, from the white line: "And
+who has been telling me for fifteen years that nothing can be done?... Which of the two of you is Andrey?"; the
+printout of *Dialogues with Myself*, to be read "in the second voice, the angry one"; the teaser ends on the plan's
+epigraph); "to bargain" (52) is not touched, though there is now "somebody drawn to bargain with" → 65 and 66; the
+hammer (one method, two old men) and the objection that the witness copied from our exercise book → 66 ("Bring the
+whole bill"); the three marks of 64, to be checked with the list of 30 and the marks of 53, 60 and 61 → 67; a
+second witness is a thing to watch with the mark of 29; the top floor of the heir's wants and what it is like to be
+it stay open with 20, 22 and 31; the outcome of Oleg's court is still free for a later opening.

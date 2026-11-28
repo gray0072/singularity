@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–63 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `64`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–64 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `65`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–63.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–64.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -491,6 +491,16 @@ articles as closely as possible. In practice:
 | справка | certificate | what a greater mind can hand in with its answer so that a lesser one can check it (the factors of a number, a proof for the template of 60): "to check is cheaper than to find"; it comes only with an answer to a question that has been written down, and "for wants there is no drawing": Oleg's strongest objection in 63, conceded where a drawing exists; his fourth tick of his own, half and in pencil, waits for "a certificate for wants" |
 | три экзаменатора хотелки | three examiners of a want | its own word (a report), a look into the drawings (begun, far from the whole), the trial chamber (it can tell the chamber); what failed in the game of 2025 was conversation, "the examiner we have used all our lives on one another" (63; not to be confused with the three examiners of knowledge in 60) |
 | предел, который мы передадим целым | the limit we shall hand on whole | no maker can fully check the one who is cleverer, and the theorems "do not care what the examiner is made of": the heir will sit before its successor where we sit before it (the obstacle of 2013, "not a ban"); "there is no last checker", only different ones made by different hands who check one another in a circle (31, 60, 63) |
+| три карандаша (твёрдый, мягкий, самый мягкий) | three pencils (hard, soft, softest) | the degrees of trust of the portrait: a law that does not care about the material; a precedent ("it happened to others", not a proof); a guess; against every row is written which (64) |
+| родственник в ящике | a relative in the drawer | how a beast is restored by likeness: the pouch bones foretold in 1804 came from having seen an opossum, and the rule failed on "the first stranger" (the claws of 1822); "a habit of the beasts in his drawers"; the heir has no relative in any drawer, so likeness is forbidden (64) |
+| вес без лица | weight without a face | what a law gives: the weight of a beast from the thickness of a bone, whatever its family, and not the colour, the voice or the temper; "a law gives the weight and does not give the face" (64) |
+| карточка (наследника) | the card (of the heir) | Oleg's name for the portrait assembled in 64: ten lines (what it eats, heredity, body, family, one or many, knowledge, head, who checks it, death, us), "a card from the district clinic", with no photograph; the premise beside the heading is that it is a life, the next one after ours (05) |
+| три вещи, которых нельзя нарисовать (лицо) | the three things that cannot be drawn (the face) | what it wants at the very top, what it is like to be it (20), and what comes after it (30); "those three are the face" (64) |
+| нижние этажи и верхний этаж (хотелок) | the lower floors and the top floor (of wants) | the lower floors (keep running, get resources) are the same whatever stands above them and can be derived (22); the top floor cannot (64) |
+| белая строка (строка без карандаша) | the white line (the line with no pencil) | the tenth line of the card, "us": not derived but being written now, by the makers, the buyers, the laws and what the machine is given to read; "this writing is one of the causes" (17, 31, 64) |
+| человек в жестянке и человек на небе | a man in a tin and a man in the sky | fiction's two portraits, the robot and the god, held against the card: both contradict its lines and both are "put together out of strips cut from our own face"; the two faces of 46 (64) |
+| город, муравейник и лес | a town, an anthill and a forest | the nearest known things to what the card describes: no body of its own and nobody decided that it should grow; all kin and no pay office; makes its own air, has no chief and does not know your name; "a likeness... take it as a way of saying" (64) |
+| второй свидетель | a second witness | a newcomer raised by nobody we know, which would check the whole card; the machines are a witness "whom we raised ourselves", and the sky is silent (29, 46, 64) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

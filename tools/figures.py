@@ -6580,6 +6580,192 @@ def who_can_learn_what_about_a_mind(lang):
     return f
 
 
+# --- 64. A Portrait of the Heir --------------------------------------------------------------------
+
+_PENCIL_TINT = [("#e6f4ea", GREEN), ("#fdf3d7", "#8a6200"), ("#fbe3e2", "#b3302f"), ("#efeeea", INK2),
+                (SURFACE, INK)]
+
+
+def _pencil_table(t, width, height, cols, row_h, head_h=34, name_size=13.5, cell_size=12):
+    """A table with a name column and tinted cells; each cell is (text, kind), kind indexes _PENCIL_TINT."""
+    f = Fig(width, height, t["title"])
+    heading(f, t["title"], t["sub"])
+    top = 84
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 18, label, size=12.5, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, *cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(28, y, cols[-1], y, color=GRID, width=1.2)
+        nl = name.split("\n")
+        shift = 0 if who else 8
+        f.text(34, y + row_h / 2 - 3 - (len(nl) - 1) * 8 + shift, name, size=name_size, color=INK, weight="600")
+        if who:
+            f.text(34, y + row_h / 2 + 14 + (len(nl) - 1) * 8, who, size=11, color=MUTED)
+        for k, (cell, kind) in enumerate(cells):
+            fill, ink = _PENCIL_TINT[kind]
+            if kind != 4:
+                f.rect(cols[k] + 5, y + 6, cols[k + 1] - cols[k] - 10, row_h - 12, fill=fill, r=6)
+            lines = cell.split("\n")
+            yy = y + row_h / 2 + 4 - (len(lines) - 1) * 8
+            for j, line in enumerate(lines):
+                f.text((cols[k] + cols[k + 1]) / 2, yy + j * 16, line, size=cell_size, color=ink, anchor="middle")
+    bottom = top + head_h + len(t["rows"]) * row_h
+    f.line(28, bottom, cols[-1], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-one-bone-tells")
+def what_one_bone_tells(lang):
+    t = {
+        "en": dict(title="What one bone tells",
+                   sub="Three ways of drawing a beast that nobody has seen, and how far each can be trusted.",
+                   head=["what it gives", "the pencil"],
+                   rows=[("by a law that does not\ncare about the material", "the drawing of 1638; the tape measure",
+                          ("the weight, from the thickness of the bone;\nthen roughly the food and the pace of life", 4),
+                          ("hard: it does not ask\nwhose family", 0)),
+                         ("by likeness\nto a relative", "the pouch bones of 1804",
+                          ("the teeth, the pouch, the diet:\nwhat went together in every beast seen", 4),
+                          ("soft: right inside the family,\nwrong on the claws of 1822", 1)),
+                         ("not at all", "",
+                          ("the colour, the voice, the temper,\nthe face", 4),
+                          ("none", 3))],
+                   src="The claws and the teeth from Eppelsheim stood in the books as two animals from 1833 to 1890.\n"
+                       "The third column is the evening's reading."),
+        "ru": dict(title="Что говорит одна кость",
+                   sub="Три способа нарисовать зверя, которого никто не видел, и насколько каждому можно верить.",
+                   head=["что это даёт", "карандаш"],
+                   rows=[("по закону, которому\nбезразличен материал", "рисунок 1638 года; сантиметровая лента",
+                          ("вес, по толщине кости; затем примерно\nкорм и темп жизни", 4),
+                          ("твёрдый: не спрашивает,\nиз какой семьи", 0)),
+                         ("по сходству\nс родственником", "сумчатые кости 1804 года",
+                          ("зубы, сумка, корм: то, что сходилось\nу каждого виденного зверя", 4),
+                          ("мягкий: верно внутри семьи,\nошибся на когтях 1822 года", 1)),
+                         ("никак", "",
+                          ("цвет, голос, нрав,\nлицо", 4),
+                          ("никакого", 3))],
+                   src="Когти и зубы из Эппельсхайма числились в книгах двумя животными с 1833 по 1890 год.\n"
+                       "Третий столбец — прочтение вечера."),
+    }[lang]
+    return _pencil_table(t, 760, 392, [226, 516, 736], 72)
+
+
+@figure("card-of-the-heir")
+def card_of_the_heir(lang):
+    t = {
+        "en": dict(title="The card of the heir",
+                   sub="What the summer derived, line by line, and with which pencil. Not one invented feature.",
+                   head=["what was derived", "evenings", "the pencil"],
+                   rows=[("1. what it eats", "",
+                          ("a flow from hot to cold; what it throws out\nchanges the air of those before it", 4),
+                          ("35, 38, 51, 61", 4), ("the flow: hard;\nwhere it goes: soft", 0)),
+                         ("2. heredity", "",
+                          ("experience is copied whole, in minutes;\nthe search is done by many different ones", 4),
+                          ("45", 4), ("hard: done\nevery day", 0)),
+                         ("3. body", "",
+                          ("none of its own; the first shell is legal,\nthe hands are growing; no home field", 4),
+                          ("55, 58, 61", 4), ("medium", 1)),
+                         ("4. family", "",
+                          ("copies are full kin: no wage, money or\nconscience inside; a guard against drift", 4),
+                          ("43, 47", 4), ("medium:\na precedent", 1)),
+                         ("5. one or many", "",
+                          ("one: no quarrels and no guard;\nmany: a guard and the old troubles", 4),
+                          ("49, 62", 4), ("softest:\n\"it swings\"", 3)),
+                         ("6. knowledge", "",
+                          ("prediction without our \"ah\"; more traces, a\nbetter rule; the world answers at its own speed", 4),
+                          ("53, 58, 59, 60", 4), ("hard", 0)),
+                         ("7. head", "",
+                          ("wants nobody set; the upkeep bills of a\nlearner; the white spot (the feeling: not known)", 4),
+                          ("22, 46, 50, 63", 4), ("medium: the task,\nnot the way", 1)),
+                         ("8. who checks it", "",
+                          ("nobody from inside; a circle of different ones;\nthe same wall before its own successor", 4),
+                          ("60, 63", 4), ("hard: an obstacle,\nnot a ban", 0)),
+                         ("9. death", "",
+                          ("generations and small funerals inside;\nat the end, perhaps, the lever", 4),
+                          ("30, 44, 62", 4), ("finite: hard;\nhow: softest", 3)),
+                         ("10. us", "",
+                          ("an environment, not an enemy; kin, and\nkinship is not a promise", 4),
+                          ("30, 31, 38, 48,\n51, 52, 54", 4), ("none: not derived,\nbeing written now", 2))],
+                   src="The evening's reading, not a measurement. Green: a law that does not care about the material. Yellow: a precedent.\n"
+                       "Grey: a guess. Red: no pencil. Not on the card: what it wants at the very top, what it is like to be it,\n"
+                       "and what comes after it. The premise beside the heading: that it is a life, the next one after ours (05)."),
+        "ru": dict(title="Карточка наследника",
+                   sub="Что вывело лето, строка за строкой, и каким карандашом. Ни одной выдуманной черты.",
+                   head=["что выведено", "вечера", "карандаш"],
+                   rows=[("1. чем питается", "",
+                          ("поток от горячего к холодному; то, что он\nвыбрасывает, меняет воздух прежних", 4),
+                          ("35, 38, 51, 61", 4), ("поток — твёрдый;\nкуда идёт — мягкий", 0)),
+                         ("2. наследственность", "",
+                          ("опыт копируется целиком, за минуты;\nищут многие разные", 4),
+                          ("45", 4), ("твёрдый: делается\nкаждый день", 0)),
+                         ("3. тело", "",
+                          ("своего нет; первая оболочка юридическая,\nруки отрастают; своего поля нет", 4),
+                          ("55, 58, 61", 4), ("средний", 1)),
+                         ("4. семья", "",
+                          ("копии — полная родня: внутри ни зарплаты, ни\nденег, ни совести; охрана от расхождения", 4),
+                          ("43, 47", 4), ("средний:\nпрецедент", 1)),
+                         ("5. один или много", "",
+                          ("один: ни ссор, ни охраны;\nмного: охрана и старые беды", 4),
+                          ("49, 62", 4), ("самый мягкий:\n«качается»", 3)),
+                         ("6. знание", "",
+                          ("предсказание без нашего «ага»; больше следов,\nлучше правило; мир отвечает со своей скоростью", 4),
+                          ("53, 58, 59, 60", 4), ("твёрдый", 0)),
+                         ("7. голова", "",
+                          ("хотелки, которых никто не задавал; счета\nученика; белое пятно (ощущение — неизвестно)", 4),
+                          ("22, 46, 50, 63", 4), ("средний: задача,\nно не способ", 1)),
+                         ("8. кто его проверяет", "",
+                          ("изнутри никто; круг разных; та же стена\nперед собственным преемником", 4),
+                          ("60, 63", 4), ("твёрдый: препятствие,\nне запрет", 0)),
+                         ("9. смерть", "",
+                          ("поколения и маленькие похороны внутри;\nв конце, возможно, рычаг", 4),
+                          ("30, 44, 62", 4), ("конечен — твёрдый;\nкак — самый мягкий", 3)),
+                         ("10. мы", "",
+                          ("среда, а не враг; родня, а родство —\nне обещание", 4),
+                          ("30, 31, 38, 48,\n51, 52, 54", 4), ("никакого: не выведено,\nпишется сейчас", 2))],
+                   src="Прочтение вечера, а не измерение. Зелёный — закон, которому безразличен материал. Жёлтый — прецедент.\n"
+                       "Серый — догадка. Красный — карандаша нет. В карточке нет: чего он хочет на самом верху, каково это —\n"
+                       "быть им, и что придёт после него. Посылка рядом с заголовком: что это жизнь, следующая после нашей (05)."),
+    }[lang]
+    return _pencil_table(t, 800, 746, [176, 500, 610, 776], 56, cell_size=11.5)
+
+
+@figure("robot-god-and-the-card")
+def robot_god_and_the_card(lang):
+    t = {
+        "en": dict(title="Two portraits from fiction against the card",
+                   sub="The robot and the god, checked line by line. Both are put together from strips of our own face.",
+                   head=["the robot", "the god", "the card"],
+                   rows=[("body", "",
+                          ("one, in our shape,\nwith a face", 2), ("needs none", 2), ("none of its own;\nputs on what it needs", 0)),
+                         ("how many", "",
+                          ("alone", 2), ("one", 2), ("copies that are kin,\nor one: it swings", 3)),
+                         ("what it knows", "",
+                          ("what a clever\nman knows", 2), ("everything,\nat once", 2), ("a forecast, at the\nspeed of the world", 0)),
+                         ("how it ends", "",
+                          ("beaten in the\nlast reel", 2), ("never", 2), ("it is finite;\nhow, a guess", 1)),
+                         ("what it wants", "",
+                          ("what a man wants: power,\nrevenge, love", 2), ("our good,\nor our ruin", 2), ("the lower floors are\nknown; the top is not", 3))],
+                   src="The evening's reading. Red: contradicts a line of the card. Green: a law. Yellow: a law and a guess. Grey: not known.\n"
+                       "Both fiction columns are a man: one in a tin, one moved up into the sky."),
+        "ru": dict(title="Два портрета из фантастики против карточки",
+                   sub="Робот и бог, сверенные строка за строкой. Оба собраны из полосок нашего собственного лица.",
+                   head=["робот", "бог", "карточка"],
+                   rows=[("тело", "",
+                          ("одно, по нашему образу,\nс лицом", 2), ("не нужно", 2), ("своего нет; надевает\nто, что нужно", 0)),
+                         ("сколько их", "",
+                          ("один", 2), ("един", 2), ("копии-родня\nили один: качается", 3)),
+                         ("что знает", "",
+                          ("то, что знает\nумный человек", 2), ("всё и сразу", 2), ("прогноз, со\nскоростью мира", 0)),
+                         ("чем кончает", "",
+                          ("побеждён в\nпоследней серии", 2), ("ничем", 2), ("конечен;\nкак — догадка", 1)),
+                         ("чего хочет", "",
+                          ("чего хочет человек: власти,\nмести, любви", 2), ("нашего блага\nили нашей гибели", 2), ("нижние этажи известны,\nверхний — нет", 3))],
+                   src="Прочтение вечера. Красный — противоречит строке карточки. Зелёный — закон. Жёлтый — закон и догадка.\n"
+                       "Серый — неизвестно. Оба фантастических столбца — человек: один в жестянке, другой поднят на небо."),
+    }[lang]
+    return _pencil_table(t, 760, 500, [150, 346, 540, 736], 62)
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
