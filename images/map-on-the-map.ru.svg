@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="474" viewBox="0 0 760 474" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Карта, которая лежит на той земле, что на ней нарисована</title>
+
+<rect x="0.5" y="0.5" width="759" height="473" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Карта, которая лежит на той земле, что на ней нарисована</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Честная карта поляны, расстеленная на поляне, должна показать саму себя. А на той карте — снова себя.</text>
+<rect x="34.0" y="92.0" width="380.0" height="262.0" rx="4" fill="#eef4ea" stroke="#008300" stroke-width="1.6"/>
+<text x="44.0" y="112.0" font-size="12.5" fill="#008300" font-weight="600">поляна</text>
+<path d="M157.1,197.1 L331.2,156.9 L358.9,276.9 L184.8,317.1 Z" stroke="#52514e" stroke-width="1.5" fill="#ffffff" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M224.6,232.2 L300.1,195.4 L325.5,247.4 L250.0,284.2 Z" stroke="#52514e" stroke-width="1.3" fill="#f3f1ea" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M259.3,241.1 L289.9,216.3 L307.0,237.5 L276.4,262.3 Z" stroke="#52514e" stroke-width="1.1" fill="#ffffff" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M276.1,241.6 L287.5,227.0 L297.6,234.8 L286.1,249.5 Z" stroke="#52514e" stroke-width="0.8999999999999999" fill="#f3f1ea" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M283.8,240.0 L287.5,232.1 L292.9,234.6 L289.3,242.5 Z" stroke="#52514e" stroke-width="0.7" fill="#ffffff" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M287.2,238.5 L288.0,234.5 L290.8,235.0 L290.0,239.1 Z" stroke="#52514e" stroke-width="0.6" fill="#f3f1ea" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="165.1" y="211.1" font-size="11.5" fill="#52514e" font-weight="600" transform="rotate(-13.0 165.1 211.1)">карта</text>
+<circle cx="289.3" cy="236.1" r="3.6" fill="#e34948"/>
+<line x1="289.3" y1="241.1" x2="289.3" y2="368.0" stroke="#e34948" stroke-width="1.1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="34.0" y="384.0" font-size="12" fill="#e34948" font-weight="600"><tspan x="34.0" dy="0.0">единственная точка бумаги, которая лежит</tspan><tspan x="34.0" dy="15.0">ровно над тем местом, что на ней показано: «вы здесь»</tspan></text>
+<text x="440.0" y="112.0" font-size="13" fill="#0b0b0b" font-weight="600">без конца</text>
+<text x="440.0" y="131.0" font-size="12" fill="#52514e"><tspan x="440.0" dy="0.0">На каждой карте лежит карта поменьше:</tspan><tspan x="440.0" dy="15.0">картинка 1899 года.</tspan></text>
+<text x="440.0" y="194.0" font-size="13" fill="#0b0b0b" font-weight="600">и ничего не зависает</text>
+<text x="440.0" y="213.0" font-size="12" fill="#52514e"><tspan x="440.0" dy="0.0">Каждая следующая меньше в масштаб раз,</tspan><tspan x="440.0" dy="15.0">поэтому все они сходятся к одной точке.</tspan></text>
+<text x="440.0" y="276.0" font-size="13" fill="#0b0b0b" font-weight="600">на бумаге</text>
+<text x="440.0" y="295.0" font-size="12" fill="#52514e"><tspan x="440.0" dy="0.0">Третья уже мельче зерна бумаги.</tspan><tspan x="440.0" dy="15.0">Счёт кончается сам: становится грубо.</tspan></text>
+<line x1="302.1" y1="195.4" x2="432.0" y2="108.0" stroke="#8a8985" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 3"/>
+<text x="28.0" y="436.0" font-size="13" fill="#0b0b0b" font-weight="600">Наверняка карта знает о себе одну точку: где она, а не какая она.</text>
+<text x="28.0" y="456.0" font-size="11" fill="#8a8985">Схема. Что такая точка ровно одна — теорема о неподвижной точке 1922 года; масштаб и поворот здесь произвольные.</text>
+</svg>

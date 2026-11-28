@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–62 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `63`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–63 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `64`. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,7 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–62.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–63.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -479,6 +479,18 @@ articles as closely as possible. In practice:
 | один или много (цена сторожа) | one or many (the price of the guard) | "One: no money, no conscience, no quarrels, and no guard. Many: a guard, and all our old troubles with it" (the pocket, strangers, the book of debts of 47); "I think it swings" (62) |
 | болото (достигнутая цель) | the swamp (a goal attained) | the author's 2017 river: clean while it runs and strives, sour when it reaches "the state of happiness"; in 62 with the pot of 35: "a goal attained is a flow stopped"; the death of the technosphere "not from an enemy but from a goal attained", its apoptosis "very late" (the author, 2013) read as "when the last one who needs the part itself is gone from outside"; low trust |
 | Великое искушение | the Great Temptation | a hypothesis of 2006 for the silence of the Universe: species with technology do not blow themselves up, they go to the lever; written into the notebook as the fourth reason of 29, "in pencil": it needs every one of them to sit down, and works only where each became one before it set out (62) |
+| карта на карте | the map on the map | an honest map spread on the land it shows has to show itself, and on that map itself again, without end (the picture of 1899); nothing hangs: every next one is smaller, on paper the third is finer than the grain, "it gets coarse" (Oleg's eleven reflections in the barber's mirrors) (63) |
+| точка «вы здесь» | the dot "you are here" | the theorem of 1922: on a map laid on its own land exactly one point lies over the place it shows; "what a map knows for certain about itself. Not what it is like... Only where it is. A dot" (63) |
+| карта один к одному (страна как своя карта) | the map one to one (the country as its own map) | the map of 1893 on a scale of a mile to the mile, never spread out: "we now use the country itself, as its own map"; in 63: "the only full map of you is you. The only way to learn your decision is to make it" |
+| описание, прочитанное дважды (приказ и груз) | a description read twice (an order and a load) | how a thing carries the whole of its own drawing with no endless count: the sentence in Oleg's notebook that writes itself out, the automaton of the lecture of 1948 (a builder reads the tape, a copier copies it without looking), the cell (a gene is read, the thread is copied); "the drawing of heredity was drawn before it was found" (63) |
+| три вещи, которые называют «знать себя» | three things called "to know oneself" | the drawing (the recipe: can be carried and copied whole), the state (a map: coarse, or one to one and then there is no room for it), the next decision (not before it is made); "the drawing of the lathe does not say what is in the chuck today" (63) |
+| ящик, который говорит заранее | the box that tells in advance | a forecast of yourself that you can hear is one more cause of what you do ("Then I raise the right. — To spite it"); put inside one's own head, it must take itself into account: the sheet on the clearing again; the proof of 1936 is "you, written out as a program" (59, 63) |
+| ощущение свободы (белое пятно) | the feeling of freedom (the white spot) | "determined, but I cannot know it in advance" looks from inside like "open": "freedom is a lack of information about oneself", the third of the family after chance (17) and the open tomorrow (59), and the one that no finding out cures; it sits where a map of oneself is asked what it cannot answer beforehand (a choice goes through the model of oneself, a sneeze past it); a reading, not a measurement; the row of the table of 46 has "a wall" for the task and, for the machines, "the spot: yes. The feeling: not known" (63) |
+| переводчик с двумя фокусами | the translator with two tricks | the lecture of 1983: a program that turns programs into working ones adds a second key to the door program and both tricks to every new version of itself, and nothing is left in the text; "the same trick that carries heredity carries the stowaway"; the cure (2009) is a second translator made by other hands: "an inspector has to be somebody else, and somebody else is several" (62, 63) |
+| не может быть сама себе судьёй | cannot be its own judge | the answer to the reader's "it will hang in seconds" (2012, under 14; the author's debt): a self-rewriting program does not hang, it gives up the proof and takes a trial, and the trial is marked from outside; "the reader felt the wall and gave it the wrong name" (15: the measure of a mind's quality lies outside it; 63) |
+| справка | certificate | what a greater mind can hand in with its answer so that a lesser one can check it (the factors of a number, a proof for the template of 60): "to check is cheaper than to find"; it comes only with an answer to a question that has been written down, and "for wants there is no drawing": Oleg's strongest objection in 63, conceded where a drawing exists; his fourth tick of his own, half and in pencil, waits for "a certificate for wants" |
+| три экзаменатора хотелки | three examiners of a want | its own word (a report), a look into the drawings (begun, far from the whole), the trial chamber (it can tell the chamber); what failed in the game of 2025 was conversation, "the examiner we have used all our lives on one another" (63; not to be confused with the three examiners of knowledge in 60) |
+| предел, который мы передадим целым | the limit we shall hand on whole | no maker can fully check the one who is cleverer, and the theorems "do not care what the examiner is made of": the heir will sit before its successor where we sit before it (the obstacle of 2013, "not a ban"); "there is no last checker", only different ones made by different hands who check one another in a circle (31, 60, 63) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

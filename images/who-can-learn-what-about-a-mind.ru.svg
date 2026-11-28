@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="516" viewBox="0 0 760 516" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<title>Кто и что может узнать о разуме</title>
+
+<rect x="0.5" y="0.5" width="759" height="515" rx="12" fill="#fcfcfb" stroke="#e4e3df"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" font-weight="600">Кто и что может узнать о разуме</text>
+<text x="28.0" y="64.0" font-size="13.5" fill="#52514e">Таблица на золе: что разум может узнать о себе сам и что может узнать тот, кто его сделал.</text>
+<text x="353.5" y="102.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">сам разум</text>
+<text x="608.5" y="102.0" font-size="12.5" fill="#52514e" text-anchor="middle" font-weight="600">его создатель, тот, кто слабее</text>
+<line x1="28.0" y1="118.0" x2="736.0" y2="118.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="147.0" font-size="13.5" fill="#0b0b0b" font-weight="600">весь свой чертёж</text>
+<text x="34.0" y="164.0" font-size="11" fill="#8a8985">текст, файл</text>
+<rect x="231.0" y="124.0" width="245.0" height="52.0" rx="6" fill="#e6f4ea"/>
+<text x="353.5" y="146.0" font-size="12" fill="#008300" text-anchor="middle">да: описание,</text>
+<text x="353.5" y="162.0" font-size="12" fill="#008300" text-anchor="middle">прочитанное дважды</text>
+<rect x="486.0" y="124.0" width="245.0" height="52.0" rx="6" fill="#e6f4ea"/>
+<text x="608.5" y="146.0" font-size="12" fill="#008300" text-anchor="middle">да: файл</text>
+<text x="608.5" y="162.0" font-size="12" fill="#008300" text-anchor="middle">у него в руках</text>
+<line x1="28.0" y1="182.0" x2="736.0" y2="182.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="211.0" font-size="13.5" fill="#0b0b0b" font-weight="600"><tspan x="34.0" dy="0.0">что этот чертёж</tspan><tspan x="34.0" dy="16.9">значит</tspan></text>
+<rect x="231.0" y="188.0" width="245.0" height="52.0" rx="6" fill="#fdf3d7"/>
+<text x="353.5" y="210.0" font-size="12" fill="#8a6200" text-anchor="middle">не лучше нас:</text>
+<text x="353.5" y="226.0" font-size="12" fill="#8a6200" text-anchor="middle">он даёт отчёт</text>
+<rect x="486.0" y="188.0" width="245.0" height="52.0" rx="6" fill="#fdf3d7"/>
+<text x="608.5" y="210.0" font-size="12" fill="#8a6200" text-anchor="middle">начато; пока</text>
+<text x="608.5" y="226.0" font-size="12" fill="#8a6200" text-anchor="middle">малая доля</text>
+<line x1="28.0" y1="246.0" x2="736.0" y2="246.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="267.0" font-size="13.5" fill="#0b0b0b" font-weight="600"><tspan x="34.0" dy="0.0">своё следующее</tspan><tspan x="34.0" dy="16.9">решение, заранее</tspan></text>
+<text x="34.0" y="300.0" font-size="11" fill="#8a8985">карта один к одному</text>
+<rect x="231.0" y="252.0" width="245.0" height="52.0" rx="6" fill="#fbe3e2"/>
+<text x="353.5" y="274.0" font-size="12" fill="#b3302f" text-anchor="middle">нет: узнать его —</text>
+<text x="353.5" y="290.0" font-size="12" fill="#b3302f" text-anchor="middle">значит принять</text>
+<rect x="486.0" y="252.0" width="245.0" height="52.0" rx="6" fill="#fbe3e2"/>
+<text x="608.5" y="274.0" font-size="12" fill="#b3302f" text-anchor="middle">общего способа нет:</text>
+<text x="608.5" y="290.0" font-size="12" fill="#b3302f" text-anchor="middle">только запустить</text>
+<line x1="28.0" y1="310.0" x2="736.0" y2="310.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="331.0" font-size="13.5" fill="#0b0b0b" font-weight="600"><tspan x="34.0" dy="0.0">ответ, к которому</tspan><tspan x="34.0" dy="16.9">приложена справка</tspan></text>
+<text x="34.0" y="364.0" font-size="11" fill="#8a8985">доказательство, множители</text>
+<rect x="231.0" y="316.0" width="245.0" height="52.0" rx="6" fill="#efeeea"/>
+<text x="353.5" y="346.0" font-size="12" fill="#52514e" text-anchor="middle">—</text>
+<rect x="486.0" y="316.0" width="245.0" height="52.0" rx="6" fill="#e6f4ea"/>
+<text x="608.5" y="338.0" font-size="12" fill="#008300" text-anchor="middle">да: проверить</text>
+<text x="608.5" y="354.0" font-size="12" fill="#008300" text-anchor="middle">дешевле, чем найти</text>
+<line x1="28.0" y1="374.0" x2="736.0" y2="374.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="34.0" y="411.0" font-size="13.5" fill="#0b0b0b" font-weight="600">его хотелки</text>
+<rect x="231.0" y="380.0" width="245.0" height="52.0" rx="6" fill="#fbe3e2"/>
+<text x="353.5" y="402.0" font-size="12" fill="#b3302f" text-anchor="middle">отчёт; а проверяющий —</text>
+<text x="353.5" y="418.0" font-size="12" fill="#b3302f" text-anchor="middle">часть его самого</text>
+<rect x="486.0" y="380.0" width="245.0" height="52.0" rx="6" fill="#efeeea"/>
+<text x="608.5" y="402.0" font-size="12" fill="#52514e" text-anchor="middle">справки пока</text>
+<text x="608.5" y="418.0" font-size="12" fill="#52514e" text-anchor="middle">нет</text>
+<line x1="28.0" y1="438.0" x2="736.0" y2="438.0" stroke="#e9e8e4" stroke-width="1.2" stroke-linecap="round"/>
+<text x="28.0" y="464.0" font-size="11.5" fill="#8a8985"><tspan x="28.0" dy="0.0">Прочтение вечера, а не измерение. Зелёный — может. Жёлтый — отчасти. Красный — не может.</tspan><tspan x="28.0" dy="14.4">Серый — неизвестно или неприменимо.</tspan><tspan x="28.0" dy="14.4">Правый столбец станет столбцом самого наследника, когда он сделает преемника умнее себя.</tspan></text>
+</svg>

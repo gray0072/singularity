@@ -108,9 +108,10 @@ forbids the word itself. English is the original; Russian is a translation.
 60. [Science with No One to Understand It](60-science-with-no-one-to-understand.md) — *continuation*
 61. [Why Only Robots Live on Mars](61-only-robots-live-on-mars.md) — *continuation*
 62. [When Laziness Wins for Good](62-when-laziness-wins-for-good.md) — *continuation*
+63. [The Map with a Map Drawn on It](63-map-with-a-map-on-it.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–62 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–63 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–62 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 63. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–63 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 64. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)

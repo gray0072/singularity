@@ -6385,6 +6385,201 @@ def what_keeps_one_from_the_lever(lang):
     return f
 
 
+# --- 63. The Map with a Map Drawn on It ------------------------------------------------------------
+
+@figure("map-on-the-map")
+def map_on_the_map(lang):
+    t = {
+        "en": dict(title="A map that lies on the land it shows",
+                   sub="An honest map of the clearing, spread on the clearing, has to show itself. And on that map, itself again.",
+                   land="the clearing", m1="the map", m2="the map on the map",
+                   notes=[("without end", "Each map has a smaller one on it:\nthe picture of 1899."),
+                          ("and nothing hangs", "Every next one is smaller by the scale,\nso all of them close on one point."),
+                          ("on paper", "The third is already finer than the grain.\nThe count stops by itself: it gets coarse.")],
+                   dot="the one point of the paper that lies exactly\nover the place it shows: \"you are here\"",
+                   out="What the map knows about itself for certain is a dot: where it is, not what it is.",
+                   src="A scheme. That there is exactly one such point is the fixed-point theorem of 1922; the scale and the turn here are arbitrary."),
+        "ru": dict(title="Карта, которая лежит на той земле, что на ней нарисована",
+                   sub="Честная карта поляны, расстеленная на поляне, должна показать саму себя. А на той карте — снова себя.",
+                   land="поляна", m1="карта", m2="карта на карте",
+                   notes=[("без конца", "На каждой карте лежит карта поменьше:\nкартинка 1899 года."),
+                          ("и ничего не зависает", "Каждая следующая меньше в масштаб раз,\nпоэтому все они сходятся к одной точке."),
+                          ("на бумаге", "Третья уже мельче зерна бумаги.\nСчёт кончается сам: становится грубо.")],
+                   dot="единственная точка бумаги, которая лежит\nровно над тем местом, что на ней показано: «вы здесь»",
+                   out="Наверняка карта знает о себе одну точку: где она, а не какая она.",
+                   src="Схема. Что такая точка ровно одна — теорема о неподвижной точке 1922 года; масштаб и поворот здесь произвольные."),
+    }[lang]
+    f = Fig(760, 474, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, y0, w, h = 34, 92, 380, 262
+    cx, cy = x0 + w / 2, y0 + h / 2
+    s, ang = 0.47, math.radians(-13)
+    mx, my = cx + 34, cy + 14
+    ca, sa = math.cos(ang), math.sin(ang)
+
+    def step(p):
+        dx, dy = p[0] - cx, p[1] - cy
+        return (mx + s * (ca * dx - sa * dy), my + s * (sa * dx + ca * dy))
+
+    # fixed point of the map: p = step(p)
+    a11, a12, a21, a22 = 1 - s * ca, s * sa, -s * sa, 1 - s * ca
+    b1 = mx - s * (ca * cx - sa * cy)
+    b2 = my - s * (sa * cx + ca * cy)
+    det = a11 * a22 - a12 * a21
+    px, py = (b1 * a22 - a12 * b2) / det, (a11 * b2 - a21 * b1) / det
+    corners = [(x0, y0), (x0 + w, y0), (x0 + w, y0 + h), (x0, y0 + h)]
+    f.rect(x0, y0, w, h, fill="#eef4ea", stroke=GREEN, width=1.6, r=4)
+    f.text(x0 + 10, y0 + 20, t["land"], size=12.5, color=GREEN, weight="600")
+    fills = ["#ffffff", "#f3f1ea", "#ffffff", "#f3f1ea", "#ffffff", "#f3f1ea"]
+    level = corners
+    firsts = []
+    for k in range(6):
+        level = [step(p) for p in level]
+        firsts.append(level)
+        d = "M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in level) + " Z"
+        f.path(d, color=INK2, width=max(0.6, 1.5 - 0.2 * k), fill=fills[k])
+    f.text(firsts[0][0][0] + 8, firsts[0][0][1] + 14, t["m1"], size=11.5, color=INK2, weight="600",
+           rotate=math.degrees(ang))
+    f.circle(px, py, 3.6, fill=RED)
+    # the dot's label, below the land
+    f.line(px, py + 5, px, y0 + h + 14, color=RED, width=1.1, dash="3 3")
+    f.text(x0, y0 + h + 30, t["dot"], size=12, color=RED, weight="600")
+    # notes on the right
+    nx = 440
+    for i, (head, body) in enumerate(t["notes"]):
+        y = 112 + i * 82
+        f.text(nx, y, head, size=13, color=INK, weight="600")
+        f.text(nx, y + 19, body, size=12, color=INK2)
+    f.line(firsts[1][1][0] + 2, firsts[1][1][1], nx - 8, 108, color=MUTED, width=1, dash="3 3")
+    f.text(28, 436, t["out"], size=13, color=INK, weight="600")
+    f.text(28, 456, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("description-read-twice")
+def description_read_twice(lang):
+    t = {
+        "en": dict(title="One description, read twice",
+                   sub="How a thing carries the whole of its own drawing, and why the count does not run away.",
+                   head=["read as an order,\nand carried out", "copied as a load,\nnot read"],
+                   rows=[("the sentence\nin the notebook", "Oleg's pencil",
+                          "the words before the colon:\n\"write the following twice...\"",
+                          "the same words in quotes:\nwritten down letter for letter"),
+                         ("the automaton\non paper", "a lecture of 1948",
+                          "the builder reads the tape\nand builds by it",
+                          "the copier copies the tape\nand does not look into it"),
+                         ("the cell", "the double helix: 1953",
+                          "a gene is read,\nand a protein is built by it",
+                          "the thread is copied whole\nfor the daughter cell")],
+                   out="The description does not hold a description of itself. It is simply used twice.",
+                   src="A scheme of the evening. What is carried whole is the drawing: the recipe, not a picture of the finished thing on a scale of one to one."),
+        "ru": dict(title="Одно описание, прочитанное дважды",
+                   sub="Как вещь несёт в себе весь собственный чертёж и почему счёт не убегает.",
+                   head=["прочитано как приказ\nи исполнено", "переписано как груз,\nне читая"],
+                   rows=[("фраза\nв тетради", "карандаш Олега",
+                          "слова перед двоеточием:\n«напиши следующее дважды...»",
+                          "те же слова в кавычках:\nпереписаны буква в букву"),
+                         ("автомат\nна бумаге", "лекция 1948 года",
+                          "строитель читает ленту\nи строит по ней",
+                          "копировщик переписывает ленту\nи в неё не заглядывает"),
+                         ("клетка", "двойная спираль — 1953",
+                          "ген читают\nи строят по нему белок",
+                          "нить переписывают целиком\nдля дочерней клетки")],
+                   out="В описании нет описания самого себя. Его просто используют дважды.",
+                   src="Схема вечера. Целиком несут чертёж — рецепт, а не портрет готовой вещи в масштабе один к одному."),
+    }[lang]
+    f = Fig(760, 400, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [190, 463, 736]
+    top, head_h, row_h = 84, 46, 68
+    tint = [("#e8f0fb", "#1c5aa6"), ("#fdeee6", "#a8431a")]
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 16, label, size=12.5, color=tint[k][1], anchor="middle",
+               weight="600")
+    for i, (name, who, a, b) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(28, y, cols[-1], y, color=GRID, width=1.2)
+        nl = name.split("\n")
+        f.text(34, y + row_h / 2 - 5 - (len(nl) - 1) * 8, name, size=13.5, color=INK, weight="600")
+        f.text(34, y + row_h / 2 + 13 + (len(nl) - 1) * 8, who, size=11, color=MUTED)
+        for k, cell in enumerate((a, b)):
+            fill, ink = tint[k]
+            f.rect(cols[k] + 5, y + 6, cols[k + 1] - cols[k] - 10, row_h - 12, fill=fill, r=6)
+            lines = cell.split("\n")
+            yy = y + row_h / 2 + 4 - (len(lines) - 1) * 8
+            for j, line in enumerate(lines):
+                f.text((cols[k] + cols[k + 1]) / 2, yy + j * 16, line, size=12, color=ink, anchor="middle")
+    bottom = top + head_h + len(t["rows"]) * row_h
+    f.line(28, bottom, cols[-1], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 28, t["out"], size=13, color=INK, weight="600")
+    f.text(28, bottom + 50, t["src"], size=11, color=MUTED)
+    return f
+
+
+@figure("who-can-learn-what-about-a-mind")
+def who_can_learn_what_about_a_mind(lang):
+    t = {
+        "en": dict(title="Who can learn what about a mind",
+                   sub="A table in the ash: what the mind can learn about itself, and what its maker can.",
+                   head=["the mind itself", "its maker, a lesser one"],
+                   rows=[("its whole drawing", "the text, the file",
+                          ("yes: a description\nread twice", 0), ("yes: the file\nis in his hands", 0)),
+                         ("what the drawing\nmeans", "",
+                          ("no better than we:\nit gives a report", 1), ("begun; a small\nshare so far", 1)),
+                         ("its next decision,\nin advance", "the map one to one",
+                          ("no: to learn it\nis to make it", 2), ("no general way:\nonly by running it", 2)),
+                         ("an answer that comes\nwith a certificate", "a proof, the factors",
+                          ("—", 3), ("yes: checking is\ncheaper than finding", 0)),
+                         ("its wants", "",
+                          ("a report; and the\ninspector is a part of it", 2), ("no certificate\nyet", 3))],
+                   src="The evening's reading, not a measurement. Green: can. Yellow: in part. Red: cannot.\n"
+                       "Grey: not known, or does not apply.\n"
+                       "The right-hand column will be the heir's own when it makes a successor cleverer than itself."),
+        "ru": dict(title="Кто и что может узнать о разуме",
+                   sub="Таблица на золе: что разум может узнать о себе сам и что может узнать тот, кто его сделал.",
+                   head=["сам разум", "его создатель, тот, кто слабее"],
+                   rows=[("весь свой чертёж", "текст, файл",
+                          ("да: описание,\nпрочитанное дважды", 0), ("да: файл\nу него в руках", 0)),
+                         ("что этот чертёж\nзначит", "",
+                          ("не лучше нас:\nон даёт отчёт", 1), ("начато; пока\nмалая доля", 1)),
+                         ("своё следующее\nрешение, заранее", "карта один к одному",
+                          ("нет: узнать его —\nзначит принять", 2), ("общего способа нет:\nтолько запустить", 2)),
+                         ("ответ, к которому\nприложена справка", "доказательство, множители",
+                          ("—", 3), ("да: проверить\nдешевле, чем найти", 0)),
+                         ("его хотелки", "",
+                          ("отчёт; а проверяющий —\nчасть его самого", 2), ("справки пока\nнет", 3))],
+                   src="Прочтение вечера, а не измерение. Зелёный — может. Жёлтый — отчасти. Красный — не может.\n"
+                       "Серый — неизвестно или неприменимо.\n"
+                       "Правый столбец станет столбцом самого наследника, когда он сделает преемника умнее себя."),
+    }[lang]
+    f = Fig(760, 516, t["title"])
+    heading(f, t["title"], t["sub"])
+    cols = [226, 481, 736]
+    top, head_h, row_h = 84, 34, 64
+    tint = [("#e6f4ea", GREEN), ("#fdf3d7", "#8a6200"), ("#fbe3e2", "#b3302f"), ("#efeeea", INK2)]
+    for k, label in enumerate(t["head"]):
+        f.text((cols[k] + cols[k + 1]) / 2, top + 18, label, size=12.5, color=INK2, anchor="middle", weight="600")
+    for i, (name, who, *cells) in enumerate(t["rows"]):
+        y = top + head_h + i * row_h
+        f.line(28, y, cols[-1], y, color=GRID, width=1.2)
+        nl = name.split("\n")
+        shift = 0 if who else 8
+        f.text(34, y + row_h / 2 - 3 - (len(nl) - 1) * 8 + shift, name, size=13.5, color=INK, weight="600")
+        if who:
+            f.text(34, y + row_h / 2 + 14 + (len(nl) - 1) * 8, who, size=11, color=MUTED)
+        for k, (cell, kind) in enumerate(cells):
+            fill, ink = tint[kind]
+            f.rect(cols[k] + 5, y + 6, cols[k + 1] - cols[k] - 10, row_h - 12, fill=fill, r=6)
+            lines = cell.split("\n")
+            yy = y + row_h / 2 + 4 - (len(lines) - 1) * 8
+            for j, line in enumerate(lines):
+                f.text((cols[k] + cols[k + 1]) / 2, yy + j * 16, line, size=12, color=ink, anchor="middle")
+    bottom = top + head_h + len(t["rows"]) * row_h
+    f.line(28, bottom, cols[-1], bottom, color=GRID, width=1.2)
+    f.text(28, bottom + 26, t["src"], size=11.5, color=MUTED)
+    return f
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:
