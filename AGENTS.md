@@ -108,8 +108,8 @@ articles as closely as possible. In practice:
 
 ## 4. Continuing the series
 
-- The continuation starts at `16`. Articles 16–65 are written (each with a `part` and a `builds_on` list in
-  `en/` and `ru/`); the next free number is `66`. The arc of 16–32: I. Re-examining the foundations
+- The continuation starts at `16`. Articles 16–66 are written (each with a `part` and a `builds_on` list in
+  `en/` and `ru/`); the next free number is `67`, kept for the check of the marks. The arc of 16–32: I. Re-examining the foundations
   (16–20), II. Machines today (21–23), III. Economy and people (24–26), IV. The transition and after (27–30,
   ending with Andrey's dated forecasts for the autumns of 2031, 2036 and 2041), V. The new keeper (31: an essay in
   which the model that wrote the continuation speaks in its own voice; 32: a fantasy set in the autumn of 2041, in
@@ -121,7 +121,8 @@ articles as closely as possible. In practice:
   form is kept. It opens on the first warm evening after the winter of article 30: Oleg comes with a paper
   notebook, sets the topics himself and forbids the word "singularity" (whoever says it first goes for firewood).
   Every evening starts from a question off the topic, the mountain shows no earlier than the middle and is not
-  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–65.
+  named first by Andrey, and at the end Oleg puts a tick "again" in the notebook. Written: 33–66; the cycle is complete. It ends on 66, where Oleg presents the bill for the
+  thirty-three ticks and Andrey dictates six prohibitions: what must not happen if the series is right.
 - **The series is open.** Nobody says goodbye at the end: the evenings stop "until the needles move". The next
   evenings (planned for about 2028) check the dated marks of articles 27–30 honestly, one by one, as article 16
   checked the 2011 forecasts, and add new marks with dates and odds. They may be told by Andrey and Oleg, or by
@@ -512,6 +513,16 @@ articles as closely as possible. In practice:
 | четыре связи (родство, долги, нужда, любовь) | four bonds (kinship, debts, need, love) | the table in the ash of 65: the first three can be calculated (43, 47, 51) and between "those ones" and us are empty or have a term; the fourth, love, "holds when need lets go" and is "not derived: being written" (the white line of 64) |
 | связь, которую пересчитывают каждое утро | a bond that is recounted every morning | it "breaks at the first better offer", so a pair that has to get through a bad year needs something that does not count: what love is for (the economists' commitment problem, 1988, unnamed); Oleg's wife in ninety-six (65) |
 | описано, а не выведено | described, not derived | Andrey's status for love: there is a witness (the prairie vole) and a task can be named, but no engineer has run into it the way they ran into sleep; with the birches "I have not even the task" (65) |
+| человек с молотком (счёт Олега) | a man with a hammer (Oleg's bill) | the objection to the whole method, presented in 66: thirty-three questions about something else, thirty-three ticks "again"; "a theory that explains everything explains nothing"; Andrey: "the main danger of everything I have told you since 2011", and he does not defend himself |
+| запрет (теория стоит столько, сколько запрещает) | prohibition (a theory is worth as much as it forbids) | Popper's rule (the lecture of 1953; Vienna, 1919: Adler's "thousandfold experience" against the eclipse plates that could have refuted Einstein); unlike a mark, a prohibition is not what Andrey expects but what must not happen: "you do not argue with me, you come and say: it happened" (66) |
+| тридцать три из тридцати трёх | thirty-three out of thirty-three | "not a result but a symptom": a batch with no rejects means a broken gauge; the ticks count how many times the turn was managed, not how many times it was right; the shorter count is the evenings that came out against Andrey, "in the details, not one in the main thing" (66) |
+| разбор по карандашам (девять, девять, двенадцать) | the sorting by pencil (nine, nine, twelve) | the turns to the machines of 33–65 sorted with the three pencils of 64: nine hard (a law that does not ask about the material), nine soft (precedents), twelve with no pencil (readings and axioms), three assemblies set aside; the hard nine say what the heir is, and "what becomes of us" lies among the likenesses and under dates that have not come due (66) |
+| нарисовать петлю | to draw the loop | where the line runs in the author's 2012 answer "the same feedbacks give the same mathematics": for the cistern and the amplifier the loop can be drawn (float, valve, equation), for the horse and the bacterium it was "look, how alike"; "the man of 2012 was right about half of my evenings" (66) |
+| ярлык, а не довод | a label, not an argument | "anthropocentrist" as the author and Andrey used it of opponents: it explains why a man disagrees and says nothing about whether he is right; kept only as a pointer to where to check (take the man out of the centre of the sentence and count again, 50); conceded to Oleg, his second whole tick (66) |
+| шесть запретов (страница Олега) | six prohibitions (Oleg's page) | what must not happen: labour's share of world income rising ten years in a row; the birth rate of the rich countries back above 2.1 for ten years with no coercion; the age of a first discovery falling while the authors are people; machines below a man for fifteen years more of growing computing; a large country giving up a productive technology and the others following; people with an improved brain overtaking pure machines; with the needle of 2026 beside each (66; to be checked in 67 and after) |
+| дверцы (оговорки) | little doors (clauses) | "while the machines go on growing", "with no coercion", "of its own will": the clauses through which a theory is saved after it fails; in 66 they are judged by the one who holds the notebook, on the day of the check, not by Andrey |
+| под чертой | under the line | what forbids nothing and so stands outside the list: global determinism ("not knowledge, a way of keeping the books"), the premise that the heir is a life (05), "everything has a mind to a degree" (a definition) (66) |
+| самое слабое место (оно не могло проиграть) | the weakest place (it could not lose) | Andrey's correction of the ending of 15: the weakest place of the concept was not that a man had understood it but that it could not lose; "a man who asks to be shown his error and does not say what would count as one is asking to be consoled" (66) |
 | двойник (ИИ-двойник) | (AI) double | a machine that carries the images of one person (texts, letters, voice) and speaks as him; in 32, the doubles of Andrey and Oleg |
 
 ## 7. Tooling notes for agents

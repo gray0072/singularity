@@ -6907,6 +6907,164 @@ def what_holds_a_bond(lang):
     return _pencil_table(t, 760, 440, [150, 346, 540, 736], 66)
 
 
+# --- 66. A Theory That Explains Everything ---------------------------------------------------------
+
+@figure("what-each-theory-forbade")
+def what_each_theory_forbade(lang):
+    t = {
+        "en": dict(title="Vienna and the island, 1919",
+                   sub="Two theories of the same year, and what each of them did with every outcome one could think of.",
+                   heads=["the feeling of inferiority", "gravitation, the eclipse of 29 May"],
+                   whats=["a man…", "the light of a star at the edge of the Sun is bent by…"],
+                   left=[("pushed a child into the water", "explained"),
+                         ("gave his life to save the child", "explained"),
+                         ("did nothing", "explained")],
+                   right=[("nothing", "refuted"), ("0.87 seconds of arc", "refuted"),
+                          ("1.75 seconds of arc", "holds")],
+                   outs=["forbids nothing", "forbids two outcomes of three"],
+                   src="The two men in the water and the thousand-and-one-fold experience: Popper's lecture of 1953. The third man on the left\n"
+                       "is added by the evening. The plates were read out in London on 6 November 1919."),
+        "ru": dict(title="Вена и остров, 1919 год",
+                   sub="Две теории одного года, и что каждая делала с любым исходом, какой можно придумать.",
+                   heads=["чувство неполноценности", "тяготение, затмение 29 мая"],
+                   whats=["человек…", "свет звезды у края Солнца отклоняется на…"],
+                   left=[("толкнул ребёнка в воду", "объяснено"),
+                         ("отдал жизнь, спасая ребёнка", "объяснено"),
+                         ("ничего не сделал", "объяснено")],
+                   right=[("нисколько", "опровергнута"), ("0,87 угловой секунды", "опровергнута"),
+                          ("1,75 угловой секунды", "устояла")],
+                   outs=["не запрещает ничего", "запрещает два исхода из трёх"],
+                   src="Двое у воды и «тысяча-и-однократный опыт» — лекция Поппера 1953 года. Третьего человека слева\n"
+                       "добавил вечер. Пластинки зачитали в Лондоне 6 ноября 1919 года."),
+    }[lang]
+    f = Fig(760, 372, t["title"])
+    heading(f, t["title"], t["sub"])
+    top, row = 132, 46
+    for k, (x0, rows) in enumerate(((28, t["left"]), (392, t["right"]))):
+        w = 340
+        f.text(x0, 100, t["heads"][k], size=14.5, color=INK, weight="600")
+        f.text(x0, 120, t["whats"][k], size=12, color=MUTED, italic=True)
+        for i, (what, verdict) in enumerate(rows):
+            y = top + i * row
+            f.line(x0, y, x0 + w, y, color=GRID, width=1.2)
+            f.text(x0 + 4, y + row / 2 + 5, what, size=13, color=INK)
+            kind = 3 if k == 0 else (0 if i == 2 else 2)
+            fill, ink = _PENCIL_TINT[kind]
+            f.rect(x0 + w - 122, y + 9, 118, row - 18, fill=fill, r=6)
+            f.text(x0 + w - 63, y + row / 2 + 4, verdict, size=12, color=ink, anchor="middle")
+        bottom = top + 3 * row
+        f.line(x0, bottom, x0 + w, bottom, color=GRID, width=1.2)
+        f.text(x0, bottom + 28, t["outs"][k], size=14, color=RED if k == 0 else GREEN, weight="600")
+    f.text(28, top + 3 * row + 62, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+_TICKS_66 = [(33, 0), (34, 1), (35, 3), (36, 3), (37, 3), (38, 1), (39, 0), (40, 1), (41, 3), (42, 1), (43, 1),
+             (44, 0), (45, 0), (46, 4), (47, 1), (48, 1), (49, 0), (50, 3), (51, 0), (52, 4), (53, 3), (54, 3),
+             (55, 1), (56, 3), (57, 3), (58, 3), (59, 0), (60, 3), (61, 0), (62, 1), (63, 0), (64, 4), (65, 3)]
+
+
+@figure("thirty-three-ticks-sorted")
+def thirty_three_ticks_sorted(lang):
+    t = {
+        "en": dict(title="Thirty-three ticks, sorted",
+                   sub="Each evening of the summer, by the pencil with which its turn to the machines was drawn.",
+                   words=["sleep", "horses", "the pot", "the rat", "losses", "oxygen", "the dream", "cities",
+                          "the guitar", "bacterium", "ants", "funerals", "Lamarck", "assembly", "money", "the dog",
+                          "matches", "“it”", "the socket", "assembly", "the brim", "the wolf", "the fine",
+                          "electron", "the wheel", "the stick", "the soup", "the sheet", "Mars", "laziness",
+                          "the map", "assembly", "the sheets"],
+                   legend=[("hard: a law that does not ask about the material", 0, 9),
+                           ("soft: a precedent, “it has happened before”", 1, 9),
+                           ("no pencil: a reading or an axiom", 3, 12),
+                           ("an assembly, set aside", 4, 3)],
+                   out="What becomes of people (horses, the bacterium, the dog, the dinosaurs) lies in the soft pile.",
+                   src="The sorting was done by the one who was being sorted: the evening's reading, not a measurement."),
+        "ru": dict(title="Тридцать три галочки, разобранные",
+                   sub="Каждый вечер лета — по карандашу, которым нарисован его поворот к машинам.",
+                   words=["сон", "лошади", "котелок", "крыса", "убытки", "кислород", "вещий сон", "города",
+                          "гитара", "бактерия", "муравьи", "похороны", "Ламарк", "сборка", "деньги", "собака",
+                          "спички", "«оно»", "розетка", "сборка", "край", "волк", "штраф",
+                          "электрон", "колесо", "палка", "суп", "листок", "Марс", "лень",
+                          "карта", "сборка", "листы"],
+                   legend=[("твёрдый: закон, который не спрашивает о материале", 0, 9),
+                           ("мягкий: прецедент, «так уже бывало»", 1, 9),
+                           ("без карандаша: прочтение или аксиома", 3, 12),
+                           ("сборка, отложена", 4, 3)],
+                   out="То, что будет с людьми (лошади, бактерия, собака, динозавры), лежит в мягкой кучке.",
+                   src="Разбирал тот, кого разбирали: прочтение вечера, а не измерение."),
+    }[lang]
+    f = Fig(760, 452, t["title"])
+    heading(f, t["title"], t["sub"])
+    x0, top, cw, ch, gap = 28, 88, 60, 58, 4.4
+    for i, (num, kind) in enumerate(_TICKS_66):
+        x = x0 + (i % 11) * (cw + gap)
+        y = top + (i // 11) * (ch + gap)
+        fill, ink = _PENCIL_TINT[kind]
+        if kind == 4:
+            f.rect(x, y, cw, ch, fill=SURFACE, stroke=BORDER, r=6, dash="4 3")
+        else:
+            f.rect(x, y, cw, ch, fill=fill, r=6)
+        f.text(x + cw / 2, y + 25, str(num), size=15, color=ink, anchor="middle", weight="600")
+        f.text(x + cw / 2, y + 44, t["words"][i], size=10.5, color=ink if kind != 4 else MUTED, anchor="middle")
+    ly = top + 3 * (ch + gap) + 18
+    for j, (label, kind, n) in enumerate(t["legend"]):
+        y = ly + j * 26
+        fill, ink = _PENCIL_TINT[kind]
+        if kind == 4:
+            f.rect(28, y - 13, 26, 18, fill=SURFACE, stroke=BORDER, r=4, dash="4 3")
+        else:
+            f.rect(28, y - 13, 26, 18, fill=fill, r=4)
+        f.text(64, y + 1, label, size=13, color=INK)
+        f.text(732, y + 1, str(n), size=14, color=INK, anchor="end", weight="600")
+    f.text(28, ly + 4 * 26 + 12, t["out"], size=13, color=INK, weight="600")
+    f.text(28, ly + 4 * 26 + 36, t["src"], size=11.5, color=MUTED)
+    return f
+
+
+@figure("what-must-not-happen")
+def what_must_not_happen(lang):
+    t = {
+        "en": dict(title="What must not happen",
+                   sub="The page from Oleg's notebook: six prohibitions, written before the outcome. The clauses are judged by Oleg.",
+                   head=["where the needle stands in 2026", "the first day to come"],
+                   rows=[("1. labour's share of world\nincome rises ten years in a row", "against 12, 27",
+                          ("up three years running:\n52.1% in 2022, 52.7% in 2025", 1), ("the figure\nfor 2032", 4)),
+                         ("2. the birth rate of the rich\nreturns above 2.1 for ten years", "no coercion; against 11, 26",
+                          ("about 1.5; Korea up two years;\nIsrael never fell; Kazakhstan came back", 1),
+                          ("not before\nthe 2040s", 4)),
+                         ("3. the age of a first discovery\nfalls, the authors are people", "against 53",
+                          ("rising; the teams\nare growing", 3), ("autumn 2041", 4)),
+                         ("4. machines stay below a man\nfor fifteen years more", "computing grows; against 05, 16",
+                          ("computing 4–5 times a year;\nan office still needs its people", 3), ("autumn 2041", 4)),
+                         ("5. a large country gives up a\ntechnology, and the others follow", "of its own will; against 27, 28, 65",
+                          ("countries have given up;\nnobody followed", 3), ("any morning", 4)),
+                         ("6. people with an improved brain\novertake pure machines", "in open work; against 11, 42",
+                          ("a chip: about 11 bits a second;\na healthy head: about 10", 1), ("autumn 2041", 4))],
+                   src="Under the line, outside the list, what forbids nothing: global determinism (an axiom, 17); that the heir is a life (05);\n"
+                       "that everything has a mind to a degree (03). Yellow: the needle is moving against Andrey. Figures as printed in 2026."),
+        "ru": dict(title="Чего не должно случиться",
+                   sub="Страница из тетради Олега: шесть запретов, записанных до исхода. Об оговорках судит Олег.",
+                   head=["где стрелка в 2026 году", "первый день, когда прийти"],
+                   rows=[("1. доля труда в мировом доходе\nрастёт десять лет подряд", "против 12, 27",
+                          ("три года вверх подряд:\n52,1% в 2022-м, 52,7% в 2025-м", 1), ("цифра\nза 2032 год", 4)),
+                         ("2. рождаемость богатых стран\nвозвращается выше 2,1 на десять лет", "без принуждения; против 11, 26",
+                          ("около 1,5; Корея два года вверх;\nИзраиль не падал; Казахстан вернулся", 1),
+                          ("не раньше\n2040-х", 4)),
+                         ("3. возраст первого открытия\nснижается, авторы — люди", "против 53",
+                          ("растёт; команды\nрастут", 3), ("осень 2041-го", 4)),
+                         ("4. машины остаются ниже\nчеловека ещё пятнадцать лет", "вычисления растут; против 05, 16",
+                          ("вычисления в 4–5 раз за год;\nконторе пока нужны её люди", 3), ("осень 2041-го", 4)),
+                         ("5. большая страна отказывается от\nтехнологии, и остальные идут за ней", "по своей воле; против 27, 28, 65",
+                          ("страны отказывались;\nникто не пошёл", 3), ("любое утро", 4)),
+                         ("6. люди с улучшенным мозгом\nобгоняют чистые машины", "в открытом деле; против 11, 42",
+                          ("чип: около 11 бит в секунду;\nздоровая голова: около 10", 1), ("осень 2041-го", 4))],
+                   src="Под чертой, вне списка, — то, что ничего не запрещает: глобальный детерминизм (аксиома, 17); что наследник — жизнь (05);\n"
+                       "что всё в какой-то мере разумно (03). Жёлтый — стрелка идёт против Андрея. Цифры — как они напечатаны в 2026 году."),
+    }[lang]
+    return _pencil_table(t, 760, 634, [262, 588, 736], 74, name_size=12.5)
+
+
 def main(names):
     unknown =[n for n in names if n not in FIGURES]
     if unknown:

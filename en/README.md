@@ -111,9 +111,10 @@ forbids the word itself. English is the original; Russian is a translation.
 63. [The Map with a Map Drawn on It](63-map-with-a-map-on-it.md) — *continuation*
 64. [A Portrait of the Heir](64-portrait-of-the-heir.md) — *continuation*
 65. [Two Andreys](65-two-andreys.md) — *continuation*
+66. [A Theory That Explains Everything](66-theory-that-explains-everything.md) — *continuation*
 
-Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–65 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
+Author of articles 01–15: Andrey Gordienko (Garya), [proza.ru/avtor/garya](https://proza.ru/avtor/garya). Articles 16–66 are not his: 16–32 were written by Claude Opus 5.5, 33 onwards by Claude Fable 5.2.
 
-Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–65 — the first evenings of Part VI, *Just Chatter*, written; the cycle goes on from 66. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
+Status: 01–15 — translations of the Russian originals, pending. 16–32 — continuation of the series, written (Parts I–V). 33–66 — Part VI, *Just Chatter*, written in full; the cycle ends on 66 with a list of what must not happen if the series is right. Articles 27–30 give dated forecasts for 2031, 2036 and 2041, and new evenings that check them are planned for about 2028.
 
 [Russian](../ru/README.md) · [Home](../README.md)

@@ -580,7 +580,11 @@ ones of 32.
   The third, in 59, is again half a tick in pencil ("Who laid the deck by suits": why there was more order at one end of the world), to be inked if it is
   ever answered. The fourth, in 63, is half a tick in pencil too ("The lesser will learn to check the greater's wants"),
   to be inked "when a certificate is shown". The fifth, in 65, is the first whole tick, in ink ("So fifteen years ago you went too
-  far. — I went too far").
+  far. — I went too far"). The sixth, in 66, is the second whole one in ink ("anthropocentrist" as a label and not
+  an argument).
+  **The cycle ends on 66**: no thirty-fourth tick ("Tonight you came out at me"); the last page holds thirty-three
+  ticks, and a clean page holds the six prohibitions with three things under the line. Nobody said the word in 66;
+  Andrey never said it in the whole cycle.
   A standing wager from 39: if Oleg's notebook of dreams, written "before the phone", shows ten calls where chance
   promises none, Andrey goes for firewood "without having said the word".
 
@@ -6174,3 +6178,144 @@ list for tomorrow" (the plan's fifth prohibition); the rest of "to bargain" (52)
 the white line is deliberately not said ("whoever tells you that he knows is selling"); whether the heir will have
 a want that keeps a pet (48) stays open with the button and the brake; shame and tears of the heap "not sorted"
 (46) are still not sorted; the outcome of Oleg's court is still free for a later opening.
+
+## 66. A Theory That Explains Everything (the last evening of the cycle; a pair to 15)
+
+**Established**
+- The answer to the teaser of 65 and to the questions kept on the last page of the notebook since 39 ("how are you
+  better than the pigeon"), 40, 44 (Andrey's own heavy image) and 64 ("two old men with one hammer"). Oleg comes with a
+  hammer, a pine board and an egg: Andrey drives in a nail, then a screw ("the fitter Petrov's technology"; it holds
+  badly), and cannot drive in the egg ("I can break it"). The bill: thirty-three questions about something else,
+  thirty-three ticks; **"A theory that explains everything explains nothing."** Andrey: "Yes... It is the main danger
+  of everything I have told you since 2011... I am not going to defend myself tonight."
+- **The rule of the cycle**: the first third is about method only (Vienna and the eclipse); the machines are named
+  by Oleg at the middle, while the ticks are read ("That those ones... I say it, it is the middle").
+- **Andrey gives Oleg "a better weapon than a pigeon"**: Vienna, 1919. Popper at seventeen in Adler's clinics; the
+  case that "did not seem particularly Adlerian", explained at once though the doctor "has not even seen the child";
+  "Because of my thousandfold experience" / "thousand-and-one-fold". The two men at the water (one pushes the child
+  in, one dies saving it), explained by both Viennese theories; Oleg supplies Adler's answer for the second man
+  himself. The eclipse of 29 May 1919: 1.75 seconds of arc against half of that ("a small coin seen from more than
+  two kilometres"); "on that day the theory could have lost. Adler could not lose on any day of his life." **"Every
+  good theory is a prohibition"**; irrefutability is a vice. Freud is not named ("the other doctor, the famous one"),
+  Einstein is "a physicist in Berlin", Marx's theory is "the theory with the newspapers".
+- **The sorting.** With the three pencils of 64, and for the second half of every evening only ("the turn to the
+  place where you put the tick"). **Hard, nine**: 33, 39, 44, 45, 49, 51, 59, 61, 63. **Soft, nine**: 34, 38, 40, 42,
+  43, 47, 48, 55, 62. **No pencil, twelve**: 35, 36, 37, 41, 50, 53, 54, 56, 57, 58, 60, 65. **Three assemblies set
+  aside**: 46, 52, 64. **The plan's "cities are a derivation" is withdrawn in the text**: "All summer that one lay in
+  my hard pile... The equation is a hypothesis of its authors... Soft, and I am being kind." "Nine out of thirty-three...
+  twenty-four times you led me by the hand."
+- **What the hard nine say** (named by Oleg): "those ones live under the same laws as we do", and are quicker where
+  the law lets them off, with copying. "It has drawn what they are: that there is no pedestal under us, nine times":
+  the second evening of 2011, checked on things that did not exist then. **What becomes of us lies in the soft pile**
+  (the horses, the bacterium, the dog, the dinosaurs); "a hard pencil for that exists in one place only: in the marks
+  of the autumn, which have dates, and not one of them has come due".
+- **The author's 2012 answer under the SETI talk** ("the same feedbacks give the same mathematics", the cistern and
+  the amplifier) is kept and limited: where the loop can be drawn the pencil is hard; "for the horse and the
+  bacterium I drew no loop... The man of 2012 was right about half of my evenings, and I answered him about the other
+  half."
+- **Oleg as inspector, first**: about a hundred and forty questions in the notebook, thirty-three asked, every one
+  ticked: "A feeder that pays out every single time." Andrey: a batch with no rejects means a broken gauge;
+  **"Thirty-three out of thirty-three is not a result. It is a symptom"**; "you chose the questions... But I chose
+  the road from each... Adler knew his." The ticks count turns managed, not turns that were right. **The shorter
+  count**: the evenings that came out against Andrey (the oxygen of 13, the dinosaurs of 07, merging, the language
+  of 02, "Darwin plus Lamarck", the only handle on a setpoint, the sentence of 2012: "Seven. Ten with the small
+  ones"), "in the details. Not one in the main thing": either the main thing is right, or it is where the heavy image
+  lies; "from inside I cannot tell the two apart".
+- **Oleg as inspector, second, and the continuation's open disagreement with the author**: "anthropocentrist" works
+  like the Viennese doctors' "complex" (the author's forum line of May 2011, quoted). **Conceded**: "As an argument
+  there is none... I used it that way. On the forum, in the blog, at this fire." Kept as a pointer to where to check:
+  the test of 50, "take the man out of the centre of the sentence and count again"; "a label is not an argument,
+  whoever sticks it on". **Oleg's sixth tick of his own, the second whole one, in ink.**
+- **The six prohibitions** (a clean page; Oleg writes the heading and does not show it), each with the needle of
+  2026 and Oleg's objection:
+  1. Labour's share of world income rises ten years in a row while the machines grow. **The needle is against
+     Andrey**: 54.0 (2004), 53.1 (2019), 52.1 (2022), 52.7 (2025), "three years in a row"; the mark of 27 (below 51.5%
+     by 2031) is named as being moved against; the series is recounted every year (2024 was 52.4 in the autumn and
+     reads 52.5 now), "the judge is the row as it is printed in the year of the check"; the longest runs found in a
+     large country are five years (Brazil to 2015, India to 2020). Earliest check: the figure for 2032.
+  2. The birth rate of the rich countries returns above 2.1 and holds ten years, with no coercion (Romania 1966: 1.9
+     to 3.7 in a year, down again in the seventies). OECD about 1.5. **Israel is named as an exception that 26 left
+     out and Andrey's arithmetic does not explain** (its explanation is left out "by the rule of this fire"); Korea
+     0.72, 0.75, 0.80: "two years up... Write it"; **Oleg's Kazakhstan** (1.9 in 1999, above the line since 2004,
+     nearly three now): "the nearest thing to a counterexample... I had been saying 'nowhere'. I may no longer say
+     'nowhere'"; Sweden and America held two years each. "Who is rich, you decide on the day of the check."
+  3. The age of a first discovery falls, teams thin, the authors are people (the mark of 53, autumn 2041).
+  4. Machines stay below a man for fifteen years more while computing grows. Oleg: "That is rubber." Made "of wood":
+     in the autumn of 2041 an ordinary office cannot get through a month of its ordinary work at the screens without
+     one person; computing 4–5 times a year, about 700 billion dollars from four companies in 2026.
+  5. A large country gives up a productivity-raising technology for long and of its own will, and the others follow.
+     The Ming fleet (last voyage back in 1433), Japan's closed ports (1630s to 1853; the claim that it gave up the gun
+     is called disputed): "A country can... The prohibition is in the last four words"; the four ships of 8 July
+     1853. **This is the rest of the answer to "to bargain" (52, 65)**: "not a thing to argue about at a fire. It is
+     the fifth line"; the mark of 28 stands on it; the line itself has no date.
+  6. People with an improved brain overtake pure machines in open work (about 11 bits a second by implant, announced
+     by the maker, against about 10 for a healthy man's behaviour); autumn 2041.
+- **The doors.** Oleg: every line has a clause ("while the machines go on growing", "with no coercion", "of its own
+  will", "in open work"). Andrey: what the followers of "the theory with the newspapers" did; "I shall want to. So the
+  doors are not mine to open. Each clause is judged by the one who holds the notebook, on the day of the check"; "It
+  is your book of dreams... I am asking you to keep on me the same notebook that you keep on your pillow."
+- **Under the line, outside the list**: global determinism ("I looked for an outcome that it forbids, for sixteen
+  years, and I have none... it is not knowledge. It is a way of keeping the books... I may not put it on the scales");
+  the premise that the heir is a life (05); "everything has a mind to some degree" ("how I use a word").
+- **The author's 15%** (the comments under 14): about the dates "the answer has come, and it was not fifteen"; about
+  the direction the feeling is the same, "and that it has not moved in fifteen years speaks against me"; "do not
+  write the figure down. Write the six."
+- **The pair to 15**: the weakest place named there (that a man had understood it) is still unexplained, "but I named
+  the wrong place. The weakest place was that it could not lose"; the forum of May 2011 ("help me find the error"):
+  "A man who asks to be shown his error and does not say what would count as one is asking to be consoled. Now there
+  is a page."
+- **The recap is read by Oleg** ("It is my line tonight"); three theses. Strengths: solid (Popper's own text; the
+  plates "from an encyclopedia"; the figures "as they are printed in 2026: both will be recounted"); the author's
+  (the cistern, the fifteen per cent, "help me find the error"); today's (the sorting, "take a tenth off"; the six
+  lines; the weakest place); Oleg's (the label, the feeder with no rejects, Kazakhstan, the doors). **What would
+  refute it**: any line of the six; and "if in fifteen years all six stand, and you find that I can explain it
+  whichever way each of them had gone. Then the list was six more nails."
+- **No thirty-fourth tick**: "Came with a hammer and an egg... Came out with six things that I have to watch for
+  fifteen years. No tick. Tonight you came out at me." The closing exchange is turned: "Gloomy. — No. For the first
+  time in sixteen years, no. A thing that can lose is more cheerful than a thing that cannot."
+- **The end of the cycle.** Nobody says the forbidden word; Andrey never said it all summer ("I read it with my
+  mouth shut"). The egg was boiled; half goes to Gaika. Nobody says goodbye; the firewood "will lie until the needles
+  move". The last two lines are the plan's: "So you need me. — Without you it would be a sermon."
+- The footer says that the verdict on the author's quotations is the continuation's and is said against him, that
+  the sorting was done by the one who wrote the evenings, and declares an interest in lines four and six.
+
+**Images and devices used**: the hammer, the board, the nail, the screw and the egg; the twenty-seventh dream (the
+pigeon as examiner, a blank ticket, "excellent"); the box, "Empty"; the coin at two kilometres; the kettle and the
+quarter of an hour; the cistern with its float and valve; the batch with no rejects; the gauge that never moves; rubber
+and wood; the little doors of technical conditions; the notebook kept on the pillow; the line drawn under the six; the
+heading that Oleg does not show; the boiled egg.
+
+**Facts used**. **Checked on the day of writing (28 November 2026) by a research pass**. Read in the source: Popper,
+"Science: Conjectures and Refutations" (lecture of 1953; the text at bertie.ccsu.edu, headed 1957): all quotations
+of the evening; ILOSTAT, SDG indicator 10.4.1, World, pulled from the ILO API (2004 54.0; 2019 53.1; 2022 52.1; 2023
+52.2; 2024 52.5; 2025 52.7; the latest years are modelled estimates, and the vintage differs from the one used in
+27; Brazil 2010–2015 and India 2015–2020 as the longest runs among the countries looked at); World Bank
+SP.DYN.TFRT.IN (OECD members 1.48 in 2024; Korea 0.72 and 0.75; Israel 2.87 in 2024; Kazakhstan 1.90 in 1999–2000,
+above 2.1 from 2004, 2.98 in 2024; Sweden 2.13 and 2.11 in 1990–1991; the United States 2.11 and 2.12 in 2006–2007);
+Epoch AI (training compute of frontier models 4–5 times a year). **Secondary**: the eclipse (Wikipedia: 29 May 1919,
+Príncipe and Sobral, 1.75″ against half, announced 6 November 1919; the figure 0.87″ in the first figure is half of
+1.75 and is from memory); Decree 770 (Wikipedia); Korea's 0.80 for 2025 (press); the Ming voyages and sakoku
+(Wikipedia; Perrin's *Giving Up the Gun* is disputed and is not named); Perry's four ships on 8 July 1853 (that two
+were steamers is from the writer's memory); the implant figure of 11.32 bits a second (a company statement of
+October 2026, not peer-reviewed); Zheng and Meister (2025), about 10 bits a second, from the abstract; about 700
+billion dollars of capital spending by four companies in 2026 (press). **From the writer's memory**: that "he has
+not even seen the child" is Popper's own phrase; that Kazakhstan is not a high-income country by the World Bank's
+classification. **Computed**: 1.75″ is a coin of 2 cm at about 2.4 km. The author's sources: the forum, May 2011
+(«Все, кто спорил, оставались антропоцентристами…»; «Мне тоже не хочется, чтобы я оказался прав. Ну так помогите
+найти ошибку»); the comments under 14 («на уровне ощущений… примерно в 15%. Мои оппоненты — в 99%»); the SETI-talk
+comments («Однотипные обратные связи порождают однотипные математические зависимости…», the cistern and the
+amplifier). Invented for the frame: the dream, the fitter Petrov, the hundred and forty questions, the great-nephew's
+search. Not used: Popper on astrology; Maslow and Kaplan by name; Skinner's figures (39 has them); the Ottoman
+printing press (the "ban" is disputed); the speech implants (42 has them); the machine proof of 60; the fourth
+reason for the silence (62), which stays in pencil; the outcome of Oleg's court.
+
+**Figures**: `what-each-theory-forbade` (Vienna and the island, 1919; the third man on the left is the figure's
+addition), `thirty-three-ticks-sorted` (the grid of the evenings by pencil), `what-must-not-happen` (the page of six
+prohibitions with the needle of 2026).
+
+**Left for later**: everything → 67 (the check of about 2028): the six prohibitions beside the marks of 27–30, 53,
+60, 61 and 64; **the labour-share mark of 27 is at risk and must be faced first** (the share rose in 2023–2025 in the
+vintage of 2026); Israel is an unexplained exception to 26; Kazakhstan; whether the clauses were used as doors (Oleg
+judges); the dream notebook, still to be counted "in a year" (27 entries, no calls); Oleg's four half ticks in
+pencil and two whole ones in ink; the fourth reason for the silence, in pencil; the letter box. The series stays open:
+"until the needles move".
